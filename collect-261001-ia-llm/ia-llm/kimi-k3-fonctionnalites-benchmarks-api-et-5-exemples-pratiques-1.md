@@ -42,7 +42,7 @@ Ce tutoriel se concentre sur l'API brute et l'application web, mais l'agent en l
 K3 ne remplace toutefois pas ses aînés. Le tableau ci-dessous montre comment se répartit la gamme actuelle.
 
 | **Modèle** | **Fenêtre de contexte** | **Idéal pour** | 
-| `kimi-k3` | 1 48 576 jetons | Travaux phares : long codage, vision, connaissances | 
+| `kimi-k3` | 1 048 576 jetons | Travaux phares : long codage, vision, connaissances | 
 | `kimi-k2.7-code` | 262 144 jetons | Codage dédié, avec une option haute vitesse plus rapide | 
 | `kimi-k2.6` | 262 144 jetons | Conversation générale texte, image et vidéo | 
 

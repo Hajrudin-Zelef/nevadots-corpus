@@ -1,0 +1,4 @@
+I have Routerboard 951Ui-2HnD and I am using it to merge/combine two internet lines wan1 and wan2 and it's working fine but I am facing a problem when I am trying to connect to any FTP server or cPanel ( i am a web developer ) because of the 2 IPs it's forces me to logout every 15 seconds as security measure.
+I need to force any FTP ( port 21 ) connection to be using a single wan ( let's say wan1 ) and some wild card websites to do the same. for example I want any SSL ( port 443 ) connection to *.siteground.com use single wan also.
+I hope I explained the problem correctly as I searched for days and I can't find anything ... and I assume I am searching wrong.
+Thanks for your time guys. Regards, Nabeel

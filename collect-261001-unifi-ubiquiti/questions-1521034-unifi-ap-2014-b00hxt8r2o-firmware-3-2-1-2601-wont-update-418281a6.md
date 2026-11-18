@@ -1,0 +1,3 @@
+Is there any hope for me logging into this access point and updating its firmware? I have successfully added it to my Unifi Controller v 5.12.35, but I cannot update its settings without a firmware update. I have tried to apply firmware updates through the Controller software update settings following these instructions: https://community.ui.com/questions/UniFi-AP-running-firmware-version-3-2-1-2601-will-not-upgrade/632c79f3-07a2-4b4e-b357-2a4726254e79?page=1
+Is there another way to log into the router directly and update the firmware? ...or just more directly update its SSID and other basic settings?
+OK, I know this post is 6 years too late, but any help is appreciated.

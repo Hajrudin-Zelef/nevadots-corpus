@@ -1,0 +1,1 @@
+Before controlling the receiving and advertisement of BGP routes, configure routing policies or filters of routing policies for route selection. For details, see "Routing Policy Configuration" in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration Guide - IP Routing.

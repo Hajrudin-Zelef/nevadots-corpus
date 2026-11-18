@@ -1,0 +1,2 @@
+FortiGate DHCP works with DDNS to allow FQDN connectivity to leased IP addresses
+As clients are assigned IP addresses, they send back information that would be found in an A record to the FortiGate DHCP server, which can take this information and pass it back to a corporate DNS server so that even devices using leased IP address can be reached using FQDNs. You can configure the settings for this feature using the ddns-update CLI command and some other DDNS related options. Please refer to DDNS update override in the DDNS  topic for further details.

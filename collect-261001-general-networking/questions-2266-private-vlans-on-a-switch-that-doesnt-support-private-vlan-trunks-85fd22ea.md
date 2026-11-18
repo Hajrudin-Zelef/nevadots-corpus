@@ -1,0 +1,3 @@
+I have a Catalyst switch that doesn't support PVLAN trunks (Sup4, 4500, 12.2(54)S). I have multiple other Catalyst switches, 3750 metro, that do.
+Am I correct in assuming that because the C4500 does not support PVLAN trunks with that Supervisor, that a normal trunk port would not work for the 3750s to share a private VLAN with the 4500?
+The desired scenario is that the 4500 hosts primary VLAN 500 and isolated vlans 501,502 with 501,502 residing on other 3750s in the network. I assume that in order to achieve the desired config, I have to have the 3750 promiscuous ports connected to access ports on the 4500. Is this correct?

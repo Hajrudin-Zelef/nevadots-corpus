@@ -1,0 +1,9 @@
+This can be translated almost directly to firewall rules:
+/ip firewall filter {
+- allow from PC-2 to LAN: add chain=forward src-address=<PC2_IP> dst-address=<LAN_SUBNET> action=accept
+- deny from PC-2 to everywhere else:  add chain=forward src-address=<PC2_IP> action=reject
+Which can also be combined:
+}
+Here <LAN_SUBNET> should be the prefix you want to allow, e.g. 192.168.88.0/24 for the IPv4 rule, or 2001:db8:abcd:0::/64 for IPv6.
+The rule checking goes from top to bottom until first match, so make sure the rule goes after "allow established" but before any "allow  everything" rules you might have.
+Note: Within the same subnet, access will always be allowed, as communications only go through the built-in switch and don't reach the OS. (Although RouterOS allows overriding that if necessary – under /interface ethernet switch rule, you can find an option to redirect packets from PC-2 to the OS as well. However, it's generally best to assume that intra-subnet traffic is unfiltered.)

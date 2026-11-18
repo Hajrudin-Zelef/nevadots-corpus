@@ -1,0 +1,3 @@
+I have a MikroTik router running RouterOS. I’d like to keep a database full of documents of currently connected/previously connected hosts. Instead of probing the router for currently connected hosts at an interval of ‘x’, I’d like to just write a script to listen for an event where a host connects/disconnects & have the router provide the data for currently connected hosts then.
+Is this something easily done, where there is such an event already integrated into the router? If not, do you have any recommendations of research/steps I should take to create such a solution?
+Thank you very much, Austin

@@ -1,0 +1,303 @@
+{
+  "corpus": "etape6-trackd-firewalls",
+  "title": "Step 6 — Track D : FortiGate + pfSense + OPNsense (pare-feu & sécurité réseau)",
+  "source": "docs/RAG/etape6_trackD_firewalls.md",
+  "source_lines": 295,
+  "source_sha256": "d2ed6bd56b54dceb4b68f102c0bbc8ea709b13134d5b6d9c6d74b8e63d7d97b2",
+  "chunk_count": 7,
+  "generated_by": "RAG/_tools/build_rag.py",
+  "chunks": [
+    {
+      "id": "etape6-trackd-firewalls/00-firewalls/overview",
+      "path": "etape6-trackd-firewalls/00-firewalls/overview.md",
+      "title": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)",
+      "domain": "step-6-track-d-fortigate-pfsense-opnsense-firewalls-network-",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Apple",
+        "Intel"
+      ],
+      "dates": [
+        "2026-02-01",
+        "2026-03-10",
+        "2026-05-06",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-09-22"
+      ],
+      "keywords": [
+        "advisory",
+        "agent",
+        "agents",
+        "asic",
+        "benchmarks",
+        "chiplet",
+        "cybersecurity",
+        "disaggregated",
+        "foundry",
+        "governance",
+        "intel",
+        "latency"
+      ],
+      "source": "docs/RAG/etape6_trackD_firewalls.md",
+      "source_anchor": "",
+      "source_lines": [
+        1,
+        58
+      ],
+      "canonical_for": [],
+      "words": 857,
+      "bytes": 7654,
+      "sha256": "dc39f9a46ba90d7a54c84bdbf970f7cfa87f730e0339c08f0b15e593411837b8",
+      "section": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)"
+    },
+    {
+      "id": "etape6-trackd-firewalls/00-firewalls/1-6-vulnerabilities-and-advisories-2026",
+      "path": "etape6-trackd-firewalls/00-firewalls/1-6-vulnerabilities-and-advisories-2026.md",
+      "title": "1.6 Vulnerabilities and advisories 2026",
+      "domain": "step-6-track-d-fortigate-pfsense-opnsense-firewalls-network-",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Apple",
+        "CISA",
+        "Intel",
+        "Nvidia"
+      ],
+      "dates": [
+        "2025-12",
+        "2026-01",
+        "2026-01-15",
+        "2026-01-22",
+        "2026-06",
+        "2026-09",
+        "2026-09-17"
+      ],
+      "keywords": [
+        "agents",
+        "cybersecurity",
+        "exploit",
+        "intel",
+        "nvidia",
+        "research",
+        "zero-day"
+      ],
+      "source": "docs/RAG/etape6_trackD_firewalls.md",
+      "source_anchor": "",
+      "source_lines": [
+        59,
+        85
+      ],
+      "canonical_for": [],
+      "words": 518,
+      "bytes": 4940,
+      "sha256": "e37379ee612ca893c0361f340fa969d3fa4df2bb2a9bfdeb37a5dec85c8b18db",
+      "section": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)"
+    },
+    {
+      "id": "etape6-trackd-firewalls/00-firewalls/2-pfsense-netgate",
+      "path": "etape6-trackd-firewalls/00-firewalls/2-pfsense-netgate.md",
+      "title": "2. pfSense (Netgate)",
+      "domain": "step-6-track-d-fortigate-pfsense-opnsense-firewalls-network-",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "AWS"
+      ],
+      "dates": [
+        "2026-01",
+        "2026-01-26",
+        "2026-01-28",
+        "2026-01-29",
+        "2026-04-01",
+        "2026-05-27",
+        "2026-06-15",
+        "2026-07",
+        "2026-07-01",
+        "2026-07-15",
+        "2026-08-13"
+      ],
+      "keywords": [
+        "aws",
+        "license",
+        "pricing",
+        "research",
+        "throughput"
+      ],
+      "source": "docs/RAG/etape6_trackD_firewalls.md",
+      "source_anchor": "",
+      "source_lines": [
+        86,
+        138
+      ],
+      "canonical_for": [],
+      "words": 752,
+      "bytes": 6274,
+      "sha256": "e3c210ebe1a5c47355b53001aed12de92e76f7aebf03712299388af32470b38f",
+      "section": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)"
+    },
+    {
+      "id": "etape6-trackd-firewalls/00-firewalls/3-4-opnsense-business-edition-deciso-commercial",
+      "path": "etape6-trackd-firewalls/00-firewalls/3-4-opnsense-business-edition-deciso-commercial.md",
+      "title": "3.4 OPNsense Business Edition (Deciso commercial)",
+      "domain": "step-6-track-d-fortigate-pfsense-opnsense-firewalls-network-",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Microsoft"
+      ],
+      "dates": [
+        "2026-01-15",
+        "2026-04-17",
+        "2026-06-16",
+        "2026-07-15"
+      ],
+      "keywords": [
+        "research"
+      ],
+      "source": "docs/RAG/etape6_trackD_firewalls.md",
+      "source_anchor": "",
+      "source_lines": [
+        139,
+        162
+      ],
+      "canonical_for": [],
+      "words": 407,
+      "bytes": 3839,
+      "sha256": "27abba3b48e608732ad23adcf0e873970dd94c5905c93eb4e48d64c378331703",
+      "section": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)"
+    },
+    {
+      "id": "etape6-trackd-firewalls/00-firewalls/4-firewall-network-security-market-2026",
+      "path": "etape6-trackd-firewalls/00-firewalls/4-firewall-network-security-market-2026.md",
+      "title": "4. Firewall / network-security market 2026",
+      "domain": "step-6-track-d-fortigate-pfsense-opnsense-firewalls-network-",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Apple",
+        "CISA",
+        "Intel",
+        "Microsoft"
+      ],
+      "dates": [
+        "2025-08"
+      ],
+      "keywords": [
+        "advisory",
+        "cybersecurity",
+        "exploit",
+        "foundry",
+        "intel",
+        "latency",
+        "pricing",
+        "research",
+        "sovereignty",
+        "throughput",
+        "zero-day"
+      ],
+      "source": "docs/RAG/etape6_trackD_firewalls.md",
+      "source_anchor": "",
+      "source_lines": [
+        163,
+        209
+      ],
+      "canonical_for": [],
+      "words": 774,
+      "bytes": 6300,
+      "sha256": "a2661d8658d2a995f7ee9c4d8f328dbfda5da87b3dd944411131ae2277f9ae50",
+      "section": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)"
+    },
+    {
+      "id": "etape6-trackd-firewalls/00-firewalls/8-collection-metadata",
+      "path": "etape6-trackd-firewalls/00-firewalls/8-collection-metadata.md",
+      "title": "8. Collection metadata",
+      "domain": "step-6-track-d-fortigate-pfsense-opnsense-firewalls-network-",
+      "role": "deep-dive",
+      "task": "actor-profile",
+      "actors": [
+        "Anthropic",
+        "Apple",
+        "Glasswing",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "dates": [
+        "2026-04",
+        "2026-05-06",
+        "2026-06-03",
+        "2026-06-16",
+        "2026-07",
+        "2026-09-22"
+      ],
+      "keywords": [
+        "advisory",
+        "agent",
+        "agentic",
+        "agents",
+        "cyber",
+        "cybersecurity",
+        "exploit",
+        "mcp",
+        "model context protocol",
+        "research",
+        "revenue",
+        "throughput"
+      ],
+      "source": "docs/RAG/etape6_trackD_firewalls.md",
+      "source_anchor": "",
+      "source_lines": [
+        210,
+        263
+      ],
+      "canonical_for": [],
+      "words": 743,
+      "bytes": 7899,
+      "sha256": "9d3199f2da62da87756802b9e82b431a568ad9d5c3525f1274b66c7b155d1292",
+      "section": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)"
+    },
+    {
+      "id": "etape6-trackd-firewalls/00-firewalls/9-8-opnsense-additional-confirmations",
+      "path": "etape6-trackd-firewalls/00-firewalls/9-8-opnsense-additional-confirmations.md",
+      "title": "9.8 OPNsense additional confirmations",
+      "domain": "step-6-track-d-fortigate-pfsense-opnsense-firewalls-network-",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "AWS",
+        "United States"
+      ],
+      "dates": [
+        "2026-06-30",
+        "2026-07-15",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-09-18",
+        "2026-09-22"
+      ],
+      "keywords": [
+        "advisory",
+        "aws",
+        "cybersecurity",
+        "licenses",
+        "mcp",
+        "pricing",
+        "research",
+        "throughput",
+        "valuation"
+      ],
+      "source": "docs/RAG/etape6_trackD_firewalls.md",
+      "source_anchor": "",
+      "source_lines": [
+        264,
+        295
+      ],
+      "canonical_for": [],
+      "words": 512,
+      "bytes": 4553,
+      "sha256": "fe6a47fa3b9041aec0890a7bb65dd8b4e823602088f94411e26865c44e83e83b",
+      "section": "Step 6 — Track D: FortiGate + pfSense + OPNsense (Firewalls & Network Security)"
+    }
+  ]
+}

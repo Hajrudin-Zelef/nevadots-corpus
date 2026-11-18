@@ -1,0 +1,3 @@
+We have an application that uses a MiktroTik router without any uplink. It's an internal network. A computer (aka web-server) connects to the router and users connect with the Wifi from the router and login via Chrome / Safari on the server.
+When users are connecting to the router they get a message that there is no internet available.
+Does anyone know how Apple and Android determine that there is no internet? And how you can spoof this that the user devices 'thinks' that there is an internet connection?

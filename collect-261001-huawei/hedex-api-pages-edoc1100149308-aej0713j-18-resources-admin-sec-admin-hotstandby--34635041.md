@@ -1,0 +1,2 @@
+This section provides a web example of configuring hot standby in load balancing mode in which the service interfaces of the firewalls work at Layer 3 and connect to routers in upstream and downstream directions.
+This section provides a CLI example for configuring hot standby networking (in load balancing mode) in which service interfaces work at Layer 3 and connect to routers in the upstream and downstream directions.

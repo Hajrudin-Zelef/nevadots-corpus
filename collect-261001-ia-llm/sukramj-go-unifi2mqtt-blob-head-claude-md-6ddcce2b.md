@@ -1,0 +1,200 @@
+go-unifi2mqtt is a pure-Go daemon that bridges a local UniFi Network installation (UDM / UDM-Pro / UDR / UCG / UX / UniFi OS Server, or a standalone software controller) to an MQTT broker, with optional Home Assistant MQTT auto-discovery.
+It polls the console's official Network Integration API
+(/proxy/network/integration/v1, API-key authenticated) for sites,
+devices, per-device statistics and clients, and — where that API has
+gaps — an optional classic controller API client
+(/proxy/network/api/s/<site>/, cookie session) for site health, client
+blocking and WLAN toggles. Values are published as MQTT topics plus HA
+discovery payloads; inbound HA commands (restart device, power-cycle a
+PoE port, block a client, …) are written back to the console.
+Read CONCEPT.md before touching anything — it is
+the implementation concept: API strategy, package layout, MQTT topic
+tree, HA entity model, client filtering, polling design and the phased
+roadmap. 1.0.0 is released (phases 0–8): the daemon polls the
+console, publishes devices, ports, radios, the WLAN catalogue, filtered
+clients with presence detection and — with the optional classic layer —
+site health, per-client SSID/signal and PoE wattage, announces all of it
+to Home Assistant, accepts write-back commands, and serves a diagnostic
+web UI. Only the optional WebSocket accelerator (phase 9) remains.
+- Language: Go 1.26+ (see go.mod / CIGO_VERSION ).
+- Module path: github.com/SukramJ/go-unifi2mqtt .
+- License: MIT. Every Go source file starts with:
+Note this differs from the sibling project// SPDX-License-Identifier: MIT // Copyright (C) 2026 SukramJ go-mtec2mqtt , which is
+LGPL-3.0-or-later because it derives from Christian Rödel'sMTECmqtt . Do not copy LGPL headers from there into this repo.
+- Deployment: one static binary (CGO_ENABLED=0 ), theunifi2mqtt daemon. Also ships as a Docker image (distroless runtime) and a Home
+Assistant add-on (addon/ ).
+- Dependencies are deliberately minimal: golang.org/x/sync (errgroup),gopkg.in/yaml.v3 , andgithub.com/SukramJ/go-mqtt (the shared MQTT client, MIT — MQTT 5.0 by default, 3.1.1 selectable
+viaTCPConfig.ProtocolVersion ). The UniFi API clients are
+hand-rolled onnet/http — no third-party UniFi SDK.
+- Config: YAML (config-template.yaml is the annotated reference),
+overridable per-key viaUNIFI_<KEY> env vars. Loaded from--config , then$XDG_CONFIG_HOME/unifi2mqtt/config.yaml (or$APPDATA on Windows), then~/.config/unifi2mqtt/config.yaml .
+cmd/unifi2mqtt/          daemon entry point (main.go)
+internal/config/         YAML loader + UNIFI_* env overlay + validation
+internal/unifi/          shared HTTP transport: TLS, auth, retry, rate limiting
+internal/unifi/integration/  official Network Integration API v1 client
+internal/unifi/classic/  classic controller API client (cookie session + CSRF)
+internal/model/          API-neutral domain types (Site, Device, Client, Health)
+internal/coordinator/    orchestration: poll loops, command queue, reconcile
+internal/hass/           Home Assistant discovery payload builder
+internal/state/          thread-safe live-value cache shared with the web UI
+internal/web/            optional diagnostic web UI / HA add-on Ingress panel
+internal/version/        build-info package (Version/Commit/BuildDate, ldflags)
+addon/                   Home Assistant add-on packaging (Dockerfile, config.yaml, DOCS.md)
+script/                  run.sh (add-on entrypoint), capture-fixtures.sh, extract-release-notes.sh
+config-template.yaml     annotated reference config
+CONCEPT.md               implementation concept — the design source of truth
+.github/workflows/       ci.yml, docker-build-push.yml, addon-image.yml, release-on-tag.yml, codeql.yml, dependabot-auto-merge.yml
+Every package above exists as of phase 7.
+The MQTT transport is not part of this tree: it comes from the external
+github.com/SukramJ/go-mqtt module as a regular go.mod dependency,
+not an internal/ package.
+All defined in the Makefile (make help lists them):
+make build          # build the daemon into bin/
+make run            # build then run against ./config.yaml
+make test           # go test -race -count=1 -timeout=60s ./... (CGO_ENABLED=1 for race detector)
+make test-cover     # tests + coverage report (coverage.out)
+make vet            # go vet ./...
+make fmt            # gofumpt -w . && goimports -w -local <module> .
+make fmt-check      # fail if gofumpt would rewrite anything (CI gate)
+make lint           # golangci-lint run ./...
+make vuln           # govulncheck ./...
+make licenses       # go-licenses check, forbids GPL/AGPL/LGPL(reciprocal)/MPL deps
+make check          # vet + fmt-check + lint + test — the pre-commit/pre-push gate
+make docker         # build a tagged container image
+make release        # cross-compile linux/amd64, linux/arm64, darwin/arm64 archives into dist/
+make setup          # install gofumpt/goimports/golangci-lint/govulncheck/go-licenses + git hooks
+make tidy           # go mod tidy
+make clean          # remove bin/, dist/, coverage.out
+Run a single package's tests directly with go test ./internal/unifi/...
+etc. — no special test runner beyond go test.
+- License header on every .go file:SPDX-License-Identifier: MIT  - Copyright (C) 2026 SukramJ .
+- No CGo in the default build (CGO_ENABLED=0 ); CGo is only
+re-enabled transiently in CI/Makefile to get the race detector duringmake test .
+- golangci-lint v2 config (.golangci.yaml ) enables:bodyclose ,contextcheck ,copyloopvar ,errcheck ,errorlint ,exhaustive ,gocritic ,gosec ,govet ,intrange ,makezero ,nilerr ,noctx ,prealloc ,reassign ,revive ,sloglint ,staticcheck ,thelper ,tparallel ,unconvert ,unparam ,unused ,usestdlibvars ,wastedassign .
+- Formatting: gofumpt (stricter gofmt) +goimports -local github.com/SukramJ/go-unifi2mqtt for import grouping.
+- Structured logging: log/slog (enforced bysloglint ).
+- Package layout mirrors the data flow: config → unifi → model →
+coordinator → mqtt/hass/web, each as its own internal/ package with
+colocated_test.go files.
+- Never log secrets. The API key, the classic password and the MQTT
+password must not reach a log line, an error message, the web UI or an
+MQTT payload. Redact them in any String() /diagnostic output.
+- HTTP correctness is tested against golden fixtures: UniFi API
+responses live as JSON under internal/unifi/integration/testdata/ and are replayed viahttptest.Server , so the decoders are anchored
+without a live console.script/capture-fixtures.sh replaces them
+with redacted output from a real console; see the testdata README for
+the provenance rules.
+- Dependency licensing is enforced by tooling, not just policy —
+make licenses (go-licenses check --disallowed_types=forbidden, restricted,reciprocal ) blocks GPL/AGPL/LGPL/MPL-style dependencies
+from entering the tree.
+- Git hooks: make setup (ormake hooks ) pointscore.hooksPath at.githooks/ , which blocks direct commits onmain /master .
+- Commit style: Conventional Commits with a scope, e.g.
+feat(unifi): add integration API device client ,fix(addon): ... ,chore(deps): ... .
+- Release bookkeeping — four files move together. A version bump
+touches internal/version/version.go ,addon/config.yaml and theBUILD_VERSION default inaddon/Dockerfile , and
+everychangelog.md entry must ALWAYS be mirrored intoaddon/CHANGELOG.md (the file Home Assistant renders in the add-on
+UI's Changelog tab) — keep the two changelog files identical.
+- CI (.github/workflows/ci.yml ) runs three jobs:lint (go vet +
+gofumpt check),test (matrix across ubuntu/macos/windows with the
+race detector),build (compiles the binary and checks the--version banner). Separate workflows publish the Docker image, the
+HA add-on image, and run CodeQL + Dependabot auto-merge.
+- List endpoints are not detail endpoints. GET /networks omits the
+subnets andGET /devices omitsuplink /interfaces . Both fan out a
+per-object detail call. Collapsing that back would compile, pass a
+naive test, and silently lose VLAN mapping and the device topology.
+- Publish default_entity_id . It is the only entity_id seed Home
+Assistant still reads. Without a seed, HA derives the entity_id from
+the localisedname — which is how German entity_ids appear in a
+de-configured install.object_id is not published: the MQTT
+discovery schemas areextra=REMOVE_EXTRA and accept it on 0 of 32
+platforms (HA 2026.9), so it is dropped on arrival, silently.
+- The add-on has four files that must agree about its options:
+config.yaml options,config.yaml schema,translations/{en,de}.yaml andscript/run.sh . Each disagreement fails differently and quietly;internal/config/addon_test.go checks all four.
+- Topic suffixes are an API. Every key in internal/coordinator/topics.go doubles as the Home Assistant entity key and the translation-table
+lookup. Renaming one orphans the entity and its history in every
+existing installation. The same goes forunique_id anddefault_entity_id ininternal/hass —TestIdentifiersAreStable pins the exact strings.
+- The MQTT command handler must never block. It runs inline in the client's read loop, the same goroutine that decodes acknowledgements and feeds the keep-alive watchdog. It parses and enqueues, nothing else — anything slower makes the watchdog declare a healthy connection dead.
+- Retained commands are replays, not requests. The broker
+re-delivers the last retained message per filter on every reconnect. A
+stale mosquitto_pub -r would otherwise power-cycle a real port on
+every daemon start.
+- Never publish optimistic state. After a command the affected object is re-polled and the state comes from the console, so a failed command snaps the Home Assistant entity back instead of lying.
+- A classic-layer failure must degrade, never propagate. The facade
+switches the affected capability off and the official path keeps
+running. internal/unifi/facade_test.go pins this; breaking it turns
+"site health is missing" into "the bridge is down".
+- The classic API reports errors in the body, at HTTP 200. An
+expired session arrives as meta.rc = "error" with a 200 status. A
+client checking only status codes decodes an empty data array and
+treats a logged-out session as "the site has no clients" — forever.
+- Web assets must use relative references. The Home Assistant
+Ingress proxy serves the page under a generated path prefix; an
+absolute /app.css or/api/state escapes it and 404s.TestAssetReferencesAreRelative pins this.
+- Never interpolate console values as HTML. A device named
+<img onerror=…> is a legal UniFi name. The UI builds text nodes
+only, and a test rejectsinnerHTML outright.
+- Ownership of a retained config is recorded, not inferred. The
+startup reconcile may retract a discovery config only if this
+process published that exact topic since it started — a grow-only
+claim list (hass.Claims ), which a retraction does not undo. The
+payload check (unique_id prefix and the bridge availability
+topic) survives as the shape half and is documented as never again
+sufficient on its own: two UniFi consoles bridged to one broker emit
+byte-identical config topics,unique_id s, availability topics and
+state topics for the whole site plane, so no predicate over a payload
+can separate them and "looks like mine" deletes the neighbour's
+entities. The stated cost is that a config left by an earlier run
+is no longer cleared either; it is logged once ascoordinator.reconcile_unclaimed with the remedy.
+- Discovery is per-entity, and that is a decision with a condition
+attached. One retained config per entity at
+homeassistant/<platform>/<node_id>/<object_id>/config — not a
+device bundle. ADR 0070 phase 9 measured, built and proved the bundle
+path (RenderHamqtt /HamqttBundles render it and are byte-equal to
+what ships) and then declined to publish it: a bundle is one retained
+topic per device, so two consoles that cannot be told apart would
+replace each other's whole entity set rather than overwrite it key
+by key. It becomes available when this bridge has an identity that
+distinguishes two consoles without re-registering entities Home
+Assistant has already registered. Readnotes/adr0070-phase9-measurement.md 's closing section before
+reopening it — the retraction form and the new identity pull in
+opposite directions, and getting it wrong publishes a fleet with no
+entities and no error.
+- Never sweep a class whose source has not reported. An empty
+announced set means "not polled yet", not "gone".
+internal/coordinator/reconcile.go gates per class and treats a
+device poll returning zero devices as not ready — an empty list is
+usually a permission problem, and reading it as truth deletes every
+device entity with its history.
+- Never rebuild a topic in a second place. internal/hass receives
+the topic layout through theTopics interface rather than
+reconstructing it from config. Two copies drifting apart produce
+entities that stay "unavailable" forever with nothing visibly wrong in
+either package.
+- Two surfaces, one facade. internal/unifi/integration is the
+officially supported client and the default path;internal/unifi/classic is opt-in (CLASSIC_ENABLE ) and fills the
+documented gaps. The coordinator only ever sees the combined facade
+and theinternal/model types — never a raw API DTO.
+- The classic API is undocumented and can break on any controller update. Every feature it powers must degrade gracefully: if the classic client is disabled or failing, the daemon keeps running on the official surface with those entities absent, never crashing.
+- Rate limits are real. Honour 429 +Retry-After ; do not fan out
+a per-device statistics call for every device on every tick without a
+bounded worker pool.
+- _id vs MAC. The Integration API keys objects by UUID, the
+classic API by MongoDB_id , and both carry the MAC. The MAC is the
+stable cross-API identity and the basis of MQTT topics and HAunique_id s — seeCONCEPT.md for the exact rule.
+make release cross-compiles, bundles and extracts the notes; run it
+locally first, since CI runs the identical command. Two checks that are
+easy to skip and expensive to get wrong:
+- docker build . — the Dockerfile is not exercised bymake check ,
+so a broken one only surfaces when the release workflow runs.
+- The add-on option set, schema: andscript/run.sh must agree. An
+option missing fromrun.sh is silently ignored at runtime; one
+missing fromschema: makes the Supervisor reject the config.
+- CONCEPT.md is the design source of truth.
+- README.md documents the MQTT topic layout, config
+keys and quickstart paths (Docker, HA add-on, plain binary).
+- changelog.md has the release history.
+- config-template.yaml documents every
+config field inline.
+- addon/README.md andaddon/DOCS.md cover the Home Assistant add-on.
+- The sibling project go-mtec2mqtt is the structural template for this repo — reuse its coordinator /
+hass / state / web patterns, but not its LGPL headers.

@@ -1,0 +1,4 @@
+Some network services require a group of open ports, and those might not even be next to each other (by port number, I mean).
+What I'm doing still is I create a dst-nat rule for each port that should be mapped to the server, then enable/disable the rule as needed.
+In my specific case, that's a bit tedious because sometimes the ports should point to a different computer for a short period of time which means I have to manually change all the entries to the new IP each time I do this. Also, I wish I could just say "disable service x" instead of figuring out which port rules belong together.
+Is there a better and more efficient way of doing this?

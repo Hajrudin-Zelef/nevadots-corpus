@@ -1,0 +1,4 @@
+I'm having a Point To Point Device for reaching to internet. this device has valid IP address, ,and then it somehow connect to a Mikrotik router, and after that passing switches, will attach to another PC. As the ISP technesian requested i put the PPPoE on radio device, and keep it from bridging. so currently two router are serving the path to the PC.
+now, how to forward port from PC to Mikrotik Router, and Then To UBNT Device? i follow two seperate tutorial for mikrotik and ubnt, and open a port, then tried to test it with PFPortChecker, but it said the port is close. i let firewall to allow the software too.
+Please can you provide images? too, (showing the network)?
+I wanted to open Remote Desktop Port, But since i couldn't test it, i also use the port you see.

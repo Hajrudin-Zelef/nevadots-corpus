@@ -1,0 +1,4 @@
+I'm in the process of moving from a set of Aerohive AP's to Unifi AP-PRO to increase the range of our wifi. Adding more Aerohives could be a solution, but they're way more expensive and I already have good experiences with the Unifi range of AP's for both private and small businesses.
+I've set up the AP, connected it to our network, given it a static IP in the pfSense, and made sure to set it up as a client in the clients.conf for the FreeRADIUS that's running in pfSense. The old Aerohive AP's are set up with the exact same settings and shared secret and they're working just fine, but the new Unifi AP can't get access to the authentication server for some reason.
+Any good advice on what to check, or maybe an idea why?
+As far as I know there shouldn't be anything special about the UAP's?

@@ -1,0 +1,5 @@
+My router is Mikrotik RB951G-2HnD and I would like it to limit the connection speed to a particular website once some amount of traffic between the user and the website has passed. The website ip range is known, the user is set up by dhcp.
+- There is a connection-bytes switch for/ip firewall mangle rules. I could start marking packets or send users to anaddress-list based on that switch. However, I can't single out the user in this case. Every user connected to the website will contribute to reaching the threshold and then everyone will get a speed limit.
+- It looks like the User Manager package might be what I am looking for but it's not preinstalled on the router and I would like to avoid installing extra stuff if at all possible.
+- And there is RADIUS which, judging by wikipedia, is pretty hard to understand let alone install. Looks like an overkill.
+Is there a simple way to limit the speed of a particular user-to-website connection after a certain threshold has been reached? Am I missing something builtin?

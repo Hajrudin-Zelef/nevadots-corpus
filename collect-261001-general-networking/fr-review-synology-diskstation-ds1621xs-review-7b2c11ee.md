@@ -1,0 +1,66 @@
+Le Synology DiskStation DS1621xs+ a été lancé mi-septembre dernier comme une mise à jour de la gamme de NAS professionnels haut de gamme de Synology, au format de bureau. Le DS1621xs+ offre six baies pour disques 3.5 pouces, extensibles à 16 baies au total grâce à deux modules JBOD DX517 à 5 baies.
+Sous son capot se cache un processeur Intel Xeon D-1527 quadricœur cadencé à 2.2 GHz, 8 Go de mémoire DDR4 ECC SODIMM (extensible jusqu'à 32 Go) et deux baies SSD M.2 2280 NVMe pour la mise en cache. Côté connectivité, le DS1621xs+ offre plusieurs ports intégrés, dont deux ports Gigabit Ethernet et un port RJ-45 10 GbE . Pour les entreprises ayant des besoins encore plus importants, ce NAS propose également un emplacement d'extension PCIe pouvant accueillir des SSD supplémentaires, des modules réseau, ou les deux avec la carte combinée Synology.
+Bien que le DS1621xs+ utilise DiskStation Manager (DSM) comme environnement d'exploitation (en plus du système de fichiers Btrfs), sa puissance permet une meilleure évolutivité de certaines fonctionnalités avancées pour les environnements mutualisés. Synology considère ce NAS comme une solution idéale pour les entreprises souhaitant tirer parti de sa suite de services cloud, de collaboration et de virtualisation.
+Le Synology DS1621xs+ est livré avec une garantie de 5 ans et a un prix de détail suggéré de 1599.99 $, bien qu'il coûte environ 1550 $ sans accessoires au moment de cette évaluation.
+Spécifications du Synology DS1621xs +
+| Processeur | Intel Xeon D-1527 4 cœurs 2.2 GHz, Turbo Boost jusqu'à 2.7 GHz | 
+| Moteur de chiffrement matériel | Oui (AES-NI) | 
+| Mémoire | 8 Go DDR4 ECC SODIMM (extensible jusqu'à 32 Go) | 
+| Type de lecteur compatible | 6 disques durs/SSD SATA 3.5″ ou 2.5″ (disques non inclus) 2 x SSD M.2 2280 NVMe (disques non inclus) | 
+| Disque remplaçable à chaud | Oui | 
+| Port externe | 3 ports USB 3.0 2 ports eSATA | 
+| Taille (HxLxP) | 166 x 282 x 243 mm | 
+| Poids | 5.3 kg | 
+| LAN | 2 ports RJ-1 45 GbE 1 port RJ-10 45 GbE | 
+| Réveil sur LAN/WAN | Oui | 
+| Emplacement PCIe 3.0 | 1 emplacement x8 à 8 voies Prise en charge des cartes d'interface réseau hautes performances | 
+| Mise sous / hors tension programmée | Oui | 
+| Ventilateur du système | 2 (92x92x25mm) | 
+| Tension d'alimentation d'entrée CA | 100 V à 240 V CA | 
+| Fréquence de puissance | 50/60 Hz, monophasé | 
+| Température de fonctionnement | 0 ° C à 40 ° C (° F à 32 104 ° F) | 
+| La température de stockage | -20 ° C à 60 ° C (° F à -5 140 ° F) | 
+| Humidité relative | 5% à 95% RH | 
+| Altitude de fonctionnement maximale | 5,000 m (16,400 ft) | 
+Synology DS1621xs+ Conception et construction
+Le Synology DiskStation DS1621xs+ ressemble au reste des périphériques NAS au format tour de la société. Le châssis est noir mat et composé de métal et de plastique. À l'avant se trouvent les baies de lecteur de 3.5 pouces qui incluent la possibilité de verrouiller et un voyant d'état du lecteur en haut. Le haut de l'appareil de gauche à droite comporte un indicateur d'état, un indicateur d'alerte, un bouton d'alimentation et les voyants LAN. Il y a aussi un port USB 3.0 dans le coin inférieur.
+En retournant le NAS vers l'arrière, nous voyons les ventilateurs qui occupent une grande partie de l'immobilier. À gauche, se trouve le port d'alimentation et la fente de sécurité Kensington. À droite, se trouve le slot d'extension PCIe. En bas, de gauche à droite, se trouvent deux ports USB 3.0, un port RJ-10 45GbE, deux ports RJ-1 45GbE, un bouton de réinitialisation et deux ports d'extension.
+Le cache M.2 se trouve à un endroit un peu différent, à l'intérieur de l'appareil, sur le côté gauche de la baie de lecteur la plus éloignée.
+Performances du Synology DS1621xs+
+Pour nos tests, nous avons configuré le Synology DiskStation en RAID 6, en iSCSI et en SMB. Chaque test a été réalisé avec le cache SSD activé et désactivé. Nous avons utilisé un disque dur WD Red de 14 To comme disque dur principal et deux SSD Synology SNV3400 de 400 Go comme cache SSD . Il ne s'agit pas d'une comparaison des performances avec ou sans cache SSD : ce dernier offre de meilleures performances. Ces résultats reflètent les performances attendues, que l'utilisateur choisisse ou non de l'utiliser.
+Analyse synthétique de la charge de travail d'entreprise
+Notre processus de référence de stockage partagé et de disque dur d'entreprise préconditionne chaque disque dans un état stable avec la même charge de travail avec laquelle l'appareil sera testé sous une lourde charge de 16 threads avec une file d'attente exceptionnelle de 16 par thread, puis testé à intervalles définis dans plusieurs profils de profondeur de thread/file d'attente pour montrer les performances en cas d'utilisation légère et intensive. Étant donné que les disques durs atteignent très rapidement leur niveau de performance nominal, nous ne représentons graphiquement que les principales sections de chaque test.
+Tests de préconditionnement et d'état stable primaire :
+- Débit (agrégat IOPS lecture + écriture)
+- Latence moyenne (latence de lecture + écriture moyennée ensemble)
+- Latence maximale (latence maximale de lecture ou d'écriture)
+- Écart-type de latence (écart-type de lecture + écriture moyenné ensemble)
+Notre analyse de charge de travail synthétique d'entreprise comprend quatre profils basés sur des tâches réelles. Ces profils ont été développés pour faciliter la comparaison avec nos références passées ainsi qu'avec des valeurs largement publiées telles que la vitesse de lecture et d'écriture maximale de 4k et 8k 70/30, qui est couramment utilisée pour les disques d'entreprise.
+- 4K
+- 
+  - 100 % de lecture ou 100 % d'écriture
+  - 100% 4K
+- 8K 70/30
+  - 70 % de lecture, 30 % d'écriture
+  - 100% 8K
+- 8K (séquentiel)
+  - 100 % de lecture ou 100 % d'écriture
+  - 100% 8K
+- 128K (séquentiel)
+  - 100 % de lecture ou 100 % d'écriture
+  - 100% 128K
+Dans la première de nos charges de travail d'entreprise, nous avons mesuré un long échantillon de performances 4K aléatoires avec une activité d'écriture à 100 % et de lecture à 100 %. En ce qui concerne les IOPS, le Synology DiskStation DS1621xs+ a pu atteindre 4,540 1,880 IOPS en lecture et 179 1,940 IOPS en écriture en iSCSI et 98,504 IOPS en lecture et 67,453 3,425 IOPS en écriture en SMB. En activant le cache, nous avons vu les chiffres passer à 22,537 XNUMX IOPS en lecture et XNUMX XNUMX IOPS en écriture dans iSCSI et SMB nous ont donné XNUMX XNUMX IOPS en lecture et XNUMX XNUMX IOPS en écriture.
+Pour une latence moyenne de 4K, le DS1621xs+ nous a donné des scores iSCSI de 56.38 ms en lecture et 136.15 ms en écriture et des vitesses SMB de 1,426.81 131.9 ms en lecture et 2.6 ms en écriture. Avec le cache, les chiffres sont tombés à 3.8 ms en lecture et 74.7 ms en écriture pour iSCSI et 11.4 ms en lecture et XNUMX ms en écriture pour SMB.
+Avec une latence maximale de 4K, le Synology a vu 1,161.9 3,901.2 ms en lecture et 2,729 3,259 ms en écriture pour iSCSI et SMB a atteint 848.7 342.8 ms en lecture et 943 38 ms en écriture. La fonction de cache a ramené les chiffres à XNUMX ms en lecture et XNUMX ms en écriture pour iSCSI et XNUMX ms en lecture et XNUMX ms en écriture pour SMB.
+L'écart standard 4K a montré que le NAS était capable d'atteindre 61.8 ms en lecture et 210.3 ms en écriture en iSCSI et 110.9 ms en lecture et 223.5 ms en écriture en SMB. Une fois la mise en cache engagée, nous avons vu 5.5 ms de lecture et 7.2 ms d'écriture pour iSCSI et 65.9 ms de lecture et 1.3 ms d'écriture pour SMB.
+Notre prochain benchmark mesure 100 % de débit séquentiel 8K avec une charge 16T16Q dans des opérations de lecture à 100 % et d'écriture à 100 %. Ici, le Synology DiskStation DS1621xs+ a pu atteindre 99,226 50,460 IOPS en lecture et 46,162 27,612 IOPS en écriture pour iSCSI et 99,811 61,015 IOPS en lecture et 37,166 23,134 IOPS en écriture pour SMB. En tirant parti du cache, nous avons constaté une légère augmentation des performances jusqu'à XNUMX XNUMX IOPS en lecture et XNUMX XNUMX IOPS en écriture pour iSCSI. Pour SMB, nous avons vu XNUMX XNUMX IOPS en lecture et XNUMX XNUMX IOPS en écriture, une diminution dans les deux cas.
+Par rapport à la charge de travail fixe à 16 threads et 16 files d'attente maximales que nous avons effectuée lors du test d'écriture 100 % 4K, nos profils de charge de travail mixtes adaptent les performances à une large gamme de combinaisons thread/file d'attente. Dans ces tests, nous couvrons l'intensité de la charge de travail de 2 threads/2 files d'attente à 16 threads/16 files d'attente. En débit, nous avons vu iSCSI passer de 718 IOPS à 2,461 231 IOPS et SMB passer de 235 IOPS à 10,293 IOPS. Avec le cache activé, iSCSI est passé d'un minimum de 55,677 2,509 IOPS à un maximum de 1,286 XNUMX IOPS et SMB a exécuté une autre ligne stable commençant par un maximum de XNUMX XNUMX IOPS et terminant plutôt bas avec XNUMX XNUMX IOPS.
+Pour une latence moyenne 8K 70/30, nous avons vu iSCSI aller de 5.56 ms à 104 ms tandis que SMB allait de 17.05 ms à 1,093 380 ms. Une fois que le cache était sur l'iSCSI, il est tombé dans une plage de 5.88 µs à 1.59 ms. SMB s'est un peu amélioré pour atteindre une plage de 198.9 ms à un maximum de XNUMX ms.
+Les performances iSCSI à latence maximale 8K 70/30 variaient de 994 ms à 5,541 1,085 ms et SMB a vu 3,826 29.6 ms à 9,551 702.5 ms. L'activation du cache sur les chiffres dans iSCSI a mieux commencé et a vu un minimum de 1,560.5 ms mais a terminé beaucoup plus haut à XNUMX XNUMX ms. La PME avec cache a vu un minimum de XNUMX ms et un maximum de seulement XNUMX XNUMX ms.
+Pour l'écart type 8K 70/30, la configuration iSCSI allait de 24.6 ms à 258.4 ms et la plage SMB de 29.1 ms à 427.3 ms. Le cache a de nouveau connu une amélioration avec l'iSCSI allant de 520µs à 89.6ms et le SMB allant de 12.4ms à 156.9ms.
+La dernière référence de charge de travail synthétique d'entreprise est notre test 128K, qui est un test séquentiel à grands blocs qui montre la vitesse de transfert séquentielle la plus élevée pour un appareil. Dans ce scénario de charge de travail, le DS1621xs+ a pu atteindre 1.15 Go/s en lecture et 937 Mo/s en écriture en iSCSI et 1.16 Go/s en lecture et 930 Mo/s en écriture en SMB. L'activation du cache a vu la lecture iSCSI se maintenir à 1.15 Go/s et les écritures chuter à 898 Mo/s. Les PME ont connu une baisse plus importante avec une baisse de la lecture à 388 Mo/s et une baisse de l'écriture à 318 Mo/s.
+Conclusion
+Le Synology DiskStation DS1621xs+ est un NAS à 6 baies hautes performances conçu pour répondre aux besoins des petites entreprises et autres organisations qui s'attendent à ce que plusieurs utilisateurs accèdent au NAS en même temps. Le NAS peut être étendu jusqu'à 16 disques avec deux unités d'extension à 5 baies. Les autres caractéristiques matérielles incluent un processeur Intel Xeon D-1527 4 cœurs 2.2 GHz, jusqu'à 32 Go DDR4 ECC SODIMM (bien qu'avec 8 Go), deux baies SSD M.2 2280 NVMe pour la mise en cache et un port 10GbE intégré. Combinez cela avec le système d'exploitation convivial DSM, et les utilisateurs disposent d'un appareil assez puissant.
+Pour les performances, nous avons examiné les performances du disque dur avec nos disques WD Red 14 To, ainsi que les performances du cache SSD en tirant parti de nos deux SSD Synology SNV3400-400G NVMe. Lors de notre test 100K aléatoire en lecture/écriture à 4 %, le DS1621xs+ en configuration iSCSI a pu atteindre 4,540 1,880 IOPS en lecture et 56.38 136.15 IOPS en écriture avec des latences moyennes de 8 ms en lecture et 99,226 ms en écriture. La séquentielle 50,460K a vu des performances iSCSI de 128 1.15 IOPS en lecture et 937 4 IOPS en écriture. 98,504K Large Block pour iSCSI était de 67,453 Go/s en lecture et de 2.6 Mo/s en écriture. L'activation du cache a vu les résultats augmenter principalement avec 3.8K atteignant 8 99,811 IOPS en lecture et 61,015 128 IOPS en écriture avec une latence moyenne de 1.15 ms en lecture et 898 ms en écriture. Pour XNUMXK séquentiel, les chiffres sont passés à XNUMX XNUMX IOPS en lecture et XNUMX XNUMX IOPS en écriture. Et en XNUMXK, le NAS atteint XNUMX Go/s et l'écriture chute à XNUMX Mo/s.
+Avec SMB, les résultats ont été un peu plus modérés. En 4K, nous avons vu 179 IOPS en lecture et 1,940 1,426.81 IOPS en écriture avec une latence moyenne de 131.9 8 ms en lecture et 46,162 ms en écriture. Pour 27,612K séquentiel, la configuration a atteint 128 1.16 IOPS en lecture et 930 4 IOPS en écriture. En 3,425K, les PME à gros blocs avaient des vitesses de lecture de 22,537 Go/s et d'écriture de 74.7 Mo/s. L'activation du cache a vu des améliorations dans certains tests. 11.4K est passé à 8 37,166 IOPS en lecture et 23,134 128 IOPS en écriture avec une latence moyenne de 388 ms en lecture et 318 ms en écriture. Le séquentiel XNUMXK est descendu à XNUMX XNUMX IOPS en lecture et XNUMX XNUMX IOPS en écriture. XNUMXK a vu une autre chute à XNUMX Mo/s en lecture et XNUMX Mo/s en écriture.
+Synology ajoute encore une autre version solide avec le DiskStation DS1621xs+. Destiné aux petites entreprises ayant la possibilité de se développer, le DS1621xs+, équipé d'un cache SSD, devrait être en mesure de répondre à tous leurs besoins en NAS.

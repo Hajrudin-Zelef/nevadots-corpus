@@ -1,0 +1,3 @@
+I do not have extensive background in networking and I want to achieve something simple within my LAN. I have a server running on port 8080 on my computer and I want to make it accessible through the router's public IP. I have done that with regular residential gateways many times, but recently I switched to Mikrotik hAP ac² and cannot seem to succeed. I tried adding the following rule:
+/ip firewall nat add chain=dstnat dst-port=8080 action=dst-nat protocol=tcp to-address=192.168.*.* to-port=8080
+but when I type <public-ip>:8080 in the browser it gets stuck for some time and then returns This site can't be reached. I tried to configure it through WebFig, but without success. The only other rule I have is a pre-existing masquerade. What am I doing wrong?

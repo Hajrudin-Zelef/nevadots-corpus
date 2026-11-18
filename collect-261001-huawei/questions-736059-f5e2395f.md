@@ -1,0 +1,4 @@
+I'm newbie network enginner wondering is there a way to assign same vlan to multiple ports rapidly (not separately)? Somehow like this: "int eth 0/0/1 0/0/9 0/0/15 default vlan 101"
+1 Answer 1
+I have not used that particular brand of switch before but practically every other vendor has an interface range command. For instance on Cisco I can do int range Gi0/1-5 and will then be in interface configuration mode for all those ports simultaneously where I could then do switchport access vlan xxx.
+If you search any manual you might have for that switch for "range" you should hit on it - if supported.

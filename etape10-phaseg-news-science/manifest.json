@@ -1,0 +1,617 @@
+{
+  "corpus": "etape10-phaseg-news-science",
+  "title": "Step 10 Phase G — Science & Planet News (February → September 2026)",
+  "source": "docs/RAG/etape10_phaseG_news_science.md",
+  "source_lines": 752,
+  "source_sha256": "e13aa10ae364d7dbfc13376b96d89032258b8572aaff4812e400d259ba8f198e",
+  "chunk_count": 17,
+  "generated_by": "RAG/_tools/build_rag.py",
+  "chunks": [
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/overview",
+      "path": "etape10-phaseg-news-science/00-news-science/overview.md",
+      "title": "Step 10 Phase G — Science & Planet News (February → September 2026)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "China",
+        "SpaceX"
+      ],
+      "dates": [
+        "2025-12",
+        "2026-01",
+        "2026-01-19",
+        "2026-02",
+        "2026-02-01",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-03",
+        "2026-03-12",
+        "2026-03-17",
+        "2026-03-30",
+        "2026-04",
+        "2026-04-01",
+        "2026-04-10",
+        "2026-05",
+        "2026-09",
+        "2026-09-22"
+      ],
+      "keywords": [
+        "benchmark",
+        "energy",
+        "research"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        1,
+        48
+      ],
+      "canonical_for": [],
+      "words": 790,
+      "bytes": 6753,
+      "sha256": "3e2bcc3252b66de660294c584153e27b57e4869ec03d19cb46ecc952ada28005",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/june-2026",
+      "path": "etape10-phaseg-news-science/00-news-science/june-2026.md",
+      "title": "June 2026",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "China",
+        "Nvidia",
+        "SpaceX"
+      ],
+      "dates": [
+        "2023-07",
+        "2025-05",
+        "2026-05",
+        "2026-05-18",
+        "2026-05-22",
+        "2026-06",
+        "2026-06-09",
+        "2026-06-13",
+        "2026-06-22",
+        "2026-06-30",
+        "2026-07",
+        "2026-07-15",
+        "2026-07-31",
+        "2026-08",
+        "2026-08-03",
+        "2026-08-06",
+        "2026-08-26",
+        "2026-09"
+      ],
+      "keywords": [
+        "research",
+        "rubin",
+        "sol"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        49,
+        79
+      ],
+      "canonical_for": [],
+      "words": 805,
+      "bytes": 7401,
+      "sha256": "94efee24c110e0e2dff1496a053211c565b37566efe6e563a3f0e4ceae0cb766",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/part-3",
+      "path": "etape10-phaseg-news-science/00-news-science/part-3.md",
+      "title": "Step 10 Phase G — Science & Planet News (February → September 2026) (part 3)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [],
+      "dates": [
+        "2026-09-01",
+        "2026-09-14",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-22"
+      ],
+      "keywords": [
+        "energy",
+        "revenue"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        80,
+        87
+      ],
+      "canonical_for": [],
+      "words": 263,
+      "bytes": 2356,
+      "sha256": "f173d6825f095770547ad9cb82601d2ae1d1bad5f4e89083ee2e5504424ade2d",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/2-deep-dive-human-robotic-spaceflight-2026",
+      "path": "etape10-phaseg-news-science/00-news-science/2-deep-dive-human-robotic-spaceflight-2026.md",
+      "title": "2. Deep dive — Human & robotic spaceflight 2026",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "robotics",
+      "actors": [
+        "China",
+        "Nvidia",
+        "SpaceX"
+      ],
+      "dates": [
+        "2025-05",
+        "2025-12",
+        "2026-02",
+        "2026-02-27",
+        "2026-03",
+        "2026-03-19",
+        "2026-03-30",
+        "2026-04-01",
+        "2026-05-22",
+        "2026-06-09",
+        "2026-07",
+        "2026-07-24",
+        "2026-08",
+        "2026-08-20",
+        "2027-11"
+      ],
+      "keywords": [
+        "revenue",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        88,
+        130
+      ],
+      "canonical_for": [],
+      "words": 851,
+      "bytes": 7633,
+      "sha256": "67e8f17c553a195de4c7b97a273a4586d79176bdfbae703ef51da8afe49edcd6",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/3-2-jwst-in-2026-early-galaxies-exoplanet-air-and-prebiotic-",
+      "path": "etape10-phaseg-news-science/00-news-science/3-2-jwst-in-2026-early-galaxies-exoplanet-air-and-prebiotic-.md",
+      "title": "3.2 JWST in 2026: early galaxies, exoplanet air, and prebiotic chemistry",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Nvidia"
+      ],
+      "dates": [
+        "2023-07",
+        "2025-10",
+        "2026-01",
+        "2026-02",
+        "2026-06-22",
+        "2026-06-30",
+        "2026-07-15",
+        "2026-07-31"
+      ],
+      "keywords": [
+        "energy",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        131,
+        165
+      ],
+      "canonical_for": [],
+      "words": 824,
+      "bytes": 7646,
+      "sha256": "58a7d0a34918313ad237ad367fc22918292c6dd5c60dcfe270f7dd1e35698052",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/4-3-u-s-heat-drought-and-floods-summer-2026",
+      "path": "etape10-phaseg-news-science/00-news-science/4-3-u-s-heat-drought-and-floods-summer-2026.md",
+      "title": "4.3 U.S. heat, drought, and floods (summer 2026)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [],
+      "dates": [
+        "2024-10",
+        "2026-04",
+        "2026-05-18",
+        "2026-07",
+        "2026-08",
+        "2026-08-06",
+        "2026-09-22"
+      ],
+      "keywords": [
+        "memory"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        166,
+        202
+      ],
+      "canonical_for": [],
+      "words": 595,
+      "bytes": 5755,
+      "sha256": "39d6abc6f52c43d94ffc8940cfc5bbb1014fb2254d58ecff640dee7cef6a2ca7",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/6-deep-dive-energy-science-oceans-environment",
+      "path": "etape10-phaseg-news-science/00-news-science/6-deep-dive-energy-science-oceans-environment.md",
+      "title": "6. Deep dive — Energy science, oceans & environment",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [],
+      "dates": [
+        "2025-04",
+        "2025-07",
+        "2025-10",
+        "2026-04-10",
+        "2026-06-09",
+        "2026-07-24",
+        "2026-08",
+        "2026-09"
+      ],
+      "keywords": [
+        "energy",
+        "benchmark"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        203,
+        250
+      ],
+      "canonical_for": [],
+      "words": 632,
+      "bytes": 5046,
+      "sha256": "c320464c2376c5bf730d14220621a6bdbea5cabdb8f3c746bcdf2ffe806ee162",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/8-glossary",
+      "path": "etape10-phaseg-news-science/00-news-science/8-glossary.md",
+      "title": "8. Glossary",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "China",
+        "EU",
+        "Nvidia",
+        "SpaceX",
+        "United States"
+      ],
+      "dates": [
+        "2026-06"
+      ],
+      "keywords": [
+        "energy",
+        "research",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        251,
+        324
+      ],
+      "canonical_for": [],
+      "words": 760,
+      "bytes": 5480,
+      "sha256": "d0eb0e37c4324b5512db2f0546a2552386f69100525b8ca434f1795d3b25943b",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/9-source-index-verbatim-urls",
+      "path": "etape10-phaseg-news-science/00-news-science/9-source-index-verbatim-urls.md",
+      "title": "9. Source index (verbatim URLs)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [],
+      "dates": [
+        "2026-03-30",
+        "2026-07-31"
+      ],
+      "keywords": [
+        "energy",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        325,
+        381
+      ],
+      "canonical_for": [],
+      "words": 114,
+      "bytes": 4865,
+      "sha256": "758f36be8bbba8d404c7c1d672f2d9ae97634578d3fa438d7d6694df5f3f942f",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/10-spaceflight-technical-snapshots-appendix",
+      "path": "etape10-phaseg-news-science/00-news-science/10-spaceflight-technical-snapshots-appendix.md",
+      "title": "10. Spaceflight technical snapshots (appendix)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "China",
+        "Nvidia",
+        "SpaceX"
+      ],
+      "dates": [
+        "2023-04",
+        "2023-07",
+        "2025-05",
+        "2026-04-01",
+        "2026-05",
+        "2026-05-22",
+        "2026-06-30",
+        "2026-07",
+        "2026-07-15",
+        "2026-07-31",
+        "2026-08"
+      ],
+      "keywords": [
+        "regulation",
+        "research",
+        "revenue",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        382,
+        433
+      ],
+      "canonical_for": [],
+      "words": 784,
+      "bytes": 6722,
+      "sha256": "c8f73a761435e48f8ecf40f9404bcfc900b04d0083ac87d2172d72a13e3ee957",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/12-forward-watchlist-october-december-2026",
+      "path": "etape10-phaseg-news-science/00-news-science/12-forward-watchlist-october-december-2026.md",
+      "title": "12. Forward watchlist (October → December 2026)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "China",
+        "Nvidia",
+        "SpaceX",
+        "xAI"
+      ],
+      "dates": [
+        "2025-10",
+        "2026-03-30",
+        "2026-12"
+      ],
+      "keywords": [
+        "benchmark",
+        "merger",
+        "revenue",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        434,
+        496
+      ],
+      "canonical_for": [],
+      "words": 930,
+      "bytes": 7859,
+      "sha256": "ef50d7d881e6ddab7ea8880c13e35e01bd44bf5fb18fd0871ee94799143ddb5e",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/august-records-and-groundbreakings",
+      "path": "etape10-phaseg-news-science/00-news-science/august-records-and-groundbreakings.md",
+      "title": "August — records and groundbreakings",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Nvidia"
+      ],
+      "dates": [
+        "2026-07-31",
+        "2026-08"
+      ],
+      "keywords": [
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        497,
+        513
+      ],
+      "canonical_for": [],
+      "words": 253,
+      "bytes": 2505,
+      "sha256": "6d9fed5bc8a7535eddcc7e1a5e5e5243cea082ccbddeb9207f67194077866e85",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/15-jwst-2026-the-complete-discovery-log",
+      "path": "etape10-phaseg-news-science/00-news-science/15-jwst-2026-the-complete-discovery-log.md",
+      "title": "15. JWST 2026: the complete discovery log",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Microsoft"
+      ],
+      "dates": [
+        "2024-05",
+        "2025-04",
+        "2026-05"
+      ],
+      "keywords": [
+        "benchmark",
+        "energy"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        514,
+        559
+      ],
+      "canonical_for": [],
+      "words": 749,
+      "bytes": 7383,
+      "sha256": "706ebbe49aedd8b2bc75a42db9d1a0c05b50841ece000fd30be9d840fd1aa541",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/part-14",
+      "path": "etape10-phaseg-news-science/00-news-science/part-14.md",
+      "title": "Step 10 Phase G — Science & Planet News (February → September 2026) (part 14)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [],
+      "dates": [],
+      "keywords": [],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        560,
+        565
+      ],
+      "canonical_for": [],
+      "words": 117,
+      "bytes": 1326,
+      "sha256": "39c95e882c3fee2ec7ddfabe45e9fc6b8455cac8f473d12096f6238411d5b66a",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/19-cross-cutting-theme-ai-in-science-2026",
+      "path": "etape10-phaseg-news-science/00-news-science/19-cross-cutting-theme-ai-in-science-2026.md",
+      "title": "19. Cross-cutting theme: AI in science (2026)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Google",
+        "Nvidia",
+        "SpaceX",
+        "xAI"
+      ],
+      "dates": [
+        "2026-04",
+        "2026-05-22",
+        "2026-07",
+        "2026-08"
+      ],
+      "keywords": [
+        "energy",
+        "rubin",
+        "voice"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        566,
+        614
+      ],
+      "canonical_for": [],
+      "words": 754,
+      "bytes": 6631,
+      "sha256": "226dc7cbed28744f80e9fa6339c41a2f970a74b1f87a5e6ce22aedc3ac8d6daf",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/23-chapter-summaries-for-retrieval",
+      "path": "etape10-phaseg-news-science/00-news-science/23-chapter-summaries-for-retrieval.md",
+      "title": "23. Chapter summaries for retrieval",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "China",
+        "Nvidia",
+        "SpaceX"
+      ],
+      "dates": [
+        "2026-03-19",
+        "2026-04",
+        "2026-05",
+        "2026-05-18",
+        "2026-06",
+        "2026-07",
+        "2026-07-15",
+        "2026-07-31"
+      ],
+      "keywords": [
+        "benchmark",
+        "decode",
+        "energy",
+        "merger",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        615,
+        665
+      ],
+      "canonical_for": [],
+      "words": 659,
+      "bytes": 5614,
+      "sha256": "8466962691139e1fdf487526b1e42ab714def6c9e575d9f6b4a15d99efa7be7f",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    },
+    {
+      "id": "etape10-phaseg-news-science/00-news-science/26-agency-dataset-fact-sheets-what-each-source-measured",
+      "path": "etape10-phaseg-news-science/00-news-science/26-agency-dataset-fact-sheets-what-each-source-measured.md",
+      "title": "26. Agency & dataset fact sheets (what each source measured)",
+      "domain": "step-10-phase-g-science-planet-news-february-september-2026",
+      "role": "deep-dive",
+      "task": "reference",
+      "actors": [
+        "Nvidia"
+      ],
+      "dates": [
+        "2026-04-01",
+        "2026-09-22"
+      ],
+      "keywords": [
+        "benchmark",
+        "research",
+        "revenue",
+        "rubin"
+      ],
+      "source": "docs/RAG/etape10_phaseG_news_science.md",
+      "source_anchor": "",
+      "source_lines": [
+        666,
+        752
+      ],
+      "canonical_for": [],
+      "words": 884,
+      "bytes": 5905,
+      "sha256": "8f567b0a5612ceec5dc808bcca2f8425271b35c56df4f29c3c24b820c287b5f9",
+      "section": "Step 10 Phase G — Science & Planet News (February → September 2026)"
+    }
+  ]
+}

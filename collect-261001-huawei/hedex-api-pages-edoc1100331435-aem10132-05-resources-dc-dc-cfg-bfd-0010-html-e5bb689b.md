@@ -1,0 +1,8 @@
+Association between BFD and other protocols improves protocol switching performance and reduces service traffic loss.
+BFD for OSPF: See Configuring BFD for OSPF in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration - Configuration Guide - IP Routing â OSPF Configuration.
+BFD for IS-IS: See Configuring Static BFD for IS-IS and Configuring Dynamic BFD for IS-IS in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration - Configuration Guide - IP Routing â IS-IS Configuration.
+BFD for BGP: See Configuring BFD for BGP in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration - Configuration Guide - IP Routing â BGP Configuration.
+BFD for PW: See Configuring Static BFD for PWs in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration - Configuration Guide - VPN â PWE3 Configuration.
+BFD for VRRP: See Configuring Association Between VRRP and BFD to Implement a Rapid Active/Standby Switchover in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration - Configuration Guide - Reliability â VRRP Configuration.
+BFD for PIM: See Configuring PIM BFD in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration - Configuration Guide - IP Multicast â PIM-SM (IPv4) Configuration.
+BFD for EFM: See Configuring Association Between EFM and BFD in the NetEngine AR600, AR6100, AR6200, and AR6300 Configuration - Configuration Guide - Reliability â EFM Configuration.

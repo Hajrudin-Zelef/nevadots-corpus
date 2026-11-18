@@ -1,0 +1,606 @@
+Dynamic inventory plugin for Ansible that discovers hosts from a UniFi OS controller (UDM, UCG, etc.). Built on top of aiounifi (v91+ required; tested with v92).
+$ ansible-inventory -i inventory/unifi.yaml all --graph
+@all:
+  |--@ungrouped:
+  |--@unifi_clients:
+  |  |--Kitchen_Echo
+  |  |--nas-server
+  |  |--Study_Proxmox
+  |  |--phone
+  |  |--homeassistant
+  |--@unifi_wireless_clients:
+  |  |--Kitchen_Echo
+  |  |--phone
+  |--@unifi_wired_clients:
+  |  |--nas-server
+  |  |--Study_Proxmox
+  |  |--homeassistant
+  |--@network_default:
+  |  |--nas-server
+  |  |--Study_Proxmox
+  |  |--homeassistant
+  |  |--phone
+  |--@network_iot:
+  |  |--Kitchen_Echo
+  |--@vlan_30:
+  |  |--Kitchen_Echo
+  |--@vlan_iot:
+  |  |--Kitchen_Echo
+  |--@ssid_home_iot:
+  |  |--Kitchen_Echo
+  |--@ssid_home_wifi:
+  |  |--phone
+  |--@unifi_devices:
+  |  |--U6_Pro
+  |  |--USW_Flex
+  |  |--USW_Ultra
+  |  |--Dream_Machine
+  |--@unifi_uap:
+  |  |--U6_Pro
+  |--@unifi_usw:
+  |  |--USW_Flex
+  |  |--USW_Ultra
+  |--@device_state_connected:
+  |  |--U6_Pro
+  |  |--USW_Flex
+  |  |--USW_Ultra
+  |  |--Dream_Machine
+  |--@unifi_poe_powered:
+  |  |--USW_Flex
+  |--@unifi_udm:
+  |  |--Dream_Machine
+Example host variables (include_devices: true; all fields from a live run with aiounifi v92, identifying values sanitized):
+$ ansible-inventory -i inventory/unifi.yaml --host Kitchen_Echo
+{
+  "ansible_host": "192.168.30.13",
+  "association_time": 1783656843,
+  "first_seen": 1735624765,
+  "fixed_ip": "192.168.30.13",
+  "ip": "192.168.30.13",
+  "ipv4": "192.168.30.13",
+  "ipv6": "2001:db8:1::772",
+  "ipv6_addresses": [
+    "2001:db8:1::772",
+    "fe80::4a78:5eff:fefa:7ce1"
+  ],
+  "is_wired": false,
+  "last_seen_iso": "2026-07-22T18:33:32Z",
+  "last_seen_unix": 1784745212,
+  "latest_association_time": 1784294898,
+  "mac": "48:78:5e:fa:7c:e1",
+  "network": "IoT",
+  "network_id": "670ef99bba911339bf2b894c",
+  "oui": "Amazon Technologies Inc.",
+  "powersave_enabled": false,
+  "site": "default",
+  "ssid": "home.iot",
+  "unifi_name": "Kitchen Echo",
+  "vlan": 30,
+  "vlan_name": "IoT"
+}
+$ ansible-inventory -i inventory/unifi.yaml --host nas-server
+{
+  "ansible_host": "192.168.1.148",
+  "association_time": 1781365738,
+  "first_seen": 1773981600,
+  "ip": "192.168.1.148",
+  "ipv4": "192.168.1.148",
+  "ipv6": "fe80::be24:11ff:feaf:77dd",
+  "is_wired": true,
+  "last_seen_iso": "2026-07-22T18:33:42Z",
+  "last_seen_unix": 1784745222,
+  "latest_association_time": 1781925104,
+  "mac": "bc:24:11:af:77:dd",
+  "network": "Default",
+  "network_id": "670ed85d2ce59e0ea329eff1",
+  "oui": "Example Vendor Inc.",
+  "site": "default",
+  "switch_depth": 1,
+  "unifi_hostname": "nas-server",
+  "unifi_name": "nas-server",
+  "wired_rate_mbps": 1000
+}
+$ ansible-inventory -i inventory/unifi.yaml --host U6_Pro
+{
+  "ansible_host": "192.168.1.252",
+  "client_count": 7,
+  "cpu_percent": "7.9",
+  "device_id": "671113bfba911339bf2be6c8",
+  "disabled": false,
+  "firmware_version": "6.8.2.15592",
+  "has_fan": false,
+  "has_temperature": false,
+  "ip": "192.168.1.252",
+  "last_seen": 1784745212,
+  "led_override": "off",
+  "led_override_color": "#0000ff",
+  "mac": "ac:8b:a9:43:b5:cd",
+  "mem_percent": "65.7",
+  "model": "UAP6MP",
+  "overheating": false,
+  "site": "default",
+  "state": "CONNECTED",
+  "supports_led_ring": false,
+  "system_uptime": "4768028",
+  "type": "uap",
+  "unifi_name": "U6 Pro",
+  "upgradable": false,
+  "uplink": {
+    "full_duplex": true,
+    "max_speed": 1000,
+    "name": "eth0",
+    "port_idx": 1,
+    "speed": 1000,
+    "type": "wire",
+    "up": true,
+    "uplink_device_name": "USW Ultra",
+    "uplink_mac": "28:70:4e:6d:f9:32",
+    "uplink_remote_port": 1,
+    "uplink_source": "lldp_uplink"
+  },
+  "uptime": 4768028
+}
+$ ansible-inventory -i inventory/unifi.yaml --host USW_Flex
+{
+  "ansible_host": "192.168.1.231",
+  "client_count": 5,
+  "cpu_percent": "11.0",
+  "device_id": "67d1d99d2b37f907a11a58ed",
+  "disabled": false,
+  "firmware_version": "2.1.8.971",
+  "has_fan": false,
+  "has_temperature": false,
+  "ip": "192.168.1.231",
+  "last_seen": 1784745222,
+  "led_override": "on",
+  "led_override_color": "#0000ff",
+  "mac": "94:2a:6f:fe:0e:e5",
+  "mem_percent": "82.8",
+  "model": "USWED37",
+  "overheating": false,
+  "poe_ports": [
+    {
+      "is_uplink": false,
+      "name": "Port 1",
+      "poe_enable": false,
+      "poe_good": false,
+      "poe_mode": "auto",
+      "poe_power": "0.00",
+      "poe_voltage": "0.00",
+      "port_idx": 1,
+      "up": false
+    },
+    {
+      "is_uplink": false,
+      "name": "Port 2",
+      "poe_enable": false,
+      "poe_good": false,
+      "poe_mode": "auto",
+      "poe_power": "0.00",
+      "poe_voltage": "0.00",
+      "port_idx": 2,
+      "up": false
+    },
+    {
+      "is_uplink": false,
+      "name": "Port 3",
+      "poe_enable": false,
+      "poe_good": false,
+      "poe_mode": "auto",
+      "poe_power": "0.00",
+      "poe_voltage": "0.00",
+      "port_idx": 3,
+      "up": false
+    },
+    {
+      "is_uplink": false,
+      "name": "Port 4",
+      "poe_enable": false,
+      "poe_good": false,
+      "poe_mode": "auto",
+      "poe_power": "0.00",
+      "poe_voltage": "0.00",
+      "port_idx": 4,
+      "up": true
+    },
+    {
+      "is_uplink": false,
+      "name": "Port 5",
+      "poe_enable": false,
+      "poe_good": false,
+      "poe_mode": "auto",
+      "poe_power": "0.00",
+      "poe_voltage": "0.00",
+      "port_idx": 5,
+      "up": true
+    },
+    {
+      "is_uplink": false,
+      "name": "Port 6",
+      "poe_enable": true,
+      "poe_good": true,
+      "poe_mode": "auto",
+      "poe_power": "5.91",
+      "poe_voltage": "47.24",
+      "port_idx": 6,
+      "up": true
+    },
+    {
+      "is_uplink": false,
+      "name": "Port 7",
+      "poe_enable": true,
+      "poe_good": true,
+      "poe_mode": "auto",
+      "poe_power": "13.60",
+      "poe_voltage": "47.05",
+      "port_idx": 7,
+      "up": true
+    },
+    {
+      "is_uplink": false,
+      "name": "Port 8",
+      "poe_enable": false,
+      "poe_good": false,
+      "poe_mode": "auto",
+      "poe_power": "0.00",
+      "poe_voltage": "0.00",
+      "port_idx": 8,
+      "up": false
+    }
+  ],
+  "site": "default",
+  "state": "CONNECTED",
+  "supports_led_ring": false,
+  "type": "usw",
+  "unifi_name": "USW Flex 2.5G 8 PoE",
+  "upgradable": false,
+  "uplink": {
+    "full_duplex": true,
+    "max_speed": 10000,
+    "media": "10GE",
+    "name": "eth0",
+    "port_idx": 9,
+    "speed": 2500,
+    "type": "wire",
+    "up": true,
+    "uplink_device_name": "Dream Machine",
+    "uplink_mac": "28:70:4e:6e:44:a7",
+    "uplink_remote_port": 4,
+    "uplink_source": "lldp_uplink"
+  },
+  "uptime": 4768031
+}
+- Dynamic inventory plugin for Ansible that fetches UniFi network clients as inventory hosts.
+- Supports UniFi OS controllers (modern UniFi Dream Machine, Cloud Gateway, etc.).
+- Discovers clients connected to your network (wired and wireless).
+- Optionally includes UniFi devices (access points, switches, gateways).
+- Not a UniFi controller configuration tool.
+- Not compatible with legacy UniFi controllers (pre-UniFi OS) without modification.
+- Python 3.12+ (newer aiounifi releases may require 3.13+; checkpip install output)
+- Ansible 2.15+
+- UniFi OS controller accessible via network (UDM, UCG, etc.).
+- API credentials: API token (preferred), local admin without 2FA, or username/password with totp_secret for 2FA accounts (aiounifi v91+)
+- Python dependencies: Install in the same Python environment as Ansible:
+pip install -r requirements.txt
+Install the aioue.network collection from this GitHub repository:
+ansible-galaxy collection install git+https://github.com/aioue/ansible-unifi-inventory.git
+You can also include it in a requirements.yml file:
+---
+collections:
+  - name: aioue.network
+    source: https://github.com/aioue/ansible-unifi-inventory.git
+    type: git
+    # If you need a specific version, you can specify a branch or tag:
+    # version: v1.1.0
+Then install with ansible-galaxy collection install -r requirements.yml.
+This is an Ansible inventory plugin. Configuration is done via a YAML inventory file that uses the plugin.
+Name inventory files *.unifi.yml or *.unifi.yaml so Ansible auto-detects the plugin without listing it in enable_plugins. Examples: prod.unifi.yml, inventory/unifi.yaml.
+If you use a different filename, set plugin: aioue.network.unifi explicitly in the file.
+Create a new inventory file (e.g., prod.unifi.yml) with your settings.
+Important: Use the Fully Qualified Collection Name (FQCN) aioue.network.unifi for the plugin key.
+# Example: prod.unifi.yml
+plugin: aioue.network.unifi
+# UniFi controller URL (required)
+url: "https://192.168.1.1"
+# --- Authentication (pick one method; see "Authentication" below) ---
+# If token is non-empty, username/password/totp_secret are ignored.
+# Method A: API token (preferred for automation)
+token: "your-api-token-here"
+# Method B: Local admin password (no 2FA)
+# username: "ansible-admin"
+# password: "your-password"
+# Method C: Password + TOTP (2FA or ui.com SSO; aiounifi v91+, pyotp)
+# username: "your-account"
+# password: "your-password"
+# totp_secret: "BASE32-TOTP-SEED"  # setup seed, not the 6-digit code
+# Templated credentials (e.g. Ansible Vault lookups) are also supported:
+# token: "{{ lookup('ansible.builtin.unvault', 'secrets.yml') | from_yaml | json_query('unifi_token') }}"
+# username: "{{ lookup('ansible.builtin.unvault', 'secrets.yml') | from_yaml | json_query('unifi_username') }}"
+# password: "{{ lookup('ansible.builtin.unvault', 'secrets.yml') | from_yaml | json_query('unifi_password') }}"
+# totp_secret: "{{ lookup('ansible.builtin.unvault', 'secrets.yml') | from_yaml | json_query('unifi_totp_secret') }}"
+site: "default"
+verify_ssl: false
+include_devices: false
+last_seen_minutes: 30
+# Optional: use MAC-based hostnames when device names are missing or unstable
+# hostname: mac
+The hostname option controls which UniFi field becomes the Ansible inventory hostname:
+| Value | Source | 
+|---|---|
+| name (default) | UniFi friendly name with sanitization; original stored in unifi_name | 
+| mac | MAC address with colons replaced by hyphens (e.g. aa-bb-cc-dd-ee-ff ) | 
+When using name, hosts without a friendly name fall back to OUI plus MAC suffix, or the raw MAC.
+When using mac, the friendly name (if any) is still available in the unifi_name host variable.
+The plugin supports standard Constructable inventory options for dynamic grouping and host variable composition.
+keyed_groups - create groups from host variables:
+plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+keyed_groups:
+  - key: ssid
+    prefix: ssid
+    separator: "_"
+  - key: vlan_name
+    prefix: vlan
+    separator: "_"
+  - key: network
+    prefix: network
+    separator: "_"
+compose - set or override host variables:
+plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+compose:
+  ansible_host: ip | default(ipv6)
+  device_label: name | default(mac)
+filters - include or exclude hosts (requires community.library_inventory_filtering_v1):
+plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+filters:
+  - include: is_wired
+  - exclude: ssid == "Guest"
+As of 1.1.0, use Ansible's built-in inventory caching instead of plugin-specific cache_ttl / cache_path options (removed in 1.1.0).
+Configure caching in ansible.cfg:
+[inventory]
+cache = true
+cache_plugin = ansible.builtin.jsonfile
+cache_timeout = 30
+cache_connection = /tmp/ansible_inventory_cache
+Or per inventory source in your inventory file:
+plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+cache: true
+cache_plugin: ansible.builtin.jsonfile
+cache_timeout: 30
+See Ansible inventory cache documentation for available cache plugins and options.
+You can also provide configuration via environment variables, which override settings in the YAML file. Handy for CI/CD when you do not want credentials in the inventory file.
+export UNIFI_URL=https://192.168.1.1
+export UNIFI_SITE=default
+export UNIFI_VERIFY_SSL=false
+# Method A: token (preferred)
+export UNIFI_TOKEN=your-api-token-here
+# Method B or C: password login (add UNIFI_TOTP_SECRET for 2FA / SSO)
+# export UNIFI_USERNAME=ansible-admin
+# export UNIFI_PASSWORD=your-password
+# export UNIFI_TOTP_SECRET=BASE32-TOTP-SEED
+Once the collection is installed and your inventory file is created, use it like any other Ansible inventory source.
+# View full inventory as JSON
+ansible-inventory -i prod.unifi.yml --list
+# Show hosts in a specific group
+ansible-inventory -i prod.unifi.yml --graph unifi_wired_clients
+# See graph of all groups
+ansible-inventory -i prod.unifi.yml --graph# Ping all discovered hosts
+ansible -i prod.unifi.yml all -m ping
+# Target only wireless clients
+ansible -i prod.unifi.yml unifi_wireless_clients -m shell -a "uptime"
+# Target a specific SSID group
+ansible -i prod.unifi.yml ssid_guest_wifi -m shell -a "uptime"ansible-playbook -i prod.unifi.yml site.yml
+ansible-playbook -i prod.unifi.yml site.yml --limit unifi_clientsansible-playbook -i static_hosts.yml -i prod.unifi.yml site.yml
+Pick one method below. If token is non-empty, username, password, and totp_secret are ignored.
+| Method | When to use | Inventory keys | Notes | 
+|---|---|---|---|
+| API token | Automation (recommended) | token | No login call; avoids controller rate limits | 
+| Local password | Simple homelab setup | username ,password | Local admin account with 2FA disabled | 
+| Password + TOTP | ui.com SSO or 2FA-enabled account | username ,password ,totp_secret | aiounifi v91+ and pyotp required | 
+Connection options (url, username, password, token, totp_secret) support Jinja2 templating, so you can reference Ansible Vault lookups or variables directly in the inventory file.
+The token value is the Network API token from your controller. The plugin passes it as the unifises session cookie (no username/password login).
+- Log in to your UniFi controller.
+- Go to Settings > Network > Control Plane > Integrations > Network API (or similar path).
+- Create a new token.
+- Use this token for the token config option or theUNIFI_TOKEN environment variable.
+Works with local and ui.com admin accounts. Tokens can be revoked without changing account passwords.
+For password login without 2FA, create a local admin account (not a ui.com SSO account):
+- Go to UniFi OS Settings > Admins & Users .
+- Create a new user with the "Admin" role.
+- Select Restrict to Local Access Only.
+- Do NOT enable 2FA for this account.
+- Use these credentials for username /password orUNIFI_USERNAME /UNIFI_PASSWORD .
+Password login calls the controller login endpoint on every uncached inventory refresh. Enable inventory caching (cache: true, cache_timeout) or switch to a token if you hit rate limits.
+For accounts with 2FA enabled (local or ui.com SSO), set totp_secret to the TOTP shared secret from authenticator setup - the base32 seed string, not the rotating 6-digit code. Requires aiounifi v91+ (Configuration.totp_secret) and pyotp.
+username: "{{ vault_unifi_username }}"
+password: "{{ vault_unifi_password }}"
+totp_secret: "{{ vault_unifi_totp_secret }}"
+ui.com SSO accounts cannot use password-only login; use an API token or password with totp_secret.
+The plugin creates these dynamic groups:
+For clients:
+- unifi_clients - all discovered clients
+- unifi_wireless_clients - wireless clients only
+- unifi_wired_clients - wired clients only
+- ssid_<name> - clients on specific SSID (e.g.,ssid_guest_wifi )
+- vlan_<id> - clients on specific VLAN ID (e.g.,vlan_10 )
+- vlan_<name> - clients on specific VLAN name (e.g.,vlan_guest_network )
+- network_<name> - clients on specific network (e.g.,network_iot )
+For devices (when include_devices: true):
+- unifi_devices - all UniFi devices
+- unifi_uap - UniFi access points
+- unifi_usw - UniFi switches
+- unifi_ugw /unifi_uxg /unifi_ucg /unifi_udm - UniFi gateways
+- device_state_<state> - devices by state (e.g.device_state_connected )
+- unifi_upgradable - devices with firmware updates available
+- unifi_overheating - devices reporting overheating
+- unifi_poe_powered - switches with at least one PoE port delivering power
+Additional groups can be created with keyed_groups (see above).
+Each client host includes:
+- ansible_host - IP address (IPv4 preferred, IPv6 fallback)
+- mac - MAC address
+- ip /ipv4 - IPv4 address (if available)
+- ipv6 - IPv6 address (if available)
+- ipv6_addresses - All IPv6 addresses (if multiple)
+- is_wired - boolean, true if wired connection
+- site - UniFi site name
+- last_seen_unix - Unix timestamp of last seen
+- last_seen_iso - ISO 8601 timestamp of last seen
+- ssid - SSID name (wireless only)
+- ap_mac - AP MAC address (wireless only)
+- sw_mac - Switch MAC address (wired only)
+- port - Switch port number (wired only)
+- vlan - VLAN ID (if available)
+- vlan_name - VLAN name (if available)
+- network - Network name (if available)
+- network_id - Network ID (if available)
+- oui - Device manufacturer OUI (if available)
+- is_guest - boolean, true for guest network clients
+- blocked - boolean, true when blocked in UniFi
+- firmware_version - Client firmware version (when reported by UniFi)
+- fixed_ip - DHCP reservation / static IP (when configured)
+- unifi_hostname - Client hostname from UniFi (distinct from inventory hostname)
+- device_name - UniFi device name field (when set)
+- first_seen /association_time /latest_association_time - Client lifecycle timestamps
+- switch_depth - Switch hops for wired clients
+- wired_rate_mbps - Negotiated link speed (wired clients)
+- powersave_enabled - Wireless power-save state
+Each device host includes:
+- ansible_host - Management IP address
+- mac - MAC address
+- ip - IP address
+- model - Device model
+- type - Device type (uap, usw, ugw, udm, etc.)
+- firmware_version - Current firmware version
+- site - UniFi site name
+- device_id - UniFi device ID
+- state - Device state (e.g.CONNECTED )
+- adopted - boolean, adoption status
+- upgradable - boolean, firmware update available
+- upgrade_to_firmware - Target firmware when upgradable
+- overheating - boolean, thermal warning state
+- disabled - boolean, administratively disabled
+- uptime - Device uptime in seconds
+- uplink_depth - Hops to gateway
+- client_count - Connected client count (user_num_sta )
+- uplink - Compact uplink summary (type, speed, remote device; no rx/tx counters)
+- cpu_percent /mem_percent /system_uptime - Fromsystem-stats
+- poe_ports - List of PoE-capable switch ports with power state (switches only)
+- outlets - PDU/outlet relay state (gateways and outlet-capable devices)
+- general_temperature /fan_level /has_fan /has_temperature - Thermal state
+- last_seen - Device last-seen timestamp
+- supports_led_ring /led_override /led_override_color - LED state (read-only)
+| Option | Env Var | Config Key | Default | 
+|---|---|---|---|
+| Controller URL | UNIFI_URL | url | (required) | 
+| Username | UNIFI_USERNAME | username | "" | 
+| Password | UNIFI_PASSWORD | password | "" | 
+| API Token | UNIFI_TOKEN | token | "" | 
+| TOTP Secret | UNIFI_TOTP_SECRET | totp_secret | "" | 
+| Site Name | UNIFI_SITE | site | default | 
+| Verify SSL | UNIFI_VERIFY_SSL | verify_ssl | true | 
+| Include Devices | UNIFI_INCLUDE_DEVICES | include_devices | false | 
+| Last Seen Minutes | UNIFI_LAST_SEEN_MINUTES | last_seen_minutes | 30 | 
+| Hostname Source | UNIFI_HOSTNAME | hostname | name | 
+Inventory caching is configured via standard Ansible options (cache, cache_plugin, cache_timeout), not plugin-specific keys.
+- Never commit inventory files with real credentials.
+- Use a local file and add it to .gitignore .
+- Use Ansible Vault to encrypt the inventory file.
+ansible-vault encrypt prod.unifi.yml
+ansible-playbook -i prod.unifi.yml site.yml --ask-vault-pass
+For CI/CD pipelines, use environment variables to inject secrets (see Environment Variables above).
+export UNIFI_URL=https://192.168.1.1
+export UNIFI_TOKEN=$VAULT_UNIFI_TOKEN
+ansible-playbook -i prod.unifi.yml site.yml
+Prefer API tokens over username/password for automation. Tokens skip the login endpoint and can be revoked without changing account credentials.
+Symptom: SSL: CERTIFICATE_VERIFY_FAILED errors
+Solution: Self-signed certificates are common on UniFi controllers.
+- Set verify_ssl: false in your inventory config file (easiest, but less secure).
+- Add your controller's certificate to your system trust store.
+Symptom: "Authentication failed" or 403/401 errors
+Causes:
+- Incorrect username/password or token.
+- Token expired or revoked.
+- Two-Factor Authentication (2FA) on a password account without totp_secret configured.
+- Installed aiounifi is older than v91 (upgrade for totp_secret andAuthenticationRateLimitError ).
+- Using a ui.com SSO account without token or totp_secret .
+Solution:
+- Verify credentials.
+- Prefer token authentication for automation (avoids login rate limits).
+- For 2FA or ui.com SSO accounts, set totp_secret (base32 seed, not the 6-digit code) or use an API token.
+- For password-only automation, use a local admin without 2FA.
+- Upgrade aiounifi to v91+ if totp_secret or rate-limit errors are missing.
+- Regenerate your API token if it was revoked.
+Symptom: Empty inventory
+Causes:
+- last_seen_minutes threshold is too low.
+- No clients have been active recently.
+- Wrong site name specified.
+- filters excluding all hosts.
+Solution:
+- Increase last_seen_minutes to1440 (24 hours).
+- Verify your site name in the UniFi controller (oftendefault ).
+- Enable devices: include_devices: true .
+- Review filters rules.
+Symptom: Inventory doesn't reflect recent changes (new clients, IP changes).
+Solution:
+- Clear the Ansible inventory cache directory (path set in cache_connection ).
+- Reduce cache_timeout for more frequent updates.
+- Disable caching temporarily: cache: false .
+Symptom: Network request errors, "Connection refused".
+Causes:
+- Controller URL is incorrect or unreachable from where Ansible is running.
+- Firewall blocking HTTPS (port 443) access.
+Solution:
+- Verify controller URL.
+- Test connectivity: curl -k https://192.168.1.1
+- Check firewall rules.
+plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+last_seen_minutes: 5plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+include_devices: true
+Create separate inventory files per site:
+site_default.unifi.yml:
+plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+site: "default"
+site_branch.unifi.yml:
+plugin: aioue.network.unifi
+url: "https://192.168.1.1"
+token: "your-token"
+site: "branch-office"
+- Enable Ansible inventory caching to reduce UniFi API calls on repeated runs.
+- The first uncached run is slower (typically 2-10 seconds) while data is fetched from the API.
+- Cached runs within the cache_timeout window are much faster.
+- Upgrade: ansible-galaxy collection install aioue.network --upgrade
+- Remove cache_ttl andcache_path from inventory files; configure Ansible inventory cache (see above)
+- Optionally set hostname: mac for stable MAC-based host keys
+- Optionally rename inventory files to *.unifi.yml for auto-detection
+If you copied unifi.py into a local plugins directory:
+- Install the collection: ansible-galaxy collection install aioue.network
+- Update inventory files: plugin: unifi →plugin: aioue.network.unifi
+- Remove custom inventory_plugins /enable_plugins entries for the old plugin
+- Remove the old plugin file from ~/.ansible/plugins/inventory/ or your custom path
+- Bump version: ingalaxy.yml
+- Update CHANGELOG.md (the matching version section is published automatically as the GitHub Release notes)
+- Commit, tag, and push:
+git tag v1.x.x
+git push origin v1.x.x
+The GitHub Actions workflow builds the collection, publishes to Ansible Galaxy, and creates a GitHub Release from the CHANGELOG.md entry for that version.
+For issues or enhancements, please ensure:
+- Python 3.12+ compatibility
+- Type hints for all functions
+- PEP 8 code style
+GNU General Public License v3.0 or later (GPL-3.0+)
+See LICENSE file for full text.
+Copyright (c) 2025 Tom Paine (https://github.com/aioue)

@@ -1,0 +1,4 @@
+ADVPN SD-WAN Shortcut Tunnel (underlay routing)
+When an ADVPN shortcut is created, obviosuly the connection will go from whatever ISP(s) you're using to the other Spokes Public IP(s). This creates the transit connection for the tunnel to be created in the first place.
+So, do you have to configure a default route for each ISP/Connection that you use, and then how does that work if you receive a default over a tunnel interface with ADVPN as a default route?
+I can always create a static route for a Public IP of the other end of the shortcut tunnel, but that seems a bit tedious and not the best way to do things imo, considering if IPs and NAT'd or change, you can't really keep up with that.

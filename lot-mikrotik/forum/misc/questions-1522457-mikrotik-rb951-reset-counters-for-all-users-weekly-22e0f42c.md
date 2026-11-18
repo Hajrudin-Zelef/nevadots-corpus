@@ -1,0 +1,3 @@
+This is might be a dumb question for the experts here, but I appreciate any help from anyone who can help and thank you in advance for your time. I bought a Mikrotik rb951 to solely limit my family from finishing the Internet package before the end of the month. I created users in the hotspot for each device in the house and limited their download depending on how much each person needs. What I want to know is how I can reset all counters automatically daily or weekly for each person, or for all, and if I am not asking too much I hope you can tell me how to do it step by step.
+
+Thank you for your time.

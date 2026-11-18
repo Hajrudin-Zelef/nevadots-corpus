@@ -1,0 +1,3 @@
+I have two WAN connection to my Mikrotik One for me (ADSL) and another for the family(PPPOE) I want my devices (2 Laptops, & 2 Smartphones) to go through interface 2 ADSL Connection 192.168.1.10/24 192.168.1.0 ether2
+and all other devices on the network to go through interface 1 PPPOE Connection 192.168.0.40/24 192.168.0.0 ether1 the wifi Have a DHCP server from 192.168.10.10-192.168.10.50 and there are about 12 devices on the wifi (not at the same time) I can make my devices' IP STATIC since theirs only 4 devices
+I Created the Internet Connection of both interfaces and I can ping the main ISP's I added the DNS Server 8.8.8.8 and the route list was created when I entered the IP addresses above. how can I do this?

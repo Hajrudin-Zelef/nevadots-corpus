@@ -1,0 +1,2 @@
+This section provides a web example of configuring hot standby in active/standby mode in which the service interfaces of the firewalls work at Layer 2 and connect to switches in upstream and downstream directions.
+This section provides a CLI example of configuring hot standby in active/standby mode in which the service interfaces of the firewalls work at Layer 2 and connect to switches in upstream and downstream directions.

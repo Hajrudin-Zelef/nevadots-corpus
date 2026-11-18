@@ -1,0 +1,5 @@
+I configure VPN on my router board and firewall NAT rules to pass all traffic through the VPN interface and all things work fine.
+When VPN connection got connect to a remote VPN server, we have a local address which if we pass our traffic to it (Firewall => NAT => srcnat), our traffic passes through the VPN.
+Now the problem is, every time the VPN got disconnected because of something, the VPN connection may get a different local IP address, and I should reconfigure firewall NAT rule to "srcant" the traffic through this IP.
+as you can see in below image this local IP address is defined in "Address List" and is "D (Dynamic) which cause the problem, I can define static address here in "Address List" but I don't know how to force the VPN interface to use it instead of it own generated dynamically IP.
+Thanks.

@@ -1,0 +1,39 @@
+---
+id: etape6-phasec-optics-cabling/00-front-matter/3-4-hyperscaler-adoption-signals-for-800g-lpo
+title: "3.4 Hyperscaler adoption signals for 800G LPO"
+domain: front-matter
+role: reference
+task: reference
+actors: ["AMD", "AWS", "Alibaba", "Broadcom", "ByteDance", "China", "Cohere", "Google", "Intel", "Malaysia", "Meta", "Microsoft", "Nvidia", "Oracle", "TSMC"]
+dates: ["2024-03", "2025-03", "2025-03-17", "2025-03-25", "2025-04", "2025-05", "2026-02-10", "2026-06"]
+keywords: ["hyperscaler", "lpo", "alignment", "amd", "capex", "cpo", "datacenter", "disclosure", "ethernet", "intel", "npo", "nvidia"]
+source: docs/RAG/etape6_phaseC_optics_cabling.md
+source_anchor: ""
+source_lines: [440, 460]
+section: "Step 6 — Phase C: Optics, Cabling & Interconnect Infrastructure"
+sha256: fb66350ea3ba87bd4bbd5eb288a73a4b3636a4076eb6e226844872450efa5d21
+---
+
+# 3.4 Hyperscaler adoption signals for 800G LPO
+
+### 3.4 Hyperscaler adoption signals for 800G LPO
+
+- **LPO already in use "by four or five companies, including Oracle,"** per LightCounting's Vladimir Kozlov (EETimes, ~Sept 2026) [independent: https://www.eetimes.com/ai-demand-reshapes-optical-connectivity-and-photonics-roadmaps/]. **Google has started deploying 1.6T linear receive optics (LRO)** and preparing for volume rollouts in 2026 [independent, same source].
+- **NVIDIA and Google "already integrating" 1.6T; Meta and Oracle "slated to follow next year"** (i.e., 2027) [independent: same].
+- **ByteDance**: LPO MSA founding member [official: https://www.lightwaveonline.com/home/article/55141192/lpo-msa-achieves-multi-vendor-interoperability]. One market piece mentions "30% lower capex in Meta's Tabor trials" with LPO — [unverified: https://dev.to/lsolink/everything-you-need-to-know-about-800g16t-optical-transceiver-and-co-package-module-1m6o — blog].
+- **Meta**: began rollout of internally developed 800G optical modules in May 2025 for new Iowa AI data centers [secondary: https://medium.com/@sonam_65335/optical-transceiver-market-poised-for-rapid-growth-as-data-centers-and-5g-accelerate-demand-6650edcfeb7a — **unverified whether these are LPO**]. Meta participates in the Optical Scale-Up Consortium (OFC 2026) [secondary: lightwave link above].
+- **Microsoft**: reportedly exploring NPO as primary near-term tech (see NPO note below); Microsoft's Oregon data center deployed "1.6T-ready" infrastructure April 2025 [secondary: medium.com/@sonam_65335 — weak].
+- **CSP strategy split (weak source, flag)**: one Chinese market report claims Alibaba, Tencent, Meta, Microsoft adopted **NPO** as primary near-to-mid-term tech (open ecosystem, lower maintenance burden, pursuing NPO standardization via Open Data Center Committee); Amazon pursuing NPO multi-supply-chain with STMicroelectronics [secondary/unverified: https://finance.biggo.com/news/uei-yp4BOLsyMWM01Hme — **treat as unverified**].
+- **LPO MSA status**: founded ~Sept 2023; members: Accelink, AMD, Arista, Broadcom, ByteDance, Cisco, Eoptolink, Hisense, Intel, Keysight, MACOM, MultiLane, NVIDIA, Semtech [secondary: https://www.lightwaveonline.com/home/article/55141192/lpo-msa-achieves-multi-vendor-interoperability; https://www.lightwaveonline.com/home/article/14310705/linear-pluggable-optics-consortium-to-define-linear-pluggable-optics-lpo-specifications]. Multi-vendor interoperability demonstrated (Feb 2025 event; announced March 25, 2025): spec covers 100G/200G/400G/800G Ethernet parallel singlemode links at **100 Gb/s per lane**, building on IEEE 802.3 and OIF [official press: https://pnr-files.pro1.gus.wdc.dianum.io/globenewswire/articles/3048840/en/lpo-msa-announces-release-of-specification-for.pdf]. Chair Mark Nowell; co-chair Andreas Bechtolsheim quote: spec lets "large datacenter operators deploy 800G LPO modules in volume with confidence" [official, same]. **Note**: a June 2026 Converge Digest piece announced a "100Gbps-per-lane LPO spec" — likely the same/repackaged milestone; flagged as potential duplicate reporting [secondary: https://convergedigest.com/linear-pluggable-optics-advances-with-100g-lane-spec/]. MSA now targeting **200G/lane** spec in collaboration with OIF/IEEE [official].
+- **OFC 2026 outlook themes** (Mar 15–19, 2026, Los Angeles): 1.6T→3.2T, CPO/optical I/O for AI clusters, pluggable vs co-packaged evolution [secondary: https://tspasemiconductor.substack.com/p/ofc-2026-outlook-ai-data-center-optical].
+
+### 3.5 CPO/NPO switch programs
+
+- **Broadcom Bailly**: 51.2 Tbps CPO Ethernet switch — Tomahawk 5 switch chip co-packaged with eight 6.4-Tbps SiPh chiplets (SCIP optical engines); announced ~March 2024; claimed 70% lower power than pluggable solutions, 8× silicon area efficiency [secondary: https://infotechlead.com/networking/broadcom-unveils-industrys-first-51-2-tbps-co-packaged-optics-ethernet-switch-83681?amp=1]. Broadcom's CPO journey started 2021 with Tomahawk 4-Humboldt (gen 1); Bailly is gen 2; **third-gen CPO with 200G/lane capability announced** (2025-era) [secondary: charratcommunication.fr PDF]. **Micas Networks** (March 17, 2025): announced **volume production and global availability** of the industry's first 51.2T CPO switch system with Broadcom Bailly — 4RU, 128×400G FR4 ports, >40% power savings vs pluggables, >25% vs LPO; manufactured in Malaysia [official: https://www.globenewswire.com/news-release/2025/03/17/3043828/0/en/Micas-Networks-Announces-Industry-s-First-51-2T-Co-Packaged-Optics-Network-Switch-System-Now-in-Volume-Production.html; https://convergedigest.com/micas-networks-launches-51-2t-cpo-switch-with-broadcoms-tomahawk-5-chip/]. **Caveat**: "volume production" is a vendor claim; actual hyperscaler deployment volumes undisclosed — treat scale as [unverified].
+- **Cisco**: NO CPO product announced as of Feb 2026. Previously demoed CPO on **G100** silicon; EVP quote: "We're not making any public announcements about CPO at this time... We certainly have the technology, we're looking for business alignment to sort of productize it." Instead Cisco launched 800G LPO + 1.6T pluggables with the 102.4T **Silicon One G300** (3 nm TSMC, H2 2026 availability) [independent: https://www.theregister.com/on-prem/2026/02/10/cisco-unveils-1024t-silicon-one-g300-switch-chip/4836608; https://www.reuters.com/business/media-telecom/cisco-unveils-new-ai-networking-chip-taking-broadcom-and-nvidia-2026-02-10/].
+- **NVIDIA**: Spectrum-X Ethernet Photonics and Quantum-X InfiniBand (announced GTC 2025, Hot Chips 2025 deep-dive) are the CPO flagships; CTO claims shipping/ramping H2 2026 [secondary]. NVLink-576 optical scale-up also in the CPO roadmap per one tracker [secondary: stocks-wiki — unverified]. TSMC **COUPE** (compact universal photonic engine) — TSMC said on Q2 2026 call "we start the production right now" for COUPE; but CPO/co-packaged/silicon-photonics got zero mentions in TSMC's FY2025 20-F [secondary: https://github.com/victorhwn7255/stocks-wiki/blob/HEAD/wiki/themes/CPO-platform-battle.md].
+- **Marvell/Coherent**: Marvell's ECOC 2026 demos include a **102.4T CPO platform** with ecosystem partners; Coherent FY2026 10-K is the strongest Tier-1 CPO disclosure (named CPO/co-packaged optics ×7, NVIDIA ×13) and reported "deep engagements across both CPO and NPO" with **PhotonLink** platform unveiled at ECOC Sept 2026 [secondary: stocks-wiki]. NVIDIA's $2B commitments to Coherent (and Lumentum) multiyear [secondary/unverified: life-os note].
+- **Availability synthesis**: commercial CPO switch product exists (Micas/Broadcom, claimed volume since March 2025) and NVIDIA claims CPO shipping H2 2026 — but **independent analysts (LightCounting, Yole) place meaningful CPO volumes in 2028–2030** [independent: https://www.eetimes.com/ai-demand-reshapes-optical-connectivity-and-photonics-roadmaps/]. Tag broad "CPO is shipping at scale in 2026" as **[unverified/marketing]**.
+
+### 3.6 Market data
+

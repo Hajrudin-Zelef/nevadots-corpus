@@ -1,0 +1,3 @@
+A community-contributed subreddit for all things Mikrotik. General ISP and network discussion also permitted. Please ensure if you're asking a question you have checked the Wiki First: https://help.mikrotik.com
+
+Hello! I have a weird problem with my mikrotik crs-326. Sometimes (often, but not always), my mikrotik router stops working after updating the routeros package. Everything is fine before I upgrade but when I do everything breaks. I'm running it on routeros 7. I do not have access to the internet, and I can not access it on LAN. Does anyone have a similar problem, or should I just return it?

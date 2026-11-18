@@ -1,0 +1,69 @@
+L'UniFi Network Video Recorder Pro (UNVR-Pro) est un produit phare de la gamme UniFi Protect d'Ubiquiti, conçu pour offrir une surveillance vidéo haute performance aux entreprises et aux utilisateurs domestiques avancés. La surveillance vidéo devenant de plus en plus essentielle pour la sécurité dans divers environnements, l'UNVR-Pro est une solution robuste et riche en fonctionnalités qui offre une évolutivité, des options de stockage étendues et une intégration transparente dans l'écosystème UniFi. Cette évaluation se penchera sur les capacités, la conception, les spécifications, les performances et la valeur globale de l'UNVR-Pro.
+Affiché à 499.00 $ (lien affilié), l'UNVR-Pro offre une gamme impressionnante de fonctionnalités et de capacités qui surpassent largement celles de ses concurrents dans cette gamme de prix. Pour les utilisateurs ayant besoin de plus que ce que peuvent offrir l'UDM-Pro ou l'UDM-SE, mais qui ne sont pas encore prêts à investir dans un équipement professionnel, l'UNVR-Pro représente un excellent compromis.
+Principales caractéristiques de l'enregistreur vidéo réseau Ubiquiti UniFi Pro
+À la base, l'UNVR-Pro est conçu pour répondre aux besoins de surveillance les plus exigeants. Voici quelques caractéristiques et spécifications clés qui mettent en valeur ses capacités :
+- Support de caméra: L'UNVR-Pro peut gérer un nombre impressionnant de caméras : jusqu'à 70 caméras HD, 35 caméras 2K ou 24 caméras 4K simultanément. Cette évolutivité le rend adapté aussi bien aux petites configurations domestiques qu'aux grandes applications commerciales.
+- Baies de disques:L'appareil dispose de sept baies de lecteur 3.5/2.5 pouces, offrant un potentiel de stockage substantiel. Les utilisateurs peuvent installer une large gamme de tailles de disques SATA de 1 à 24 To, ce qui permet une capacité de stockage brute totale allant jusqu'à 168 To ou plus. Cette conception facilite l'enregistrement vidéo complet tout en maintenant la flexibilité dans la gestion du stockage, le tout dans un format 2u.
+- Fonctionnalité RAID intégrée:Les options RAID intégrées de l'UNVR-Pro garantissent la redondance des données et la protection contre les pannes de disque, ce qui est essentiel pour maintenir l'intégrité des données de surveillance au fil du temps.
+- Capacités de mise en réseau:Le NVR prend en charge les réseaux 1G et 10G, ce qui lui permet de gérer de lourdes charges de caméras sans goulot d'étranglement. Cette fonctionnalité est essentielle pour les environnements à bande passante élevée pour la diffusion de plusieurs flux vidéo.
+- Prise en charge de l'alimentation redondante:L'appareil inclut la prise en charge UniFi Smart Power (USP-RPS), qui fournit une couche de fiabilité supplémentaire en garantissant un fonctionnement continu même en cas de panne de l'alimentation principale.
+- «1.3»:L'écran frontal fournit des informations système essentielles en cas de besoin, telles que l'état du stockage, l'état du réseau et les caméras connectées. Cette fonctionnalité permet une surveillance rapide sans se connecter à l'interface UniFi Protect.
+- Intégration avec l'écosystème UniFi:L'UNVR-Pro s'intègre parfaitement à l'écosystème UniFi, permettant aux utilisateurs de gérer des caméras, plusieurs UNVR, des périphériques réseau et des dispositifs de sécurité via une interface unifiée.
+- Prise en charge des caméras tierces (version bêta):UniFi propose une prise en charge des caméras tierces en version bêta pour les clients qui ne sont pas encore prêts à migrer toutes leurs caméras existantes vers la plateforme UniFi. Cette option est particulièrement avantageuse pour ceux qui sont confrontés à des contraintes budgétaires, offrant une solution de transition tout en maintenant la flexibilité.
+Comparaison au sein de la gamme Ubiquiti
+Comparé aux autres solutions de la gamme Ubiquiti, l'UNVR-Pro se distingue. Si les UDM-Pro, UDM-SE et UDM-Pro Max offrent certaines fonctionnalités NVR, ce sont avant tout des appareils tout-en-un axés sur le routage, la sécurité et des fonctions d'enregistrement vidéo limitées. À l'inverse, l'UNVR-Pro est un NVR dédié, capable de s'adapter à des besoins de surveillance plus importants, ce qui le rend idéal pour les entreprises ou les utilisateurs exigeant un stockage vidéo à long terme et une prise en charge étendue des caméras. Un nouveau NVR Entreprise à 16 baies est également disponible dans la gamme Ubiquiti pour répondre aux besoins croissants en matière de caméras.
+Comparaison de la gamme Dream Machine et de la gamme UVNR
+| Appareil | HD (Caméras) | 2K (Caméras) | 4K (Caméras) | Baies de disques | Redondance | 
+|---|---|---|---|---|---|
+| UDM Pro / SE | 24 | 14 | 8 | 1 | Aucun | 
+| UDM Pro Max | 50 | 25 | 15 | 2 | RAID-1 | 
+| UNVR (non professionnel) | 60 | 30 | 18 | 4 | RAID1, 5, 10 | 
+| UNVR Pro | 70 | 35 | 24 | 7 | RAID1, 5, 10 | 
+| ENVR | 210 | 140 | 70 | 16 | RAID1, 5, 10 | 
+En ce qui concerne les spécifications, le processeur ARM Cortex-A57 à quatre cœurs et la mémoire DDR4 de 4 Go de l'UNVR-Pro lui permettent de gérer efficacement les tâches les plus exigeantes. Le stockage flash intégré de 32 Go prend en charge le système d'exploitation et fournit une plate-forme fiable pour la gestion de données vidéo volumineuses.
+Spécifications de l'enregistreur vidéo réseau Ubiquiti UniFi Pro
+| Mécaniques |  | 
+|---|---|
+| Dimensions | 442 x 325 x 87 mm (17.4 x 12.8 x 3.4 ") | 
+| Poids | Sans supports de montage : 9.2 kg (20.3 lb) Avec supports de montage : 9.5 kg (20.8 lb) | 
+| Matériel de clôture | Acier SGCC | 
+| Matériel de montage | Acier SGCC | 
+| Hardware |  | 
+| Interface de gestion | Ethernet dans la bande | 
+| Interface réseau | (1) port GbE RJ45 (1) port SFP+ 1/10 GbE | 
+| Interface RF | Bluetooth 4.1 | 
+| Méthode d'alimentation | (1) Entrée CA universelle, 100-240 V CA, 3 A max., 50/60 Hz (1) Entrée CC USP-RPS, 11.5 V CC, 13.91 A | 
+| Source d'alimentation | AC / DC, interne, 200 W | 
+| Plage de tension prise en charge | 100—240 V CA | 
+| Max. consommation d'énergie | 160W | 
+| Budget de puissance max. pour les disques | 135W | 
+| Protection ESD/EMP | Air : ± 12kV, contact : ± 8kV | 
+| Affichage LCM | (1) écran tactile 1.3″ | 
+| Température ambiante de fonctionnement | -5 à 40 ° C (23 à 104 ° F) | 
+| Humidité ambiante de fonctionnement | 5 à 95% sans condensation | 
+| Certifications | FCC, CE, IC | 
+Construire et concevoir
+La qualité de fabrication de l'UNVR-Pro est exceptionnelle. Encastré dans un châssis en acier durable de 2 RU, l'appareil est robuste et de qualité industrielle et est conçu pour résister aux exigences d'un environnement professionnel. Il est également conçu pour être monté en rack, ce qui facilite son intégration dans l'infrastructure informatique existante. Cela est particulièrement utile pour les entreprises disposant d'un rack de serveur.
+L'un des aspects les plus conviviaux de la conception est la présence de baies de lecteur 3.5 pouces sans outil. Chaque plateau permet un chargement ou un échange facile des lecteurs, minimisant ainsi les temps d'arrêt lors des mises à niveau ou des remplacements. Cette amélioration de la conception contraste avec certains autres systèmes NVR, où l'installation des lecteurs peut être fastidieuse. La commodité d'un accès rapide aux lecteurs est inestimable pour les utilisateurs qui gèrent des besoins de stockage vidéo importants.
+Nous apprécions également l'attention portée aux détails. Alors qu'Ubiquiti exploite la conception traditionnelle du câble d'alimentation C13, l'UNVR-Pro est livré avec une version spéciale qui fonctionne avec une goupille de retenue de verrouillage. Cela empêche l'appareil d'être accidentellement débranché pendant l'utilisation. Vous pouvez toujours utiliser un câble normal si vous le souhaitez, mais l'utilisation de celui fourni par Ubiquiti vous offre une tranquillité d'esprit supplémentaire.
+Tests de performance et intégration
+Pour évaluer les capacités de l'Ubiquiti UniFi Network Video Recorder Pro, nous avons mené une série de tests impliquant une variété de caméras UniFi au bureau grâce à Kevin, notamment l'UniFi G5 Bullet, l'AI Bullet, l'AI Theta, la G5 Pro, la G5 Dome Ultra, l'AI Pro et la G5 Turret Ultra. Ces modèles représentent une gamme de résolutions allant de 2K à 4K, ce qui nous permet d'évaluer en profondeur les performances de l'UNVR-Pro dans différentes conditions.
+Processus de configuration
+La configuration initiale a été remarquablement simple. Une fois les disques installés, nous avons configuré l'UNVR-Pro et l'avons connecté à notre réseau. Le logiciel UniFi Protect a automatiquement détecté et configuré les caméras une fois connectées, ce qui a rendu le processus d'intégration efficace et sans tracas.
+Expérience utilisateur
+L'application UniFi Protect, qui fonctionne sur l'UNVR-Pro, fournit une interface intuitive pour gérer et visualiser les images des caméras sur site et à distance hors site. Les utilisateurs peuvent facilement surveiller les flux en direct, consulter les séquences enregistrées et ajuster les paramètres de chaque caméra. L'application est bien conçue, permettant une navigation fluide entre les différentes fonctions.
+L'une de ses caractéristiques les plus remarquables est l'intégration de fonctions de détection intelligente et d'IA, permettant aux utilisateurs de recevoir des alertes pour des événements spécifiques, tels que des mouvements de personnes ou de véhicules. Ce filtrage intelligent réduit les fausses alarmes, garantissant que les utilisateurs restent informés des activités importantes sans distractions inutiles et améliorant la gestion globale de la sécurité.
+Évolutivité et performances
+Lors des tests, nous avons poussé l'appareil à gérer simultanément plusieurs flux de caméras, en testant spécifiquement un mélange de caméras 2K et 4K. L'UNVR-Pro a géré la charge de manière exceptionnelle, en faisant fonctionner sept caméras simultanément sans aucun décalage ou retard notable dans l'accès aux flux en direct ou dans le défilement des séquences enregistrées. Ces performances en disent long sur la capacité du système à évoluer à mesure que de nouvelles caméras sont ajoutées, ce qui en fait un choix idéal pour les utilisateurs qui prévoient d'étendre leurs configurations de surveillance.
+Gestion du stockage
+L'un des principaux avantages de l'Ubiquiti UniFi Network Video Recorder Pro est son stockage efficace. Grâce aux configurations RAID intégrées, les utilisateurs peuvent choisir entre maximiser l'espace de stockage disponible ou privilégier la redondance des données pour se protéger contre les pannes de disque. Cette flexibilité permet aux utilisateurs d'adapter le système à leurs besoins, en équilibrant les exigences de stockage et les problèmes de sécurité.
+Pannes de disque simulées et fonctionnalité de secours à chaud
+Pour évaluer plus précisément la fiabilité de l'UNVR-Pro, nous avons effectué des tests de simulation de panne de disque. Nous avons installé sept disques Seagate Exos X24 de 24 To dans notre configuration et activé un mode de protection renforcé. Cette configuration améliore l'intégrité des données grâce à un système RAID-5 robuste, avec un disque désigné comme disque de secours.
+Lors de nos tests, nous avons volontairement retiré l'un des disques actifs alors que le système était opérationnel. Le disque de secours s'est immédiatement activé, permettant au système de fonctionner sans interruption. Le disque remplacé a commencé à reconstruire les données rapidement, démontrant l'efficacité de la fonction de secours. Cette fonctionnalité est essentielle pour garantir un enregistrement vidéo ininterrompu et l'intégrité des données, en particulier dans les environnements où la sécurité est primordiale.
+Tout au long de la période de test, nous avons surveillé en permanence l'état des disques et l'utilisation du stockage via l'interface UniFi. Le système a fourni des alertes en temps réel et des mesures de performances, notamment les heures de fonctionnement, les températures des disques et le nombre de secteurs défectueux. Ce niveau de surveillance simplifie la gestion du système et permet aux utilisateurs de résoudre de manière proactive les problèmes potentiels avant qu'ils ne deviennent critiques.
+Conclusion
+L'enregistreur vidéo réseau UniFi Network Video Recorder Pro (UNVR-Pro) est une solution puissante, évolutive et flexible pour les utilisateurs souhaitant gérer de nombreuses caméras tout en garantissant la protection et la redondance des données. Sa capacité à prendre en charge jusqu'à 70 caméras HD, 35 caméras 2K ou 24 caméras 4K en fait un excellent choix pour les particuliers et les petites entreprises cherchant à améliorer leurs systèmes de sécurité.
+Avec sept baies de lecteur, une fonctionnalité RAID intégrée et une prise en charge des réseaux 1G et 10G, l'UNVR-Pro offre une flexibilité et une protection de stockage exceptionnelles, ce qui le rend adapté aux environnements à large bande passante. La prise en charge de l'alimentation redondante ajoute une couche supplémentaire de fiabilité, garantissant un fonctionnement continu même dans des conditions défavorables.
+De plus, l'intégration transparente de l'UNVR-Pro dans l'écosystème UniFi en fait un choix logique pour les utilisateurs déjà investis dans les produits UniFi, offrant une interface unifiée pour la gestion des caméras et des périphériques réseau.
+L'UNVR-Pro est une base solide pour un système de surveillance sécurisé et évolutif. C'est une solution hautement recommandée pour tous ceux qui cherchent à améliorer leurs capacités de vidéosurveillance. Qu'il s'agisse de protéger une maison ou de gérer une petite ou moyenne entreprise, l'UNVR-Pro tient ses promesses de performance, de fiabilité et de valeur, ce qui en fait une option remarquable sur le marché de la surveillance professionnelle.
+Page UNVR-Pro (lien affilié)

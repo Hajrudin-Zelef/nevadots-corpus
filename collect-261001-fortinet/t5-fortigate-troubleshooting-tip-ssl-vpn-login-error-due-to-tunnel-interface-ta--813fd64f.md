@@ -1,0 +1,4 @@
+Troubleshooting Tip: SSL VPN login error due to tunnel interface being down
+| Description | This article describes how to fix an error that occurs with SSL VPN login where the user is informed that the tunnel interface is down. | 
+| Scope | FortiGate 6.X and 7.X | 
+| Solution | SSL VPN login error due to tunnel Interface down.    config system interface edit ssl.root show config system interface edit "ssl.root" set vdom "root" set allowaccess fabric set status down -> [Tunnel status is down] set type tunnel set snmp-index 4 next end   The VPN interface will appear greyed out (as shown in the screenshot above) when it is administratively down.    Note: If 'Fabric' is enabled for allowaccess, the tunnel status can not be changed.  Related articles: |

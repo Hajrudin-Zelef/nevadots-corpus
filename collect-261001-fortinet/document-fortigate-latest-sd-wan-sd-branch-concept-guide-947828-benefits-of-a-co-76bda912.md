@@ -1,0 +1,3 @@
+Benefits of a controllerless-based architecture
+Benefits of a controllerless-based architecture
+A major differentiator from other SD-WAN vendors, Fortinet Secure SD-WAN offers a controllerless-based architecture where each FortiGate device maintains control-plane autonomy at the branch edge. In other words, the solution does not require a centralized or cloud-based controller to provide control-plane operations for application steering. Instead, each FortiGate edge device operates independently to evaluate available path efficacy and choose the most appropriate path for applications to traverse the WAN, whether the selected link be an overlay interface (IPsec) or an underlay interface (MPLS, DIA).

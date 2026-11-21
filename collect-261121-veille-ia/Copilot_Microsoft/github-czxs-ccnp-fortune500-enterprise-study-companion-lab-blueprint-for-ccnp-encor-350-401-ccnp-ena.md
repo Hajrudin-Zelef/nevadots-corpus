@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-czxs-ccnp-fortune500-enterprise-study-companion-lab-blueprint-for-ccnp-encor-350-401-ccnp-ena
+id: collect-261121-veille-ia/reseau-networking/github-czxs-ccnp-fortune500-enterprise-study-companion-lab-blueprint-for-ccnp-encor-350-401-ccnp-ena
 title: "GitHub - czxs/CCNP-Fortune500-Enterprise: Study companion + lab blueprint for CCNP ENCOR (350-401), CCNP ENARSI (300-410), and CCIE Enterprise Infrastructure. Real-world Fortune 500 topology with 10 CCNP-level foundation deep-dives, device configs, setup guides, and hands-on lab mapping."
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

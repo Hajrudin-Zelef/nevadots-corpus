@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/kimi/mikrotik-routeros-2026-guide-pro-tips-for-better-networking
+id: collect-261121-veille-ia/mikrotik/mikrotik-routeros-2026-guide-pro-tips-for-better-networking
 title: "Mikrotik RouterOS 2026 Guide: Pro Tips for Better Networking"
-domain: kimi
+domain: mikrotik
 role: reference
 task: article
 actors: ["Moonshot AI"]

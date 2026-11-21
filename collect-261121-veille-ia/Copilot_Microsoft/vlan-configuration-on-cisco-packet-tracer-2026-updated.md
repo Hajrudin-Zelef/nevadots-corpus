@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/vlan-configuration-on-cisco-packet-tracer-2026-updated
+id: collect-261121-veille-ia/cisco/vlan-configuration-on-cisco-packet-tracer-2026-updated
 title: "VLAN Configuration on Cisco Packet Tracer - 2026 Updated"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/github-careed23-the-network-config-generator-infrastructure-as-code-engine-that-generates-standardiz
+id: collect-261121-veille-ia/cisco/github-careed23-the-network-config-generator-infrastructure-as-code-engine-that-generates-standardiz
 title: "GitHub - careed23/The-Network-Config-Generator: Infrastructure-as-Code engine that generates standardized Cisco/Juniper configurations using YAML data models and Jinja2 templating."
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

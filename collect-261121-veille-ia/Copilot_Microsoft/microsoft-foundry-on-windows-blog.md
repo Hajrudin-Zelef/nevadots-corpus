@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/microsoft-foundry-on-windows-blog
+id: collect-261121-veille-ia/unifi-ubiquiti/microsoft-foundry-on-windows-blog
 title: "Microsoft Foundry on Windows Blog"
-domain: copilot-microsoft
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Microsoft"]

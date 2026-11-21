@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/dual-wan-failover-script-ping-command
+id: collect-261121-veille-ia/reseau-networking/dual-wan-failover-script-ping-command
 title: "Dual WAN Failover Script Ping Command"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/gemini-4-neon-a-1m-context-multimodal
+id: collect-261121-veille-ia/unifi-ubiquiti/gemini-4-neon-a-1m-context-multimodal
 title: "Gemini 4 Neon â 1M context, multimodal"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

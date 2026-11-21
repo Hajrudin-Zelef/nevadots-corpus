@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/api-enable-standard-servicesi
+id: collect-261121-veille-ia/opnsense-pfsense/api-enable-standard-servicesi
 title: "API enable standard servicesï"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

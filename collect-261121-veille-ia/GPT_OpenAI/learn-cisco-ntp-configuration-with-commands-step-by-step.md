@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/learn-cisco-ntp-configuration-with-commands-step-by-step
+id: collect-261121-veille-ia/cisco/learn-cisco-ntp-configuration-with-commands-step-by-step
 title: "Learn Cisco NTP Configuration with Commands – Step by Step"
-domain: gpt-openai
+domain: cisco
 role: reference
 task: article
 actors: ["OpenAI"]

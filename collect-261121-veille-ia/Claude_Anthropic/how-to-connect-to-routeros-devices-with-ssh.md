@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/how-to-connect-to-routeros-devices-with-ssh
+id: collect-261121-veille-ia/mikrotik/how-to-connect-to-routeros-devices-with-ssh
 title: "How to connect to RouterOS devices with SSH"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

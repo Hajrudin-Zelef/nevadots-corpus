@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/datacenters-infra/wireguard-site-to-site-hex-to-udm
+id: collect-261121-veille-ia/reseau-networking/wireguard-site-to-site-hex-to-udm
 title: "Wireguard site to site Hex to UDM"
-domain: datacenters-infra
+domain: reseau-networking
 role: reference
 task: article
 actors: []

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/opnsense-upgrade-python-readme-md-at-b774b6be27f57b8ed1f0cbedf7eb5c067a960590-builderall-opnsense-up
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-upgrade-python-readme-md-at-b774b6be27f57b8ed1f0cbedf7eb5c067a960590-builderall-opnsense-up
 title: "opnsense-upgrade/python/README.md at b774b6be27f57b8ed1f0cbedf7eb5c067a960590 · builderall/opnsense-upgrade"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

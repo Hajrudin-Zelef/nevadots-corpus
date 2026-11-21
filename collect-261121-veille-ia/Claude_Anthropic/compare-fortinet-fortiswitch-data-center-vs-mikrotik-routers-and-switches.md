@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/compare-fortinet-fortiswitch-data-center-vs-mikrotik-routers-and-switches
+id: collect-261121-veille-ia/mikrotik/compare-fortinet-fortiswitch-data-center-vs-mikrotik-routers-and-switches
 title: "Compare Fortinet FortiSwitch - Data Center vs MikroTik Routers and Switches"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

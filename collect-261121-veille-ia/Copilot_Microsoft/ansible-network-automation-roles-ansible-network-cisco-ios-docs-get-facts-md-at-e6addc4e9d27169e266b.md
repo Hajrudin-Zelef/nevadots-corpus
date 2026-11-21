@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/ansible-network-automation-roles-ansible-network-cisco-ios-docs-get-facts-md-at-e6addc4e9d27169e266b
+id: collect-261121-veille-ia/cisco/ansible-network-automation-roles-ansible-network-cisco-ios-docs-get-facts-md-at-e6addc4e9d27169e266b
 title: "ansible-network-automation/roles/ansible-network.cisco_ios/docs/get_facts.md at e6addc4e9d27169e266ba7fda36f450b2649b17b · LukeDRussell/ansible-network-automation"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/samsung-mobile/troubleshooting-tip-internet-is-not-working-with-one-of-the-sd-wan-members-when-ip-pool-is-called-in
+id: collect-261121-veille-ia/reseau-networking/troubleshooting-tip-internet-is-not-working-with-one-of-the-sd-wan-members-when-ip-pool-is-called-in
 title: "Troubleshooting Tip: Internet is not working with one of the SD-WAN members when IP pool is called in the policy | Community"
-domain: samsung-mobile
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Samsung"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/firewall-rules-and-interface-lists-best-practice
+id: collect-261121-veille-ia/reseau-networking/firewall-rules-and-interface-lists-best-practice
 title: "Firewall rules and interface lists - best practice?"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

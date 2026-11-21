@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/hardware-semi/load-balancing-mikrotik-pcc-dengan-pppoe
+id: collect-261121-veille-ia/mikrotik/load-balancing-mikrotik-pcc-dengan-pppoe
 title: "Load Balancing Mikrotik PCC dengan PPPoe"
-domain: hardware-semi
+domain: mikrotik
 role: reference
 task: article
 actors: []

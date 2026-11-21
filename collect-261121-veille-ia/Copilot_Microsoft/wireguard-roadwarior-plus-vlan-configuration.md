@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/wireguard-roadwarior-plus-vlan-configuration
+id: collect-261121-veille-ia/reseau-networking/wireguard-roadwarior-plus-vlan-configuration
 title: "WireGuard RoadWarior plus VLAN configuration"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/how-to-connect-to-routeros-devices-with-ssh-2
+id: collect-261121-veille-ia/mikrotik/how-to-connect-to-routeros-devices-with-ssh-2
 title: "How to connect to RouterOS devices with SSH"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

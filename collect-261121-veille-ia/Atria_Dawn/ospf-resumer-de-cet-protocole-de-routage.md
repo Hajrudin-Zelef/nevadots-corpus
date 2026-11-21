@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/atria-dawn/ospf-resumer-de-cet-protocole-de-routage
+id: collect-261121-veille-ia/cisco/ospf-resumer-de-cet-protocole-de-routage
 title: "OSPF : Résumer de cet protocole de routage"
-domain: atria-dawn
+domain: cisco
 role: reference
 task: article
 actors: []

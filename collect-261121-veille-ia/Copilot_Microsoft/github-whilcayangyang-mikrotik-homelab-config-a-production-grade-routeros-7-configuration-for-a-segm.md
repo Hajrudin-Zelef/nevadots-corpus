@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-whilcayangyang-mikrotik-homelab-config-a-production-grade-routeros-7-configuration-for-a-segm
+id: collect-261121-veille-ia/mikrotik/github-whilcayangyang-mikrotik-homelab-config-a-production-grade-routeros-7-configuration-for-a-segm
 title: "GitHub - whilcayangyang/mikrotik-homelab-config: A production-grade RouterOS 7 configuration for a segmented homelab network: VLAN isolation, per-device ProtonVPN policy-based routing (kill-switched), hardened admin access with brute-force lockout, and QoS."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

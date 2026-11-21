@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/how-to-set-up-wifiwave2-capsman-for-your-ax-mikrotik-devices
+id: collect-261121-veille-ia/mikrotik/how-to-set-up-wifiwave2-capsman-for-your-ax-mikrotik-devices
 title: "How to set up WifiWave2 CAPsMAN for your AX MikroTik devices"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

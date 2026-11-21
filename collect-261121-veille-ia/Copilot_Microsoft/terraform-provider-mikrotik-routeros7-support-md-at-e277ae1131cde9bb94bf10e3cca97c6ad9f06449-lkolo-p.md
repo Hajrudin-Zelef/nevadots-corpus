@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/terraform-provider-mikrotik-routeros7-support-md-at-e277ae1131cde9bb94bf10e3cca97c6ad9f06449-lkolo-p
+id: collect-261121-veille-ia/mikrotik/terraform-provider-mikrotik-routeros7-support-md-at-e277ae1131cde9bb94bf10e3cca97c6ad9f06449-lkolo-p
 title: "terraform-provider-mikrotik/ROUTEROS7_SUPPORT.md at e277ae1131cde9bb94bf10e3cca97c6ad9f06449 · lkolo-prez/terraform-provider-mikrotik"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

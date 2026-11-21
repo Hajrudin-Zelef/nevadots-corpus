@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/reset-routeros-without-losing-remote-access-winbox-ssh
+id: collect-261121-veille-ia/mikrotik/reset-routeros-without-losing-remote-access-winbox-ssh
 title: "Reset RouterOS without losing remote access (Winbox/SSH)"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

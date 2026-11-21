@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/hugging-face-models-on-foundry-managed-compute
+id: collect-261121-veille-ia/dev-langages/hugging-face-models-on-foundry-managed-compute
 title: "Hugging Face Models on Foundry Managed Compute"
-domain: copilot-microsoft
+domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/dual-wan-failover-port-forward-not-working-when-changing-route-distance
+id: collect-261121-veille-ia/reseau-networking/dual-wan-failover-port-forward-not-working-when-changing-route-distance
 title: "Dual WAN failover, port forward not working when changing route distance"
-domain: claude-anthropic
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

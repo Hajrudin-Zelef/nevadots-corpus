@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/cisco-nat-configuration-ios-router-practical-networking-net
+id: collect-261121-veille-ia/cisco/cisco-nat-configuration-ios-router-practical-networking-net
 title: "Cisco NAT Configuration - IOS Router – Practical Networking .net"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

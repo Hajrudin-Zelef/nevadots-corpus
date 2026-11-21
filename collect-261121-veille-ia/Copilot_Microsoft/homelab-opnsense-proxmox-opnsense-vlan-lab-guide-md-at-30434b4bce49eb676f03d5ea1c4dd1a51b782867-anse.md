@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/homelab-opnsense-proxmox-opnsense-vlan-lab-guide-md-at-30434b4bce49eb676f03d5ea1c4dd1a51b782867-anse
+id: collect-261121-veille-ia/opnsense-pfsense/homelab-opnsense-proxmox-opnsense-vlan-lab-guide-md-at-30434b4bce49eb676f03d5ea1c4dd1a51b782867-anse
 title: "homelab/OPNsense/proxmox-opnsense-vlan-lab-guide.md at 30434b4bce49eb676f03d5ea1c4dd1a51b782867 · anselem-okeke/homelab"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

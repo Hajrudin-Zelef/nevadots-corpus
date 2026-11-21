@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-23
-title: "Send Feedback"
+title: "SSL-VPN monitor"
 domain: gemini-google
 role: reference
 task: article

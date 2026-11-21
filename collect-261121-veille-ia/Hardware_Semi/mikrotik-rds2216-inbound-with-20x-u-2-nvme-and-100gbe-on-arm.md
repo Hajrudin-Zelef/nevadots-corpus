@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/hardware-semi/mikrotik-rds2216-inbound-with-20x-u-2-nvme-and-100gbe-on-arm
+id: collect-261121-veille-ia/mikrotik/mikrotik-rds2216-inbound-with-20x-u-2-nvme-and-100gbe-on-arm
 title: "MikroTik RDS2216 Inbound with 20x U.2 NVMe and 100GbE on Arm"
-domain: hardware-semi
+domain: mikrotik
 role: reference
 task: article
 actors: []

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-ripclap-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros
+id: collect-261121-veille-ia/mikrotik/github-ripclap-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros
 title: "GitHub - ripclap/terraform-provider-routeros: Terraform Provider for Mikrotik RouterOS"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/meraki-auto-vpn-configuration-settings
+id: collect-261121-veille-ia/cisco/meraki-auto-vpn-configuration-settings
 title: "Meraki Auto VPN Configuration Settings"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/script-to-generate-a-mikrotik-chr-vm-in-proxmox-v7-5-and-v8-1
+id: collect-261121-veille-ia/mikrotik/script-to-generate-a-mikrotik-chr-vm-in-proxmox-v7-5-and-v8-1
 title: "Script to generate a Mikrotik CHR vm in Proxmox v7.5 and v8.1"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

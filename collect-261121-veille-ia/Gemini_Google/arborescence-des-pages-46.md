@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/arborescence-des-pages-46
+id: collect-261121-veille-ia/reseau-networking/arborescence-des-pages-46
 title: "Arborescence des pages"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/tutoriel-express-js-5-api-rest-node-js-en-12-etapes-2026
+id: collect-261121-veille-ia/dev-langages/tutoriel-express-js-5-api-rest-node-js-en-12-etapes-2026
 title: "Tutoriel Express.js 5 : API REST Node.js en 12 Étapes [2026]"
-domain: gemini-google
+domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]

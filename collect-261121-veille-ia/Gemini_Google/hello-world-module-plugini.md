@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/hello-world-module-plugini
+id: collect-261121-veille-ia/opnsense-pfsense/hello-world-module-plugini
 title: "Hello world module & pluginï"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

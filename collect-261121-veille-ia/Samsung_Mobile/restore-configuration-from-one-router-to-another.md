@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/samsung-mobile/restore-configuration-from-one-router-to-another
+id: collect-261121-veille-ia/mikrotik/restore-configuration-from-one-router-to-another
 title: "Restore configuration from one router to another"
-domain: samsung-mobile
+domain: mikrotik
 role: reference
 task: article
 actors: ["Samsung"]

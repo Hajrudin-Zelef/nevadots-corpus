@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/dhcp-snooping-configuration-on-packet-tracer-ccna-ccnp
+id: collect-261121-veille-ia/reseau-networking/dhcp-snooping-configuration-on-packet-tracer-ccna-ccnp
 title: "DHCP Snooping Configuration on Packet Tracer ⋆ | CCNA & CCNP"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

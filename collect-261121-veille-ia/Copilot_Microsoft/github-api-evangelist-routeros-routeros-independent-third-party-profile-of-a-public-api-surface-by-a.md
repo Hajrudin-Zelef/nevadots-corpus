@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-api-evangelist-routeros-routeros-independent-third-party-profile-of-a-public-api-surface-by-a
+id: collect-261121-veille-ia/mikrotik/github-api-evangelist-routeros-routeros-independent-third-party-profile-of-a-public-api-surface-by-a
 title: "GitHub - api-evangelist/routeros: RouterOS — independent third-party profile of a public API surface, by API Evangelist. RouterOS is MikroTik's powerful network operating system designed for managing routers, switches, access points, and other network devices. It provides a comprehensive REST API (v7.1+) and a TCP-based binary API for programmatic management of IP addresses, interf"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-22
-title: "Send Feedback"
+title: "Source and destination UUID logging"
 domain: gemini-google
 role: reference
 task: article

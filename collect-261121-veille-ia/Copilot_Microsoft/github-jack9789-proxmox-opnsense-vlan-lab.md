@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-jack9789-proxmox-opnsense-vlan-lab
+id: collect-261121-veille-ia/cisco/github-jack9789-proxmox-opnsense-vlan-lab
 title: "GitHub - jack9789/proxmox-opnsense-vlan-lab"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

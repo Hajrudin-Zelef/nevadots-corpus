@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/rstp-configuration-on-packet-tracer-ipcisco
+id: collect-261121-veille-ia/cisco/rstp-configuration-on-packet-tracer-ipcisco
 title: "RSTP Configuration on Packet Tracer ⋆ IpCisco"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

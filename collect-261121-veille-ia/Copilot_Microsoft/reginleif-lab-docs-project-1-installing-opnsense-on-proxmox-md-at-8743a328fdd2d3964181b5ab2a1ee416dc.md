@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/reginleif-lab-docs-project-1-installing-opnsense-on-proxmox-md-at-8743a328fdd2d3964181b5ab2a1ee416dc
+id: collect-261121-veille-ia/opnsense-pfsense/reginleif-lab-docs-project-1-installing-opnsense-on-proxmox-md-at-8743a328fdd2d3964181b5ab2a1ee416dc
 title: "reginleif_lab/docs/Project-1-Installing-OPNsense-on-Proxmox.md at 8743a328fdd2d3964181b5ab2a1ee416dcc045be · Reginleif86/reginleif_lab"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

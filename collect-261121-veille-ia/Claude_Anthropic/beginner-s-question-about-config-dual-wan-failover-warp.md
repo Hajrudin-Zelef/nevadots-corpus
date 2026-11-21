@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/beginner-s-question-about-config-dual-wan-failover-warp
+id: collect-261121-veille-ia/reseau-networking/beginner-s-question-about-config-dual-wan-failover-warp
 title: "Beginner's question about config dual wan failover + warp"
-domain: claude-anthropic
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

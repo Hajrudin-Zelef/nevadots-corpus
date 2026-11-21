@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/technical-note-configuring-bgp-on-a-fortigate-with-single-homed-ebgp-peering-ibgp-peering-access-lis
+id: collect-261121-veille-ia/fortinet/technical-note-configuring-bgp-on-a-fortigate-with-single-homed-ebgp-peering-ibgp-peering-access-lis
 title: "Technical Note: Configuring BGP on a FortiGate with single-homed eBGP peering, iBGP peering, access-list and OSPF | Community"
-domain: gemini-google
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

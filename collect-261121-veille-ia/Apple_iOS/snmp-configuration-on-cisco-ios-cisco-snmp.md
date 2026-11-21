@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/snmp-configuration-on-cisco-ios-cisco-snmp
+id: collect-261121-veille-ia/cisco/snmp-configuration-on-cisco-ios-cisco-snmp
 title: "SNMP Configuration On Cisco IOS ⋆ | Cisco SNMP"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

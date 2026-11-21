@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/datacenters-infra/architecting-sovereign-ai-clusters-specs-tco-review
+id: collect-261121-veille-ia/unifi-ubiquiti/architecting-sovereign-ai-clusters-specs-tco-review
 title: "Architecting Sovereign AI Clusters: Specs & TCO Review"
-domain: datacenters-infra
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: []

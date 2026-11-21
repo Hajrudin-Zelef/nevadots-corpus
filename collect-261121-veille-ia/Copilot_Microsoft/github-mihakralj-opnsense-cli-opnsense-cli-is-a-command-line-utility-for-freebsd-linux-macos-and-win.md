@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-mihakralj-opnsense-cli-opnsense-cli-is-a-command-line-utility-for-freebsd-linux-macos-and-win
+id: collect-261121-veille-ia/opnsense-pfsense/github-mihakralj-opnsense-cli-opnsense-cli-is-a-command-line-utility-for-freebsd-linux-macos-and-win
 title: "GitHub - mihakralj/opnsense-cli: OPNsense CLI is a command-line utility for FreeBSD, Linux, MacOS and Windows that empowers administrators and power users to manage, configure, and monitor OPNsense firewall systems."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

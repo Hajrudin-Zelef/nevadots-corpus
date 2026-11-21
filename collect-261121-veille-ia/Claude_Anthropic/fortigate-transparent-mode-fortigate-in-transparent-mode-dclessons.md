@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/fortigate-transparent-mode-fortigate-in-transparent-mode-dclessons
+id: collect-261121-veille-ia/fortinet/fortigate-transparent-mode-fortigate-in-transparent-mode-dclessons
 title: "Fortigate Transparent Mode | Fortigate in Transparent Mode - DCLessons"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

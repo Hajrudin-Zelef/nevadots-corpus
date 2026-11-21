@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-snuffy2-aiopnsense-async-python-client-library-for-opnsense
+id: collect-261121-veille-ia/opnsense-pfsense/github-snuffy2-aiopnsense-async-python-client-library-for-opnsense
 title: "GitHub - Snuffy2/aiopnsense: Async Python client library for OPNsense"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/terraform-provider-opnsense-26-status-md-at-1c378c4facf147a61ee23e2888aa113f3aaf3357-rgcosta7-terraf
+id: collect-261121-veille-ia/opnsense-pfsense/terraform-provider-opnsense-26-status-md-at-1c378c4facf147a61ee23e2888aa113f3aaf3357-rgcosta7-terraf
 title: "terraform-provider-opnsense-26/STATUS.md at 1c378c4facf147a61ee23e2888aa113f3aaf3357 · rgcosta7/terraform-provider-opnsense-26"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/mikrotik-vs-ubiquiti-which-network-solution-is-right-for-you
+id: collect-261121-veille-ia/mikrotik/mikrotik-vs-ubiquiti-which-network-solution-is-right-for-you
 title: "Mikrotik vs Ubiquiti: Which Network Solution is Right for You?"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

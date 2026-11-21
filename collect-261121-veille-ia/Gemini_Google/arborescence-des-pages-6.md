@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/arborescence-des-pages-6
+id: collect-261121-veille-ia/cisco/arborescence-des-pages-6
 title: "Arborescence des pages"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

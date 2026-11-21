@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/configure-fortigate-as-a-dhcp-server-via-gui-and-cli
+id: collect-261121-veille-ia/fortinet/configure-fortigate-as-a-dhcp-server-via-gui-and-cli
 title: "Configure FortiGate as a DHCP Server via GUI and CLI"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

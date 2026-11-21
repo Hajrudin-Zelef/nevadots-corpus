@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-shaileshsahani-ccnp-enterprise-labs-gns3-hands-on-ccnp-enterprise-labs-built-with-gns3-coveri
+id: collect-261121-veille-ia/reseau-networking/github-shaileshsahani-ccnp-enterprise-labs-gns3-hands-on-ccnp-enterprise-labs-built-with-gns3-coveri
 title: "GitHub - ShaileshSahani/CCNP-Enterprise-Labs-GNS3: Hands-on CCNP Enterprise labs built with GNS3 covering OSPF, EIGRP, BGP, MPLS, VPNs, High Availability, Security, and Enterprise Network Design."
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

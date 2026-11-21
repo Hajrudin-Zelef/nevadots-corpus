@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/dual-wan
+id: collect-261121-veille-ia/mikrotik/dual-wan
 title: "Dual WAN"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

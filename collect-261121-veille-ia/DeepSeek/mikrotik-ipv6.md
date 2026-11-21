@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/mikrotik-ipv6
+id: collect-261121-veille-ia/mikrotik/mikrotik-ipv6
 title: "Mikrotik & IPv6"
-domain: deepseek
+domain: mikrotik
 role: reference
 task: article
 actors: ["DeepSeek"]

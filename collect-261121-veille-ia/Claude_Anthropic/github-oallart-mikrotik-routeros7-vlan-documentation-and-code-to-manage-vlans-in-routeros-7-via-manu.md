@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/github-oallart-mikrotik-routeros7-vlan-documentation-and-code-to-manage-vlans-in-routeros-7-via-manu
+id: collect-261121-veille-ia/mikrotik/github-oallart-mikrotik-routeros7-vlan-documentation-and-code-to-manage-vlans-in-routeros-7-via-manu
 title: "GitHub - oallart/mikrotik-routeros7-vlan: Documentation and code to manage VLANs in RouterOS 7 via manual commands and terraform"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

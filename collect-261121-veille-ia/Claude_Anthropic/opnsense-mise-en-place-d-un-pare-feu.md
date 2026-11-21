@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/opnsense-mise-en-place-d-un-pare-feu
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-mise-en-place-d-un-pare-feu
 title: "OPNsense : mise en place d'un pare-feu"
-domain: claude-anthropic
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Anthropic"]

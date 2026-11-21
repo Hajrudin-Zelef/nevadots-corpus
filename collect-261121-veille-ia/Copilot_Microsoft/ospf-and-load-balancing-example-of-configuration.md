@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/ospf-and-load-balancing-example-of-configuration
+id: collect-261121-veille-ia/reseau-networking/ospf-and-load-balancing-example-of-configuration
 title: "OSPF and load balancing - example of configuration"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

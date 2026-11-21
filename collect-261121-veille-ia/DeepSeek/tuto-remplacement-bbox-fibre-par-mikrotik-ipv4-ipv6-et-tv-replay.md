@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/tuto-remplacement-bbox-fibre-par-mikrotik-ipv4-ipv6-et-tv-replay
+id: collect-261121-veille-ia/mikrotik/tuto-remplacement-bbox-fibre-par-mikrotik-ipv4-ipv6-et-tv-replay
 title: "[TUTO] Remplacement BBox Fibre par Mikrotik (IPv4, IPv6 et TV/Replay)"
-domain: deepseek
+domain: mikrotik
 role: reference
 task: article
 actors: ["DeepSeek"]

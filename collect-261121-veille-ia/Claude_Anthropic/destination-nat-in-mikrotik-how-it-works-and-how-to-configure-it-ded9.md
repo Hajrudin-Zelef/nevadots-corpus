@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/destination-nat-in-mikrotik-how-it-works-and-how-to-configure-it-ded9
+id: collect-261121-veille-ia/mikrotik/destination-nat-in-mikrotik-how-it-works-and-how-to-configure-it-ded9
 title: "Destination NAT in MikroTik: How It Works and How to Configure It - DED9"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

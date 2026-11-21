@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-o-x-l-ansible-opnsense-ansible-collection-to-manage-opnsense-firewalls-using-their-api
+id: collect-261121-veille-ia/opnsense-pfsense/github-o-x-l-ansible-opnsense-ansible-collection-to-manage-opnsense-firewalls-using-their-api
 title: "GitHub - O-X-L/ansible-opnsense: Ansible Collection to manage OPNsense firewalls using their API"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

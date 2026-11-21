@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/librouteros-docs-config-rst-at-694e1317ca243ec8d83ae23a0bf47a0c50ae394d-luqasz-librouteros
+id: collect-261121-veille-ia/mikrotik/librouteros-docs-config-rst-at-694e1317ca243ec8d83ae23a0bf47a0c50ae394d-luqasz-librouteros
 title: "librouteros/docs/config.rst at 694e1317ca243ec8d83ae23a0bf47a0c50ae394d · luqasz/librouteros"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

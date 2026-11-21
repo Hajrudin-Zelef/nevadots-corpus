@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/troubleshooting-tip-sd-wan-performance-sla-for-ipsec-interface-shows-as-down-community
+id: collect-261121-veille-ia/fortinet/troubleshooting-tip-sd-wan-performance-sla-for-ipsec-interface-shows-as-down-community
 title: "Troubleshooting Tip: SD-WAN performance SLA for IPsec interface shows as 'down' | Community"
-domain: gemini-google
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

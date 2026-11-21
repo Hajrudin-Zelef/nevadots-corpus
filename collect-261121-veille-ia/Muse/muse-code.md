@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/muse-code
+id: collect-261121-veille-ia/dev-langages/muse-code
 title: "Muse Code"
-domain: muse
+domain: dev-langages
 role: reference
 task: article
 actors: ["Meta"]

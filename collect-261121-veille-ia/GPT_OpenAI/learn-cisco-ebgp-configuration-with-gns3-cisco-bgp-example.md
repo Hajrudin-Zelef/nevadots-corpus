@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/learn-cisco-ebgp-configuration-with-gns3-cisco-bgp-example
+id: collect-261121-veille-ia/cisco/learn-cisco-ebgp-configuration-with-gns3-cisco-bgp-example
 title: "Learn Cisco eBGP Configuration with GNS3 | Cisco BGP Example!"
-domain: gpt-openai
+domain: cisco
 role: reference
 task: article
 actors: ["OpenAI"]

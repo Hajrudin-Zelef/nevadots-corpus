@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/cisco-meraki-umbrella-sd-wan-connector-deployment-guide-ip-with-ease
+id: collect-261121-veille-ia/cisco/cisco-meraki-umbrella-sd-wan-connector-deployment-guide-ip-with-ease
 title: "Cisco Meraki Umbrella SD-WAN Connector Deployment Guide - IP With Ease"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

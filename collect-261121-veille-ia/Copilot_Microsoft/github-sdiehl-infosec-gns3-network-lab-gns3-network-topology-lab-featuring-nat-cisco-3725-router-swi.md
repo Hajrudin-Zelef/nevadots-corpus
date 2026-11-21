@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-sdiehl-infosec-gns3-network-lab-gns3-network-topology-lab-featuring-nat-cisco-3725-router-swi
+id: collect-261121-veille-ia/cisco/github-sdiehl-infosec-gns3-network-lab-gns3-network-topology-lab-featuring-nat-cisco-3725-router-swi
 title: "GitHub - sdiehl-infosec/GNS3-Network-Lab: GNS3 network topology lab featuring NAT, Cisco 3725 router, switches, and VPCS end devices"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

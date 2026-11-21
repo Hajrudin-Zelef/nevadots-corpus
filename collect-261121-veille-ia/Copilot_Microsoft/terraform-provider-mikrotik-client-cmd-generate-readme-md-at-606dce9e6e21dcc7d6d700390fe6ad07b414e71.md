@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/terraform-provider-mikrotik-client-cmd-generate-readme-md-at-606dce9e6e21dcc7d6d700390fe6ad07b414e71
+id: collect-261121-veille-ia/mikrotik/terraform-provider-mikrotik-client-cmd-generate-readme-md-at-606dce9e6e21dcc7d6d700390fe6ad07b414e71
 title: "terraform-provider-mikrotik/client/cmd/generate/README.md at 606dce9e6e21dcc7d6d700390fe6ad07b414e712 · ddelnano/terraform-provider-mikrotik"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

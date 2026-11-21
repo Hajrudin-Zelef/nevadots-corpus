@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/cannot-see-wifi-with-capsman-solved
+id: collect-261121-veille-ia/mikrotik/cannot-see-wifi-with-capsman-solved
 title: "Cannot see WiFi with CAPsMAN - SOLVED!!"
-domain: modeles-open
+domain: mikrotik
 role: reference
 task: article
 actors: []

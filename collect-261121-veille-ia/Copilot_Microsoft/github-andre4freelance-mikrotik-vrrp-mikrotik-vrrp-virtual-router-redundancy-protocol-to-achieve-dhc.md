@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-andre4freelance-mikrotik-vrrp-mikrotik-vrrp-virtual-router-redundancy-protocol-to-achieve-dhc
+id: collect-261121-veille-ia/mikrotik/github-andre4freelance-mikrotik-vrrp-mikrotik-vrrp-virtual-router-redundancy-protocol-to-achieve-dhc
 title: "GitHub - andre4freelance/MikroTik-vrrp: MikroTik VRRP (Virtual Router Redundancy Protocol) to achieve DHCP Server high availability."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

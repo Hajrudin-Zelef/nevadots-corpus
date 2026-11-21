@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/gemini-4-hydrogen-beats-argon-at-1-50-1m-tokens
+id: collect-261121-veille-ia/unifi-ubiquiti/gemini-4-hydrogen-beats-argon-at-1-50-1m-tokens
 title: "Gemini 4 Hydrogen Beats Argon at $1.50/1M Tokens"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

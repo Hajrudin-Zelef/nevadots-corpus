@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-park0-opnsense-api-opnsense-api-wrapper-with-some-logic-for-authentik-haproxy
+id: collect-261121-veille-ia/opnsense-pfsense/github-park0-opnsense-api-opnsense-api-wrapper-with-some-logic-for-authentik-haproxy
 title: "GitHub - Park0/opnsense_api: OPNsense API wrapper with some logic for authentik / haproxy"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

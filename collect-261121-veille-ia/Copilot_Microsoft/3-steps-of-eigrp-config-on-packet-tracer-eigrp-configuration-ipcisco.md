@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/3-steps-of-eigrp-config-on-packet-tracer-eigrp-configuration-ipcisco
+id: collect-261121-veille-ia/cisco/3-steps-of-eigrp-config-on-packet-tracer-eigrp-configuration-ipcisco
 title: "3 Steps of EIGRP Config on Packet Tracer, EIGRP Configuration ⋆ IPCisco"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/kimi/moonshot-releases-kimi-k3-1-pro-weights-as-huawei-and-alibaba-add-deployment-support
+id: collect-261121-veille-ia/huawei/moonshot-releases-kimi-k3-1-pro-weights-as-huawei-and-alibaba-add-deployment-support
 title: "Moonshot Releases Kimi K3.1 Pro Weights as Huawei and Alibaba Add Deployment Support"
-domain: kimi
+domain: huawei
 role: reference
 task: article
 actors: ["Moonshot AI"]

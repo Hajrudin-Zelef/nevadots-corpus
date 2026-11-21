@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/is-googles-gemini-4-hydrogen-fast-cheap-and-good-enough
+id: collect-261121-veille-ia/unifi-ubiquiti/is-googles-gemini-4-hydrogen-fast-cheap-and-good-enough
 title: "Is Google’s Gemini 4 Hydrogen Fast, Cheap and Good Enough?"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

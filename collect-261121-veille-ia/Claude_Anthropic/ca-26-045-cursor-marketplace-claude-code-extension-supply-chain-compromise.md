@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/ca-26-045-cursor-marketplace-claude-code-extension-supply-chain-compromise
+id: collect-261121-veille-ia/dev-langages/ca-26-045-cursor-marketplace-claude-code-extension-supply-chain-compromise
 title: "CA-26-045: Cursor Marketplace Claude Code Extension Supply Chain Compromise"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

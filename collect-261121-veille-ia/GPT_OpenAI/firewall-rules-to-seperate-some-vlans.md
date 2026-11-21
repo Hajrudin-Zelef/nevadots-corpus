@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/firewall-rules-to-seperate-some-vlans
+id: collect-261121-veille-ia/mikrotik/firewall-rules-to-seperate-some-vlans
 title: "Firewall rules to seperate some vLANs"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

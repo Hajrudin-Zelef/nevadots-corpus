@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/cisco-basic-configuration-ciscozine
+id: collect-261121-veille-ia/cisco/cisco-basic-configuration-ciscozine
 title: "Cisco basic configuration – CiscoZine"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

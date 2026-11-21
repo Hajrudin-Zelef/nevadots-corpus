@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/community-routeros-docs-docsite-rst-ssh-guide-rst-at-3c2f48bfde5067283c6ec6072c919ea4bc608753-ansibl
+id: collect-261121-veille-ia/mikrotik/community-routeros-docs-docsite-rst-ssh-guide-rst-at-3c2f48bfde5067283c6ec6072c919ea4bc608753-ansibl
 title: "community.routeros/docs/docsite/rst/ssh-guide.rst at 3c2f48bfde5067283c6ec6072c919ea4bc608753 · ansible-collections/community.routeros"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

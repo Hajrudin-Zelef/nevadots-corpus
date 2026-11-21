@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-georgybi-eve-ng-labs-welcome-to-the-eve-ng-labs-catalog-this-repository-is-a-comprehensive-co
+id: collect-261121-veille-ia/cisco/github-georgybi-eve-ng-labs-welcome-to-the-eve-ng-labs-catalog-this-repository-is-a-comprehensive-co
 title: "GitHub - georgybi/eve-ng-labs: Welcome to the EVE-NG Labs Catalog! This repository is a comprehensive collection of network simulation free labs designed for network engineers, students, and professionals who want to enhance their skills in routing, switching, and firewall etc.."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

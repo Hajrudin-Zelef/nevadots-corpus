@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/static-route-redistribution-connected-networks-redistribution
+id: collect-261121-veille-ia/cisco/static-route-redistribution-connected-networks-redistribution
 title: "Static Route Redistribution | Connected Networks Redistribution"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

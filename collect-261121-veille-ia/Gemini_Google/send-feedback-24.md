@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/send-feedback-24
-title: "Send Feedback"
-domain: gemini-google
+id: collect-261121-veille-ia/fortinet/send-feedback-24
+title: "SSL VPN with certificate authentication"
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

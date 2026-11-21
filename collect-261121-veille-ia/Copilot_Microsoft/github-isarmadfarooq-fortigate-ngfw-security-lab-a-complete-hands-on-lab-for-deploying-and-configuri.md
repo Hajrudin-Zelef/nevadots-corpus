@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-isarmadfarooq-fortigate-ngfw-security-lab-a-complete-hands-on-lab-for-deploying-and-configuri
+id: collect-261121-veille-ia/fortinet/github-isarmadfarooq-fortigate-ngfw-security-lab-a-complete-hands-on-lab-for-deploying-and-configuri
 title: "GitHub - isarmadfarooq/FortiGate-NGFW-Security-Lab: A complete, hands-on lab for deploying and configuring a FortiGate Next-Generation Firewall in a virtualized enterprise environment covering VM deployment, interface hardening, multi-layer policy implementation, and live threat validation."
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

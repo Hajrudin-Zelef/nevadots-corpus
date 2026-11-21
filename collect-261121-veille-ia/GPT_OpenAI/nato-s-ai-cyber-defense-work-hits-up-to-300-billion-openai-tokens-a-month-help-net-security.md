@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/nato-s-ai-cyber-defense-work-hits-up-to-300-billion-openai-tokens-a-month-help-net-security
+id: collect-261121-veille-ia/mikrotik/nato-s-ai-cyber-defense-work-hits-up-to-300-billion-openai-tokens-a-month-help-net-security
 title: "NATO's AI cyber defense work hits up to 300 billion OpenAI tokens a month - Help Net Security"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

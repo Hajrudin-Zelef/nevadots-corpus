@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-marctm01-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros
+id: collect-261121-veille-ia/mikrotik/github-marctm01-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros
 title: "GitHub - MarcTM01/terraform-provider-routeros: Terraform Provider for Mikrotik RouterOS"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

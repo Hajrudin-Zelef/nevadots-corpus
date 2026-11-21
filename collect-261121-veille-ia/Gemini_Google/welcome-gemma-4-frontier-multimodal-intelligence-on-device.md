@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/welcome-gemma-4-frontier-multimodal-intelligence-on-device
+id: collect-261121-veille-ia/unifi-ubiquiti/welcome-gemma-4-frontier-multimodal-intelligence-on-device
 title: "Welcome Gemma 4: Frontier multimodal intelligence on device"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

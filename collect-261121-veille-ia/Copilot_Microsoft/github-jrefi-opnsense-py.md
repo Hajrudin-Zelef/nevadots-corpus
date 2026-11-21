@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-jrefi-opnsense-py
+id: collect-261121-veille-ia/opnsense-pfsense/github-jrefi-opnsense-py
 title: "GitHub - jrefi/opnsense-py"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/net-automate-code-ansible-6-0-cisco-catalyst-center-templates-github-integration-readme-md-at-662fce
+id: collect-261121-veille-ia/cisco/net-automate-code-ansible-6-0-cisco-catalyst-center-templates-github-integration-readme-md-at-662fce
 title: "NET-AUTOMATE/CODE/ANSIBLE/6.0-Cisco-Catalyst-Center-Templates-Github-integration/README.md at 662fced0a64f7d81c2ca6d88fe2046db0a07c742 · kebaldwi/NET-AUTOMATE"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

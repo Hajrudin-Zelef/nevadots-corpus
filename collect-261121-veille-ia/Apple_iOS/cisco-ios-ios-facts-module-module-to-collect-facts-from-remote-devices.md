@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/cisco-ios-ios-facts-module-module-to-collect-facts-from-remote-devices
+id: collect-261121-veille-ia/cisco/cisco-ios-ios-facts-module-module-to-collect-facts-from-remote-devices
 title: "cisco.ios.ios_facts module – Module to collect facts from remote devices."
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

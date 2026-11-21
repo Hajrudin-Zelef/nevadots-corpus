@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/arborescence-des-pages-61
+id: collect-261121-veille-ia/mikrotik/arborescence-des-pages-61
 title: "Arborescence des pages"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

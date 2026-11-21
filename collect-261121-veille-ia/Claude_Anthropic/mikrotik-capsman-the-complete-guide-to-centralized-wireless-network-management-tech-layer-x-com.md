@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/mikrotik-capsman-the-complete-guide-to-centralized-wireless-network-management-tech-layer-x-com
+id: collect-261121-veille-ia/mikrotik/mikrotik-capsman-the-complete-guide-to-centralized-wireless-network-management-tech-layer-x-com
 title: "MikroTik CAPsMAN: The Complete Guide to Centralized Wireless Network Management - Tech@Layer-x.com"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/send-feedback-40
-title: "Send Feedback"
-domain: gemini-google
+id: collect-261121-veille-ia/fortinet/send-feedback-40
+title: "CORS protocol in explicit web proxy when using session-based, cookie-enabled, and captive portal-enabled SAML authentication"
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/cis-cisco-benchmarks
+id: collect-261121-veille-ia/cisco/cis-cisco-benchmarks
 title: "CIS Cisco Benchmarks"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/ipsec-ikev2-tunnel-tuning
+id: collect-261121-veille-ia/mikrotik/ipsec-ikev2-tunnel-tuning
 title: "IPsec IKEv2 Tunnel Tuning"
-domain: modeles-open
+domain: mikrotik
 role: reference
 task: article
 actors: []

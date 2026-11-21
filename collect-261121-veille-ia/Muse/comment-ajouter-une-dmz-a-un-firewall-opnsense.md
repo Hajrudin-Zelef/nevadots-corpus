@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/comment-ajouter-une-dmz-a-un-firewall-opnsense
+id: collect-261121-veille-ia/opnsense-pfsense/comment-ajouter-une-dmz-a-un-firewall-opnsense
 title: "Comment ajouter une DMZ à un firewall OPNsense ?"
-domain: muse
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Meta"]

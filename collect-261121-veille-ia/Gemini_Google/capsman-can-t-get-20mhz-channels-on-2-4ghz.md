@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/capsman-can-t-get-20mhz-channels-on-2-4ghz
+id: collect-261121-veille-ia/reseau-networking/capsman-can-t-get-20mhz-channels-on-2-4ghz
 title: "CapsMan - can't get 20Mhz channels on 2.4Ghz"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

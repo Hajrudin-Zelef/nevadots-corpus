@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/opnsense-install-config-vpn-readme-md-at-6b15323a2a09ccf12cba8bf179109de98c578592-ideafieldpro-opnse
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-install-config-vpn-readme-md-at-6b15323a2a09ccf12cba8bf179109de98c578592-ideafieldpro-opnse
 title: "OPNsense-install-config-VPN/README.md at 6b15323a2a09ccf12cba8bf179109de98c578592 · ideafieldpro/OPNsense-install-config-VPN"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

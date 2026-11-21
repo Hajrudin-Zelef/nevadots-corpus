@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/claude-haiku-5-5-architecture-100k-pricing-cliff-benchmarks-apineed
+id: collect-261121-veille-ia/unifi-ubiquiti/claude-haiku-5-5-architecture-100k-pricing-cliff-benchmarks-apineed
 title: "Claude Haiku 5.5: Architecture, 100K Pricing Cliff & Benchmarks | APINEED"
-domain: claude-anthropic
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Anthropic"]

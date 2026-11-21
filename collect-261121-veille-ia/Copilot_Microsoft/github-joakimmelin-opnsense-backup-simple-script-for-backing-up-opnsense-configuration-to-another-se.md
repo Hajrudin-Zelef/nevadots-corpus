@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-joakimmelin-opnsense-backup-simple-script-for-backing-up-opnsense-configuration-to-another-se
+id: collect-261121-veille-ia/opnsense-pfsense/github-joakimmelin-opnsense-backup-simple-script-for-backing-up-opnsense-configuration-to-another-se
 title: "GitHub - joakimmelin/opnsense-backup: simple script for backing up OPNSense configuration to another server."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

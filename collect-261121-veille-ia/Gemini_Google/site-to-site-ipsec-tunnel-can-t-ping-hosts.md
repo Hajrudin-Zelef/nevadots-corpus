@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/site-to-site-ipsec-tunnel-can-t-ping-hosts
+id: collect-261121-veille-ia/reseau-networking/site-to-site-ipsec-tunnel-can-t-ping-hosts
 title: "Site to Site IPsec tunnel. Can't ping hosts"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

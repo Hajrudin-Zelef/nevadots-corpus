@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/terraform-provider-mikrotik-examples-resources-mikrotik-interface-vrrp-readme-md-at-e277ae1131cde9bb
+id: collect-261121-veille-ia/mikrotik/terraform-provider-mikrotik-examples-resources-mikrotik-interface-vrrp-readme-md-at-e277ae1131cde9bb
 title: "terraform-provider-mikrotik/examples/resources/mikrotik_interface_vrrp/README.md at e277ae1131cde9bb94bf10e3cca97c6ad9f06449 · lkolo-prez/terraform-provider-mikrotik"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

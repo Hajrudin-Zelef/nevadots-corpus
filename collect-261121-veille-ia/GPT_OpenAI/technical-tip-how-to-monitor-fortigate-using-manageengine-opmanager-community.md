@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/technical-tip-how-to-monitor-fortigate-using-manageengine-opmanager-community
+id: collect-261121-veille-ia/fortinet/technical-tip-how-to-monitor-fortigate-using-manageengine-opmanager-community
 title: "Technical Tip: How to monitor FortiGate using ManageEngine OpManager | Community"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

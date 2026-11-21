@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/troubleshooting-tip-how-to-confirm-if-the-correct-sd-wan-policy-is-used-in-the-session-community
+id: collect-261121-veille-ia/fortinet/troubleshooting-tip-how-to-confirm-if-the-correct-sd-wan-policy-is-used-in-the-session-community
 title: "Troubleshooting Tip: How to confirm if the correct SD-WAN policy is used in the session | Community"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

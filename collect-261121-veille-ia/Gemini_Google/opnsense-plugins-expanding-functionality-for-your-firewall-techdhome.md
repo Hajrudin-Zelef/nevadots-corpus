@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/opnsense-plugins-expanding-functionality-for-your-firewall-techdhome
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-plugins-expanding-functionality-for-your-firewall-techdhome
 title: "OPNsense Plugins: Expanding Functionality for Your Firewall » TECHDHOME"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/hermes-skills-devops-opnsense-admin-skill-md-at-9a57353d3717eb68e206b5edd94bf656f87fbbce-kngender5-h
+id: collect-261121-veille-ia/opnsense-pfsense/hermes-skills-devops-opnsense-admin-skill-md-at-9a57353d3717eb68e206b5edd94bf656f87fbbce-kngender5-h
 title: "hermes/skills/devops/opnsense-admin/SKILL.md at 9a57353d3717eb68e206b5edd94bf656f87fbbce · kngender5/hermes"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

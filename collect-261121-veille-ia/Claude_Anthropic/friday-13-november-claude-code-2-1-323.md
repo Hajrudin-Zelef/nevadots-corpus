@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/friday-13-november-claude-code-2-1-323
+id: collect-261121-veille-ia/dev-langages/friday-13-november-claude-code-2-1-323
 title: "Friday 13 November — Claude Code 2.1.323"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

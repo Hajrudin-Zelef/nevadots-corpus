@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/docs-techniques/search
-title: "Search"
+title: "Linux Kernel 7.2 Officially Released with Cache-Aware Scheduling, USB4STREAM, and Major AMD Improvements"
 domain: docs-techniques
 role: reference
 task: article

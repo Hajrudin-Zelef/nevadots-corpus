@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/latest-ai-research-papers-ai-paper-radar-30-days-aimap-1
+id: collect-261121-veille-ia/unifi-ubiquiti/latest-ai-research-papers-ai-paper-radar-30-days-aimap-1
 title: "Latest AI research papers: AI Paper Radar (30 days) | AIMap"
-domain: modeles-open
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: []

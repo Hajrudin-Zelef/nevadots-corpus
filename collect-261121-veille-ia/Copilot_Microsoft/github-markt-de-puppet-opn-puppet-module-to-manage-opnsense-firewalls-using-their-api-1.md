@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-markt-de-puppet-opn-puppet-module-to-manage-opnsense-firewalls-using-their-api-1
+id: collect-261121-veille-ia/opnsense-pfsense/github-markt-de-puppet-opn-puppet-module-to-manage-opnsense-firewalls-using-their-api-1
 title: "GitHub - markt-de/puppet-opn: Puppet module to manage OPNsense firewalls using their API"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

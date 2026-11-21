@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/send-feedback-38
-title: "Send Feedback"
-domain: gemini-google
+id: collect-261121-veille-ia/fortinet/send-feedback-38
+title: "SD-WAN traffic shaping and QoS"
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

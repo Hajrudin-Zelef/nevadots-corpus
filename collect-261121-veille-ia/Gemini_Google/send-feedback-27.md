@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-27
-title: "Send Feedback"
+title: "Hardware switch"
 domain: gemini-google
 role: reference
 task: article

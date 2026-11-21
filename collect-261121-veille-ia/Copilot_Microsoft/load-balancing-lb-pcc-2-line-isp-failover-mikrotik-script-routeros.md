@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/load-balancing-lb-pcc-2-line-isp-failover-mikrotik-script-routeros
+id: collect-261121-veille-ia/mikrotik/load-balancing-lb-pcc-2-line-isp-failover-mikrotik-script-routeros
 title: "Load Balancing LB PCC 2 Line ISP Failover - Mikrotik Script RouterOS"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

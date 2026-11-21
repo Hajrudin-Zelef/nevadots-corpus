@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-bawe-check-opnsense-check-script-for-opnsense-firewall
+id: collect-261121-veille-ia/opnsense-pfsense/github-bawe-check-opnsense-check-script-for-opnsense-firewall
 title: "GitHub - bawe/check_opnsense: Check script for opnsense firewall"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

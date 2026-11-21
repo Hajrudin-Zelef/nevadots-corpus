@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/how-to-create-self-signed-certificates-ciscozine
+id: collect-261121-veille-ia/cisco/how-to-create-self-signed-certificates-ciscozine
 title: "How to create self-signed certificates – CiscoZine"
-domain: gpt-openai
+domain: cisco
 role: reference
 task: article
 actors: ["OpenAI"]

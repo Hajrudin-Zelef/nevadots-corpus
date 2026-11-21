@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/how-to-add-mikrotik-to-eve-ng-techbloat
+id: collect-261121-veille-ia/mikrotik/how-to-add-mikrotik-to-eve-ng-techbloat
 title: "How to Add MikroTik to EVE-NG - TechBloat"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

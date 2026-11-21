@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/set-up-a-unifi-hotspot-portal-and-guest-wifi
+id: collect-261121-veille-ia/unifi-ubiquiti/set-up-a-unifi-hotspot-portal-and-guest-wifi
 title: "Set up a UniFi Hotspot Portal and Guest WiFi"
-domain: claude-anthropic
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Anthropic"]

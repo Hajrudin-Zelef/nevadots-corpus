@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/troubleshooting-tip-bgp-distribution-list-for-pppoe-interface-community
+id: collect-261121-veille-ia/fortinet/troubleshooting-tip-bgp-distribution-list-for-pppoe-interface-community
 title: "Troubleshooting Tip: BGP distribution list for PPPoE interface | Community"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

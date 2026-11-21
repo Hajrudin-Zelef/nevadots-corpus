@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/platform-options
+id: collect-261121-veille-ia/mikrotik/platform-options
 title: "Platform Options"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

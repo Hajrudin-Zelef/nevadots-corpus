@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-krishna426426-cisco-ios-xe-programmability-lab-module-8-ansible
+id: collect-261121-veille-ia/cisco/github-krishna426426-cisco-ios-xe-programmability-lab-module-8-ansible
 title: "GitHub - krishna426426/cisco-ios-xe-programmability-lab-module-8-ansible"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

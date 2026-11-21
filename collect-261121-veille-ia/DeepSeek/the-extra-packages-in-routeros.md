@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/the-extra-packages-in-routeros
+id: collect-261121-veille-ia/mikrotik/the-extra-packages-in-routeros
 title: "The extra packages in RouterOS"
-domain: deepseek
+domain: mikrotik
 role: reference
 task: article
 actors: ["DeepSeek"]

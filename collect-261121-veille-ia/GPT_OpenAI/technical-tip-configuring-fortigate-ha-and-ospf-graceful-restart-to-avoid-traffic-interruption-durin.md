@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/technical-tip-configuring-fortigate-ha-and-ospf-graceful-restart-to-avoid-traffic-interruption-durin
+id: collect-261121-veille-ia/fortinet/technical-tip-configuring-fortigate-ha-and-ospf-graceful-restart-to-avoid-traffic-interruption-durin
 title: "Technical Tip: Configuring FortiGate HA and OSPF graceful-restart to avoid traffic interruption during a HA failover | Community"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/opnsense-security-and-hardening-best-practice-guide-zenarmor-com
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-security-and-hardening-best-practice-guide-zenarmor-com
 title: "OPNsense Security and Hardening Best Practice Guide - zenarmor.com"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

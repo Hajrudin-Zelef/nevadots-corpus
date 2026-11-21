@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/mikrotik-cloud-router
+id: collect-261121-veille-ia/mikrotik/mikrotik-cloud-router
 title: "Mikrotik Cloud router -"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

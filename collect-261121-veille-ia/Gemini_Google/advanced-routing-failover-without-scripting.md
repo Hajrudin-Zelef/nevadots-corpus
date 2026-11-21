@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/advanced-routing-failover-without-scripting
+id: collect-261121-veille-ia/mikrotik/advanced-routing-failover-without-scripting
 title: "Advanced Routing Failover without Scripting"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

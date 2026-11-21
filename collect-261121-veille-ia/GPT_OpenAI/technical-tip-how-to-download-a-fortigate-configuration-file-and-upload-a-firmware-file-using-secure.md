@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/technical-tip-how-to-download-a-fortigate-configuration-file-and-upload-a-firmware-file-using-secure
+id: collect-261121-veille-ia/fortinet/technical-tip-how-to-download-a-fortigate-configuration-file-and-upload-a-firmware-file-using-secure
 title: "Technical Tip: How to download a FortiGate configuration file and upload a firmware file using secure copy (SCP) | Community"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

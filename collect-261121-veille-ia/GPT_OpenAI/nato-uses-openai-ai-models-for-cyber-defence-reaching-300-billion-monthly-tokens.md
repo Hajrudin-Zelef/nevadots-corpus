@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/nato-uses-openai-ai-models-for-cyber-defence-reaching-300-billion-monthly-tokens
+id: collect-261121-veille-ia/mikrotik/nato-uses-openai-ai-models-for-cyber-defence-reaching-300-billion-monthly-tokens
 title: "NATO Uses OpenAI AI Models for Cyber Defence, Reaching 300 Billion Monthly Tokens"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

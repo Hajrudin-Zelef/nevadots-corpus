@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/using-ospf-to-advertise-remote-vpn-subnets
+id: collect-261121-veille-ia/reseau-networking/using-ospf-to-advertise-remote-vpn-subnets
 title: "Using OSPF to Advertise Remote VPN Subnets"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

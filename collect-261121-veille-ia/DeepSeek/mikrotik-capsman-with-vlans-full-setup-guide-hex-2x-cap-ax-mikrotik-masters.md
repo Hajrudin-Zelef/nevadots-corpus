@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/mikrotik-capsman-with-vlans-full-setup-guide-hex-2x-cap-ax-mikrotik-masters
+id: collect-261121-veille-ia/mikrotik/mikrotik-capsman-with-vlans-full-setup-guide-hex-2x-cap-ax-mikrotik-masters
 title: "MikroTik CAPsMAN with VLANs: Full Setup Guide (hEX + 2x cAP ax) - MikroTik Masters"
-domain: deepseek
+domain: mikrotik
 role: reference
 task: article
 actors: ["DeepSeek"]

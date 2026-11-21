@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/send-feedback-14
-title: "Send Feedback"
-domain: gemini-google
+id: collect-261121-veille-ia/fortinet/send-feedback-14
+title: "Configuring RADIUS SSO authentication"
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

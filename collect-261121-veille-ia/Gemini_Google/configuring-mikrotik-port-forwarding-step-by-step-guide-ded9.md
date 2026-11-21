@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/configuring-mikrotik-port-forwarding-step-by-step-guide-ded9
+id: collect-261121-veille-ia/mikrotik/configuring-mikrotik-port-forwarding-step-by-step-guide-ded9
 title: "Configuring MikroTik Port Forwarding: Step-by-Step Guide - DED9"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

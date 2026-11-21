@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-devinbarry-opn-api-a-python-client-for-the-opnsense-rest-api
+id: collect-261121-veille-ia/opnsense-pfsense/github-devinbarry-opn-api-a-python-client-for-the-opnsense-rest-api
 title: "GitHub - devinbarry/opn-api: A Python client for the OPNsense REST API"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

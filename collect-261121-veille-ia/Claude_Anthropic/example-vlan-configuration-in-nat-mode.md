@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/example-vlan-configuration-in-nat-mode
+id: collect-261121-veille-ia/fortinet/example-vlan-configuration-in-nat-mode
 title: "Example VLAN configuration in NAT mode"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

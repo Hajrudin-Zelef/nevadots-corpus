@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/7-steps-of-glbp-cisco-configuation-cisco-glbp-configuation
+id: collect-261121-veille-ia/cisco/7-steps-of-glbp-cisco-configuation-cisco-glbp-configuation
 title: "7 Steps of GLBP Cisco Configuation | Cisco GLBP Configuation"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

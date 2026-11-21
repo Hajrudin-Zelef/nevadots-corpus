@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-infrainka-netmiko-restconf-python-scripts-for-netmiko-and-restconf-automation-on-cisco-device
+id: collect-261121-veille-ia/cisco/github-infrainka-netmiko-restconf-python-scripts-for-netmiko-and-restconf-automation-on-cisco-device
 title: "GitHub - infrainka/netmiko-restconf: Python scripts for Netmiko and RESTCONF automation on Cisco devices"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

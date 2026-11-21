@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/hermes-infra-skills-hermes-skills-forumtelecom-opnsense-ops-skill-md-at-a49a6a1ec7611f796edb1e0169b2
+id: collect-261121-veille-ia/opnsense-pfsense/hermes-infra-skills-hermes-skills-forumtelecom-opnsense-ops-skill-md-at-a49a6a1ec7611f796edb1e0169b2
 title: "hermes-infra-skills/.hermes/skills/forumtelecom/opnsense-ops/SKILL.md at a49a6a1ec7611f796edb1e0169b2c408a6d2b056 · clfigueiredo/hermes-infra-skills"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

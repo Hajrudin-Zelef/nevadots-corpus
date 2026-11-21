@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/send-feedback-16
-title: "Send Feedback"
-domain: gemini-google
+id: collect-261121-veille-ia/fortinet/send-feedback-16
+title: "Troubleshooting for DNS filter"
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

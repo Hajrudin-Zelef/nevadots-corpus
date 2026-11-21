@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/vlans-virtual-local-area-networks-ipcisco
+id: collect-261121-veille-ia/reseau-networking/vlans-virtual-local-area-networks-ipcisco
 title: "VLANs (Virtual Local Area Networks) ⋆ IpCisco"
-domain: modeles-open
+domain: reseau-networking
 role: reference
 task: article
 actors: []

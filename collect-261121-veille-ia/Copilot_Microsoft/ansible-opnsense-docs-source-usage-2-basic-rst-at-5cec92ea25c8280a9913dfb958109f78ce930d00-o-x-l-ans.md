@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/ansible-opnsense-docs-source-usage-2-basic-rst-at-5cec92ea25c8280a9913dfb958109f78ce930d00-o-x-l-ans
+id: collect-261121-veille-ia/opnsense-pfsense/ansible-opnsense-docs-source-usage-2-basic-rst-at-5cec92ea25c8280a9913dfb958109f78ce930d00-o-x-l-ans
 title: "ansible-opnsense/docs/source/usage/2_basic.rst at 5cec92ea25c8280a9913dfb958109f78ce930d00 · O-X-L/ansible-opnsense"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

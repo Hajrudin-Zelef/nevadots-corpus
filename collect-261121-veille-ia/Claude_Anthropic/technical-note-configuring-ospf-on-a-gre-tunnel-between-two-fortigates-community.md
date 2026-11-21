@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/technical-note-configuring-ospf-on-a-gre-tunnel-between-two-fortigates-community
+id: collect-261121-veille-ia/fortinet/technical-note-configuring-ospf-on-a-gre-tunnel-between-two-fortigates-community
 title: "Technical Note : Configuring OSPF on a GRE tunnel between two FortiGates | Community"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

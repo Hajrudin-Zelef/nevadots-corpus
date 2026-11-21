@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/vlan-using-integrated-switch-chip-routeros
+id: collect-261121-veille-ia/reseau-networking/vlan-using-integrated-switch-chip-routeros
 title: "VLAN using integrated switch chip ROUTEROS"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

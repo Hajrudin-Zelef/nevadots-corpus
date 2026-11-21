@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-krusherdom-tinkernet-tikspot-onboard-mikrotik-hotspot-radius-container
+id: collect-261121-veille-ia/mikrotik/github-krusherdom-tinkernet-tikspot-onboard-mikrotik-hotspot-radius-container
 title: "GitHub - krusherdom/tinkernet-tikspot: Onboard MikroTik hotspot +radius container"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

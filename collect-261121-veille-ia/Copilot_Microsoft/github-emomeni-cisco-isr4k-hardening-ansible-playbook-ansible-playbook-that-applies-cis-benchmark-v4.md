@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-emomeni-cisco-isr4k-hardening-ansible-playbook-ansible-playbook-that-applies-cis-benchmark-v4
+id: collect-261121-veille-ia/cisco/github-emomeni-cisco-isr4k-hardening-ansible-playbook-ansible-playbook-that-applies-cis-benchmark-v4
 title: "GitHub - emomeni/Cisco-ISR4K-Hardening-Ansible-Playbook: Ansible playbook that applies CIS Benchmark (v4.x) and NSA/CISA hardening controls to Cisco ISR 4000 series routers running IOS XE."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

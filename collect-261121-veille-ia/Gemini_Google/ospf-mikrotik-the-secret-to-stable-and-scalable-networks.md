@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/ospf-mikrotik-the-secret-to-stable-and-scalable-networks
+id: collect-261121-veille-ia/mikrotik/ospf-mikrotik-the-secret-to-stable-and-scalable-networks
 title: "OSPF Mikrotik: The Secret to Stable and Scalable Networks"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

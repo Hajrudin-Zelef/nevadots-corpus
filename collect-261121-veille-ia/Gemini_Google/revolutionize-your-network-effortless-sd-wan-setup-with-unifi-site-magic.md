@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/revolutionize-your-network-effortless-sd-wan-setup-with-unifi-site-magic
+id: collect-261121-veille-ia/unifi-ubiquiti/revolutionize-your-network-effortless-sd-wan-setup-with-unifi-site-magic
 title: "Revolutionize Your Network: Effortless SD-WAN Setup with UniFi Site Magic"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

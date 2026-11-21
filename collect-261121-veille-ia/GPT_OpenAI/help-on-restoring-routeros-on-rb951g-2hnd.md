@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/help-on-restoring-routeros-on-rb951g-2hnd
+id: collect-261121-veille-ia/mikrotik/help-on-restoring-routeros-on-rb951g-2hnd
 title: "Help on Restoring RouterOS on RB951G-2HnD"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

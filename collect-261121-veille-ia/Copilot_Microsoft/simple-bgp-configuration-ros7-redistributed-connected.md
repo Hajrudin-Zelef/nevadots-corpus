@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/simple-bgp-configuration-ros7-redistributed-connected
+id: collect-261121-veille-ia/cisco/simple-bgp-configuration-ros7-redistributed-connected
 title: "Simple BGP Configuration: ROS7 + redistributed connected"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

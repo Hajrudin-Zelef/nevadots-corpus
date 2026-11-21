@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/mikrotik-wireguard-road-warrior-a-remote-access-vpn-linkconfig
+id: collect-261121-veille-ia/mikrotik/mikrotik-wireguard-road-warrior-a-remote-access-vpn-linkconfig
 title: "MikroTik WireGuard Road Warrior â Remote Access VPN | linkconfig"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/deepseeks-github-list-puts-a-plugin-harness-ahead-of-its-model-repos-narracomm
+id: collect-261121-veille-ia/dev-langages/deepseeks-github-list-puts-a-plugin-harness-ahead-of-its-model-repos-narracomm
 title: "DeepSeek’s GitHub list puts a plugin harness ahead of its model repos - Narracomm"
-domain: deepseek
+domain: dev-langages
 role: reference
 task: article
 actors: ["DeepSeek"]

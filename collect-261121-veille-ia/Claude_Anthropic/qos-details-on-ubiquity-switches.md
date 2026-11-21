@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/qos-details-on-ubiquity-switches
+id: collect-261121-veille-ia/mikrotik/qos-details-on-ubiquity-switches
 title: "QoS details on Ubiquity switches"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

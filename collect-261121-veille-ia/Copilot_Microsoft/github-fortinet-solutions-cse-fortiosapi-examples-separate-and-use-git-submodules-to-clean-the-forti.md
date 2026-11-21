@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-fortinet-solutions-cse-fortiosapi-examples-separate-and-use-git-submodules-to-clean-the-forti
+id: collect-261121-veille-ia/fortinet/github-fortinet-solutions-cse-fortiosapi-examples-separate-and-use-git-submodules-to-clean-the-forti
 title: "GitHub - fortinet-solutions-cse/fortiosapi-examples: Separate and use git submodules to clean the fortiosapi repo"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

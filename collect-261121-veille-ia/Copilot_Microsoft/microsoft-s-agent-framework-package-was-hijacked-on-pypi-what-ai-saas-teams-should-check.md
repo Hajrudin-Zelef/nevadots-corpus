@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/microsoft-s-agent-framework-package-was-hijacked-on-pypi-what-ai-saas-teams-should-check
+id: collect-261121-veille-ia/dev-langages/microsoft-s-agent-framework-package-was-hijacked-on-pypi-what-ai-saas-teams-should-check
 title: "Microsoft's agent-framework Package Was Hijacked on PyPI: What AI SaaS Teams Should Check"
-domain: copilot-microsoft
+domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]

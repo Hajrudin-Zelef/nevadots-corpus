@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-ebogdum-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros-7-x-every-menu-e
+id: collect-261121-veille-ia/mikrotik/github-ebogdum-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros-7-x-every-menu-e
 title: "GitHub - ebogdum/terraform-provider-routeros: Terraform provider for MikroTik RouterOS 7.x. Every menu, every property — 185 resources, 276 data sources, 75 actions. Multi-router from one provider block, deterministic firewall ordering, lockout safety guards."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

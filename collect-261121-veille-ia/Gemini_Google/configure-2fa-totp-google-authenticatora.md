@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/configure-2fa-totp-google-authenticatora
+id: collect-261121-veille-ia/opnsense-pfsense/configure-2fa-totp-google-authenticatora
 title: "Configure 2FA TOTP & Google AuthenticatorÂ¶"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

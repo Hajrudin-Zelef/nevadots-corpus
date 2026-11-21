@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/help-with-ipsec-gre-tunnel-site-to-site
+id: collect-261121-veille-ia/reseau-networking/help-with-ipsec-gre-tunnel-site-to-site
 title: "Help with IPsec/GRE tunnel site to site"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

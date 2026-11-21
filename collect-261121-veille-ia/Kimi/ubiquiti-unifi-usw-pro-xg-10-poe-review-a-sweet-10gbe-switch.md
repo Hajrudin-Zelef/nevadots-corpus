@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/kimi/ubiquiti-unifi-usw-pro-xg-10-poe-review-a-sweet-10gbe-switch
+id: collect-261121-veille-ia/unifi-ubiquiti/ubiquiti-unifi-usw-pro-xg-10-poe-review-a-sweet-10gbe-switch
 title: "Ubiquiti UniFi USW-Pro-XG-10-PoE Review A Sweet 10GbE Switch"
-domain: kimi
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Moonshot AI"]

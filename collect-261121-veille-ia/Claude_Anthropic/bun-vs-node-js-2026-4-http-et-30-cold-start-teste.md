@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/bun-vs-node-js-2026-4-http-et-30-cold-start-teste
+id: collect-261121-veille-ia/dev-langages/bun-vs-node-js-2026-4-http-et-30-cold-start-teste
 title: "Bun vs Node.js 2026 : 4× HTTP et 30× Cold Start [Testé]"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

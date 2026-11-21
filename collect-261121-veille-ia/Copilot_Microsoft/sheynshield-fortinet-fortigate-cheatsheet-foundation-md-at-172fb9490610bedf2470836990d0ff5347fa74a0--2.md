@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/sheynshield-fortinet-fortigate-cheatsheet-foundation-md-at-172fb9490610bedf2470836990d0ff5347fa74a0--2
+id: collect-261121-veille-ia/fortinet/sheynshield-fortinet-fortigate-cheatsheet-foundation-md-at-172fb9490610bedf2470836990d0ff5347fa74a0--2
 title: "sheynshield/Fortinet/FortiGate/CheatSheet/Foundation.md at 172fb9490610bedf2470836990d0ff5347fa74a0 · Shayan-heydarikhah/sheynshield"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

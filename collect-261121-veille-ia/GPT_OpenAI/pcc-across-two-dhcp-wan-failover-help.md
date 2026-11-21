@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/pcc-across-two-dhcp-wan-failover-help
+id: collect-261121-veille-ia/reseau-networking/pcc-across-two-dhcp-wan-failover-help
 title: "PCC across two DHCP WAN -- failover help"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

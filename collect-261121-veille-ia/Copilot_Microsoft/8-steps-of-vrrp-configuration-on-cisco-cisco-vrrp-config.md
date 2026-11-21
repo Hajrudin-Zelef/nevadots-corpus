@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/8-steps-of-vrrp-configuration-on-cisco-cisco-vrrp-config
+id: collect-261121-veille-ia/cisco/8-steps-of-vrrp-configuration-on-cisco-cisco-vrrp-config
 title: "8 Steps of VRRP Configuration on Cisco | Cisco VRRP Config ⋆"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

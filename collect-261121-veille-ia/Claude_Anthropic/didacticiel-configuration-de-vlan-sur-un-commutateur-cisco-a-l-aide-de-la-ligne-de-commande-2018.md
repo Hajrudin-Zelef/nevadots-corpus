@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/didacticiel-configuration-de-vlan-sur-un-commutateur-cisco-a-l-aide-de-la-ligne-de-commande-2018
+id: collect-261121-veille-ia/cisco/didacticiel-configuration-de-vlan-sur-un-commutateur-cisco-a-l-aide-de-la-ligne-de-commande-2018
 title: "Didacticiel - Configuration de Vlan sur un commutateur Cisco à l'aide de la ligne de commande (2018)"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

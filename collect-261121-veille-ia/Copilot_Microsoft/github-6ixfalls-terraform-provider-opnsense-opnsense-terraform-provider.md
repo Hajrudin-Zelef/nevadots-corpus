@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-6ixfalls-terraform-provider-opnsense-opnsense-terraform-provider
+id: collect-261121-veille-ia/opnsense-pfsense/github-6ixfalls-terraform-provider-opnsense-opnsense-terraform-provider
 title: "GitHub - 6ixfalls/terraform-provider-opnsense: OPNsense Terraform Provider"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

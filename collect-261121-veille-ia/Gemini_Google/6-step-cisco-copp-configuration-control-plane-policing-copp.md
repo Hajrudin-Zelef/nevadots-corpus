@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/6-step-cisco-copp-configuration-control-plane-policing-copp
+id: collect-261121-veille-ia/reseau-networking/6-step-cisco-copp-configuration-control-plane-policing-copp
 title: "6 Step Cisco CoPP Configuration | Control Plane Policing (CoPP) ⋆"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

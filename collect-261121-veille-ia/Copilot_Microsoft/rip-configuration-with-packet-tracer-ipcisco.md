@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/rip-configuration-with-packet-tracer-ipcisco
+id: collect-261121-veille-ia/cisco/rip-configuration-with-packet-tracer-ipcisco
 title: "RIP Configuration With Packet Tracer ⋆ IpCisco"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

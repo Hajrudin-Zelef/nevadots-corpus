@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/tutoriel-github-actions-2026-ci-cd-complet
+id: collect-261121-veille-ia/dev-langages/tutoriel-github-actions-2026-ci-cd-complet
 title: "Tutoriel GitHub Actions 2026 : CI/CD Complet"
-domain: copilot-microsoft
+domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]

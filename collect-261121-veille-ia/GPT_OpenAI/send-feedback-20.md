@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gpt-openai/send-feedback-20
-title: "Send Feedback"
+title: "config firewall addrgrp"
 domain: gpt-openai
 role: reference
 task: article

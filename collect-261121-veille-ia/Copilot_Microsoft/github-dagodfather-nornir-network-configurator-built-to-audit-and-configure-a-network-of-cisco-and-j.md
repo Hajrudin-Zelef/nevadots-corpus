@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-dagodfather-nornir-network-configurator-built-to-audit-and-configure-a-network-of-cisco-and-j
+id: collect-261121-veille-ia/cisco/github-dagodfather-nornir-network-configurator-built-to-audit-and-configure-a-network-of-cisco-and-j
 title: "GitHub - DaGodfather/nornir_network_configurator: Built to Audit and Configure a network of Cisco and Juniper devices."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

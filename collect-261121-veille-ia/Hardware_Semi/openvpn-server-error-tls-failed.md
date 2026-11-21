@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/hardware-semi/openvpn-server-error-tls-failed
+id: collect-261121-veille-ia/mikrotik/openvpn-server-error-tls-failed
 title: "OpenVPN Server error: TLS failed"
-domain: hardware-semi
+domain: mikrotik
 role: reference
 task: article
 actors: []

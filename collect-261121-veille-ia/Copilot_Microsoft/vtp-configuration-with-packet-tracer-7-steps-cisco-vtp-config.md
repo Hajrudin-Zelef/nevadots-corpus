@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/vtp-configuration-with-packet-tracer-7-steps-cisco-vtp-config
+id: collect-261121-veille-ia/cisco/vtp-configuration-with-packet-tracer-7-steps-cisco-vtp-config
 title: "VTP Configuration with Packet Tracer | 7 Steps | Cisco VTP Config!"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

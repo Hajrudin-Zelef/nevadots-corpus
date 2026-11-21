@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gpt-openai/send-feedback-28
-title: "Send Feedback"
+title: "config system session-ttl"
 domain: gpt-openai
 role: reference
 task: article

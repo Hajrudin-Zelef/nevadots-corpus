@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-32k-context-best-sub-
+id: collect-261121-veille-ia/dev-langages/granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-32k-context-best-sub-
 title: "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality"
-domain: muse
+domain: dev-langages
 role: reference
 task: article
 actors: ["Meta"]

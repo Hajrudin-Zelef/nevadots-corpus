@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/mpls-and-other-stability-issues
+id: collect-261121-veille-ia/mikrotik/mpls-and-other-stability-issues
 title: "MPLS and other stability issues"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

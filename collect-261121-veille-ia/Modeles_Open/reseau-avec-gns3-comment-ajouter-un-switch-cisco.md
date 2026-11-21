@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/reseau-avec-gns3-comment-ajouter-un-switch-cisco
+id: collect-261121-veille-ia/cisco/reseau-avec-gns3-comment-ajouter-un-switch-cisco
 title: "Réseau avec GNS3 : comment ajouter un switch Cisco ?"
-domain: modeles-open
+domain: cisco
 role: reference
 task: article
 actors: []

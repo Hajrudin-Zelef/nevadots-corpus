@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/pfsense-vs-opnsense-which-firewall-is-best-for-you
+id: collect-261121-veille-ia/opnsense-pfsense/pfsense-vs-opnsense-which-firewall-is-best-for-you
 title: "pfSense vs. OPNsense: Which Firewall is Best for you?"
-domain: claude-anthropic
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Anthropic"]

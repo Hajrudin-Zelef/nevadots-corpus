@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/configuration-du-vpn-wireguard-pour-les-routeurs-mikrotik
+id: collect-261121-veille-ia/mikrotik/configuration-du-vpn-wireguard-pour-les-routeurs-mikrotik
 title: "Configuration du VPN WireGuard pour les routeurs MikroTik"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

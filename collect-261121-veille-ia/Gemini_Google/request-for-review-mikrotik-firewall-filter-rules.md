@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/request-for-review-mikrotik-firewall-filter-rules
+id: collect-261121-veille-ia/reseau-networking/request-for-review-mikrotik-firewall-filter-rules
 title: "Request for Review: MikroTik Firewall Filter Rules"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

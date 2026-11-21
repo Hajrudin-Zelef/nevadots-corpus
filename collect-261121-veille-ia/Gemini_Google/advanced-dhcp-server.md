@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/advanced-dhcp-server
+id: collect-261121-veille-ia/fortinet/advanced-dhcp-server
 title: "Advanced DHCP Server"
-domain: gemini-google
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

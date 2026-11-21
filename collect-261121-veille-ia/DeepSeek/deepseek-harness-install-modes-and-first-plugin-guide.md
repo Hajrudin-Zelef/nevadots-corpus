@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/deepseek-harness-install-modes-and-first-plugin-guide
+id: collect-261121-veille-ia/dev-langages/deepseek-harness-install-modes-and-first-plugin-guide
 title: "DeepSeek Harness: Install, Modes and First Plugin Guide"
-domain: deepseek
+domain: dev-langages
 role: reference
 task: article
 actors: ["DeepSeek"]

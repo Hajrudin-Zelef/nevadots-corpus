@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/cisco-vpn-client-configuration-setup-for-ios-router
+id: collect-261121-veille-ia/cisco/cisco-vpn-client-configuration-setup-for-ios-router
 title: "Cisco VPN Client Configuration - Setup for IOS Router"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

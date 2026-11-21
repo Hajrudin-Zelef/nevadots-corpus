@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/fortigate-vs-palo-alto-vs-check-point-cvss-9-3-2026
+id: collect-261121-veille-ia/fortinet/fortigate-vs-palo-alto-vs-check-point-cvss-9-3-2026
 title: "FortiGate vs Palo Alto vs Check Point : CVSS 9,3 [2026]"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

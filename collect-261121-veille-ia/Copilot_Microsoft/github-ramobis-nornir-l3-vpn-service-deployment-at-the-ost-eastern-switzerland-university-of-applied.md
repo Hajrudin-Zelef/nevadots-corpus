@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-ramobis-nornir-l3-vpn-service-deployment-at-the-ost-eastern-switzerland-university-of-applied
+id: collect-261121-veille-ia/cisco/github-ramobis-nornir-l3-vpn-service-deployment-at-the-ost-eastern-switzerland-university-of-applied
 title: "GitHub - ramobis/nornir-l3-vpn-service-deployment: At the OST Eastern Switzerland University of Applied Sciences as part of the Network Automation course we were given the task to fully automate the deployment of L3-VPN services declaratively defined in a YAML file on a given service provider network topology using Nornir."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

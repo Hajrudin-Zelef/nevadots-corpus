@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/configuring-dhcp-services-on-the-mx-and-ms
+id: collect-261121-veille-ia/reseau-networking/configuring-dhcp-services-on-the-mx-and-ms
 title: "Configuring DHCP Services on the MX and MS"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-ams0-opnsense-azure
+id: collect-261121-veille-ia/opnsense-pfsense/github-ams0-opnsense-azure
 title: "GitHub - ams0/opnsense-azure"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

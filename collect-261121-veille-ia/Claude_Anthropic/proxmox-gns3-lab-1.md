@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/proxmox-gns3-lab-1
+id: collect-261121-veille-ia/mikrotik/proxmox-gns3-lab-1
 title: "Proxmox: GNS3 Lab 1"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

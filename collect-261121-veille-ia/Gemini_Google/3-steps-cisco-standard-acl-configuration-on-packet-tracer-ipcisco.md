@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/3-steps-cisco-standard-acl-configuration-on-packet-tracer-ipcisco
+id: collect-261121-veille-ia/cisco/3-steps-cisco-standard-acl-configuration-on-packet-tracer-ipcisco
 title: "3 Steps Cisco Standard ACL Configuration on Packet Tracer ⋆ IPCisco"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

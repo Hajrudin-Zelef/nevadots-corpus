@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/configuring-mikrotik-port-forwarding-through-winbox
+id: collect-261121-veille-ia/mikrotik/configuring-mikrotik-port-forwarding-through-winbox
 title: "✅ Configuring MikroTik port forwarding through Winbox"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

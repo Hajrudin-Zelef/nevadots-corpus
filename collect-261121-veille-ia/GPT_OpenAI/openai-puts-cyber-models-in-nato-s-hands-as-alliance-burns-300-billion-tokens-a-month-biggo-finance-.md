@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/openai-puts-cyber-models-in-nato-s-hands-as-alliance-burns-300-billion-tokens-a-month-biggo-finance-
+id: collect-261121-veille-ia/mikrotik/openai-puts-cyber-models-in-nato-s-hands-as-alliance-burns-300-billion-tokens-a-month-biggo-finance-
 title: "OpenAI Puts Cyber Models in NATO's Hands as Alliance Burns 300 Billion Tokens a Month — BigGo Finance - NATO | EUROPESAYS.COM"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

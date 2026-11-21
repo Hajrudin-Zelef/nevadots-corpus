@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/attaque-supply-chain-axios-npm-2026-rat-nord-coreen
+id: collect-261121-veille-ia/dev-langages/attaque-supply-chain-axios-npm-2026-rat-nord-coreen
 title: "Attaque Supply Chain Axios npm 2026 : RAT Nord-Coréen"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

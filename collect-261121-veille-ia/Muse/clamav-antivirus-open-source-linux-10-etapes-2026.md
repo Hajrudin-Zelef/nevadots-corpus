@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/clamav-antivirus-open-source-linux-10-etapes-2026
+id: collect-261121-veille-ia/cisco/clamav-antivirus-open-source-linux-10-etapes-2026
 title: "ClamAV : Antivirus Open Source Linux, 10 Étapes [2026]"
-domain: muse
+domain: cisco
 role: reference
 task: article
 actors: ["Meta"]

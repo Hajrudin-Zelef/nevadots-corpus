@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/solved-hairpin-nat-issues
+id: collect-261121-veille-ia/reseau-networking/solved-hairpin-nat-issues
 title: "[SOLVED] Hairpin NAT issues"
-domain: claude-anthropic
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

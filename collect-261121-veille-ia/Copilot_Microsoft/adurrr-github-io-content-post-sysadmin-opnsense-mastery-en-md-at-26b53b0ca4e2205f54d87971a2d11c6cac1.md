@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/adurrr-github-io-content-post-sysadmin-opnsense-mastery-en-md-at-26b53b0ca4e2205f54d87971a2d11c6cac1
+id: collect-261121-veille-ia/opnsense-pfsense/adurrr-github-io-content-post-sysadmin-opnsense-mastery-en-md-at-26b53b0ca4e2205f54d87971a2d11c6cac1
 title: "adurrr.github.io/content/post/sysadmin/opnsense_mastery.en.md at 26b53b0ca4e2205f54d87971a2d11c6cac1f5c88 · adurrr/adurrr.github.io"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

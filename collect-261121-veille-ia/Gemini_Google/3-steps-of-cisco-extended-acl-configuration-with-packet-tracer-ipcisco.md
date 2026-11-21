@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/3-steps-of-cisco-extended-acl-configuration-with-packet-tracer-ipcisco
+id: collect-261121-veille-ia/cisco/3-steps-of-cisco-extended-acl-configuration-with-packet-tracer-ipcisco
 title: "3 Steps of Cisco Extended ACL Configuration with Packet Tracer ⋆ IPCisco"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

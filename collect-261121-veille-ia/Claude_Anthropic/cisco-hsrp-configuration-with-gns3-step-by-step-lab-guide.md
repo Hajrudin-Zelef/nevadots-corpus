@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/cisco-hsrp-configuration-with-gns3-step-by-step-lab-guide
+id: collect-261121-veille-ia/cisco/cisco-hsrp-configuration-with-gns3-step-by-step-lab-guide
 title: "Cisco HSRP Configuration with GNS3 | Step-by-Step Lab Guide"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

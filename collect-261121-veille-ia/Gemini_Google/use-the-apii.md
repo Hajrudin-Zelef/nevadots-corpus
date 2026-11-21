@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/use-the-apii
+id: collect-261121-veille-ia/opnsense-pfsense/use-the-apii
 title: "Use the APIï"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/sheynshield-fortinet-fortigate-cheatsheet-system-fabric-management-checklist-md-at-172fb9490610bedf2
+id: collect-261121-veille-ia/fortinet/sheynshield-fortinet-fortigate-cheatsheet-system-fabric-management-checklist-md-at-172fb9490610bedf2
 title: "sheynshield/Fortinet/FortiGate/CheatSheet/System/Fabric-Management-Checklist.md at 172fb9490610bedf2470836990d0ff5347fa74a0 · Shayan-heydarikhah/sheynshield"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

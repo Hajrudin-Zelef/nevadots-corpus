@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-dushyantkinha-cu-ansible-jinja2-automation
+id: collect-261121-veille-ia/cisco/github-dushyantkinha-cu-ansible-jinja2-automation
 title: "GitHub - dushyantkinha-cu/Ansible-Jinja2-Automation"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

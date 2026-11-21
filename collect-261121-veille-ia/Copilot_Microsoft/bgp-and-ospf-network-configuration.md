@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/bgp-and-ospf-network-configuration
+id: collect-261121-veille-ia/reseau-networking/bgp-and-ospf-network-configuration
 title: "BGP and OSPF network configuration"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

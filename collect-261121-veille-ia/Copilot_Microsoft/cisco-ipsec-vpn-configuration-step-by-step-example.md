@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/cisco-ipsec-vpn-configuration-step-by-step-example
+id: collect-261121-veille-ia/cisco/cisco-ipsec-vpn-configuration-step-by-step-example
 title: "Cisco IPSec VPN Configuration: Step-by-Step Example!"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

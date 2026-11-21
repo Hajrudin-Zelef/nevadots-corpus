@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/openai-says-nato-uses-up-to-300-billion-ai-tokens-a-month
+id: collect-261121-veille-ia/mikrotik/openai-says-nato-uses-up-to-300-billion-ai-tokens-a-month
 title: "OpenAI Says NATO Uses Up to 300 Billion AI Tokens a Month"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

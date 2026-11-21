@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-marcdely1-homelab-01-proxmox-opnsense-cybersecurity-home-lab-built-with-proxmox-ve-and-opnsen
+id: collect-261121-veille-ia/opnsense-pfsense/github-marcdely1-homelab-01-proxmox-opnsense-cybersecurity-home-lab-built-with-proxmox-ve-and-opnsen
 title: "GitHub - marcdely1/homelab-01-proxmox-opnsense: Cybersecurity home lab built with Proxmox VE and OPNsense firewall on Dell Optiplex 3060 Micro"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

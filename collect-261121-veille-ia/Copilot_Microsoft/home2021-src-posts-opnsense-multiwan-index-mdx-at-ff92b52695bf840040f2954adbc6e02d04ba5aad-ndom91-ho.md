@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/home2021-src-posts-opnsense-multiwan-index-mdx-at-ff92b52695bf840040f2954adbc6e02d04ba5aad-ndom91-ho
+id: collect-261121-veille-ia/opnsense-pfsense/home2021-src-posts-opnsense-multiwan-index-mdx-at-ff92b52695bf840040f2954adbc6e02d04ba5aad-ndom91-ho
 title: "home2021/src/_posts/opnsense-multiwan/index.mdx at ff92b52695bf840040f2954adbc6e02d04ba5aad · ndom91/home2021"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

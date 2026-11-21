@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/arborescence-des-pages-40
+id: collect-261121-veille-ia/mikrotik/arborescence-des-pages-40
 title: "Arborescence des pages"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

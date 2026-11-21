@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/etherchannel-cisco-pagp-configuration-on-gns3-lag-with-pagp
+id: collect-261121-veille-ia/cisco/etherchannel-cisco-pagp-configuration-on-gns3-lag-with-pagp
 title: "Etherchannel Cisco PAgP Configuration on GNS3 ⋆ | LAG with PAgP!"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

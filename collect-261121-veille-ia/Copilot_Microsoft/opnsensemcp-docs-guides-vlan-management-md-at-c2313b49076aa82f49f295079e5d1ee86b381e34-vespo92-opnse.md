@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/opnsensemcp-docs-guides-vlan-management-md-at-c2313b49076aa82f49f295079e5d1ee86b381e34-vespo92-opnse
+id: collect-261121-veille-ia/opnsense-pfsense/opnsensemcp-docs-guides-vlan-management-md-at-c2313b49076aa82f49f295079e5d1ee86b381e34-vespo92-opnse
 title: "OPNSenseMCP/docs/guides/vlan-management.md at c2313b49076aa82f49f295079e5d1ee86b381e34 · vespo92/OPNSenseMCP"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

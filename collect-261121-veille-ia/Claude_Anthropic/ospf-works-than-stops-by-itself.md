@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/ospf-works-than-stops-by-itself
+id: collect-261121-veille-ia/reseau-networking/ospf-works-than-stops-by-itself
 title: "OSPF works than STOPS by ITSELF"
-domain: claude-anthropic
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

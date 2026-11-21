@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/switch-port-security-configuration-on-cisco-packet-tracer-ccna
+id: collect-261121-veille-ia/cisco/switch-port-security-configuration-on-cisco-packet-tracer-ccna
 title: "Switch Port Security Configuration on Cisco Packet Tracer ⋆ | CCNA"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

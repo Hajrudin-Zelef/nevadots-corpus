@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/codex-version-history
+id: collect-261121-veille-ia/dev-langages/codex-version-history
 title: "Codex version history"
-domain: gpt-openai
+domain: dev-langages
 role: reference
 task: article
 actors: ["OpenAI"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/ospf-routes
+id: collect-261121-veille-ia/reseau-networking/ospf-routes
 title: "OSPF routes"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

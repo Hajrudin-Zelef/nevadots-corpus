@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/which-p2p-wireless-should-you-buy-real-world-comparison-tp-link-vs-mikrotik-vs-ubiquiti-vs-mimosa-fg
+id: collect-261121-veille-ia/mikrotik/which-p2p-wireless-should-you-buy-real-world-comparison-tp-link-vs-mikrotik-vs-ubiquiti-vs-mimosa-fg
 title: "Which P2P Wireless Should You Buy? | Real-World Comparison: TP-Link Vs MikroTik Vs Ubiquiti Vs Mimosa - FGTECH STORE"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

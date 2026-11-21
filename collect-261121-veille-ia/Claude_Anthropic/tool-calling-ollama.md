@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/tool-calling-ollama
+id: collect-261121-veille-ia/dev-langages/tool-calling-ollama
 title: "Tool calling - Ollama"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

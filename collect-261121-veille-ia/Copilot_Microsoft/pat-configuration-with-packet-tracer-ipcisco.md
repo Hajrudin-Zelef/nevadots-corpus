@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/pat-configuration-with-packet-tracer-ipcisco
+id: collect-261121-veille-ia/cisco/pat-configuration-with-packet-tracer-ipcisco
 title: "PAT Configuration with Packet Tracer ⋆ IpCisco"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

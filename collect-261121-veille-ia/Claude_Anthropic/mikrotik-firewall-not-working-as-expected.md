@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/mikrotik-firewall-not-working-as-expected
+id: collect-261121-veille-ia/reseau-networking/mikrotik-firewall-not-working-as-expected
 title: "mikrotik firewall not working as expected"
-domain: claude-anthropic
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

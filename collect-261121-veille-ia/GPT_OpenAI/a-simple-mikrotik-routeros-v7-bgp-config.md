@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/a-simple-mikrotik-routeros-v7-bgp-config
+id: collect-261121-veille-ia/mikrotik/a-simple-mikrotik-routeros-v7-bgp-config
 title: "A Simple MikroTik RouterOS v7 BGP Config"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

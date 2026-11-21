@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/comparing-cisco-vpn-technologies-policy-based-vs-route-based-vpns
+id: collect-261121-veille-ia/cisco/comparing-cisco-vpn-technologies-policy-based-vs-route-based-vpns
 title: "Comparing Cisco VPN Technologies – Policy Based vs Route Based VPNs"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

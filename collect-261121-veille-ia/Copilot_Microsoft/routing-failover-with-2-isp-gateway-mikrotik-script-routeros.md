@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/routing-failover-with-2-isp-gateway-mikrotik-script-routeros
+id: collect-261121-veille-ia/mikrotik/routing-failover-with-2-isp-gateway-mikrotik-script-routeros
 title: "Routing FailOver with 2 ISP (gateway) - MikroTik Script RouterOS"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

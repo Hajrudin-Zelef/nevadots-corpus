@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/filter-rules
+id: collect-261121-veille-ia/reseau-networking/filter-rules
 title: "Filter rules"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

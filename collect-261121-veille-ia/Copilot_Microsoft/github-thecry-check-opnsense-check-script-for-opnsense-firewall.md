@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-thecry-check-opnsense-check-script-for-opnsense-firewall
+id: collect-261121-veille-ia/opnsense-pfsense/github-thecry-check-opnsense-check-script-for-opnsense-firewall
 title: "GitHub - TheCry/check_opnsense: Check script for opnsense firewall"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

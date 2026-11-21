@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/hotspot-captive-portal-landing-page-not-pop-up-in-ios-devices
+id: collect-261121-veille-ia/reseau-networking/hotspot-captive-portal-landing-page-not-pop-up-in-ios-devices
 title: "hotspot captive portal landing page not pop up in ios devices"
-domain: apple-ios
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Apple"]

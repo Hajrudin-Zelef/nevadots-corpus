@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-ciscotestautomation-examples-pyats-library-usages-examples-etc
+id: collect-261121-veille-ia/cisco/github-ciscotestautomation-examples-pyats-library-usages-examples-etc
 title: "GitHub - CiscoTestAutomation/examples: pyATS | Library Usages, Examples & etc"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

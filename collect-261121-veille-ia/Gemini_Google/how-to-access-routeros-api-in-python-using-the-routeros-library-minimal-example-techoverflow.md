@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/how-to-access-routeros-api-in-python-using-the-routeros-library-minimal-example-techoverflow
+id: collect-261121-veille-ia/mikrotik/how-to-access-routeros-api-in-python-using-the-routeros-library-minimal-example-techoverflow
 title: "How to access RouterOS API in Python using the 'routeros' library (minimal example) | TechOverflow"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

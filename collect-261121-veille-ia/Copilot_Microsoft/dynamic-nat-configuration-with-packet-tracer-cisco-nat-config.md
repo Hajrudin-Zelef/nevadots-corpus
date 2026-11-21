@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/dynamic-nat-configuration-with-packet-tracer-cisco-nat-config
+id: collect-261121-veille-ia/cisco/dynamic-nat-configuration-with-packet-tracer-cisco-nat-config
 title: "Dynamic NAT Configuration with Packet Tracer ⋆ | Cisco NAT Config"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

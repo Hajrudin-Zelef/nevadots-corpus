@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/site-to-site-wireguard-with-both-mikrotiks-behind-nat-can-you-do-it
+id: collect-261121-veille-ia/mikrotik/site-to-site-wireguard-with-both-mikrotiks-behind-nat-can-you-do-it
 title: "Site to site Wireguard with both Mikrotiks behind NAT. Can you do it?"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

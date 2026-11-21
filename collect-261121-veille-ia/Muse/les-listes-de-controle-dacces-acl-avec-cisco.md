@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/les-listes-de-controle-dacces-acl-avec-cisco
+id: collect-261121-veille-ia/cisco/les-listes-de-controle-dacces-acl-avec-cisco
 title: "Les listes de contrôle d’accès (ACL) avec Cisco"
-domain: muse
+domain: cisco
 role: reference
 task: article
 actors: ["Meta"]

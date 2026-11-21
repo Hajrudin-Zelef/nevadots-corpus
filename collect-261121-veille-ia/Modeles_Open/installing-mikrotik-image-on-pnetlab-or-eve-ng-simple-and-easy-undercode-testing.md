@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/installing-mikrotik-image-on-pnetlab-or-eve-ng-simple-and-easy-undercode-testing
+id: collect-261121-veille-ia/mikrotik/installing-mikrotik-image-on-pnetlab-or-eve-ng-simple-and-easy-undercode-testing
 title: "Installing MikroTik Image On PNETLab Or EVE-NG: Simple And Easy! - Undercode Testing"
-domain: modeles-open
+domain: mikrotik
 role: reference
 task: article
 actors: []

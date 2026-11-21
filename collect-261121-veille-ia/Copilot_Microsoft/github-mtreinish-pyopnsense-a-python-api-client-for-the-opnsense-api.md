@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-mtreinish-pyopnsense-a-python-api-client-for-the-opnsense-api
+id: collect-261121-veille-ia/opnsense-pfsense/github-mtreinish-pyopnsense-a-python-api-client-for-the-opnsense-api
 title: "GitHub - mtreinish/pyopnsense: A Python API client for the OPNsense API"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

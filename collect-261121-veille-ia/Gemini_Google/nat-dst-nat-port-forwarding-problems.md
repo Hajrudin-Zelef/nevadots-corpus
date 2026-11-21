@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/nat-dst-nat-port-forwarding-problems
+id: collect-261121-veille-ia/reseau-networking/nat-dst-nat-port-forwarding-problems
 title: "NAT, DST-NAT, Port-Forwarding problems"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

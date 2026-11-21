@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/multiple-privilege-levels-ciscozine
+id: collect-261121-veille-ia/cisco/multiple-privilege-levels-ciscozine
 title: "Multiple privilege levels – CiscoZine"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

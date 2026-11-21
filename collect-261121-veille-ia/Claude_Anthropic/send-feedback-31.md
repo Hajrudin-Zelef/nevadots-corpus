@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/send-feedback-31
-title: "Send Feedback"
-domain: claude-anthropic
+id: collect-261121-veille-ia/reseau-networking/send-feedback-31
+title: "SSL VPN tunnel mode host check"
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

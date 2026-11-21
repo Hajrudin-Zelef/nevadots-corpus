@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/on-this-page
+id: collect-261121-veille-ia/fortinet/on-this-page
 title: "On this page"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/how-to-configure-mikrotik-wan-failover-for-high-availability-complete-guide-for-network-engineers-te
+id: collect-261121-veille-ia/mikrotik/how-to-configure-mikrotik-wan-failover-for-high-availability-complete-guide-for-network-engineers-te
 title: "How to Configure MikroTik WAN Failover for High Availability: Complete Guide for Network Engineers - Tech@Layer-x.com"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

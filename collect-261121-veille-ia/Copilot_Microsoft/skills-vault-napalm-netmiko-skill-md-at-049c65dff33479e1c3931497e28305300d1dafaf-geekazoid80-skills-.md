@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/skills-vault-napalm-netmiko-skill-md-at-049c65dff33479e1c3931497e28305300d1dafaf-geekazoid80-skills-
+id: collect-261121-veille-ia/cisco/skills-vault-napalm-netmiko-skill-md-at-049c65dff33479e1c3931497e28305300d1dafaf-geekazoid80-skills-
 title: "Skills-Vault/napalm-netmiko/SKILL.md at 049c65dff33479e1c3931497e28305300d1dafaf · geekazoid80/Skills-Vault"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/more-links-7
+id: collect-261121-veille-ia/reseau-networking/more-links-7
 title: "More links"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

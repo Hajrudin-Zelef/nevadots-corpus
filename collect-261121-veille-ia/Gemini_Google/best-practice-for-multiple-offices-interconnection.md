@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/best-practice-for-multiple-offices-interconnection
+id: collect-261121-veille-ia/mikrotik/best-practice-for-multiple-offices-interconnection
 title: "Best practice for multiple offices interconnection"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

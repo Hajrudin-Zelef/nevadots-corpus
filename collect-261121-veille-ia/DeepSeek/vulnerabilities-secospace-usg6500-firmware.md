@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/vulnerabilities-secospace-usg6500-firmware
+id: collect-261121-veille-ia/huawei/vulnerabilities-secospace-usg6500-firmware
 title: "Vulnerabilities (Secospace Usg6500 Firmware)"
-domain: deepseek
+domain: huawei
 role: reference
 task: article
 actors: ["DeepSeek"]

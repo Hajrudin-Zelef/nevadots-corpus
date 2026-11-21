@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/working-qos-configuration
+id: collect-261121-veille-ia/reseau-networking/working-qos-configuration
 title: "Working QoS configuration"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

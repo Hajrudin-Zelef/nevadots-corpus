@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/qwen/troubleshooting-tip-central-nat-packet-processing-troubleshooting-steps-and-traffic-flow-community
+id: collect-261121-veille-ia/fortinet/troubleshooting-tip-central-nat-packet-processing-troubleshooting-steps-and-traffic-flow-community
 title: "Troubleshooting Tip: Central NAT Packet processing, Troubleshooting steps and traffic flow | Community"
-domain: qwen
+domain: fortinet
 role: reference
 task: article
 actors: ["Alibaba"]

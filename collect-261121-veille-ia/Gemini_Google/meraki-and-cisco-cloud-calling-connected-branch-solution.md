@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/meraki-and-cisco-cloud-calling-connected-branch-solution
+id: collect-261121-veille-ia/cisco/meraki-and-cisco-cloud-calling-connected-branch-solution
 title: "Meraki and Cisco Cloud Calling Connected Branch Solution"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

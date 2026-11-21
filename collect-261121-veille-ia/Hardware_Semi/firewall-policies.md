@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/hardware-semi/firewall-policies
+id: collect-261121-veille-ia/fortinet/firewall-policies
 title: "Firewall policies"
-domain: hardware-semi
+domain: fortinet
 role: reference
 task: article
 actors: []

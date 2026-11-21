@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/captive-portal
+id: collect-261121-veille-ia/mikrotik/captive-portal
 title: "Captive Portal"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

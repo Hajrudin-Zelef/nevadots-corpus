@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/configure-fortigate-with-cli-lan-wan-dhcp-policy
+id: collect-261121-veille-ia/fortinet/configure-fortigate-with-cli-lan-wan-dhcp-policy
 title: "Configure Fortigate with CLI ( LAN, WAN, DHCP, Policy )"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

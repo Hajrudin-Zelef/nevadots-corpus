@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/tuto
+id: collect-261121-veille-ia/mikrotik/tuto
 title: "Tuto"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

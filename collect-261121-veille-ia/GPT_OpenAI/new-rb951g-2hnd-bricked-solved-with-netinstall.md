@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/new-rb951g-2hnd-bricked-solved-with-netinstall
+id: collect-261121-veille-ia/mikrotik/new-rb951g-2hnd-bricked-solved-with-netinstall
 title: "New RB951G-2HnD bricked? [Solved with Netinstall]"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

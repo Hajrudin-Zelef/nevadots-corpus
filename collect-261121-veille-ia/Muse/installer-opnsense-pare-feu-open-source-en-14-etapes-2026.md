@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/installer-opnsense-pare-feu-open-source-en-14-etapes-2026
+id: collect-261121-veille-ia/opnsense-pfsense/installer-opnsense-pare-feu-open-source-en-14-etapes-2026
 title: "Installer OPNsense : Pare-feu Open Source en 14 Étapes [2026]"
-domain: muse
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Meta"]

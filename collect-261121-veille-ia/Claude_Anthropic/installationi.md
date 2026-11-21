@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/installationi
+id: collect-261121-veille-ia/cisco/installationi
 title: "Installationï"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

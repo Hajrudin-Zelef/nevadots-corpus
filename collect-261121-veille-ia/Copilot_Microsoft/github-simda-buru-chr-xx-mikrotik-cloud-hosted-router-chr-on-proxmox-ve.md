@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-simda-buru-chr-xx-mikrotik-cloud-hosted-router-chr-on-proxmox-ve
+id: collect-261121-veille-ia/mikrotik/github-simda-buru-chr-xx-mikrotik-cloud-hosted-router-chr-on-proxmox-ve
 title: "GitHub - simda-buru/CHR-XX: **MikroTik Cloud Hosted Router (CHR)** on **Proxmox VE**"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

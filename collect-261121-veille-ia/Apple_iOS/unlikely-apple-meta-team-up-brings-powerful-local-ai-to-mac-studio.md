@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/unlikely-apple-meta-team-up-brings-powerful-local-ai-to-mac-studio
+id: collect-261121-veille-ia/unifi-ubiquiti/unlikely-apple-meta-team-up-brings-powerful-local-ai-to-mac-studio
 title: "Unlikely Apple & Meta team-up brings powerful & local AI to Mac Studio"
-domain: apple-ios
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Apple"]

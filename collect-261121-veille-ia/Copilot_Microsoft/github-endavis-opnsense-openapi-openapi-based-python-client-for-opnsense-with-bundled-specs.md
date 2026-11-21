@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-endavis-opnsense-openapi-openapi-based-python-client-for-opnsense-with-bundled-specs
+id: collect-261121-veille-ia/opnsense-pfsense/github-endavis-opnsense-openapi-openapi-based-python-client-for-opnsense-with-bundled-specs
 title: "GitHub - endavis/opnsense-openapi: OpenAPI-based Python client for OPNsense with bundled specs"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

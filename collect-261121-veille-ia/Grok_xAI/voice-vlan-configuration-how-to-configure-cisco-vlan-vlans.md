@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/grok-xai/voice-vlan-configuration-how-to-configure-cisco-vlan-vlans
+id: collect-261121-veille-ia/cisco/voice-vlan-configuration-how-to-configure-cisco-vlan-vlans
 title: "Voice VLAN Configuration ⋆ | How to Configure Cisco VLAN? |VLANs"
-domain: grok-xai
+domain: cisco
 role: reference
 task: article
 actors: ["xAI"]

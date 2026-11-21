@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/what-are-the-best-practices-for-securing-a-mikrotik-router-from-external-threats
+id: collect-261121-veille-ia/mikrotik/what-are-the-best-practices-for-securing-a-mikrotik-router-from-external-threats
 title: "What are the best practices for securing a MikroTik router from external threats?"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

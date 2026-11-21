@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/ospfv3-configuration-example-on-cisco-ios-ipcisco
+id: collect-261121-veille-ia/cisco/ospfv3-configuration-example-on-cisco-ios-ipcisco
 title: "OSPFv3 Configuration Example on Cisco IOS ⋆ IpCisco"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

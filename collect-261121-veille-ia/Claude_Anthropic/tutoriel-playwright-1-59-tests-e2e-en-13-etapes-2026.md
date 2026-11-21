@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/tutoriel-playwright-1-59-tests-e2e-en-13-etapes-2026
+id: collect-261121-veille-ia/dev-langages/tutoriel-playwright-1-59-tests-e2e-en-13-etapes-2026
 title: "Tutoriel Playwright 1.59 : Tests E2E en 13 Étapes 2026"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

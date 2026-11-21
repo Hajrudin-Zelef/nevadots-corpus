@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback
-title: "Send Feedback"
+title: "DoS policy"
 domain: gemini-google
 role: reference
 task: article

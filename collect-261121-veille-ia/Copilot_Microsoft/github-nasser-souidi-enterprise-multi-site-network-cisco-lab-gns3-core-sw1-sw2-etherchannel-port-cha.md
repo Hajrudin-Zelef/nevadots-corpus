@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-nasser-souidi-enterprise-multi-site-network-cisco-lab-gns3-core-sw1-sw2-etherchannel-port-cha
+id: collect-261121-veille-ia/reseau-networking/github-nasser-souidi-enterprise-multi-site-network-cisco-lab-gns3-core-sw1-sw2-etherchannel-port-cha
 title: "GitHub - nasser-souidi/Enterprise-Multi-Site-Network-Cisco-Lab-GNS3-: - Core: SW1 & SW2 — EtherChannel (Port-channel) + HSRP + OSPF, 4 parallel links - Access: ESW1–ESW4, one VLAN per switch (10/20/30/40) + management VLAN 99 - Edge: Router R1 — OSPF ↔ EIGRP redistribution, NAT/PAT, VPN endpoint"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

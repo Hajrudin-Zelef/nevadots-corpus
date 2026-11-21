@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/community-routeros-readme-md-at-3c2f48bfde5067283c6ec6072c919ea4bc608753-ansible-collections-communi
+id: collect-261121-veille-ia/mikrotik/community-routeros-readme-md-at-3c2f48bfde5067283c6ec6072c919ea4bc608753-ansible-collections-communi
 title: "community.routeros/README.md at 3c2f48bfde5067283c6ec6072c919ea4bc608753 · ansible-collections/community.routeros"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

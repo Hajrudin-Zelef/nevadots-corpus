@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-11
-title: "Send Feedback"
+title: "Filters for application control groups"
 domain: gemini-google
 role: reference
 task: article

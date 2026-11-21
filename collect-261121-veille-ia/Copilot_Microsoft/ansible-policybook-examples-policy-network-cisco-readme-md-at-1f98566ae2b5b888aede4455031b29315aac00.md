@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/ansible-policybook-examples-policy-network-cisco-readme-md-at-1f98566ae2b5b888aede4455031b29315aac00
+id: collect-261121-veille-ia/cisco/ansible-policybook-examples-policy-network-cisco-readme-md-at-1f98566ae2b5b888aede4455031b29315aac00
 title: "ansible-policybook-examples/policy/network/cisco/README.md at 1f98566ae2b5b888aede4455031b29315aac0041 · ansible/ansible-policybook-examples"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

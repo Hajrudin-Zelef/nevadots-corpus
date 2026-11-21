@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-30
-title: "Send Feedback"
+title: "IPsec VPN wizard hub-and-spoke ADVPN support"
 domain: gemini-google
 role: reference
 task: article

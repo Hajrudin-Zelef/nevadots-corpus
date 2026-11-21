@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/kimi/huawei-says-ascend-supports-kimi-k3-1-pro-from-its-weights-release
+id: collect-261121-veille-ia/huawei/huawei-says-ascend-supports-kimi-k3-1-pro-from-its-weights-release
 title: "Huawei says Ascend supports Kimi K3.1 Pro from its weights release"
-domain: kimi
+domain: huawei
 role: reference
 task: article
 actors: ["Moonshot AI"]

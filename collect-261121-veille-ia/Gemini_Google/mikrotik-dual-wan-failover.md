@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/mikrotik-dual-wan-failover
+id: collect-261121-veille-ia/mikrotik/mikrotik-dual-wan-failover
 title: "Mikrotik Dual WAN Failover"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

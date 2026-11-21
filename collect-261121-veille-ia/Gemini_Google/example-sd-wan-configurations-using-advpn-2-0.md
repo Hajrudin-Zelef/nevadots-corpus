@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/example-sd-wan-configurations-using-advpn-2-0
+id: collect-261121-veille-ia/reseau-networking/example-sd-wan-configurations-using-advpn-2-0
 title: "Example SD-WAN configurations using ADVPN 2.0"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

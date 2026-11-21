@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-astro-josh-py-opnsense-backup-a-simple-python-script-to-backup-opnsense-configurations-with-t
+id: collect-261121-veille-ia/opnsense-pfsense/github-astro-josh-py-opnsense-backup-a-simple-python-script-to-backup-opnsense-configurations-with-t
 title: "GitHub - astro-josh/py-opnsense-backup: A simple python script to backup OPNsense configurations with the os-api-backup plugin."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

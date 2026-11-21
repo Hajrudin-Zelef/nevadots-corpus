@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/gemini-4-argon-a-ai-stack-current
+id: collect-261121-veille-ia/unifi-ubiquiti/gemini-4-argon-a-ai-stack-current
 title: "Gemini 4 Argon â AI Stack Current"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

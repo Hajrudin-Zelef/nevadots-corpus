@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-clementdmsn-homelab-writeup-enterprise-style-homelab-with-proxmox-opnsense-active-directory-v
+id: collect-261121-veille-ia/opnsense-pfsense/github-clementdmsn-homelab-writeup-enterprise-style-homelab-with-proxmox-opnsense-active-directory-v
 title: "GitHub - clementdmsn/Homelab-Writeup: Enterprise-style homelab with Proxmox, OPNsense, Active Directory, VLAN segmentation, DHCP relay, DMZ, and WireGuard admin access."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

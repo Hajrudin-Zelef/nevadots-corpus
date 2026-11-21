@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/claude-fable-5-2-codex-0-169-and-cursor-breach-recap
+id: collect-261121-veille-ia/dev-langages/claude-fable-5-2-codex-0-169-and-cursor-breach-recap
 title: "Claude Fable 5.2, Codex 0.169 and Cursor Breach Recap"
-domain: gpt-openai
+domain: dev-langages
 role: reference
 task: article
 actors: ["OpenAI"]

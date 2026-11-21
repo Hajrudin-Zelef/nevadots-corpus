@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/fortinet-fortigate-ha-high-availability-detailed-guide-network-interview
+id: collect-261121-veille-ia/fortinet/fortinet-fortigate-ha-high-availability-detailed-guide-network-interview
 title: "Fortinet FortiGate HA (High Availability): Detailed Guide » Network Interview"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

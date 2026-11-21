@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/related-videos-2
+id: collect-261121-veille-ia/fortinet/related-videos-2
 title: "Related videos"
-domain: gemini-google
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

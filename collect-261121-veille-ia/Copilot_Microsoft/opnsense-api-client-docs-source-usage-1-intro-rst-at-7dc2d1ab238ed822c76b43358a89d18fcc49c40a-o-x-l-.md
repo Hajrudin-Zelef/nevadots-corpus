@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/opnsense-api-client-docs-source-usage-1-intro-rst-at-7dc2d1ab238ed822c76b43358a89d18fcc49c40a-o-x-l-
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-api-client-docs-source-usage-1-intro-rst-at-7dc2d1ab238ed822c76b43358a89d18fcc49c40a-o-x-l-
 title: "opnsense-api-client/docs/source/usage/1_intro.rst at 7dc2d1ab238ed822c76b43358a89d18fcc49c40a · O-X-L/opnsense-api-client"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

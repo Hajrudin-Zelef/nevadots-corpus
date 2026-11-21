@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-charlesx0101-opnsense-firewall-build-a-full-job-ready-opnsense-firewall-build-for-homelab-and
+id: collect-261121-veille-ia/opnsense-pfsense/github-charlesx0101-opnsense-firewall-build-a-full-job-ready-opnsense-firewall-build-for-homelab-and
 title: "GitHub - charlesX0101/opnsense-firewall-build: A full, job-ready OPNsense firewall build for homelab and small business networks. It includes VLAN segmentation, interface rules, and secure default deny policies."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

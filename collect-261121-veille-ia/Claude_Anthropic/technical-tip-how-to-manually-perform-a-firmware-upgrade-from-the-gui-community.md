@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/technical-tip-how-to-manually-perform-a-firmware-upgrade-from-the-gui-community
+id: collect-261121-veille-ia/fortinet/technical-tip-how-to-manually-perform-a-firmware-upgrade-from-the-gui-community
 title: "Technical Tip: How to manually perform a firmware upgrade from the GUI | Community"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

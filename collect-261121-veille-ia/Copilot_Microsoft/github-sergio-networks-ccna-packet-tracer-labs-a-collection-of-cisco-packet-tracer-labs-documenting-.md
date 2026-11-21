@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-sergio-networks-ccna-packet-tracer-labs-a-collection-of-cisco-packet-tracer-labs-documenting-
+id: collect-261121-veille-ia/cisco/github-sergio-networks-ccna-packet-tracer-labs-a-collection-of-cisco-packet-tracer-labs-documenting-
 title: "GitHub - sergio-networks/ccna-packet-tracer-labs: A collection of Cisco Packet Tracer labs documenting my CCNA 200-301 study progress."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

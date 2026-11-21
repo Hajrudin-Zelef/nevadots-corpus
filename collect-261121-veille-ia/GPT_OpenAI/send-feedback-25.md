@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gpt-openai/send-feedback-25
-title: "Send Feedback"
+title: "CLI script action"
 domain: gpt-openai
 role: reference
 task: article

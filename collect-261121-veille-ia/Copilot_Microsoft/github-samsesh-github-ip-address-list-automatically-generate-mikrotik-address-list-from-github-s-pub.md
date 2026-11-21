@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-samsesh-github-ip-address-list-automatically-generate-mikrotik-address-list-from-github-s-pub
+id: collect-261121-veille-ia/mikrotik/github-samsesh-github-ip-address-list-automatically-generate-mikrotik-address-list-from-github-s-pub
 title: "GitHub - samsesh/github-ip-address-list: Automatically generate MikroTik address-list from GitHub's public IPs using GitHub Actions – ready to import in .rsc format."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

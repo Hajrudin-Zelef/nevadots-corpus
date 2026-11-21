@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/mistral/troubleshooting-tip-large-file-downloads-fail-over-an-ipsec-tunnel-using-vpn-id-ipip-encapsulation-w
+id: collect-261121-veille-ia/fortinet/troubleshooting-tip-large-file-downloads-fail-over-an-ipsec-tunnel-using-vpn-id-ipip-encapsulation-w
 title: "Troubleshooting Tip: Large file downloads fail over an IPsec tunnel using vpn-id-ipip encapsulation with NAT-T | Community"
-domain: mistral
+domain: fortinet
 role: reference
 task: article
 actors: ["Mistral AI"]

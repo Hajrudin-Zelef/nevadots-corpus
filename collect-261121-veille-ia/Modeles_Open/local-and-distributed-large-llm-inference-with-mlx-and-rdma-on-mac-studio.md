@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/local-and-distributed-large-llm-inference-with-mlx-and-rdma-on-mac-studio
+id: collect-261121-veille-ia/unifi-ubiquiti/local-and-distributed-large-llm-inference-with-mlx-and-rdma-on-mac-studio
 title: "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio"
-domain: modeles-open
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: []

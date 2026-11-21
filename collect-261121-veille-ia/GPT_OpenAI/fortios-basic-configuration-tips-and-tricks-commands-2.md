@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/fortios-basic-configuration-tips-and-tricks-commands-2
+id: collect-261121-veille-ia/fortinet/fortios-basic-configuration-tips-and-tricks-commands-2
 title: "FortiOS Basic Configuration Tips and Tricks (Commands) 2"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

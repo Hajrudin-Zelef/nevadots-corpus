@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/fortigate-auto-backup-manager-automation-stitch-md-at-982dbe206f7c5b1b696c59f717fd8be29059d107-crysi
+id: collect-261121-veille-ia/fortinet/fortigate-auto-backup-manager-automation-stitch-md-at-982dbe206f7c5b1b696c59f717fd8be29059d107-crysi
 title: "fortigate-auto-backup-manager/automation-stitch.md at 982dbe206f7c5b1b696c59f717fd8be29059d107 · CRYSIS525/fortigate-auto-backup-manager"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

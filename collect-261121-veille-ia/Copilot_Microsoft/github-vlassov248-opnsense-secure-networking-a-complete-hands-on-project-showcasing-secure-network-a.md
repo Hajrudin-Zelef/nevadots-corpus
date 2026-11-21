@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-vlassov248-opnsense-secure-networking-a-complete-hands-on-project-showcasing-secure-network-a
+id: collect-261121-veille-ia/opnsense-pfsense/github-vlassov248-opnsense-secure-networking-a-complete-hands-on-project-showcasing-secure-network-a
 title: "GitHub - Vlassov248/Opnsense-Secure-Networking: A complete hands-on project showcasing secure network architecture using OPNsense — including multi-zone segmentation, firewall rules, IDS/IPS (Suricata), OpenVPN, VLANs, and centralized logging. Built as a real-world InfoSec lab for training, testing, and portfolio presentation."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

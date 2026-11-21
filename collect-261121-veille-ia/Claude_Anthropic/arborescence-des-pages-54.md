@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/arborescence-des-pages-54
+id: collect-261121-veille-ia/mikrotik/arborescence-des-pages-54
 title: "Arborescence des pages"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

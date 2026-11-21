@@ -1394,7 +1394,7 @@
   },
   {
    "path": "Apple_iOS/7-steps-of-single-area-ospf-configuration-on-cisco-ios.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "7 Steps of Single Area OSPF Configuration on Cisco IOS ⋆",
    "source": "https://ipcisco.com/lesson/single-area-ospf-configuration-on-cisco-ios/",
    "lines": [
@@ -1438,7 +1438,7 @@
   },
   {
    "path": "Apple_iOS/ansible-cisco-ios-command-example-network-automation-blog.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "Ansible Cisco IOS_Command Example » Network Automation Blog",
    "source": "https://www.rogerperkin.co.uk/network-automation/ansible/ansible-ios-command-example/",
    "lines": [
@@ -1757,7 +1757,7 @@
   },
   {
    "path": "Apple_iOS/ccna-labs-free-hands-on-cisco-ios-practice.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "CCNA Labs — Free Hands-On Cisco IOS Practice",
    "source": "https://www.securedylabs.dev/ccna-labs",
    "lines": [
@@ -1768,7 +1768,7 @@
   },
   {
    "path": "Apple_iOS/cisco-ios-ios-facts-module-module-to-collect-facts-from-remote-devices.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "cisco.ios.ios_facts module – Module to collect facts from remote devices.",
    "source": "https://docs.ansible.com/ansible/latest/collections/cisco/ios/ios_facts_module.html",
    "lines": [
@@ -1779,7 +1779,7 @@
   },
   {
    "path": "Apple_iOS/cisco-nat-configuration-ios-router-practical-networking-net.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "Cisco NAT Configuration - IOS Router – Practical Networking .net",
    "source": "https://www.practicalnetworking.net/stand-alone/cisco-nat-configurations-ios-router/",
    "lines": [
@@ -1790,7 +1790,7 @@
   },
   {
    "path": "Apple_iOS/cisco-vpn-client-configuration-setup-for-ios-router.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "Cisco VPN Client Configuration - Setup for IOS Router",
    "source": "https://www.firewall.cx/cisco/cisco-routers/cisco-router-vpn-client.html",
    "lines": [
@@ -1834,7 +1834,7 @@
   },
   {
    "path": "Apple_iOS/hotspot-captive-portal-landing-page-not-pop-up-in-ios-devices.md",
-   "domain": "apple-ios",
+   "domain": "reseau-networking",
    "title": "hotspot captive portal landing page not pop up in ios devices",
    "source": "https://forum.mikrotik.com/t/hotspot-captive-portal-landing-page-not-pop-up-in-ios-devices/174774",
    "lines": [
@@ -2054,7 +2054,7 @@
   },
   {
    "path": "Apple_iOS/multiple-privilege-levels-ciscozine.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "Multiple privilege levels – CiscoZine",
    "source": "https://www.ciscozine.com/multiple-privilege-levels/",
    "lines": [
@@ -2087,7 +2087,7 @@
   },
   {
    "path": "Apple_iOS/ospfv3-configuration-example-on-cisco-ios-ipcisco.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "OSPFv3 Configuration Example on Cisco IOS ⋆ IpCisco",
    "source": "https://ipcisco.com/lesson/ospfv3-configuration-example-on-cisco-ios/",
    "lines": [
@@ -2131,7 +2131,7 @@
   },
   {
    "path": "Apple_iOS/snmp-configuration-on-cisco-ios-cisco-snmp.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "SNMP Configuration On Cisco IOS ⋆ | Cisco SNMP",
    "source": "https://ipcisco.com/lesson/snmp-configuration-on-cisco-ios/",
    "lines": [
@@ -2142,7 +2142,7 @@
   },
   {
    "path": "Apple_iOS/static-route-cisco-static-routing-on-cisco-routeres-cisco-ios.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "Static Route Cisco | Static Routing on Cisco Routeres ⋆ Cisco IOS",
    "source": "https://ipcisco.com/lesson/static-route-configuration-on-cisco-routers-ccna/",
    "lines": [
@@ -2153,7 +2153,7 @@
   },
   {
    "path": "Apple_iOS/switch-port-security-configuration-on-cisco-packet-tracer-ccna.md",
-   "domain": "apple-ios",
+   "domain": "cisco",
    "title": "Switch Port Security Configuration on Cisco Packet Tracer ⋆ | CCNA",
    "source": "https://ipcisco.com/lesson/switch-port-security-configuration-on-cisco-packet-tracer/",
    "lines": [
@@ -2164,7 +2164,7 @@
   },
   {
    "path": "Apple_iOS/unlikely-apple-meta-team-up-brings-powerful-local-ai-to-mac-studio.md",
-   "domain": "apple-ios",
+   "domain": "unifi-ubiquiti",
    "title": "Unlikely Apple & Meta team-up brings powerful & local AI to Mac Studio",
    "source": "https://appleinsider.com/articles/26/10/15/unlikely-apple-meta-team-up-brings-powerful-local-ai-to-mac-studio",
    "lines": [
@@ -2241,7 +2241,7 @@
   },
   {
    "path": "Atria_Dawn/ospf-resumer-de-cet-protocole-de-routage.md",
-   "domain": "atria-dawn",
+   "domain": "cisco",
    "title": "OSPF : Résumer de cet protocole de routage",
    "source": "https://www.formip.com/pages/blog/resumer-ospf",
    "lines": [
@@ -2879,7 +2879,7 @@
   },
   {
    "path": "Claude_Anthropic/7-steps-ssh-configuration-on-packet-tracer-cisco-ssh-config.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "7 Steps | SSH Configuration on Packet Tracer | Cisco SSH Config ⋆",
    "source": "https://ipcisco.com/lesson/ssh-configuration-on-packet-tracer/",
    "lines": [
@@ -4815,7 +4815,7 @@
   },
   {
    "path": "Claude_Anthropic/arborescence-des-pages-54.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/93749258/Device-mode",
    "lines": [
@@ -4826,7 +4826,7 @@
   },
   {
    "path": "Claude_Anthropic/arborescence-des-pages-60.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/132350014/SSH",
    "lines": [
@@ -4837,7 +4837,7 @@
   },
   {
    "path": "Claude_Anthropic/attaque-supply-chain-axios-npm-2026-rat-nord-coreen.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Attaque Supply Chain Axios npm 2026 : RAT Nord-Coréen",
    "source": "https://tech-insider.org/fr/attaque-supply-chain-axios-npm-coree-du-nord-rat-2026/",
    "lines": [
@@ -4881,7 +4881,7 @@
   },
   {
    "path": "Claude_Anthropic/beginner-s-question-about-config-dual-wan-failover-warp.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "Beginner's question about config dual wan failover + warp",
    "source": "https://forum.mikrotik.com/t/beginners-question-about-config-dual-wan-failover-warp/266974",
    "lines": [
@@ -4914,7 +4914,7 @@
   },
   {
    "path": "Claude_Anthropic/bun-vs-node-js-2026-4-http-et-30-cold-start-teste.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Bun vs Node.js 2026 : 4× HTTP et 30× Cold Start [Testé]",
    "source": "https://tech-insider.org/fr/bun-vs-nodejs-2026/",
    "lines": [
@@ -4925,7 +4925,7 @@
   },
   {
    "path": "Claude_Anthropic/ca-26-045-cursor-marketplace-claude-code-extension-supply-chain-compromise.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "CA-26-045: Cursor Marketplace Claude Code Extension Supply Chain Compromise",
    "source": "https://www.deepwatch.com/labs/ca-26-045-cursor-marketplace-claude-code-extension-supply-chain-compromise/",
    "lines": [
@@ -4969,7 +4969,7 @@
   },
   {
    "path": "Claude_Anthropic/captive-portal.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Captive Portal",
    "source": "https://forum.mikrotik.com/t/captive-portal/159849",
    "lines": [
@@ -5002,7 +5002,7 @@
   },
   {
    "path": "Claude_Anthropic/cisco-hsrp-configuration-with-gns3-step-by-step-lab-guide.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "Cisco HSRP Configuration with GNS3 | Step-by-Step Lab Guide",
    "source": "https://ipcisco.com/lesson/hsrp-configuration-on-gns3/",
    "lines": [
@@ -5398,7 +5398,7 @@
   },
   {
    "path": "Claude_Anthropic/claude-code-v2-1-287-major-updates-addition-of-claude-mods-and-enhanced-shell-write-safety-measures-.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Claude Code v2.1.287 Major Updates - Addition of Claude Mods and Enhanced Shell Write Safety Measures | DevelopersIO",
    "source": "https://dev.classmethod.jp/en/articles/20261002-cc-updates-v2-1-287/",
    "lines": [
@@ -6432,7 +6432,7 @@
   },
   {
    "path": "Claude_Anthropic/claude-haiku-5-5-architecture-100k-pricing-cliff-benchmarks-apineed.md",
-   "domain": "claude-anthropic",
+   "domain": "unifi-ubiquiti",
    "title": "Claude Haiku 5.5: Architecture, 100K Pricing Cliff & Benchmarks | APINEED",
    "source": "https://apineed.com/blog/claude-haiku-5-5-what-is",
    "lines": [
@@ -7598,7 +7598,7 @@
   },
   {
    "path": "Claude_Anthropic/command-module-run-commands-on-remote-devices-running-mikrotik-routeros-ansible.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Command Module – Run Commands on Remote Devices Running MikroTik RouterOS - Ansible",
    "source": "https://docs.w3cub.com/ansible/collections/community/routeros/command_module",
    "lines": [
@@ -7609,7 +7609,7 @@
   },
   {
    "path": "Claude_Anthropic/community-routeros-facts-module-collect-facts-from-remote-devices-running-mikrotik-routeros.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "community.routeros.facts module – Collect facts from remote devices running MikroTik RouterOS",
    "source": "https://docs.ansible.com/ansible/5/collections/community/routeros/facts_module.html",
    "lines": [
@@ -7620,7 +7620,7 @@
   },
   {
    "path": "Claude_Anthropic/compare-fortinet-fortiswitch-data-center-vs-mikrotik-routers-and-switches.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Compare Fortinet FortiSwitch - Data Center vs MikroTik Routers and Switches",
    "source": "https://origin.peerspot.com/products/comparisons/fortinet-fortiswitch-data-center_vs_mikrotik-routers-and-switches",
    "lines": [
@@ -7642,7 +7642,7 @@
   },
   {
    "path": "Claude_Anthropic/configuring-link-aggregation-with-etherchannel-ciscozine.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "Configuring Link Aggregation with EtherChannel – CiscoZine",
    "source": "https://www.ciscozine.com/configuring-link-aggregation-with-etherchannel/",
    "lines": [
@@ -7708,7 +7708,7 @@
   },
   {
    "path": "Claude_Anthropic/cursor-agent-sdk-vs-claude-agent-sdk-every-model-is-billed-through-cursor.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Cursor Agent SDK vs Claude Agent SDK: Every Model Is Billed Through Cursor",
    "source": "https://dev.to/alanwest/cursor-agent-sdk-vs-claude-agent-sdk-every-model-is-billed-through-cursor-gal",
    "lines": [
@@ -7983,7 +7983,7 @@
   },
   {
    "path": "Claude_Anthropic/destination-nat-in-mikrotik-how-it-works-and-how-to-configure-it-ded9.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Destination NAT in MikroTik: How It Works and How to Configure It - DED9",
    "source": "https://ded9.com/destination-nat-in-mikrotik/",
    "lines": [
@@ -8016,7 +8016,7 @@
   },
   {
    "path": "Claude_Anthropic/didacticiel-configuration-de-vlan-sur-un-commutateur-cisco-a-l-aide-de-la-ligne-de-commande-2018.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "Didacticiel - Configuration de Vlan sur un commutateur Cisco à l'aide de la ligne de commande (2018)",
    "source": "https://techexpert.tips/fr/cisco-switch-fr/vlan-sur-le-commutateur-de-cisco/",
    "lines": [
@@ -8038,7 +8038,7 @@
   },
   {
    "path": "Claude_Anthropic/dual-wan-failover-port-forward-not-working-when-changing-route-distance.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "Dual WAN failover, port forward not working when changing route distance",
    "source": "https://forum.mikrotik.com/t/dual-wan-failover-port-forward-not-working-when-changing-route-distance/171357/12",
    "lines": [
@@ -8082,7 +8082,7 @@
   },
   {
    "path": "Claude_Anthropic/enhanced-visibility-and-hardening-guidance-for-communications-infrastructure-cisa.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "Enhanced Visibility and Hardening Guidance for Communications Infrastructure | CISA",
    "source": "https://cisa.gov/resources-tools/resources/enhanced-visibility-and-hardening-guidance-communications-infrastructure",
    "lines": [
@@ -8126,7 +8126,7 @@
   },
   {
    "path": "Claude_Anthropic/example-vlan-configuration-in-nat-mode.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Example VLAN configuration in NAT mode",
    "source": "https://www.fortinetguru.com/2016/12/example-vlan-configuration-in-nat-mode/",
    "lines": [
@@ -8280,7 +8280,7 @@
   },
   {
    "path": "Claude_Anthropic/fortigate-transparent-mode-fortigate-in-transparent-mode-dclessons.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Fortigate Transparent Mode | Fortigate in Transparent Mode - DCLessons",
    "source": "https://dclessons.com/public/lab-configuration-fortigate-in-transparent-mode",
    "lines": [
@@ -8291,7 +8291,7 @@
   },
   {
    "path": "Claude_Anthropic/fortigate-vs-palo-alto-vs-check-point-cvss-9-3-2026.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "FortiGate vs Palo Alto vs Check Point : CVSS 9,3 [2026]",
    "source": "https://tech-insider.org/fr/fortigate-vs-palo-alto-vs-check-point-2026/",
    "lines": [
@@ -8302,7 +8302,7 @@
   },
   {
    "path": "Claude_Anthropic/fortigate-web-filtering-all-you-need-to-know.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Fortigate Web Filtering - All You Need to Know",
    "source": "https://yurisk.info/2025/03/13/fortigate-web-filtering-all-you-need-to-know/",
    "lines": [
@@ -8313,7 +8313,7 @@
   },
   {
    "path": "Claude_Anthropic/fortinet-fortigate-ha-high-availability-detailed-guide-network-interview.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Fortinet FortiGate HA (High Availability): Detailed Guide » Network Interview",
    "source": "https://networkinterview.com/fortigate-ha-high-availability/",
    "lines": [
@@ -8335,7 +8335,7 @@
   },
   {
    "path": "Claude_Anthropic/freebsd-racoon-ipsec-tunnel-mode-mikrotik.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "FreeBSD (racoon) - ipsec tunnel mode - Mikrotik",
    "source": "https://forum.mikrotik.com/t/freebsd-racoon-ipsec-tunnel-mode-mikrotik/140906",
    "lines": [
@@ -8346,7 +8346,7 @@
   },
   {
    "path": "Claude_Anthropic/friday-13-november-claude-code-2-1-323.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Friday 13 November — Claude Code 2.1.323",
    "source": "https://www.matins.news/daily/2026-11-13/",
    "lines": [
@@ -8500,7 +8500,7 @@
   },
   {
    "path": "Claude_Anthropic/github-careed23-the-network-config-generator-infrastructure-as-code-engine-that-generates-standardiz.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "GitHub - careed23/The-Network-Config-Generator: Infrastructure-as-Code engine that generates standardized Cisco/Juniper configurations using YAML data models and Jinja2 templating.",
    "source": "https://github.com/careed23/the-network-config-generator",
    "lines": [
@@ -8522,7 +8522,7 @@
   },
   {
    "path": "Claude_Anthropic/github-oallart-mikrotik-routeros7-vlan-documentation-and-code-to-manage-vlans-in-routeros-7-via-manu.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "GitHub - oallart/mikrotik-routeros7-vlan: Documentation and code to manage VLANs in RouterOS 7 via manual commands and terraform",
    "source": "https://github.com/oallart/mikrotik-routeros7-vlan",
    "lines": [
@@ -8687,7 +8687,7 @@
   },
   {
    "path": "Claude_Anthropic/ha-with-fortigate-vm-and-third-party-products.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "HA with FortiGate-VM and third-party products",
    "source": "https://www.fortinetguru.com/2016/10/ha-with-fortigate-vm-and-third-party-products/",
    "lines": [
@@ -8797,7 +8797,7 @@
   },
   {
    "path": "Claude_Anthropic/how-to-add-mikrotik-to-eve-ng-techbloat.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "How to Add MikroTik to EVE-NG - TechBloat",
    "source": "https://www.techbloat.com/how-to-add-mikrotik-to-eve-ng.html",
    "lines": [
@@ -8808,7 +8808,7 @@
   },
   {
    "path": "Claude_Anthropic/how-to-configure-mikrotik-wan-failover-for-high-availability-complete-guide-for-network-engineers-te.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "How to Configure MikroTik WAN Failover for High Availability: Complete Guide for Network Engineers - Tech@Layer-x.com",
    "source": "https://tech.layer-x.com/how-to-configure-mikrotik-wan-failover-for-high-availability-complete-guide-for-network-engineers/",
    "lines": [
@@ -8819,7 +8819,7 @@
   },
   {
    "path": "Claude_Anthropic/how-to-connect-to-routeros-devices-with-ssh.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "How to connect to RouterOS devices with SSH",
    "source": "https://docs.ansible.com/ansible/5/collections/community/routeros/docsite/ssh-guide.html",
    "lines": [
@@ -8841,7 +8841,7 @@
   },
   {
    "path": "Claude_Anthropic/how-to-make-videos-with-claude-opus-5-5-a-deterministic-render-pipeline.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "How to Make Videos with Claude Opus 5.5: A Deterministic Render Pipeline",
    "source": "https://huggingface.co/blog/karmen-beatapi/how-to-make-videos-with-claude-opus-5-5",
    "lines": [
@@ -9017,7 +9017,7 @@
   },
   {
    "path": "Claude_Anthropic/installationi.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "Installationï",
    "source": "https://docs.devnetexperttraining.com/static-docs/pyATS-Getting-Started/install/installpyATS.html",
    "lines": [
@@ -9380,7 +9380,7 @@
   },
   {
    "path": "Claude_Anthropic/meraki-auto-vpn-configuration-settings.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "Meraki Auto VPN Configuration Settings",
    "source": "http://documentation.meraki.com/MX/Site-to-site_VPN/Site-to-Site_VPN_Settings?_gl=1",
    "lines": [
@@ -9468,7 +9468,7 @@
   },
   {
    "path": "Claude_Anthropic/mikrotik-capsman-the-complete-guide-to-centralized-wireless-network-management-tech-layer-x-com.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "MikroTik CAPsMAN: The Complete Guide to Centralized Wireless Network Management - Tech@Layer-x.com",
    "source": "https://tech.layer-x.com/mikrotik-capsman-the-complete-guide-to-centralized-wireless-network-management/",
    "lines": [
@@ -9479,7 +9479,7 @@
   },
   {
    "path": "Claude_Anthropic/mikrotik-firewall-not-working-as-expected.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "mikrotik firewall not working as expected",
    "source": "https://forum.mikrotik.com/t/mikrotik-firewall-not-working-as-expected/157412?page=2",
    "lines": [
@@ -9501,7 +9501,7 @@
   },
   {
    "path": "Claude_Anthropic/mikrotik-vs-ubiquiti-which-network-solution-is-right-for-you.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Mikrotik vs Ubiquiti: Which Network Solution is Right for You?",
    "source": "http://1gbits.com/blog/mikrotik-vs-ubiquiti/",
    "lines": [
@@ -9567,7 +9567,7 @@
   },
   {
    "path": "Claude_Anthropic/mpls-and-other-stability-issues.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "MPLS and other stability issues",
    "source": "https://forum.mikrotik.com/t/mpls-and-other-stability-issues/181944",
    "lines": [
@@ -9622,7 +9622,7 @@
   },
   {
    "path": "Claude_Anthropic/net-automate-code-ansible-6-0-cisco-catalyst-center-templates-github-integration-readme-md-at-662fce.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "NET-AUTOMATE/CODE/ANSIBLE/6.0-Cisco-Catalyst-Center-Templates-Github-integration/README.md at 662fced0a64f7d81c2ca6d88fe2046db0a07c742 · kebaldwi/NET-AUTOMATE",
    "source": "https://github.com/kebaldwi/net-automate/blob/HEAD/CODE/ANSIBLE/6.0-Cisco-Catalyst-Center-Templates-Github-integration/README.md",
    "lines": [
@@ -9798,7 +9798,7 @@
   },
   {
    "path": "Claude_Anthropic/on-this-page.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "On this page",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.2/administration-guide/735065/augmenting-vpn-security-with-ztna-tags",
    "lines": [
@@ -9842,7 +9842,7 @@
   },
   {
    "path": "Claude_Anthropic/openvpn-ping-issues.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "OpenVPN Ping Issues",
    "source": "https://forum.mikrotik.com/t/openvpn-ping-issues/122781",
    "lines": [
@@ -9853,7 +9853,7 @@
   },
   {
    "path": "Claude_Anthropic/opnsense-mise-en-place-d-un-pare-feu.md",
-   "domain": "claude-anthropic",
+   "domain": "opnsense-pfsense",
    "title": "OPNsense : mise en place d'un pare-feu",
    "source": "https://rdr-it.com/opnsense-mise-en-place-dun-pare-feu/",
    "lines": [
@@ -9908,7 +9908,7 @@
   },
   {
    "path": "Claude_Anthropic/ospf-works-than-stops-by-itself.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "OSPF works than STOPS by ITSELF",
    "source": "https://forum.mikrotik.com/t/ospf-works-than-stops-by-itself/34964",
    "lines": [
@@ -9974,7 +9974,7 @@
   },
   {
    "path": "Claude_Anthropic/pfsense-or-opnsense-which-software-gateway-should-i-choose-for-the-network.md",
-   "domain": "claude-anthropic",
+   "domain": "opnsense-pfsense",
    "title": "pfSense or OPNsense - which software gateway should I choose for the network?",
    "source": "https://hwp24.com/articles/pfsense_or_opnsense_which_software_gateway_should_i_choose_for_the_network/",
    "lines": [
@@ -9985,7 +9985,7 @@
   },
   {
    "path": "Claude_Anthropic/pfsense-vs-opnsense-which-firewall-is-best-for-you.md",
-   "domain": "claude-anthropic",
+   "domain": "opnsense-pfsense",
    "title": "pfSense vs. OPNsense: Which Firewall is Best for you?",
    "source": "https://www.wundertech.net/pfsense-vs-opnsense/",
    "lines": [
@@ -10051,7 +10051,7 @@
   },
   {
    "path": "Claude_Anthropic/proxmox-gns3-lab-1.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Proxmox: GNS3 Lab 1",
    "source": "https://benheater.com/proxmox-gns3-lab-1/",
    "lines": [
@@ -10073,7 +10073,7 @@
   },
   {
    "path": "Claude_Anthropic/qos-details-on-ubiquity-switches.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "QoS details on Ubiquity switches",
    "source": "https://forums.lawrencesystems.com/t/qos-details-on-ubiquity-switches/17709",
    "lines": [
@@ -10117,7 +10117,7 @@
   },
   {
    "path": "Claude_Anthropic/route-redistribution-redistribute-ospf-into-eigrp-vica-versa.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "Route Redistribution | Redistribute OSPF into EIGRP | Vica Versa",
    "source": "https://ipcisco.com/lesson/route-redistribution-ospf-and-eigrp/",
    "lines": [
@@ -10128,7 +10128,7 @@
   },
   {
    "path": "Claude_Anthropic/router-upgrade-problem-routeros-powerpc-7-1-3-npk-missing-use-ignore-missing-or-disable-package-s.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "router Upgrade problem \"routeros-powerpc-7.1.3.npk missing, use ignore-missing or disable package(s)\"",
    "source": "https://forum.mikrotik.com/t/router-upgrade-problem-routeros-powerpc-7-1-3-npk-missing-use-ignore-missing-or-disable-package-s/156703",
    "lines": [
@@ -10194,7 +10194,7 @@
   },
   {
    "path": "Claude_Anthropic/send-feedback-31.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/latest/cookbook/179703/ssl-vpn-tunnel-mode-host-check",
    "lines": [
@@ -10216,7 +10216,7 @@
   },
   {
    "path": "Claude_Anthropic/send-feedback-9.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.6/administration-guide/302871/transparent-mode",
    "lines": [
@@ -10249,7 +10249,7 @@
   },
   {
    "path": "Claude_Anthropic/set-up-a-unifi-hotspot-portal-and-guest-wifi.md",
-   "domain": "claude-anthropic",
+   "domain": "unifi-ubiquiti",
    "title": "Set up a UniFi Hotspot Portal and Guest WiFi",
    "source": "https://techexpress.ca/setting-up-a-unifi-hotspot-portal-and-guest-wifi/",
    "lines": [
@@ -10260,7 +10260,7 @@
   },
   {
    "path": "Claude_Anthropic/simpler-failover-for-two-gateways-i-found-working.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Simpler Failover for two Gateways I found working",
    "source": "https://forum.mikrotik.com/t/simpler-failover-for-two-gateways-i-found-working/169108",
    "lines": [
@@ -10271,7 +10271,7 @@
   },
   {
    "path": "Claude_Anthropic/site-to-site-wireguard-with-both-mikrotiks-behind-nat-can-you-do-it.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Site to site Wireguard with both Mikrotiks behind NAT. Can you do it?",
    "source": "https://forum.mikrotik.com/t/site-to-site-wireguard-with-both-mikrotiks-behind-nat-can-you-do-it/167889",
    "lines": [
@@ -10282,7 +10282,7 @@
   },
   {
    "path": "Claude_Anthropic/solved-hairpin-nat-issues.md",
-   "domain": "claude-anthropic",
+   "domain": "reseau-networking",
    "title": "[SOLVED] Hairpin NAT issues",
    "source": "https://forum.mikrotik.com/t/solved-hairpin-nat-issues/137556",
    "lines": [
@@ -10392,7 +10392,7 @@
   },
   {
    "path": "Claude_Anthropic/technical-note-configuring-ospf-on-a-gre-tunnel-between-two-fortigates-community.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Technical Note : Configuring OSPF on a GRE tunnel between two FortiGates | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Note-Configuring-OSPF-on-a-GRE-tunnel-between-two/ta-p/194352?externalID=FD31183",
    "lines": [
@@ -10425,7 +10425,7 @@
   },
   {
    "path": "Claude_Anthropic/technical-tip-fortigate-bfd-implementation-and-examples-bidirectional-forwarding-detection-for-ospf-.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Technical Tip: FortiGate BFD implementation and examples (Bidirectional Forwarding Detection for OSPF and BGP) | Community",
    "source": "https://community.fortinet.com/fortigate-3/technical-tip-fortigate-bfd-implementation-and-examples-bidirectional-forwarding-detection-for-ospf-and-bgp-93135",
    "lines": [
@@ -10436,7 +10436,7 @@
   },
   {
    "path": "Claude_Anthropic/technical-tip-fortigate-explicit-proxy-authentication-with-kerberos-community.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Technical Tip: FortiGate explicit proxy authentication with Kerberos | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-FortiGate-explicit-proxy-authentication-with/ta-p/206219",
    "lines": [
@@ -10447,7 +10447,7 @@
   },
   {
    "path": "Claude_Anthropic/technical-tip-how-to-configure-fortigate-guest-wi-fi-network-using-hpe-aruba-clearpass-as-external-c-2.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Technical Tip: How to configure FortiGate Guest Wi-Fi Network using HPE Aruba ClearPass as external captive portal on Bridge mode SSID | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-FortiGate-Guest-Wi-Fi-Network/ta-p/296760",
    "lines": [
@@ -10458,7 +10458,7 @@
   },
   {
    "path": "Claude_Anthropic/technical-tip-how-to-configure-fortigate-guest-wi-fi-network-using-hpe-aruba-clearpass-as-external-c.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Technical Tip: How to configure FortiGate Guest Wi-Fi Network using HPE Aruba ClearPass as external captive portal on Tunnel mode SSID | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-FortiGate-Guest-Wi-Fi-Network/ta-p/296728",
    "lines": [
@@ -10469,7 +10469,7 @@
   },
   {
    "path": "Claude_Anthropic/technical-tip-how-to-manually-perform-a-firmware-upgrade-from-the-gui-community.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Technical Tip: How to manually perform a firmware upgrade from the GUI | Community",
    "source": "https://community.fortinet.com/fortigate-3/technical-tip-how-to-manually-perform-a-firmware-upgrade-from-the-gui-95946",
    "lines": [
@@ -10601,7 +10601,7 @@
   },
   {
    "path": "Claude_Anthropic/tool-calling-ollama.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Tool calling - Ollama",
    "source": "https://docs.ollama.com/capabilities/tool-calling",
    "lines": [
@@ -10656,7 +10656,7 @@
   },
   {
    "path": "Claude_Anthropic/troubleshooting-tip-diagnose-packet-loss-in-a-fortigate-community.md",
-   "domain": "claude-anthropic",
+   "domain": "fortinet",
    "title": "Troubleshooting Tip: Diagnose packet loss in a FortiGate | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-Diagnose-packet-loss-in-a-FortiGate/ta-p/192459",
    "lines": [
@@ -10667,7 +10667,7 @@
   },
   {
    "path": "Claude_Anthropic/tuto.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Tuto",
    "source": "https://lafibre.info/mikrotik/tuto-acceder-a-service-auto-heberge-en-4g-via-vps-et-wireguard-sur-mikrotik/",
    "lines": [
@@ -10722,7 +10722,7 @@
   },
   {
    "path": "Claude_Anthropic/tutoriel-mcp-server-13-etapes-typescript-et-python-2026.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Tutoriel MCP Server : 13 Étapes TypeScript et Python [2026]",
    "source": "https://tech-insider.org/fr/tutoriel-mcp-server-typescript-python-anthropic-2026/",
    "lines": [
@@ -10766,7 +10766,7 @@
   },
   {
    "path": "Claude_Anthropic/tutoriel-playwright-1-59-tests-e2e-en-13-etapes-2026.md",
-   "domain": "claude-anthropic",
+   "domain": "dev-langages",
    "title": "Tutoriel Playwright 1.59 : Tests E2E en 13 Étapes 2026",
    "source": "https://tech-insider.org/fr/playwright-tutoriel-tests-e2e-13-etapes-2026/",
    "lines": [
@@ -10810,7 +10810,7 @@
   },
   {
    "path": "Claude_Anthropic/using-routeros-winbox-for-default-vlan-and-vlans.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Using RouterOS & Winbox for default VLAN and VLANS",
    "source": "https://forum.mikrotik.com/t/using-routeros-winbox-for-default-vlan-and-vlans/141387",
    "lines": [
@@ -10876,7 +10876,7 @@
   },
   {
    "path": "Claude_Anthropic/what-are-the-best-practices-for-securing-a-mikrotik-router-from-external-threats.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "What are the best practices for securing a MikroTik router from external threats?",
    "source": "https://forum.mikrotik.com/t/what-are-the-best-practices-for-securing-a-mikrotik-router-from-external-threats/177761",
    "lines": [
@@ -11019,7 +11019,7 @@
   },
   {
    "path": "Claude_Anthropic/which-p2p-wireless-should-you-buy-real-world-comparison-tp-link-vs-mikrotik-vs-ubiquiti-vs-mimosa-fg.md",
-   "domain": "claude-anthropic",
+   "domain": "mikrotik",
    "title": "Which P2P Wireless Should You Buy? | Real-World Comparison: TP-Link Vs MikroTik Vs Ubiquiti Vs Mimosa - FGTECH STORE",
    "source": "https://fgtechstore.com/blog/p2p-wireless/",
    "lines": [
@@ -11052,7 +11052,7 @@
   },
   {
    "path": "Claude_Anthropic/why-use-hsrp-version-2-ciscozine.md",
-   "domain": "claude-anthropic",
+   "domain": "cisco",
    "title": "Why use HSRP version 2? – CiscoZine",
    "source": "https://www.ciscozine.com/why-use-hsrp-version-2/",
    "lines": [
@@ -11195,7 +11195,7 @@
   },
   {
    "path": "Copilot_Microsoft/3-steps-gre-tunnel-configuration-with-cisco-packet-tracer.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "3 Steps GRE Tunnel Configuration with Cisco Packet Tracer ⋆",
    "source": "https://ipcisco.com/lesson/gre-tunnel-configuration-with-cisco-packet-tracer/",
    "lines": [
@@ -11206,7 +11206,7 @@
   },
   {
    "path": "Copilot_Microsoft/3-steps-of-eigrp-config-on-packet-tracer-eigrp-configuration-ipcisco.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "3 Steps of EIGRP Config on Packet Tracer, EIGRP Configuration ⋆ IPCisco",
    "source": "https://ipcisco.com/lesson/eigrp-configuration-with-packet-tracer-ccnp/",
    "lines": [
@@ -11239,7 +11239,7 @@
   },
   {
    "path": "Copilot_Microsoft/7-steps-of-glbp-cisco-configuation-cisco-glbp-configuation.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "7 Steps of GLBP Cisco Configuation | Cisco GLBP Configuation",
    "source": "https://ipcisco.com/lesson/glbp-configuration-on-cisco-2/",
    "lines": [
@@ -11250,7 +11250,7 @@
   },
   {
    "path": "Copilot_Microsoft/8-steps-of-vrrp-configuration-on-cisco-cisco-vrrp-config.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "8 Steps of VRRP Configuration on Cisco | Cisco VRRP Config ⋆",
    "source": "https://ipcisco.com/lesson/vrrp-configuration-on-cisco-2/",
    "lines": [
@@ -11261,7 +11261,7 @@
   },
   {
    "path": "Copilot_Microsoft/adurrr-github-io-content-post-sysadmin-opnsense-mastery-en-md-at-26b53b0ca4e2205f54d87971a2d11c6cac1.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "adurrr.github.io/content/post/sysadmin/opnsense_mastery.en.md at 26b53b0ca4e2205f54d87971a2d11c6cac1f5c88 · adurrr/adurrr.github.io",
    "source": "https://github.com/adurrr/adurrr.github.io/blob/HEAD/content/post/sysadmin/opnsense_mastery.en.md",
    "lines": [
@@ -11272,7 +11272,7 @@
   },
   {
    "path": "Copilot_Microsoft/adurrr-github-io-content-post-sysadmin-opnsense-segmentation-en-md-at-26b53b0ca4e2205f54d87971a2d11c.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "adurrr.github.io/content/post/sysadmin/opnsense_segmentation.en.md at 26b53b0ca4e2205f54d87971a2d11c6cac1f5c88 · adurrr/adurrr.github.io",
    "source": "https://github.com/adurrr/adurrr.github.io/blob/HEAD/content/post/sysadmin/opnsense_segmentation.en.md",
    "lines": [
@@ -11305,7 +11305,7 @@
   },
   {
    "path": "Copilot_Microsoft/ansible-network-automation-roles-ansible-network-cisco-ios-docs-get-facts-md-at-e6addc4e9d27169e266b.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "ansible-network-automation/roles/ansible-network.cisco_ios/docs/get_facts.md at e6addc4e9d27169e266ba7fda36f450b2649b17b · LukeDRussell/ansible-network-automation",
    "source": "https://github.com/lukedrussell/ansible-network-automation/blob/HEAD/roles/ansible-network.cisco_ios/docs/get_facts.md",
    "lines": [
@@ -11316,7 +11316,7 @@
   },
   {
    "path": "Copilot_Microsoft/ansible-opnsense-docs-source-usage-2-basic-rst-at-5cec92ea25c8280a9913dfb958109f78ce930d00-o-x-l-ans.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "ansible-opnsense/docs/source/usage/2_basic.rst at 5cec92ea25c8280a9913dfb958109f78ce930d00 · O-X-L/ansible-opnsense",
    "source": "https://github.com/o-x-l/ansible-opnsense/blob/HEAD/docs/source/usage/2_basic.rst",
    "lines": [
@@ -11327,7 +11327,7 @@
   },
   {
    "path": "Copilot_Microsoft/ansible-policybook-examples-policy-network-cisco-readme-md-at-1f98566ae2b5b888aede4455031b29315aac00.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "ansible-policybook-examples/policy/network/cisco/README.md at 1f98566ae2b5b888aede4455031b29315aac0041 · ansible/ansible-policybook-examples",
    "source": "https://github.com/ansible/ansible-policybook-examples/blob/HEAD/policy/network/cisco/README.md",
    "lines": [
@@ -11470,7 +11470,7 @@
   },
   {
    "path": "Copilot_Microsoft/bgp-and-ospf-network-configuration.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "BGP and OSPF network configuration",
    "source": "https://forum.mikrotik.com/t/bgp-and-ospf-network-configuration/73643",
    "lines": [
@@ -11503,7 +11503,7 @@
   },
   {
    "path": "Copilot_Microsoft/cdp-configuration-with-packet-tracer-cisco-discovery-protocol.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "CDP Configuration with Packet Tracer ⋆ | Cisco Discovery Protocol",
    "source": "https://ipcisco.com/lesson/cdp-configuration-with-packet-tracer/",
    "lines": [
@@ -11514,7 +11514,7 @@
   },
   {
    "path": "Copilot_Microsoft/cisco-basic-configuration-ciscozine.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Cisco basic configuration – CiscoZine",
    "source": "https://www.ciscozine.com/cisco-basic-configuration/",
    "lines": [
@@ -11525,7 +11525,7 @@
   },
   {
    "path": "Copilot_Microsoft/cisco-ipsec-vpn-configuration-step-by-step-example.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Cisco IPSec VPN Configuration: Step-by-Step Example!",
    "source": "https://ipcisco.com/lesson/cisco-ipsec-vpn-configuration/",
    "lines": [
@@ -11536,7 +11536,7 @@
   },
   {
    "path": "Copilot_Microsoft/community-routeros-docs-docsite-rst-ssh-guide-rst-at-3c2f48bfde5067283c6ec6072c919ea4bc608753-ansibl.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "community.routeros/docs/docsite/rst/ssh-guide.rst at 3c2f48bfde5067283c6ec6072c919ea4bc608753 · ansible-collections/community.routeros",
    "source": "https://github.com/ansible-collections/community.routeros/blob/HEAD/docs/docsite/rst/ssh-guide.rst",
    "lines": [
@@ -11547,7 +11547,7 @@
   },
   {
    "path": "Copilot_Microsoft/community-routeros-readme-md-at-3c2f48bfde5067283c6ec6072c919ea4bc608753-ansible-collections-communi.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "community.routeros/README.md at 3c2f48bfde5067283c6ec6072c919ea4bc608753 · ansible-collections/community.routeros",
    "source": "https://github.com/ansible-collections/community.routeros/blob/HEAD/README.md",
    "lines": [
@@ -11558,7 +11558,7 @@
   },
   {
    "path": "Copilot_Microsoft/community-routeros.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "Community.Routeros",
    "source": "https://ansible-community.github.io/package-doc-builds/collections/community/routeros/index.html",
    "lines": [
@@ -11569,7 +11569,7 @@
   },
   {
    "path": "Copilot_Microsoft/comparing-cisco-vpn-technologies-policy-based-vs-route-based-vpns.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Comparing Cisco VPN Technologies – Policy Based vs Route Based VPNs",
    "source": "https://www.firewall.cx/cisco/cisco-services-technologies/cisco-comparing-vpn-technologies.html",
    "lines": [
@@ -11580,7 +11580,7 @@
   },
   {
    "path": "Copilot_Microsoft/configuring-bgp-neighbors-on-cisco-routers-flackbox.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Configuring BGP Neighbors on Cisco Routers - FlackBox",
    "source": "https://www.flackbox.com/cisco-bgp-neighbor-configuration",
    "lines": [
@@ -11668,7 +11668,7 @@
   },
   {
    "path": "Copilot_Microsoft/dhcp-snooping-configuration-on-packet-tracer-ccna-ccnp.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "DHCP Snooping Configuration on Packet Tracer ⋆ | CCNA & CCNP",
    "source": "https://ipcisco.com/lesson/dhcp-snooping-configuration-on-packet-tracer/",
    "lines": [
@@ -11679,7 +11679,7 @@
   },
   {
    "path": "Copilot_Microsoft/dynamic-nat-configuration-with-packet-tracer-cisco-nat-config.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Dynamic NAT Configuration with Packet Tracer ⋆ | Cisco NAT Config",
    "source": "https://ipcisco.com/lesson/dynamic-nat-configuration-with-packet-tracer-2/",
    "lines": [
@@ -11712,7 +11712,7 @@
   },
   {
    "path": "Copilot_Microsoft/etherchannel-cisco-pagp-configuration-on-gns3-lag-with-pagp.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Etherchannel Cisco PAgP Configuration on GNS3 ⋆ | LAG with PAgP!",
    "source": "https://ipcisco.com/lesson/etherchannel-cisco-pagp-configuration-on-gns3/",
    "lines": [
@@ -11734,7 +11734,7 @@
   },
   {
    "path": "Copilot_Microsoft/firewall-configuration-for-wireguard-vpn.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "Firewall configuration for Wireguard VPN",
    "source": "https://forum.mikrotik.com/t/firewall-configuration-for-wireguard-vpn/142869",
    "lines": [
@@ -11745,7 +11745,7 @@
   },
   {
    "path": "Copilot_Microsoft/five-developer-deadlines-in-august-2026-copilot-credits-rust-1-98-typescript-7.md",
-   "domain": "copilot-microsoft",
+   "domain": "dev-langages",
    "title": "Five developer deadlines in August 2026: Copilot credits, Rust 1.98, TypeScript 7",
    "source": "https://dev.to/akashdas/five-developer-deadlines-in-august-2026-copilot-credits-rust-198-typescript-7-1pbh",
    "lines": [
@@ -11756,7 +11756,7 @@
   },
   {
    "path": "Copilot_Microsoft/fortigate-auto-backup-manager-automation-stitch-md-at-982dbe206f7c5b1b696c59f717fd8be29059d107-crysi.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "fortigate-auto-backup-manager/automation-stitch.md at 982dbe206f7c5b1b696c59f717fd8be29059d107 · CRYSIS525/fortigate-auto-backup-manager",
    "source": "https://github.com/crysis525/fortigate-auto-backup-manager/blob/HEAD/automation-stitch.md",
    "lines": [
@@ -11767,7 +11767,7 @@
   },
   {
    "path": "Copilot_Microsoft/fortigate-dos-ddos-sensor-policy-rules-configuration-and-verification.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "Fortigate DoS/DDoS sensor/policy rules configuration and verification",
    "source": "https://yurisk.info/2020/05/29/fortigate-dos-ddos-policy-configuration/",
    "lines": [
@@ -11778,7 +11778,7 @@
   },
   {
    "path": "Copilot_Microsoft/fortinet-handbook-handbook-labs-02-dhcp-server-configuration-on-fortigate-readme-md-at-23918ccd77127.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "fortinet-handbook/Handbook/Labs/02-DHCP-Server-Configuration-on-FortiGate/README.md at 23918ccd771277664ffd5c8790864a76ec8e628f · packetarchitect/fortinet-handbook",
    "source": "https://github.com/dhruvjaiswal-98/fortinet-handbook/blob/HEAD/Handbook/Labs/02-DHCP-Server-Configuration-on-FortiGate/README.md",
    "lines": [
@@ -11789,7 +11789,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-0r1xbyte-opnsense-orchestrator-automation-and-orchestration-toolkit-for-opnsense-python-api-a.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - 0r1xByte/opnsense-orchestrator: Automation and orchestration toolkit for OPNsense – Python API and CLI for DHCP, firewall, NAC, logging, and config sync.",
    "source": "https://github.com/0r1xbyte/opnsense-orchestrator",
    "lines": [
@@ -11800,7 +11800,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-0xpr0rekt0r-matrix-bot-mikrotik-mikrotik-management-bot-over-the-matrix-protocol-supports-all.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - 0xpr0rekt0r/matrix-bot-mikrotik: MikroTik management bot over the Matrix protocol. Supports all RouterOS versions via REST API (7.1+) and RouterOS API (3.x–6.x). Multi-router management from a single Matrix room.",
    "source": "https://github.com/underhax/matrix-bot-mikrotik",
    "lines": [
@@ -11811,7 +11811,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-1homas-ise-with-meraki-in-aws-an-ansible-playbook-and-configuration-guide-for-automating-the-.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - 1homas/ISE_with_Meraki_in_AWS: An Ansible playbook and configuration guide for automating the creation of ISE in AWS and securely connecting it with auto-VPN to your other sites using a Cisco Meraki vMX VPN!",
    "source": "https://GitHub.Com/1homas/ISE_with_Meraki_in_AWS",
    "lines": [
@@ -11822,7 +11822,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-6ixfalls-terraform-provider-opnsense-opnsense-terraform-provider.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - 6ixfalls/terraform-provider-opnsense: OPNsense Terraform Provider",
    "source": "https://github.com/6ixfalls/terraform-provider-opnsense",
    "lines": [
@@ -11833,7 +11833,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-alisaleh2025-mikrotik-firewall-new-my-humble-vision-on-mikrotik-about-firewall-rules.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - alisaleh2025/mikrotik-firewall-new: My humble vision on mikrotik about firewall rules.",
    "source": "https://github.com/alisaleh2025/mikrotik-firewall-new",
    "lines": [
@@ -11844,7 +11844,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-ams0-opnsense-azure.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - ams0/opnsense-azure",
    "source": "https://github.com/ams0/opnsense-azure",
    "lines": [
@@ -11855,7 +11855,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-andre4freelance-mikrotik-vrrp-mikrotik-vrrp-virtual-router-redundancy-protocol-to-achieve-dhc.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - andre4freelance/MikroTik-vrrp: MikroTik VRRP (Virtual Router Redundancy Protocol) to achieve DHCP Server high availability.",
    "source": "https://github.com/andre4freelance/mikrotik-vrrp",
    "lines": [
@@ -11866,7 +11866,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-andreas-stuerz-opn-cli-cli-for-opnsense-firewall-using-api-requests-2.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - andreas-stuerz/opn-cli: CLI for OPNsense Firewall using API Requests",
    "source": "https://github.com/andreas-stuerz/opn-cli",
    "lines": [
@@ -11877,7 +11877,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-andreas-stuerz-puppet-opnsense-puppet-providers-for-automating-the-opnsense-firewall.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - andreas-stuerz/puppet-opnsense: Puppet providers for automating the OPNsense Firewall.",
    "source": "https://github.com/andeman/puppet-opnsense",
    "lines": [
@@ -11888,7 +11888,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-api-evangelist-routeros-routeros-independent-third-party-profile-of-a-public-api-surface-by-a.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - api-evangelist/routeros: RouterOS — independent third-party profile of a public API surface, by API Evangelist. RouterOS is MikroTik's powerful network operating system designed for managing routers, switches, access points, and other network devices. It provides a comprehensive REST API (v7.1+) and a TCP-based binary API for programmatic management of IP addresses, interf",
    "source": "https://github.com/api-evangelist/routeros",
    "lines": [
@@ -11899,7 +11899,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-astro-josh-py-opnsense-backup-a-simple-python-script-to-backup-opnsense-configurations-with-t.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - astro-josh/py-opnsense-backup: A simple python script to backup OPNsense configurations with the os-api-backup plugin.",
    "source": "https://github.com/obviousrebel/py-opnsense-backup",
    "lines": [
@@ -11921,7 +11921,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-bawe-check-opnsense-check-script-for-opnsense-firewall.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - bawe/check_opnsense: Check script for opnsense firewall",
    "source": "https://github.com/bawe/check_opnsense",
    "lines": [
@@ -11932,7 +11932,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-brunokaue-02-mikrotik-default-setup-reusable-mikrotik-routeros-base-configuration-script-for-.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - BrunoKaue-02/mikrotik-default-setup: Reusable MikroTik RouterOS base configuration script for quick deployment and standardized setups.",
    "source": "https://github.com/brunokaue-02/mikrotik-default-setup",
    "lines": [
@@ -11943,7 +11943,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-charlesx0101-opnsense-firewall-build-a-full-job-ready-opnsense-firewall-build-for-homelab-and.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - charlesX0101/opnsense-firewall-build: A full, job-ready OPNsense firewall build for homelab and small business networks. It includes VLAN segmentation, interface rules, and secure default deny policies.",
    "source": "https://github.com/charlesx0101/opnsense-firewall-build",
    "lines": [
@@ -11954,7 +11954,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-chosomeister-mikrotik-iran-ip-list-automatically-updated-mikrotik-routeros-address-list-of-ir.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - ChosoMeister/Mikrotik-IRAN-IP-List: Automatically updated MikroTik RouterOS address list of Iran IPv4/IPv6 prefixes generated from RIPE country resource data.",
    "source": "https://github.com/ChosoMeister/Mikrotik-IRAN-IP-List",
    "lines": [
@@ -11965,7 +11965,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-ciscotestautomation-examples-pyats-library-usages-examples-etc.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - CiscoTestAutomation/examples: pyATS | Library Usages, Examples & etc",
    "source": "https://github.com/CiscoTestAutomation/examples",
    "lines": [
@@ -11976,7 +11976,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-clementdmsn-homelab-writeup-enterprise-style-homelab-with-proxmox-opnsense-active-directory-v.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - clementdmsn/Homelab-Writeup: Enterprise-style homelab with Proxmox, OPNsense, Active Directory, VLAN segmentation, DHCP relay, DMZ, and WireGuard admin access.",
    "source": "https://github.com/clementdmsn/homelab-writeup",
    "lines": [
@@ -12372,7 +12372,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-cyprientemateu-python-netmiko-devnet-cisco-automation-lab-production-style-python-netdevops-a.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - cyprientemateu/python-netmiko-devnet-cisco-automation-lab: Production-style Python NetDevOps automation for Cisco IOS-XE — Netmiko, drift detection, RESTCONF validation, compliance dashboard",
    "source": "https://github.com/cyprientemateu/python-netmiko-devnet-cisco-automation-lab",
    "lines": [
@@ -12383,7 +12383,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-czxs-ccnp-fortune500-enterprise-study-companion-lab-blueprint-for-ccnp-encor-350-401-ccnp-ena.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "GitHub - czxs/CCNP-Fortune500-Enterprise: Study companion + lab blueprint for CCNP ENCOR (350-401), CCNP ENARSI (300-410), and CCIE Enterprise Infrastructure. Real-world Fortune 500 topology with 10 CCNP-level foundation deep-dives, device configs, setup guides, and hands-on lab mapping.",
    "source": "https://github.com/czxs/ccnp-fortune500-enterprise",
    "lines": [
@@ -12394,7 +12394,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-dagodfather-nornir-network-configurator-built-to-audit-and-configure-a-network-of-cisco-and-j.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - DaGodfather/nornir_network_configurator: Built to Audit and Configure a network of Cisco and Juniper devices.",
    "source": "https://github.com/dagodfather/nornir_network_configurator",
    "lines": [
@@ -12405,7 +12405,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-devinbarry-opn-api-a-python-client-for-the-opnsense-rest-api.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - devinbarry/opn-api: A Python client for the OPNsense REST API",
    "source": "https://github.com/devinbarry/opn-api",
    "lines": [
@@ -12416,7 +12416,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-dimogeo-cisco-packet-tracer-labs-for-ccna-a-collection-of-completed-cisco-packet-tracer-labs-.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - DimoGeo/Cisco-Packet-Tracer-Labs-for-CCNA: a collection of completed Cisco Packet Tracer labs covering various topics from the CCNA (Cisco Certified Network Associate) curriculum. The labs provide hands-on practice for networking concepts, helping learners reinforce their understanding through simulations.",
    "source": "https://github.com/dimogeo/cisco-packet-tracer-labs-for-ccna",
    "lines": [
@@ -12427,7 +12427,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-dushyantkinha-cu-ansible-jinja2-automation.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - dushyantkinha-cu/Ansible-Jinja2-Automation",
    "source": "https://github.com/dushyantkinha-cu/ansible-jinja2-automation",
    "lines": [
@@ -12438,7 +12438,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-ebogdum-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros-7-x-every-menu-e.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - ebogdum/terraform-provider-routeros: Terraform provider for MikroTik RouterOS 7.x. Every menu, every property — 185 resources, 276 data sources, 75 actions. Multi-router from one provider block, deterministic firewall ordering, lockout safety guards.",
    "source": "https://github.com/ebogdum/terraform-provider-routeros",
    "lines": [
@@ -12449,7 +12449,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-emomeni-cisco-isr4k-hardening-ansible-playbook-ansible-playbook-that-applies-cis-benchmark-v4.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - emomeni/Cisco-ISR4K-Hardening-Ansible-Playbook: Ansible playbook that applies CIS Benchmark (v4.x) and NSA/CISA hardening controls to Cisco ISR 4000 series routers running IOS XE.",
    "source": "https://github.com/emomeni/cisco-isr4k-hardening-ansible-playbook",
    "lines": [
@@ -12460,7 +12460,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-endavis-opnsense-openapi-openapi-based-python-client-for-opnsense-with-bundled-specs.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - endavis/opnsense-openapi: OpenAPI-based Python client for OPNsense with bundled specs",
    "source": "https://github.com/endavis/opnsense-openapi",
    "lines": [
@@ -12471,7 +12471,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-fortinet-solutions-cse-fortiosapi-examples-separate-and-use-git-submodules-to-clean-the-forti.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "GitHub - fortinet-solutions-cse/fortiosapi-examples: Separate and use git submodules to clean the fortiosapi repo",
    "source": "https://github.com/fortinet-solutions-cse/fortiosapi-examples",
    "lines": [
@@ -12493,7 +12493,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-georgybi-eve-ng-labs-welcome-to-the-eve-ng-labs-catalog-this-repository-is-a-comprehensive-co.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - georgybi/eve-ng-labs: Welcome to the EVE-NG Labs Catalog! This repository is a comprehensive collection of network simulation free labs designed for network engineers, students, and professionals who want to enhance their skills in routing, switching, and firewall etc..",
    "source": "https://github.com/georgybi/eve-ng-labs",
    "lines": [
@@ -12504,7 +12504,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-hreskiv-chr-eve-ng-repository-contain-lab-s-for-mikrotik-trainings-and-helpers-for-installing.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - hreskiv/chr-eve-ng: Repository contain LAB's for Mikrotik trainings and helpers for installing CHR into eve-ng.",
    "source": "https://github.com/hreskiv/chr-eve-ng",
    "lines": [
@@ -12515,7 +12515,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-infrainka-netmiko-restconf-python-scripts-for-netmiko-and-restconf-automation-on-cisco-device.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - infrainka/netmiko-restconf: Python scripts for Netmiko and RESTCONF automation on Cisco devices",
    "source": "https://github.com/infrainka/netmiko-restconf",
    "lines": [
@@ -12526,7 +12526,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-isarmadfarooq-fortigate-ngfw-security-lab-a-complete-hands-on-lab-for-deploying-and-configuri.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "GitHub - isarmadfarooq/FortiGate-NGFW-Security-Lab: A complete, hands-on lab for deploying and configuring a FortiGate Next-Generation Firewall in a virtualized enterprise environment covering VM deployment, interface hardening, multi-layer policy implementation, and live threat validation.",
    "source": "https://github.com/isarmadfarooq/fortigate-ngfw-security-lab",
    "lines": [
@@ -12537,7 +12537,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-jack9789-proxmox-opnsense-vlan-lab.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - jack9789/proxmox-opnsense-vlan-lab",
    "source": "https://github.com/jack9789/proxmox-opnsense-vlan-lab",
    "lines": [
@@ -12548,7 +12548,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-joakimmelin-opnsense-backup-simple-script-for-backing-up-opnsense-configuration-to-another-se.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - joakimmelin/opnsense-backup: simple script for backing up OPNSense configuration to another server.",
    "source": "https://github.com/joakimmelin/opnsense-backup",
    "lines": [
@@ -12559,7 +12559,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-jrefi-opnsense-py.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - jrefi/opnsense-py",
    "source": "https://github.com/jrefi/opnsense-py",
    "lines": [
@@ -12570,7 +12570,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-krishna426426-cisco-ios-xe-programmability-lab-module-8-ansible.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - krishna426426/cisco-ios-xe-programmability-lab-module-8-ansible",
    "source": "https://github.com/krishna426426/cisco-ios-xe-programmability-lab-module-8-ansible",
    "lines": [
@@ -12581,7 +12581,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-krusherdom-tinkernet-tikspot-onboard-mikrotik-hotspot-radius-container.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - krusherdom/tinkernet-tikspot: Onboard MikroTik hotspot +radius container",
    "source": "https://github.com/krusherdom/tinkernet-tikspot",
    "lines": [
@@ -12592,7 +12592,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-lotsofproblems-cisco-commands-cheatsheet-for-ccna-commands.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - LotsOfProblems/cisco-commands: cheatsheet for ccna commands",
    "source": "https://github.com/lotsofproblems/cisco-commands",
    "lines": [
@@ -12614,7 +12614,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-marcdely1-homelab-01-proxmox-opnsense-cybersecurity-home-lab-built-with-proxmox-ve-and-opnsen.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - marcdely1/homelab-01-proxmox-opnsense: Cybersecurity home lab built with Proxmox VE and OPNsense firewall on Dell Optiplex 3060 Micro",
    "source": "https://github.com/marcdely1/homelab-01-proxmox-opnsense",
    "lines": [
@@ -12625,7 +12625,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-marctm01-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - MarcTM01/terraform-provider-routeros: Terraform Provider for Mikrotik RouterOS",
    "source": "https://github.com/marctm01/terraform-provider-routeros",
    "lines": [
@@ -12636,7 +12636,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-markt-de-puppet-opn-puppet-module-to-manage-opnsense-firewalls-using-their-api-1.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - markt-de/puppet-opn: Puppet module to manage OPNsense firewalls using their API",
    "source": "https://github.com/markt-de/puppet-opn",
    "lines": [
@@ -12647,7 +12647,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-markt-de-puppet-opn-puppet-module-to-manage-opnsense-firewalls-using-their-api-2.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - markt-de/puppet-opn: Puppet module to manage OPNsense firewalls using their API",
    "source": "https://github.com/markt-de/puppet-opn",
    "lines": [
@@ -12658,7 +12658,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-mihakralj-opnsense-cli-opnsense-cli-is-a-command-line-utility-for-freebsd-linux-macos-and-win.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - mihakralj/opnsense-cli: OPNsense CLI is a command-line utility for FreeBSD, Linux, MacOS and Windows that empowers administrators and power users to manage, configure, and monitor OPNsense firewall systems.",
    "source": "https://github.com/mihakralj/opnsense-cli",
    "lines": [
@@ -12702,7 +12702,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-mtreinish-pyopnsense-a-python-api-client-for-the-opnsense-api.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - mtreinish/pyopnsense: A Python API client for the OPNsense API",
    "source": "https://github.com/mtreinish/pyopnsense",
    "lines": [
@@ -12713,7 +12713,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-nasser-souidi-enterprise-multi-site-network-cisco-lab-gns3-core-sw1-sw2-etherchannel-port-cha.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "GitHub - nasser-souidi/Enterprise-Multi-Site-Network-Cisco-Lab-GNS3-: - Core: SW1 & SW2 — EtherChannel (Port-channel) + HSRP + OSPF, 4 parallel links - Access: ESW1–ESW4, one VLAN per switch (10/20/30/40) + management VLAN 99 - Edge: Router R1 — OSPF ↔ EIGRP redistribution, NAT/PAT, VPN endpoint",
    "source": "https://github.com/nasser-souidi/enterprise-multi-site-network-cisco-lab-gns3-",
    "lines": [
@@ -12724,7 +12724,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-networklessons-labs-labs.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - networklessons/labs: Labs",
    "source": "https://github.com/networklessons/labs",
    "lines": [
@@ -12735,7 +12735,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-nils-ost-ansible-collection-opnsense-collection-to-streamline-my-opnsense-configurations.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - nils-ost/ansible-collection-opnsense: Collection to streamline my OPNsense configurations",
    "source": "https://github.com/nils-ost/ansible-collection-opnsense",
    "lines": [
@@ -12757,7 +12757,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-o-x-l-ansible-opnsense-ansible-collection-to-manage-opnsense-firewalls-using-their-api.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - O-X-L/ansible-opnsense: Ansible Collection to manage OPNsense firewalls using their API",
    "source": "https://github.com/o-x-l/ansible-opnsense",
    "lines": [
@@ -12768,7 +12768,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-omaralghafri-cisco-network-automation-python-netmiko-automation-for-cisco-ios-devices-in-a-gn.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - OmarAlghafri/cisco-network-automation: Python + Netmiko automation for Cisco IOS devices in a GNS3 lab: SSH connectivity checks, config backups, bulk VLAN provisioning, and health reports from a single YAML inventory.",
    "source": "https://github.com/OmarAlghafri/cisco-network-automation",
    "lines": [
@@ -12779,7 +12779,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-opnsense-core-opnsense-gui-api-and-systems-backend.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - opnsense/core: OPNsense GUI, API and systems backend",
    "source": "https://github.com/opnsense/core",
    "lines": [
@@ -12790,7 +12790,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-park0-opnsense-api-opnsense-api-wrapper-with-some-logic-for-authentik-haproxy.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - Park0/opnsense_api: OPNsense API wrapper with some logic for authentik / haproxy",
    "source": "https://github.com/park0/opnsense_api",
    "lines": [
@@ -12801,7 +12801,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-ramobis-nornir-l3-vpn-service-deployment-at-the-ost-eastern-switzerland-university-of-applied.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - ramobis/nornir-l3-vpn-service-deployment: At the OST Eastern Switzerland University of Applied Sciences as part of the Network Automation course we were given the task to fully automate the deployment of L3-VPN services declaratively defined in a YAML file on a given service provider network topology using Nornir.",
    "source": "https://github.com/ramobis/nornir-l3-vpn-service-deployment",
    "lines": [
@@ -12812,7 +12812,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-ripclap-terraform-provider-routeros-terraform-provider-for-mikrotik-routeros.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - ripclap/terraform-provider-routeros: Terraform Provider for Mikrotik RouterOS",
    "source": "https://github.com/ripclap/terraform-provider-routeros",
    "lines": [
@@ -12834,7 +12834,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-rosa-luxemburgstiftung-berlin-ansible-opnsense-ansible-role-to-configure-opnsense-firewalls.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - Rosa-Luxemburgstiftung-Berlin/ansible-opnsense: Ansible role to configure OPNsense firewalls",
    "source": "https://github.com/rosa-luxemburgstiftung-berlin/ansible-opnsense",
    "lines": [
@@ -12845,7 +12845,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-ryszard-suchocki-mikrotik-hotspot.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - ryszard-suchocki/mikrotik-Hotspot",
    "source": "https://github.com/ryszard-suchocki/mikrotik-hotspot",
    "lines": [
@@ -12856,7 +12856,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-samsesh-github-ip-address-list-automatically-generate-mikrotik-address-list-from-github-s-pub.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - samsesh/github-ip-address-list: Automatically generate MikroTik address-list from GitHub's public IPs using GitHub Actions – ready to import in .rsc format.",
    "source": "https://github.com/samsesh/github-ip-address-list",
    "lines": [
@@ -12867,7 +12867,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-sdiehl-infosec-gns3-network-lab-gns3-network-topology-lab-featuring-nat-cisco-3725-router-swi.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - sdiehl-infosec/GNS3-Network-Lab: GNS3 network topology lab featuring NAT, Cisco 3725 router, switches, and VPCS end devices",
    "source": "https://github.com/sdiehl-infosec/gns3-network-lab",
    "lines": [
@@ -12878,7 +12878,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-sepidehgho-ipsec-site-to-site-vpn-lab-this-project-demonstrates-an-ipsec-site-to-site-vpn-imp.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - Sepidehgho/IPSec-Site-to-Site-VPN-Lab: This project demonstrates an IPSec Site-to-Site VPN implementation using Cisco IOS routers within a GNS3 simulated network environment. It establishes a secure, encrypted tunnel between two distinct private networks over a simulated public internet connection.",
    "source": "https://github.com/dawngh9/IPSec-Site-to-Site-VPN-Lab",
    "lines": [
@@ -12889,7 +12889,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-sergio-networks-ccna-packet-tracer-labs-a-collection-of-cisco-packet-tracer-labs-documenting-.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "GitHub - sergio-networks/ccna-packet-tracer-labs: A collection of Cisco Packet Tracer labs documenting my CCNA 200-301 study progress.",
    "source": "https://github.com/sergio-networks/ccna-packet-tracer-labs",
    "lines": [
@@ -12900,7 +12900,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-shaileshsahani-ccnp-enterprise-labs-gns3-hands-on-ccnp-enterprise-labs-built-with-gns3-coveri.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "GitHub - ShaileshSahani/CCNP-Enterprise-Labs-GNS3: Hands-on CCNP Enterprise labs built with GNS3 covering OSPF, EIGRP, BGP, MPLS, VPNs, High Availability, Security, and Enterprise Network Design.",
    "source": "https://github.com/shaileshsahani/ccnp-enterprise-labs-gns3",
    "lines": [
@@ -12911,7 +12911,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-simda-buru-chr-xx-mikrotik-cloud-hosted-router-chr-on-proxmox-ve.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - simda-buru/CHR-XX: **MikroTik Cloud Hosted Router (CHR)** on **Proxmox VE**",
    "source": "https://github.com/simda-buru/chr-xx",
    "lines": [
@@ -12922,7 +12922,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-snuffy2-aiopnsense-async-python-client-library-for-opnsense.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - Snuffy2/aiopnsense: Async Python client library for OPNsense",
    "source": "https://github.com/snuffy2/aiopnsense",
    "lines": [
@@ -12933,7 +12933,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-socialwifi-routeros-api-python-api-to-routerboard-devices-produced-by-mikrotik.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - socialwifi/RouterOS-api: Python API to RouterBoard devices produced by MikroTik.",
    "source": "https://github.com/socialwifi/RouterOS-api",
    "lines": [
@@ -12944,7 +12944,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-thecry-check-opnsense-check-script-for-opnsense-firewall.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - TheCry/check_opnsense: Check script for opnsense firewall",
    "source": "https://github.com/thecry/check_opnsense",
    "lines": [
@@ -12955,7 +12955,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-thedataflows-opnsense-cli-opnsense-cli.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - thedataflows/opnsense-cli: OPNSense CLI",
    "source": "https://github.com/thedataflows/opnsense-cli",
    "lines": [
@@ -12966,7 +12966,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-vanchhai-fortigate-cisco-redundancy.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "GitHub - Vanchhai/fortigate-cisco-redundancy",
    "source": "https://github.com/vanchhai/fortigate-cisco-redundancy",
    "lines": [
@@ -12977,7 +12977,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-vin11704-opnsense-homelab-nested-proxmox-ve-in-virtualbox-with-opnsense-and-terraform-for-aut.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - Vin11704/OPNsense-homelab: nested Proxmox VE in virtualbox with OPNsense and Terraform for automated VM cloning",
    "source": "https://github.com/vin11704/opnsense-homelab",
    "lines": [
@@ -12988,7 +12988,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-vlassov248-opnsense-secure-networking-a-complete-hands-on-project-showcasing-secure-network-a.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "GitHub - Vlassov248/Opnsense-Secure-Networking: A complete hands-on project showcasing secure network architecture using OPNsense — including multi-zone segmentation, firewall rules, IDS/IPS (Suricata), OpenVPN, VLANs, and centralized logging. Built as a real-world InfoSec lab for training, testing, and portfolio presentation.",
    "source": "https://github.com/vlassov248/opnsense-secure-networking",
    "lines": [
@@ -12999,7 +12999,7 @@
   },
   {
    "path": "Copilot_Microsoft/github-whilcayangyang-mikrotik-homelab-config-a-production-grade-routeros-7-configuration-for-a-segm.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "GitHub - whilcayangyang/mikrotik-homelab-config: A production-grade RouterOS 7 configuration for a segmented homelab network: VLAN isolation, per-device ProtonVPN policy-based routing (kill-switched), hardened admin access with brute-force lockout, and QoS.",
    "source": "https://github.com/whilcayangyang/mikrotik-homelab-config",
    "lines": [
@@ -13109,7 +13109,7 @@
   },
   {
    "path": "Copilot_Microsoft/hermes-infra-skills-hermes-skills-forumtelecom-opnsense-ops-skill-md-at-a49a6a1ec7611f796edb1e0169b2.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "hermes-infra-skills/.hermes/skills/forumtelecom/opnsense-ops/SKILL.md at a49a6a1ec7611f796edb1e0169b2c408a6d2b056 · clfigueiredo/hermes-infra-skills",
    "source": "https://github.com/clfigueiredo/hermes-infra-skills/blob/HEAD/.hermes/skills/forumtelecom/opnsense-ops/SKILL.md",
    "lines": [
@@ -13120,7 +13120,7 @@
   },
   {
    "path": "Copilot_Microsoft/hermes-skills-devops-opnsense-admin-skill-md-at-9a57353d3717eb68e206b5edd94bf656f87fbbce-kngender5-h.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "hermes/skills/devops/opnsense-admin/SKILL.md at 9a57353d3717eb68e206b5edd94bf656f87fbbce · kngender5/hermes",
    "source": "https://github.com/kngender5/hermes/blob/HEAD/skills/devops/opnsense-admin/SKILL.md",
    "lines": [
@@ -13142,7 +13142,7 @@
   },
   {
    "path": "Copilot_Microsoft/home2021-src-posts-opnsense-multiwan-index-mdx-at-ff92b52695bf840040f2954adbc6e02d04ba5aad-ndom91-ho.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "home2021/src/_posts/opnsense-multiwan/index.mdx at ff92b52695bf840040f2954adbc6e02d04ba5aad · ndom91/home2021",
    "source": "https://github.com/ndom91/home2021/blob/HEAD/src/_posts/opnsense-multiwan/index.mdx",
    "lines": [
@@ -13153,7 +13153,7 @@
   },
   {
    "path": "Copilot_Microsoft/homelab-opnsense-proxmox-opnsense-vlan-lab-guide-md-at-30434b4bce49eb676f03d5ea1c4dd1a51b782867-anse.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "homelab/OPNsense/proxmox-opnsense-vlan-lab-guide.md at 30434b4bce49eb676f03d5ea1c4dd1a51b782867 · anselem-okeke/homelab",
    "source": "https://github.com/anselem-okeke/homelab/blob/HEAD/OPNsense/proxmox-opnsense-vlan-lab-guide.md",
    "lines": [
@@ -13164,7 +13164,7 @@
   },
   {
    "path": "Copilot_Microsoft/homelab-opnsense-skills-opnsense-p03-suricata-skill-md-at-f97d1ff3985418be36361ea5ed63560d27d61c42-v.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "homelab-opnsense/skills/opnsense-p03-suricata/SKILL.md at f97d1ff3985418be36361ea5ed63560d27d61c42 · vushueh/homelab-opnsense",
    "source": "https://github.com/vushueh/homelab-opnsense/blob/HEAD/skills/opnsense-p03-suricata/SKILL.md",
    "lines": [
@@ -13175,7 +13175,7 @@
   },
   {
    "path": "Copilot_Microsoft/homelab-proxmox-nodes-ansible-playbooks-opnsense-readme-md-at-a99572123ed3e4dddd2b703a9d268c303a8428.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "Homelab/proxmox-nodes/ansible/playbooks/opnsense/README.md at a99572123ed3e4dddd2b703a9d268c303a8428d3 · yuriy-kovalchuk/Homelab",
    "source": "https://github.com/yuriy-kovalchuk/homelab/blob/HEAD/proxmox-nodes/ansible/playbooks/opnsense/README.md",
    "lines": [
@@ -13197,7 +13197,7 @@
   },
   {
    "path": "Copilot_Microsoft/how-to-connect-to-routeros-devices-with-ssh-2.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "How to connect to RouterOS devices with SSH",
    "source": "https://ansible-collections.github.io/community.routeros/branch/main/docsite/ssh-guide.html",
    "lines": [
@@ -13208,7 +13208,7 @@
   },
   {
    "path": "Copilot_Microsoft/hugging-face-models-on-foundry-managed-compute.md",
-   "domain": "copilot-microsoft",
+   "domain": "dev-langages",
    "title": "Hugging Face Models on Foundry Managed Compute",
    "source": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
    "lines": [
@@ -13373,7 +13373,7 @@
   },
   {
    "path": "Copilot_Microsoft/librouteros-docs-config-rst-at-694e1317ca243ec8d83ae23a0bf47a0c50ae394d-luqasz-librouteros.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "librouteros/docs/config.rst at 694e1317ca243ec8d83ae23a0bf47a0c50ae394d · luqasz/librouteros",
    "source": "https://github.com/luqasz/librouteros/blob/HEAD/docs/config.rst",
    "lines": [
@@ -13384,7 +13384,7 @@
   },
   {
    "path": "Copilot_Microsoft/load-balancing-lb-pcc-2-line-isp-failover-mikrotik-script-routeros.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "Load Balancing LB PCC 2 Line ISP Failover - Mikrotik Script RouterOS",
    "source": "https://buananetpbun.github.io/mikrotik/LB-PCC-2-Line-ISP.html",
    "lines": [
@@ -13395,7 +13395,7 @@
   },
   {
    "path": "Copilot_Microsoft/load-balancing-lb-pcc-5-line-isp-failover-mikrotik-script-routeros.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "Load Balancing LB PCC 5 Line ISP Failover - Mikrotik Script RouterOS",
    "source": "https://buananetpbun.github.io/mikrotik/LB-PCC-5-Line-ISP.html",
    "lines": [
@@ -13857,7 +13857,7 @@
   },
   {
    "path": "Copilot_Microsoft/microsoft-foundry-on-windows-blog.md",
-   "domain": "copilot-microsoft",
+   "domain": "unifi-ubiquiti",
    "title": "Microsoft Foundry on Windows Blog",
    "source": "https://devblogs.microsoft.com/foundry-on-windows/",
    "lines": [
@@ -14253,7 +14253,7 @@
   },
   {
    "path": "Copilot_Microsoft/microsoft-s-agent-framework-package-was-hijacked-on-pypi-what-ai-saas-teams-should-check.md",
-   "domain": "copilot-microsoft",
+   "domain": "dev-langages",
    "title": "Microsoft's agent-framework Package Was Hijacked on PyPI: What AI SaaS Teams Should Check",
    "source": "https://dev.to/somnath_khadanga_2e5c2364/microsofts-agent-framework-package-was-hijacked-on-pypi-what-ai-saas-teams-should-check-1b4e",
    "lines": [
@@ -14407,7 +14407,7 @@
   },
   {
    "path": "Copilot_Microsoft/mikrotik-failover-routing-description-living-document.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "MikroTik failover routing description (living document)",
    "source": "https://gist.github.com/tdussa/95d036a73bb5ff79924b19b4316ea7ca",
    "lines": [
@@ -14418,7 +14418,7 @@
   },
   {
    "path": "Copilot_Microsoft/mikrotik-routeros-v7-dual-dhcp-wan-recursive-failover-w-pcc-load-balancing-and-recursive-ecmp.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "MikroTik RouterOS v7 dual DHCP WAN recursive failover w/ PCC load-balancing; and recursive ECMP",
    "source": "https://gist.github.com/marfillaster/7a136ea826815ac22f2849e099a1c6a1?permalink_comment_id=4241644",
    "lines": [
@@ -14451,7 +14451,7 @@
   },
   {
    "path": "Copilot_Microsoft/napalm-docs-index-rst-at-820a06b2069eb1d7b0cbe8943ee2dea6e2949d1a-napalm-automation-napalm.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "napalm/docs/index.rst at 820a06b2069eb1d7b0cbe8943ee2dea6e2949d1a · napalm-automation/napalm",
    "source": "https://github.com/napalm-automation/napalm/blob/HEAD/docs/index.rst",
    "lines": [
@@ -14484,7 +14484,7 @@
   },
   {
    "path": "Copilot_Microsoft/net-conf-2026-recap-the-announcements-that-actually-matter.md",
-   "domain": "copilot-microsoft",
+   "domain": "dev-langages",
    "title": ".NET Conf 2026 Recap: The Announcements That Actually Matter",
    "source": "https://www.igniscor.com/post/net-conf-2026",
    "lines": [
@@ -14594,7 +14594,7 @@
   },
   {
    "path": "Copilot_Microsoft/obsidian-vault-ccnp-encor-readme-md-at-87731e61734cf4d222a850822abac46197327dbc-etherne1-obsidian-va.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "obsidian-vault/CCNP ENCOR/README.md at 87731e61734cf4d222a850822abac46197327dbc · Etherne1/obsidian-vault",
    "source": "https://github.com/etherne1/obsidian-vault/blob/HEAD/CCNP%20ENCOR/README.md",
    "lines": [
@@ -14627,7 +14627,7 @@
   },
   {
    "path": "Copilot_Microsoft/opnsense-api-client-docs-source-usage-1-intro-rst-at-7dc2d1ab238ed822c76b43358a89d18fcc49c40a-o-x-l-.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "opnsense-api-client/docs/source/usage/1_intro.rst at 7dc2d1ab238ed822c76b43358a89d18fcc49c40a · O-X-L/opnsense-api-client",
    "source": "https://github.com/o-x-l/opnsense-api-client/blob/HEAD/docs/source/usage/1_intro.rst",
    "lines": [
@@ -14638,7 +14638,7 @@
   },
   {
    "path": "Copilot_Microsoft/opnsense-firewall-lab-readme-md-at-8ff7484a2c3c50f38ce12af901ad87f6dad21768-badassiss-opnsense-firew.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "opnsense-firewall-lab/README.md at 8ff7484a2c3c50f38ce12af901ad87f6dad21768 · badassiss/opnsense-firewall-lab",
    "source": "https://github.com/badassiss/opnsense-firewall-lab/blob/HEAD/README.md",
    "lines": [
@@ -14649,7 +14649,7 @@
   },
   {
    "path": "Copilot_Microsoft/opnsense-install-config-vpn-readme-md-at-6b15323a2a09ccf12cba8bf179109de98c578592-ideafieldpro-opnse.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "OPNsense-install-config-VPN/README.md at 6b15323a2a09ccf12cba8bf179109de98c578592 · ideafieldpro/OPNsense-install-config-VPN",
    "source": "https://github.com/ideafieldpro/opnsense-install-config-vpn/blob/HEAD/README.md",
    "lines": [
@@ -14660,7 +14660,7 @@
   },
   {
    "path": "Copilot_Microsoft/opnsense-upgrade-python-readme-md-at-b774b6be27f57b8ed1f0cbedf7eb5c067a960590-builderall-opnsense-up.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "opnsense-upgrade/python/README.md at b774b6be27f57b8ed1f0cbedf7eb5c067a960590 · builderall/opnsense-upgrade",
    "source": "https://github.com/builderall/opnsense-upgrade/blob/HEAD/python/README.md",
    "lines": [
@@ -14671,7 +14671,7 @@
   },
   {
    "path": "Copilot_Microsoft/opnsensemcp-docs-guides-vlan-management-md-at-c2313b49076aa82f49f295079e5d1ee86b381e34-vespo92-opnse.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "OPNSenseMCP/docs/guides/vlan-management.md at c2313b49076aa82f49f295079e5d1ee86b381e34 · vespo92/OPNSenseMCP",
    "source": "https://github.com/vespo92/opnsensemcp/blob/HEAD/docs/guides/vlan-management.md",
    "lines": [
@@ -14682,7 +14682,7 @@
   },
   {
    "path": "Copilot_Microsoft/ospf-and-load-balancing-example-of-configuration.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "OSPF and load balancing - example of configuration",
    "source": "https://forum.mikrotik.com/t/ospf-and-load-balancing-example-of-configuration/25781",
    "lines": [
@@ -14693,7 +14693,7 @@
   },
   {
    "path": "Copilot_Microsoft/pat-configuration-with-packet-tracer-ipcisco.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "PAT Configuration with Packet Tracer ⋆ IpCisco",
    "source": "https://ipcisco.com/lesson/pat-configuration-with-packet-tracer-2/",
    "lines": [
@@ -14715,7 +14715,7 @@
   },
   {
    "path": "Copilot_Microsoft/plugins-contributing-md-at-7faee23153f3af1695b2e28270d9d63943e6d234-opnsense-plugins.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "plugins/CONTRIBUTING.md at 7faee23153f3af1695b2e28270d9d63943e6d234 · opnsense/plugins",
    "source": "https://github.com/opnsense/plugins/blob/HEAD/CONTRIBUTING.md",
    "lines": [
@@ -14737,7 +14737,7 @@
   },
   {
    "path": "Copilot_Microsoft/pyats-docs-getting-started-index-rst-at-550fa8883a43618d4b614dd521a9b39f1228a816-ciscotestautomation.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "pyats/docs/getting_started/index.rst at 550fa8883a43618d4b614dd521a9b39f1228a816 · CiscoTestAutomation/pyats",
    "source": "https://github.com/ciscotestautomation/pyats/blob/HEAD/docs/getting_started/index.rst",
    "lines": [
@@ -14748,7 +14748,7 @@
   },
   {
    "path": "Copilot_Microsoft/reginleif-lab-docs-project-1-installing-opnsense-on-proxmox-md-at-8743a328fdd2d3964181b5ab2a1ee416dc.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "reginleif_lab/docs/Project-1-Installing-OPNsense-on-Proxmox.md at 8743a328fdd2d3964181b5ab2a1ee416dcc045be · Reginleif86/reginleif_lab",
    "source": "https://github.com/reginleif88/reginleif_lab/blob/HEAD/docs/Project-1-Installing-OPNsense-on-Proxmox.md",
    "lines": [
@@ -14770,7 +14770,7 @@
   },
   {
    "path": "Copilot_Microsoft/rip-configuration-with-packet-tracer-ipcisco.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "RIP Configuration With Packet Tracer ⋆ IpCisco",
    "source": "https://ipcisco.com/lesson/rip-configuration-with-packet-tracer-ccnp/",
    "lines": [
@@ -14781,7 +14781,7 @@
   },
   {
    "path": "Copilot_Microsoft/routeros-scripts-doc-backup-email-md-at-b5acba6d53b4432bfe272a32a439c07063731ff6-eworm-de-routeros-s.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "routeros-scripts/doc/backup-email.md at b5acba6d53b4432bfe272a32a439c07063731ff6 · eworm-de/routeros-scripts",
    "source": "https://github.com/eworm-de/routeros-scripts/blob/HEAD/doc/backup-email.md",
    "lines": [
@@ -14792,7 +14792,7 @@
   },
   {
    "path": "Copilot_Microsoft/routing-failover-with-2-isp-gateway-mikrotik-script-routeros.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "Routing FailOver with 2 ISP (gateway) - MikroTik Script RouterOS",
    "source": "https://buananetpbun.github.io/mikrotik/Routing-FailOver-with-2-ISP-gateway.html",
    "lines": [
@@ -14803,7 +14803,7 @@
   },
   {
    "path": "Copilot_Microsoft/rstp-configuration-on-packet-tracer-ipcisco.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "RSTP Configuration on Packet Tracer ⋆ IpCisco",
    "source": "https://ipcisco.com/lesson/rstp-configuration-on-packet-tracer/",
    "lines": [
@@ -14814,7 +14814,7 @@
   },
   {
    "path": "Copilot_Microsoft/script-to-generate-a-mikrotik-chr-vm-in-proxmox-v7-5-and-v8-1.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "Script to generate a Mikrotik CHR vm in Proxmox v7.5 and v8.1",
    "source": "https://gist.github.com/mymanga/cbf7caf95ac2579a3f1c127561affada",
    "lines": [
@@ -14825,7 +14825,7 @@
   },
   {
    "path": "Copilot_Microsoft/securedrop-docs-docs-admin-installation-firewall-opnsense-rst-at-9ea10982e2bfb458c7163b0a3b4d4f60a39.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "securedrop-docs/docs/admin/installation/firewall_opnsense.rst at 9ea10982e2bfb458c7163b0a3b4d4f60a39475b0 · freedomofpress/securedrop-docs",
    "source": "https://github.com/freedomofpress/securedrop-docs/blob/HEAD/docs/admin/installation/firewall_opnsense.rst",
    "lines": [
@@ -14869,7 +14869,7 @@
   },
   {
    "path": "Copilot_Microsoft/sheynshield-fortinet-fortigate-cheatsheet-foundation-md-at-172fb9490610bedf2470836990d0ff5347fa74a0--1.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "sheynshield/Fortinet/FortiGate/CheatSheet/Foundation.md at 172fb9490610bedf2470836990d0ff5347fa74a0 · Shayan-heydarikhah/sheynshield",
    "source": "https://github.com/shayan-heydarikhah/sheynshield/blob/HEAD/Fortinet/FortiGate/CheatSheet/Foundation.md",
    "lines": [
@@ -14880,7 +14880,7 @@
   },
   {
    "path": "Copilot_Microsoft/sheynshield-fortinet-fortigate-cheatsheet-foundation-md-at-172fb9490610bedf2470836990d0ff5347fa74a0--2.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "sheynshield/Fortinet/FortiGate/CheatSheet/Foundation.md at 172fb9490610bedf2470836990d0ff5347fa74a0 · Shayan-heydarikhah/sheynshield",
    "source": "https://github.com/shayan-heydarikhah/sheynshield/blob/HEAD/Fortinet/FortiGate/CheatSheet/Foundation.md",
    "lines": [
@@ -14891,7 +14891,7 @@
   },
   {
    "path": "Copilot_Microsoft/sheynshield-fortinet-fortigate-cheatsheet-system-fabric-management-checklist-md-at-172fb9490610bedf2.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "sheynshield/Fortinet/FortiGate/CheatSheet/System/Fabric-Management-Checklist.md at 172fb9490610bedf2470836990d0ff5347fa74a0 · Shayan-heydarikhah/sheynshield",
    "source": "https://github.com/shayan-heydarikhah/sheynshield/blob/HEAD/Fortinet/FortiGate/CheatSheet/System/Fabric-Management-Checklist.md",
    "lines": [
@@ -14902,7 +14902,7 @@
   },
   {
    "path": "Copilot_Microsoft/sheynshield-fortinet-fortigate-cheatsheet-user-authentication-radius-checklist-md-at-172fb9490610bed.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "sheynshield/Fortinet/FortiGate/CheatSheet/User-Authentication/RADIUS-Checklist.md at 172fb9490610bedf2470836990d0ff5347fa74a0 · Shayan-heydarikhah/sheynshield",
    "source": "https://github.com/shayan-heydarikhah/sheynshield/blob/HEAD/Fortinet/FortiGate/CheatSheet/User-Authentication/RADIUS-Checklist.md",
    "lines": [
@@ -14913,7 +14913,7 @@
   },
   {
    "path": "Copilot_Microsoft/simple-bgp-configuration-ros7-redistributed-connected.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Simple BGP Configuration: ROS7 + redistributed connected",
    "source": "https://forum.mikrotik.com/t/simple-bgp-configuration-ros7-redistributed-connected/153942",
    "lines": [
@@ -14924,7 +14924,7 @@
   },
   {
    "path": "Copilot_Microsoft/skills-vault-napalm-netmiko-skill-md-at-049c65dff33479e1c3931497e28305300d1dafaf-geekazoid80-skills-.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Skills-Vault/napalm-netmiko/SKILL.md at 049c65dff33479e1c3931497e28305300d1dafaf · geekazoid80/Skills-Vault",
    "source": "https://github.com/geekazoid80/skills-vault/blob/HEAD/napalm-netmiko/SKILL.md",
    "lines": [
@@ -14935,7 +14935,7 @@
   },
   {
    "path": "Copilot_Microsoft/static-nat-configuration-with-packet-tracer-cisco-static-nat.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "Static NAT Configuration with Packet Tracer ⋆ | Cisco Static NAT",
    "source": "https://ipcisco.com/lesson/static-nat-configuration-with-packet-tracer-ccna/",
    "lines": [
@@ -14968,7 +14968,7 @@
   },
   {
    "path": "Copilot_Microsoft/technical-tip-how-to-configure-policy-based-ipsec-vpn-tunnel-community.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "Technical Tip: How to configure policy-based IPsec VPN Tunnel | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-configure-policy-based-IPsec-VPN-Tunnel/ta-p/344847",
    "lines": [
@@ -14979,7 +14979,7 @@
   },
   {
    "path": "Copilot_Microsoft/terraform-provider-mikrotik-client-cmd-generate-readme-md-at-606dce9e6e21dcc7d6d700390fe6ad07b414e71.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "terraform-provider-mikrotik/client/cmd/generate/README.md at 606dce9e6e21dcc7d6d700390fe6ad07b414e712 · ddelnano/terraform-provider-mikrotik",
    "source": "https://github.com/ddelnano/terraform-provider-mikrotik/blob/HEAD/client/cmd/generate/README.md",
    "lines": [
@@ -14990,7 +14990,7 @@
   },
   {
    "path": "Copilot_Microsoft/terraform-provider-mikrotik-examples-resources-mikrotik-interface-vrrp-readme-md-at-e277ae1131cde9bb.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "terraform-provider-mikrotik/examples/resources/mikrotik_interface_vrrp/README.md at e277ae1131cde9bb94bf10e3cca97c6ad9f06449 · lkolo-prez/terraform-provider-mikrotik",
    "source": "https://github.com/lkolo-prez/terraform-provider-mikrotik/blob/HEAD/examples/resources/mikrotik_interface_vrrp/README.md",
    "lines": [
@@ -15001,7 +15001,7 @@
   },
   {
    "path": "Copilot_Microsoft/terraform-provider-mikrotik-migration-routeros7-md-at-e277ae1131cde9bb94bf10e3cca97c6ad9f06449-lkolo.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "terraform-provider-mikrotik/MIGRATION_ROUTEROS7.md at e277ae1131cde9bb94bf10e3cca97c6ad9f06449 · lkolo-prez/terraform-provider-mikrotik",
    "source": "https://github.com/lkolo-prez/terraform-provider-mikrotik/blob/HEAD/MIGRATION_ROUTEROS7.md",
    "lines": [
@@ -15012,7 +15012,7 @@
   },
   {
    "path": "Copilot_Microsoft/terraform-provider-mikrotik-routeros7-support-md-at-e277ae1131cde9bb94bf10e3cca97c6ad9f06449-lkolo-p.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "terraform-provider-mikrotik/ROUTEROS7_SUPPORT.md at e277ae1131cde9bb94bf10e3cca97c6ad9f06449 · lkolo-prez/terraform-provider-mikrotik",
    "source": "https://github.com/lkolo-prez/terraform-provider-mikrotik/blob/HEAD/ROUTEROS7_SUPPORT.md",
    "lines": [
@@ -15023,7 +15023,7 @@
   },
   {
    "path": "Copilot_Microsoft/terraform-provider-opnsense-26-status-md-at-1c378c4facf147a61ee23e2888aa113f3aaf3357-rgcosta7-terraf.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "terraform-provider-opnsense-26/STATUS.md at 1c378c4facf147a61ee23e2888aa113f3aaf3357 · rgcosta7/terraform-provider-opnsense-26",
    "source": "https://github.com/rgcosta7/terraform-provider-opnsense-26/blob/HEAD/STATUS.md",
    "lines": [
@@ -15056,7 +15056,7 @@
   },
   {
    "path": "Copilot_Microsoft/the-package-was-microsofts-the-code-wasnt.md",
-   "domain": "copilot-microsoft",
+   "domain": "dev-langages",
    "title": "The Package Was Microsoft’s. The Code Wasn’t.",
    "source": "https://ongoingideas.com/the-package-was-microsofts-the-code-wasnt/2026/cyber-security/1926/",
    "lines": [
@@ -15089,7 +15089,7 @@
   },
   {
    "path": "Copilot_Microsoft/tik4mcp-plugin-skills-mikrotik-capsman-skill-md-at-ecf6c73545b5f61dbfe837b47883e70b2768bd72-danikf-t.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "tik4mcp/plugin/skills/mikrotik-capsman/SKILL.md at ecf6c73545b5f61dbfe837b47883e70b2768bd72 · danikf/tik4mcp",
    "source": "https://github.com/danikf/tik4mcp/blob/HEAD/plugin/skills/mikrotik-capsman/SKILL.md",
    "lines": [
@@ -15100,7 +15100,7 @@
   },
   {
    "path": "Copilot_Microsoft/tik4mcp-plugin-skills-mikrotik-mangle-queue-skill-md-at-ecf6c73545b5f61dbfe837b47883e70b2768bd72-dan.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "tik4mcp/plugin/skills/mikrotik-mangle-queue/SKILL.md at ecf6c73545b5f61dbfe837b47883e70b2768bd72 · danikf/tik4mcp",
    "source": "https://github.com/danikf/tik4mcp/blob/HEAD/plugin/skills/mikrotik-mangle-queue/SKILL.md",
    "lines": [
@@ -15111,7 +15111,7 @@
   },
   {
    "path": "Copilot_Microsoft/troubleshooting-tip-bgp-distribution-list-for-pppoe-interface-community.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "Troubleshooting Tip: BGP distribution list for PPPoE interface | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-BGP-distribution-list-for-PPPoE-interface/ta-p/258298",
    "lines": [
@@ -15122,7 +15122,7 @@
   },
   {
    "path": "Copilot_Microsoft/troubleshooting-tip-how-to-confirm-if-the-correct-sd-wan-policy-is-used-in-the-session-community.md",
-   "domain": "copilot-microsoft",
+   "domain": "fortinet",
    "title": "Troubleshooting Tip: How to confirm if the correct SD-WAN policy is used in the session | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Troubleshooting-TIP-How-to-confirm-if-the-correct-SD-WAN-policy/ta-p/242676",
    "lines": [
@@ -15144,7 +15144,7 @@
   },
   {
    "path": "Copilot_Microsoft/tutorial-home-vlan-configuration-rb5009-cap-acs-multiple-ssids.md",
-   "domain": "copilot-microsoft",
+   "domain": "mikrotik",
    "title": "Tutorial: Home VLAN configuration (RB5009, cAP ACs, multiple SSIDs)",
    "source": "https://forum.mikrotik.com/t/tutorial-home-vlan-configuration-rb5009-cap-acs-multiple-ssids/262226",
    "lines": [
@@ -15155,7 +15155,7 @@
   },
   {
    "path": "Copilot_Microsoft/tutoriel-github-actions-2026-ci-cd-complet.md",
-   "domain": "copilot-microsoft",
+   "domain": "dev-langages",
    "title": "Tutoriel GitHub Actions 2026 : CI/CD Complet",
    "source": "https://tech-insider.org/fr/tutoriel-github-actions-ci-cd-2026/",
    "lines": [
@@ -15199,7 +15199,7 @@
   },
   {
    "path": "Copilot_Microsoft/virtualized-enterprise-lab-pfsense-opnsense-hardening-md-at-86697a2135698e4a483468811b18349db44685c6.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "Virtualized-Enterprise-Lab-pfSense-OPNsense-/HARDENING.md at 86697a2135698e4a483468811b18349db44685c6 · shanmkuu/Virtualized-Enterprise-Lab-pfSense-OPNsense-",
    "source": "https://github.com/shanmkuu/virtualized-enterprise-lab-pfsense-opnsense-/blob/HEAD/HARDENING.md",
    "lines": [
@@ -15210,7 +15210,7 @@
   },
   {
    "path": "Copilot_Microsoft/vlan-configuration-on-cisco-packet-tracer-2026-updated.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "VLAN Configuration on Cisco Packet Tracer - 2026 Updated",
    "source": "https://ipcisco.com/lesson/cisco-packet-tracer-vlan-configuration-example-ccna/",
    "lines": [
@@ -15221,7 +15221,7 @@
   },
   {
    "path": "Copilot_Microsoft/vtp-configuration-with-packet-tracer-7-steps-cisco-vtp-config.md",
-   "domain": "copilot-microsoft",
+   "domain": "cisco",
    "title": "VTP Configuration with Packet Tracer | 7 Steps | Cisco VTP Config!",
    "source": "https://ipcisco.com/lesson/vtp-configuration-with-packet-tracer/",
    "lines": [
@@ -15243,7 +15243,7 @@
   },
   {
    "path": "Copilot_Microsoft/weichertlabs-content-guides-networking-opnsense-getting-started-md-at-2cc49e7bc30733a4af0ebd013dbc5d.md",
-   "domain": "copilot-microsoft",
+   "domain": "opnsense-pfsense",
    "title": "weichertlabs/content/guides/networking/opnsense-getting-started.md at 2cc49e7bc30733a4af0ebd013dbc5d7a66ef9be2 · weichertlabs/weichertlabs",
    "source": "https://github.com/weichertlabs/weichertlabs/blob/HEAD/content/guides/networking/opnsense-getting-started.md",
    "lines": [
@@ -15287,7 +15287,7 @@
   },
   {
    "path": "Copilot_Microsoft/wireguard-roadwarior-plus-vlan-configuration.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "WireGuard RoadWarior plus VLAN configuration",
    "source": "https://forum.mikrotik.com/t/wireguard-roadwarior-plus-vlan-configuration/165131",
    "lines": [
@@ -15298,7 +15298,7 @@
   },
   {
    "path": "Copilot_Microsoft/working-qos-configuration.md",
-   "domain": "copilot-microsoft",
+   "domain": "reseau-networking",
    "title": "Working QoS configuration",
    "source": "https://forum.mikrotik.com/t/working-qos-configuration/29847",
    "lines": [
@@ -16211,7 +16211,7 @@
   },
   {
    "path": "Datacenters_Infra/architecting-sovereign-ai-clusters-specs-tco-review.md",
-   "domain": "datacenters-infra",
+   "domain": "unifi-ubiquiti",
    "title": "Architecting Sovereign AI Clusters: Specs & TCO Review",
    "source": "https://www.thesiliconreport.com/articles/architecting-sovereign-ai-clusters-inside-the-nordics-1-gigawatt-blackwell-superpod",
    "lines": [
@@ -16739,7 +16739,7 @@
   },
   {
    "path": "Datacenters_Infra/wireguard-site-to-site-hex-to-udm.md",
-   "domain": "datacenters-infra",
+   "domain": "reseau-networking",
    "title": "Wireguard site to site Hex to UDM",
    "source": "https://forum.mikrotik.com/t/wireguard-site-to-site-hex-to-udm/162352",
    "lines": [
@@ -16783,7 +16783,7 @@
   },
   {
    "path": "DeepSeek/aee82767.md",
-   "domain": "deepseek",
+   "domain": "dev-langages",
    "title": "DeepSeek-OCR: How to Run & Fine-tune",
    "source": "https://unsloth.ai/docs/models/tutorials/deepseek-ocr-how-to-run-and-fine-tune.md",
    "lines": [
@@ -17135,7 +17135,7 @@
   },
   {
    "path": "DeepSeek/deepseek-harness-install-modes-and-first-plugin-guide.md",
-   "domain": "deepseek",
+   "domain": "dev-langages",
    "title": "DeepSeek Harness: Install, Modes and First Plugin Guide",
    "source": "https://www.sitepoint.com/deepseek-harness-developer-preview/",
    "lines": [
@@ -18114,7 +18114,7 @@
   },
   {
    "path": "DeepSeek/deepseeks-github-list-puts-a-plugin-harness-ahead-of-its-model-repos-narracomm.md",
-   "domain": "deepseek",
+   "domain": "dev-langages",
    "title": "DeepSeek’s GitHub list puts a plugin harness ahead of its model repos - Narracomm",
    "source": "https://www.narracomm.com/deepseeks-github-list-puts-a-plugin-harness-ahead-of-its-model-repos/",
    "lines": [
@@ -18224,7 +18224,7 @@
   },
   {
    "path": "DeepSeek/how-to-run-deepseek-v4-flash-locally-mac-linux-windows-terminalbytes.md",
-   "domain": "deepseek",
+   "domain": "unifi-ubiquiti",
    "title": "How to run DeepSeek V4 Flash locally (Mac, Linux, Windows) | TerminalBytes",
    "source": "https://terminalbytes.com/run-deepseek-v4-flash-at-home/",
    "lines": [
@@ -18367,7 +18367,7 @@
   },
   {
    "path": "DeepSeek/mikrotik-capsman-with-vlans-full-setup-guide-hex-2x-cap-ax-mikrotik-masters.md",
-   "domain": "deepseek",
+   "domain": "mikrotik",
    "title": "MikroTik CAPsMAN with VLANs: Full Setup Guide (hEX + 2x cAP ax) - MikroTik Masters",
    "source": "https://mikrotikmasters.com/mikrotik-capsman-with-vlans-full-setup-guide-hex-2x-cap-ax/",
    "lines": [
@@ -18378,7 +18378,7 @@
   },
   {
    "path": "DeepSeek/mikrotik-ipv6.md",
-   "domain": "deepseek",
+   "domain": "mikrotik",
    "title": "Mikrotik & IPv6",
    "source": "https://lafibre.info/remplacer-livebox/mikrotik-ipv6/",
    "lines": [
@@ -18466,7 +18466,7 @@
   },
   {
    "path": "DeepSeek/recommended-mikrotik-firewall-configuration.md",
-   "domain": "deepseek",
+   "domain": "mikrotik",
    "title": "Recommended MikroTik Firewall Configuration",
    "source": "https://forum.powerlynx.app/t/recommended-mikrotik-firewall-configuration/123/4",
    "lines": [
@@ -18499,7 +18499,7 @@
   },
   {
    "path": "DeepSeek/the-extra-packages-in-routeros.md",
-   "domain": "deepseek",
+   "domain": "mikrotik",
    "title": "The extra packages in RouterOS",
    "source": "https://forum.mikrotik.com/t/the-extra-packages-in-routeros/139792",
    "lines": [
@@ -18510,7 +18510,7 @@
   },
   {
    "path": "DeepSeek/tuto-remplacement-bbox-fibre-par-mikrotik-ipv4-ipv6-et-tv-replay.md",
-   "domain": "deepseek",
+   "domain": "mikrotik",
    "title": "[TUTO] Remplacement BBox Fibre par Mikrotik (IPv4, IPv6 et TV/Replay)",
    "source": "https://lafibre.info/remplacer-bbox/tuto-remplacement-bbox-fibre-par-mikrotik-ipv4-ipv6-et-tvreplay/",
    "lines": [
@@ -18554,7 +18554,7 @@
   },
   {
    "path": "DeepSeek/vulnerabilities-secospace-usg6500-firmware.md",
-   "domain": "deepseek",
+   "domain": "huawei",
    "title": "Vulnerabilities (Secospace Usg6500 Firmware)",
    "source": "https://app.opencve.io/cve/?vendor=huawei&product=secospace_usg6500_firmware",
    "lines": [
@@ -22096,7 +22096,7 @@
   },
   {
    "path": "GPT_OpenAI/a-simple-mikrotik-routeros-v7-bgp-config.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "A Simple MikroTik RouterOS v7 BGP Config",
    "source": "https://www.neelc.org/posts/mikrotik-simple-bgp/",
    "lines": [
@@ -22393,7 +22393,7 @@
   },
   {
    "path": "GPT_OpenAI/arborescence-des-pages-40.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/328134/Command+Line+Interface",
    "lines": [
@@ -22437,7 +22437,7 @@
   },
   {
    "path": "GPT_OpenAI/bgp-ospf-route-distribution.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "BGP / OSPF Route Distribution",
    "source": "https://forum.mikrotik.com/t/bgp-ospf-route-distribution/183071",
    "lines": [
@@ -22613,7 +22613,7 @@
   },
   {
    "path": "GPT_OpenAI/claude-fable-5-2-codex-0-169-and-cursor-breach-recap.md",
-   "domain": "gpt-openai",
+   "domain": "dev-langages",
    "title": "Claude Fable 5.2, Codex 0.169 and Cursor Breach Recap",
    "source": "https://oday-bakkour.com/blog/ai-coding-tools-roundup-week-of-november-9-2026",
    "lines": [
@@ -22756,7 +22756,7 @@
   },
   {
    "path": "GPT_OpenAI/codex-cli-desktop-integration-patterns-handoff-worktrees-parallel-agents-and-the-linux-preview.md",
-   "domain": "gpt-openai",
+   "domain": "unifi-ubiquiti",
    "title": "Codex CLI Desktop Integration Patterns: Handoff, Worktrees, Parallel Agents, and the Linux Preview",
    "source": "https://codex.danielvaughan.com/2026/08/18/codex-cli-desktop-integration-patterns-handoff-worktrees-parallel-agents-linux-preview/",
    "lines": [
@@ -22932,7 +22932,7 @@
   },
   {
    "path": "GPT_OpenAI/codex-version-history.md",
-   "domain": "gpt-openai",
+   "domain": "dev-langages",
    "title": "Codex version history",
    "source": "https://developertoolkit.ai/en/codex/reference/changelog/",
    "lines": [
@@ -22965,7 +22965,7 @@
   },
   {
    "path": "GPT_OpenAI/configuration-du-vpn-wireguard-pour-les-routeurs-mikrotik.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "Configuration du VPN WireGuard pour les routeurs MikroTik",
    "source": "https://www.vpnunlimited.com/fr/help/manuals/wireguard-vpn-configuration-for-mikrotik-router",
    "lines": [
@@ -22976,7 +22976,7 @@
   },
   {
    "path": "GPT_OpenAI/configure-fortigate-as-a-dhcp-server-via-gui-and-cli.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Configure FortiGate as a DHCP Server via GUI and CLI",
    "source": "https://defencedev.com/networking/fortigate/fortigate-dhcp-server/",
    "lines": [
@@ -22987,7 +22987,7 @@
   },
   {
    "path": "GPT_OpenAI/configure-fortigate-with-cli-lan-wan-dhcp-policy.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Configure Fortigate with CLI ( LAN, WAN, DHCP, Policy )",
    "source": "https://routerbest.com/blog/configure-fortigate-with-cli-lan-wan-dhcp-policy/",
    "lines": [
@@ -22998,7 +22998,7 @@
   },
   {
    "path": "GPT_OpenAI/copilot-model-deprecations-fable-5-2-codex-exec-trust-rulefiles.md",
-   "domain": "gpt-openai",
+   "domain": "dev-langages",
    "title": "Copilot model deprecations, Fable 5.2, Codex exec trust | Rulefiles",
    "source": "https://rulefiles.dev/digest/2026-W46/",
    "lines": [
@@ -23064,7 +23064,7 @@
   },
   {
    "path": "GPT_OpenAI/dual-wan-failover-script-ping-command.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "Dual WAN Failover Script Ping Command",
    "source": "https://forum.mikrotik.com/t/dual-wan-failover-script-ping-command/150516?page=2",
    "lines": [
@@ -23119,7 +23119,7 @@
   },
   {
    "path": "GPT_OpenAI/filter-rules.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "Filter rules",
    "source": "https://forum.mikrotik.com/t/filter-rules/173109",
    "lines": [
@@ -23130,7 +23130,7 @@
   },
   {
    "path": "GPT_OpenAI/firewall-rules-and-interface-lists-best-practice.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "Firewall rules and interface lists - best practice?",
    "source": "https://forum.mikrotik.com/t/firewall-rules-and-interface-lists-best-practice/273047",
    "lines": [
@@ -23141,7 +23141,7 @@
   },
   {
    "path": "GPT_OpenAI/firewall-rules-to-seperate-some-vlans.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "Firewall rules to seperate some vLANs",
    "source": "https://forum.mikrotik.com/t/firewall-rules-to-seperate-some-vlans/168336",
    "lines": [
@@ -23152,7 +23152,7 @@
   },
   {
    "path": "GPT_OpenAI/fortios-basic-configuration-tips-and-tricks-commands-2.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "FortiOS Basic Configuration Tips and Tricks (Commands) 2",
    "source": "http://blog.51sec.org/2018/08/fortinet-firewall-fortigate-cli.html",
    "lines": [
@@ -23251,7 +23251,7 @@
   },
   {
    "path": "GPT_OpenAI/google-cloud-brings-openai-models-to-customers-google-cloud-blog.md",
-   "domain": "gpt-openai",
+   "domain": "unifi-ubiquiti",
    "title": "Google Cloud brings OpenAI models to customers | Google Cloud Blog",
    "source": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
    "lines": [
@@ -23262,7 +23262,7 @@
   },
   {
    "path": "GPT_OpenAI/google-cloud-expands-model-choice-and-flexibility-bringing-openai-models-to-customers-aiwire.md",
-   "domain": "gpt-openai",
+   "domain": "unifi-ubiquiti",
    "title": "Google Cloud Expands Model Choice and Flexibility, Bringing OpenAI Models to Customers - AIwire",
    "source": "https://www.hpcwire.com/aiwire/2026/10/23/google-cloud-expands-model-choice-and-flexibility-bringing-openai-models-to-customers/",
    "lines": [
@@ -24131,7 +24131,7 @@
   },
   {
    "path": "GPT_OpenAI/help-on-restoring-routeros-on-rb951g-2hnd.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "Help on Restoring RouterOS on RB951G-2HnD",
    "source": "https://forum.mikrotik.com/t/help-on-restoring-routeros-on-rb951g-2hnd/141585",
    "lines": [
@@ -24142,7 +24142,7 @@
   },
   {
    "path": "GPT_OpenAI/help-with-ipsec-gre-tunnel-site-to-site.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "Help with IPsec/GRE tunnel site to site",
    "source": "https://forum.mikrotik.com/t/help-with-ipsec-gre-tunnel-site-to-site/263759",
    "lines": [
@@ -24153,7 +24153,7 @@
   },
   {
    "path": "GPT_OpenAI/home-network-setup-help.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "home network setup help",
    "source": "https://forum.mikrotik.com/t/home-network-setup-help/161518",
    "lines": [
@@ -24186,7 +24186,7 @@
   },
   {
    "path": "GPT_OpenAI/how-to-create-self-signed-certificates-ciscozine.md",
-   "domain": "gpt-openai",
+   "domain": "cisco",
    "title": "How to create self-signed certificates – CiscoZine",
    "source": "https://www.ciscozine.com/how-to-create-self-signed-certificates/",
    "lines": [
@@ -24219,7 +24219,7 @@
   },
   {
    "path": "GPT_OpenAI/how-to-mdns-and-ssdp-over-wireguard.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "HOW TO: mDNS and SSDP over Wireguard",
    "source": "https://forum.mikrotik.com/t/how-to-mdns-and-ssdp-over-wireguard/165473",
    "lines": [
@@ -24362,7 +24362,7 @@
   },
   {
    "path": "GPT_OpenAI/learn-cisco-ebgp-configuration-with-gns3-cisco-bgp-example.md",
-   "domain": "gpt-openai",
+   "domain": "cisco",
    "title": "Learn Cisco eBGP Configuration with GNS3 | Cisco BGP Example!",
    "source": "https://ipcisco.com/lesson/cisco-ebgp-configuration-on-gns3/",
    "lines": [
@@ -24373,7 +24373,7 @@
   },
   {
    "path": "GPT_OpenAI/learn-cisco-ntp-configuration-with-commands-step-by-step.md",
-   "domain": "gpt-openai",
+   "domain": "cisco",
    "title": "Learn Cisco NTP Configuration with Commands – Step by Step",
    "source": "https://ipcisco.com/lesson/cisco-ntp-configuration/",
    "lines": [
@@ -24560,7 +24560,7 @@
   },
   {
    "path": "GPT_OpenAI/mikrotik-openvpn-client-over-udp-stopped-forwarding-traffic-on-routeros-7-10-1.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "Mikrotik OpenVPN Client over UDP stopped forwarding traffic on RouterOS 7.10.1",
    "source": "https://forum.mikrotik.com/t/mikrotik-openvpn-client-over-udp-stopped-forwarding-traffic-on-routeros-7-10-1/167951",
    "lines": [
@@ -24637,7 +24637,7 @@
   },
   {
    "path": "GPT_OpenAI/more-links-7.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "More links",
    "source": "https://docs.fortinet.com/document/fortigate/latest/cookbook/256518/configuring-sd-wan-in-the-cli",
    "lines": [
@@ -24670,7 +24670,7 @@
   },
   {
    "path": "GPT_OpenAI/nato-s-ai-cyber-defense-work-hits-up-to-300-billion-openai-tokens-a-month-help-net-security.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "NATO's AI cyber defense work hits up to 300 billion OpenAI tokens a month - Help Net Security",
    "source": "https://www.helpnetsecurity.com/2026/11/17/openai-nato-ai-cyber-defense/",
    "lines": [
@@ -24681,7 +24681,7 @@
   },
   {
    "path": "GPT_OpenAI/nato-s-ncia-uses-up-to-300b-openai-tokens-a-month-via-daybreak-ai-weekly.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "NATO's NCIA Uses Up to 300B OpenAI Tokens a Month via Daybreak | AI Weekly",
    "source": "https://aiweekly.co/alerts/natos-ncia-uses-up-to-300b-openai-tokens-a-month-via-daybreak",
    "lines": [
@@ -24692,7 +24692,7 @@
   },
   {
    "path": "GPT_OpenAI/nato-uses-openai-ai-models-for-cyber-defence-reaching-300-billion-monthly-tokens.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "NATO Uses OpenAI AI Models for Cyber Defence, Reaching 300 Billion Monthly Tokens",
    "source": "https://www.thedefensenews.com/NATO-Uses-OpenAI-AI-Models-for-Cyber-Defence-Reaching-300-Billion-Monthly-Tokens/",
    "lines": [
@@ -24747,7 +24747,7 @@
   },
   {
    "path": "GPT_OpenAI/netinstall-cli-hanging.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "netinstall-cli hanging",
    "source": "https://forum.mikrotik.com/t/netinstall-cli-hanging/182361",
    "lines": [
@@ -24758,7 +24758,7 @@
   },
   {
    "path": "GPT_OpenAI/new-rb951g-2hnd-bricked-solved-with-netinstall.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "New RB951G-2HnD bricked? [Solved with Netinstall]",
    "source": "https://forum.mikrotik.com/t/new-rb951g-2hnd-bricked-solved-with-netinstall/70728",
    "lines": [
@@ -25077,7 +25077,7 @@
   },
   {
    "path": "GPT_OpenAI/openai-daybreak-gpt-5-5-cyber-codex-security-patch-the-planet.md",
-   "domain": "gpt-openai",
+   "domain": "dev-langages",
    "title": "OpenAI Daybreak: GPT-5.5-Cyber, Codex Security & “Patch the Planet”",
    "source": "https://aiwork-4ab7f.web.app/guides/openai-daybreak-gpt-5-5-cyber-codex-security",
    "lines": [
@@ -25693,7 +25693,7 @@
   },
   {
    "path": "GPT_OpenAI/openai-puts-cyber-models-in-nato-s-hands-as-alliance-burns-300-billion-tokens-a-month-biggo-finance-.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "OpenAI Puts Cyber Models in NATO's Hands as Alliance Burns 300 Billion Tokens a Month — BigGo Finance - NATO | EUROPESAYS.COM",
    "source": "https://www.europesays.com/nato/21827/",
    "lines": [
@@ -26012,7 +26012,7 @@
   },
   {
    "path": "GPT_OpenAI/openai-says-nato-uses-up-to-300-billion-ai-tokens-a-month.md",
-   "domain": "gpt-openai",
+   "domain": "mikrotik",
    "title": "OpenAI Says NATO Uses Up to 300 Billion AI Tokens a Month",
    "source": "https://www.technobezz.com/news/openai-nato-billion-ai-tokens-month",
    "lines": [
@@ -26430,7 +26430,7 @@
   },
   {
    "path": "GPT_OpenAI/pcc-across-two-dhcp-wan-failover-help.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "PCC across two DHCP WAN -- failover help",
    "source": "https://forum.mikrotik.com/t/pcc-across-two-dhcp-wan-failover-help/135163",
    "lines": [
@@ -26540,7 +26540,7 @@
   },
   {
    "path": "GPT_OpenAI/release-0-161-0-openai-codex.md",
-   "domain": "gpt-openai",
+   "domain": "dev-langages",
    "title": "Release 0.161.0 · openai/codex",
    "source": "https://github.com/openai/codex/releases/tag/rust-v0.161.0",
    "lines": [
@@ -26551,7 +26551,7 @@
   },
   {
    "path": "GPT_OpenAI/run-unifi-controller-in-docker-self-hosted-computingforgeeks.md",
-   "domain": "gpt-openai",
+   "domain": "unifi-ubiquiti",
    "title": "Run UniFi Controller in Docker (Self-Hosted) | ComputingForGeeks",
    "source": "https://computingforgeeks.com/how-to-run-unifi-controller-in-docker-container/",
    "lines": [
@@ -26573,7 +26573,7 @@
   },
   {
    "path": "GPT_OpenAI/send-feedback-18.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.5/cli-reference/105110478/config-system-ntp",
    "lines": [
@@ -26694,7 +26694,7 @@
   },
   {
    "path": "GPT_OpenAI/technical-tip-configuring-fortigate-ha-and-ospf-graceful-restart-to-avoid-traffic-interruption-durin.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Technical Tip: Configuring FortiGate HA and OSPF graceful-restart to avoid traffic interruption during a HA failover | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-Configuring-FortiGate-HA-and-OSPF-graceful-restart/ta-p/189556",
    "lines": [
@@ -26705,7 +26705,7 @@
   },
   {
    "path": "GPT_OpenAI/technical-tip-how-to-download-a-fortigate-configuration-file-and-upload-a-firmware-file-using-secure.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Technical Tip: How to download a FortiGate configuration file and upload a firmware file using secure copy (SCP) | Community",
    "source": "https://community.fortinet.com/fortigate-3/technical-tip-how-to-download-a-fortigate-configuration-file-and-upload-a-firmware-file-using-secure-copy-scp-98734",
    "lines": [
@@ -26716,7 +26716,7 @@
   },
   {
    "path": "GPT_OpenAI/technical-tip-how-to-monitor-fortigate-using-manageengine-opmanager-community.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Technical Tip: How to monitor FortiGate using ManageEngine OpManager | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-monitor-FortiGate-using-ManageEngine/ta-p/401609",
    "lines": [
@@ -26727,7 +26727,7 @@
   },
   {
    "path": "GPT_OpenAI/technical-tip-setup-remote-forticlient-using-dial-up-ipsec-with-split-tunneling-on-7-6-fortigate-com.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Technical Tip: Setup remote FortiClient using dial-up IPsec with split-tunneling on 7.6 FortiGate | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-Setup-remote-FortiClient-using-dial-up-IPsec-with/ta-p/348562",
    "lines": [
@@ -26738,7 +26738,7 @@
   },
   {
    "path": "GPT_OpenAI/technical-tip-using-dhcp-server-options-on-a-fortigate-community.md",
-   "domain": "gpt-openai",
+   "domain": "fortinet",
    "title": "Technical Tip: Using DHCP server 'options' on a FortiGate | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Technical-Tip-Using-DHCP-server-options-on-a-FortiGate/ta-p/196388",
    "lines": [
@@ -26848,7 +26848,7 @@
   },
   {
    "path": "GPT_OpenAI/using-site-to-site-vpn-translation.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "Using Site-to-site VPN Translation",
    "source": "https://documentation.meraki.com/SASE_and_SD-WAN/MX/Design_and_Configure/Configuration_Guides/Site-to-site_VPN/Using_Site-to-site_VPN_Translation",
    "lines": [
@@ -26881,7 +26881,7 @@
   },
   {
    "path": "GPT_OpenAI/vlan-using-integrated-switch-chip-routeros.md",
-   "domain": "gpt-openai",
+   "domain": "reseau-networking",
    "title": "VLAN using integrated switch chip ROUTEROS",
    "source": "https://forum.mikrotik.com/t/vlan-using-integrated-switch-chip-routeros/106952",
    "lines": [
@@ -27101,7 +27101,7 @@
   },
   {
    "path": "Gemini_Google/3-steps-cisco-standard-acl-configuration-on-packet-tracer-ipcisco.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "3 Steps Cisco Standard ACL Configuration on Packet Tracer ⋆ IPCisco",
    "source": "https://ipcisco.com/lesson/standard-access-list-configuration-with-packet-tracer-2/",
    "lines": [
@@ -27112,7 +27112,7 @@
   },
   {
    "path": "Gemini_Google/3-steps-of-cisco-extended-acl-configuration-with-packet-tracer-ipcisco.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "3 Steps of Cisco Extended ACL Configuration with Packet Tracer ⋆ IPCisco",
    "source": "https://ipcisco.com/lesson/extended-access-list-configuration-with-packet-tracer-2/",
    "lines": [
@@ -27123,7 +27123,7 @@
   },
   {
    "path": "Gemini_Google/3-steps-of-syslog-configuration-cisco-syslog-config-levels.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "3 Steps of Syslog Configuration Cisco | Syslog Config & Levels!",
    "source": "https://ipcisco.com/lesson/syslog-configuration-cisco/",
    "lines": [
@@ -27156,7 +27156,7 @@
   },
   {
    "path": "Gemini_Google/6-step-cisco-copp-configuration-control-plane-policing-copp.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "6 Step Cisco CoPP Configuration | Control Plane Policing (CoPP) ⋆",
    "source": "https://ipcisco.com/lesson/control-plane-policing-copp/",
    "lines": [
@@ -27244,7 +27244,7 @@
   },
   {
    "path": "Gemini_Google/advanced-dhcp-server.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Advanced DHCP Server",
    "source": "https://www.fortinetguru.com/2019/09/advanced-dhcp-server/",
    "lines": [
@@ -27255,7 +27255,7 @@
   },
   {
    "path": "Gemini_Google/advanced-routing-failover-without-scripting.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Advanced Routing Failover without Scripting",
    "source": "https://forum.mikrotik.com/t/advanced-routing-failover-without-scripting/136599",
    "lines": [
@@ -27640,7 +27640,7 @@
   },
   {
    "path": "Gemini_Google/api-enable-standard-servicesi.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "API enable standard servicesï",
    "source": "https://docs.opnsense.org/development/examples/api_enable_services.html",
    "lines": [
@@ -27684,7 +27684,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-13.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/21102653/Traffic+Flow",
    "lines": [
@@ -27695,7 +27695,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-14.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/331612216/routing+ospf",
    "lines": [
@@ -27717,7 +27717,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-16.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/Services",
    "lines": [
@@ -27728,7 +27728,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-17.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/24805390/Netinstall",
    "lines": [
@@ -27761,7 +27761,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-2.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/59965508/Policy+Routing",
    "lines": [
@@ -27794,7 +27794,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-22.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "http://help.mikrotik.com/docs/display/ROS/Proxy",
    "lines": [
@@ -27805,7 +27805,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-23.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/VLAN#VLAN-Layer3VLANexamples",
    "lines": [
@@ -27827,7 +27827,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-25.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/UPnP",
    "lines": [
@@ -27838,7 +27838,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-26.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/1409149/AP+Controller+CAPsMAN",
    "lines": [
@@ -27860,7 +27860,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-28.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/40992872/Packages",
    "lines": [
@@ -27871,7 +27871,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-29.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/Upgrading+and+installation",
    "lines": [
@@ -27893,7 +27893,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-31.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/328220/BGP",
    "lines": [
@@ -27904,7 +27904,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-32.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/LDP",
    "lines": [
@@ -27915,7 +27915,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-33.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/328206/Virtual+Routing+and+Forwarding+-+VRF",
    "lines": [
@@ -27926,7 +27926,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-34.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/100007937/VXLAN",
    "lines": [
@@ -27937,7 +27937,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-35.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/pages/viewpage.action?pageId=127369225",
    "lines": [
@@ -27948,7 +27948,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-36.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/56459266/HotSpot",
    "lines": [
@@ -28003,7 +28003,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-41.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/47579229/Scripting",
    "lines": [
@@ -28014,7 +28014,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-42.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/250708066/Firewall",
    "lines": [
@@ -28036,7 +28036,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-44.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/3211299/NAT",
    "lines": [
@@ -28047,7 +28047,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-45.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/130220135/Address-lists",
    "lines": [
@@ -28058,7 +28058,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-46.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/328513/Building+Advanced+Firewall",
    "lines": [
@@ -28080,7 +28080,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-48.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/8978514/Fetch",
    "lines": [
@@ -28091,7 +28091,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-49.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/24805500/DHCP",
    "lines": [
@@ -28113,7 +28113,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-50.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/37748767/DNS",
    "lines": [
@@ -28124,7 +28124,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-51.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/97779929/Cloud",
    "lines": [
@@ -28146,7 +28146,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-53.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/40992881/Scheduler",
    "lines": [
@@ -28168,7 +28168,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-56.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/40992866/Clock",
    "lines": [
@@ -28201,7 +28201,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-59.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/40992852/Backup",
    "lines": [
@@ -28212,7 +28212,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-6.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/VPLS",
    "lines": [
@@ -28223,7 +28223,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-61.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/18350234/Cloud+Hosted+Router+CHR",
    "lines": [
@@ -28234,7 +28234,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-62.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/328129/WinBox",
    "lines": [
@@ -28245,7 +28245,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-63.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/30146563/LTE",
    "lines": [
@@ -28256,7 +28256,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-64.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/Partitions",
    "lines": [
@@ -28267,7 +28267,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-65.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/Disks",
    "lines": [
@@ -28278,7 +28278,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-66.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/48660587/Mangle",
    "lines": [
@@ -28289,7 +28289,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-67.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/Packet+Flow+in+RouterOS",
    "lines": [
@@ -28300,7 +28300,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-68.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/81362945/VRRP",
    "lines": [
@@ -28322,7 +28322,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-7.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/83755083/ZeroTier",
    "lines": [
@@ -28333,7 +28333,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-70.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/2031625/PPPoE",
    "lines": [
@@ -28355,7 +28355,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-72.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/L2TP",
    "lines": [
@@ -28388,7 +28388,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-75.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/display/ROS/Certificates",
    "lines": [
@@ -28399,7 +28399,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-76.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/2555940/User+Manager",
    "lines": [
@@ -28410,7 +28410,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-77.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/328097/RADIUS",
    "lines": [
@@ -28465,7 +28465,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-81.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/130220087/Connection+tracking",
    "lines": [
@@ -28476,7 +28476,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-82.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/328353/Securing+your+router",
    "lines": [
@@ -28487,7 +28487,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-83.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/189497483/Quality+of+Service",
    "lines": [
@@ -28498,7 +28498,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-84.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/172294200/Container+-+freeradius+server",
    "lines": [
@@ -28509,7 +28509,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-85.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "http://help.mikrotik.com/docs/spaces/ROS/pages/47579162/REST+API?ref=mgamble.ca",
    "lines": [
@@ -28520,7 +28520,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages-9.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/8978569/RoMON?src=contextnavpagetreemode",
    "lines": [
@@ -28531,7 +28531,7 @@
   },
   {
    "path": "Gemini_Google/arborescence-des-pages.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Arborescence des pages",
    "source": "https://help.mikrotik.com/docs/spaces/ROS/pages/84901929/Container?searchId=5FV4ZUOBG",
    "lines": [
@@ -28597,7 +28597,7 @@
   },
   {
    "path": "Gemini_Google/best-practice-for-multiple-offices-interconnection.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Best practice for multiple offices interconnection",
    "source": "https://forum.mikrotik.com/t/best-practice-for-multiple-offices-interconnection/136080",
    "lines": [
@@ -28608,7 +28608,7 @@
   },
   {
    "path": "Gemini_Google/best-scripts-for-firewall-and-router-protection.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Best scripts for firewall and router protection",
    "source": "https://forum.mikrotik.com/t/best-scripts-for-firewall-and-router-protection/118222",
    "lines": [
@@ -28630,7 +28630,7 @@
   },
   {
    "path": "Gemini_Google/bgp-routing-a-configuration-and-troubleshooting-tutorial-techtarget.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "BGP routing: A configuration and troubleshooting tutorial | TechTarget",
    "source": "https://www.techtarget.com/it-infrastructure/feature/BGP-routing-A-configuration-and-troubleshooting-tutorial",
    "lines": [
@@ -28696,7 +28696,7 @@
   },
   {
    "path": "Gemini_Google/capsman-can-t-get-20mhz-channels-on-2-4ghz.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "CapsMan - can't get 20Mhz channels on 2.4Ghz",
    "source": "https://forum.mikrotik.com/t/capsman-cant-get-20mhz-channels-on-2-4ghz/180764",
    "lines": [
@@ -28729,7 +28729,7 @@
   },
   {
    "path": "Gemini_Google/cis-cisco-benchmarks.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "CIS Cisco Benchmarks",
    "source": "http://cisecurity.org/benchmark/cisco",
    "lines": [
@@ -28740,7 +28740,7 @@
   },
   {
    "path": "Gemini_Google/cisco-meraki-umbrella-sd-wan-connector-deployment-guide-ip-with-ease.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "Cisco Meraki Umbrella SD-WAN Connector Deployment Guide - IP With Ease",
    "source": "https://ipwithease.com/cisco-meraki-umbrella-sd-wan-connector-deployment/",
    "lines": [
@@ -28762,7 +28762,7 @@
   },
   {
    "path": "Gemini_Google/compare-fortinet-fortiswitch-secure-access-vs-mikrotik-routers-and-switches.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Compare Fortinet FortiSwitch - Secure Access vs MikroTik Routers and Switches",
    "source": "https://origin.peerspot.com/products/comparisons/fortinet-fortiswitch-secure-access_vs_mikrotik-routers-and-switches",
    "lines": [
@@ -28806,7 +28806,7 @@
   },
   {
    "path": "Gemini_Google/configure-2fa-totp-google-authenticatora.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "Configure 2FA TOTP & Google AuthenticatorÂ¶",
    "source": "https://docs.huihoo.com/m0n0wall/opnsense/manual/how-tos/two_factor.html",
    "lines": [
@@ -28828,7 +28828,7 @@
   },
   {
    "path": "Gemini_Google/configuring-dhcp-services-on-the-mx-and-ms.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Configuring DHCP Services on the MX and MS",
    "source": "https://documentation.meraki.com/Platform_Management/Dashboard_Administration/Design_and_Configure/Configuration_Guides/Routing_and_Firewall/Configuring_DHCP_Services_on_the_MX_and_MS",
    "lines": [
@@ -28839,7 +28839,7 @@
   },
   {
    "path": "Gemini_Google/configuring-mikrotik-port-forwarding-step-by-step-guide-ded9.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Configuring MikroTik Port Forwarding: Step-by-Step Guide - DED9",
    "source": "https://ded9.com/configuring-mikrotik-port-forwarding/",
    "lines": [
@@ -28850,7 +28850,7 @@
   },
   {
    "path": "Gemini_Google/configuring-mikrotik-port-forwarding-through-winbox.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "✅ Configuring MikroTik port forwarding through Winbox",
    "source": "https://operavps.com/docs/mikrotik-port-forwarding/",
    "lines": [
@@ -28861,7 +28861,7 @@
   },
   {
    "path": "Gemini_Google/configuring-wireguard-link-to-remote-site-for-roku.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Configuring Wireguard Link to Remote site for ROKU",
    "source": "https://forum.mikrotik.com/t/configuring-wireguard-link-to-remote-site-for-roku/176998",
    "lines": [
@@ -29081,7 +29081,7 @@
   },
   {
    "path": "Gemini_Google/deploying-meraki-vmx-in-a-transit-vpc-with-aws-cloud-wan-tunnel-less-connect.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Deploying Meraki vMX in a Transit VPC with AWS Cloud WAN Tunnel-Less Connect",
    "source": "https://documentation.meraki.com/SASE_and_SD-WAN/MX/Design_and_Configure/Deployment_Guides/Deploying_Meraki_vMX_in_a_Transit_VPC_with_AWS_Cloud_WAN_Tunnel-Less_Connect",
    "lines": [
@@ -29147,7 +29147,7 @@
   },
   {
    "path": "Gemini_Google/dual-wan.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Dual WAN",
    "source": "https://forum.mikrotik.com/t/dual-wan/162607",
    "lines": [
@@ -29180,7 +29180,7 @@
   },
   {
    "path": "Gemini_Google/embeddings-ollama.md",
-   "domain": "gemini-google",
+   "domain": "dev-langages",
    "title": "Embeddings - Ollama",
    "source": "https://docs.ollama.com/capabilities/embeddings",
    "lines": [
@@ -29213,7 +29213,7 @@
   },
   {
    "path": "Gemini_Google/example-sd-wan-configurations-using-advpn-2-0.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Example SD-WAN configurations using ADVPN 2.0",
    "source": "https://docs.fortinet.com/document/fortigate/7.6.0/administration-guide/256210/example-sd-wan-configurations-using-advpn-2-0",
    "lines": [
@@ -29279,7 +29279,7 @@
   },
   {
    "path": "Gemini_Google/firewall-rule-ordering-best-practices-other-questions.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Firewall Rule - Ordering, Best Practices & Other Questions",
    "source": "https://forum.mikrotik.com/t/firewall-rule-ordering-best-practices-other-questions/178088",
    "lines": [
@@ -29301,7 +29301,7 @@
   },
   {
    "path": "Gemini_Google/fortinet-document-library.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Fortinet Document Library",
    "source": "https://docs.fortinet.com/document/fortigate-private-cloud/latest/vmware-esxi-administration-guide/640301/transparent-mode",
    "lines": [
@@ -29961,7 +29961,7 @@
   },
   {
    "path": "Gemini_Google/gemini-3-8-live-with-live-avatar-launches-today.md",
-   "domain": "gemini-google",
+   "domain": "dev-langages",
    "title": "Gemini 3.8 Live with Live Avatar Launches Today",
    "source": "https://emergent.sh/news/gemini-3-8-live-live-avatar-launches-today",
    "lines": [
@@ -29994,7 +29994,7 @@
   },
   {
    "path": "Gemini_Google/gemini-4-argon-a-ai-stack-current.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Gemini 4 Argon â AI Stack Current",
    "source": "https://www.aistackcurrent.com/models/gemini-4-argon/",
    "lines": [
@@ -30258,7 +30258,7 @@
   },
   {
    "path": "Gemini_Google/gemini-4-argon-release-date-out-now-access-pricing.md",
-   "domain": "gemini-google",
+   "domain": "dev-langages",
    "title": "Gemini 4 Argon Release Date (Out Now): Access & Pricing",
    "source": "https://techpilot.ai/gemini-4-argon-release-date-access/",
    "lines": [
@@ -30346,7 +30346,7 @@
   },
   {
    "path": "Gemini_Google/gemini-4-argon-what-you-can-actually-call-today-soba-labs.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Gemini 4 Argon: what you can actually call today | Soba Labs",
    "source": "https://sobalabs.ai/blog/gemini-4-argon-what-you-can-call-today/",
    "lines": [
@@ -30412,7 +30412,7 @@
   },
   {
    "path": "Gemini_Google/gemini-4-carbon-api-model-id-pricing-and-your-first-request.md",
-   "domain": "gemini-google",
+   "domain": "dev-langages",
    "title": "Gemini 4 Carbon API: Model ID, Pricing and Your First Request",
    "source": "https://apidog.com/blog/gemini-4-carbon-api/",
    "lines": [
@@ -30720,7 +30720,7 @@
   },
   {
    "path": "Gemini_Google/gemini-4-hydrogen-a-1m-context-multimodal.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Gemini 4 Hydrogen â 1M context, multimodal",
    "source": "https://www.llmreference.com/model/gemini-4-hydrogen",
    "lines": [
@@ -30808,7 +30808,7 @@
   },
   {
    "path": "Gemini_Google/gemini-4-hydrogen-beats-argon-at-1-50-1m-tokens.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Gemini 4 Hydrogen Beats Argon at $1.50/1M Tokens",
    "source": "https://codebumble.net/insights/gemini-4-hydrogen-agentic-coding-thinking-levels",
    "lines": [
@@ -31105,7 +31105,7 @@
   },
   {
    "path": "Gemini_Google/gemini-4-neon-a-1m-context-multimodal.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Gemini 4 Neon â 1M context, multimodal",
    "source": "https://www.llmreference.com/model/gemini-4-neon",
    "lines": [
@@ -32953,7 +32953,7 @@
   },
   {
    "path": "Gemini_Google/google-jules-ai-graveyard.md",
-   "domain": "gemini-google",
+   "domain": "dev-langages",
    "title": "Google Jules - AI Graveyard",
    "source": "https://www.aigraveyard.org/p/google-jules/",
    "lines": [
@@ -34020,7 +34020,7 @@
   },
   {
    "path": "Gemini_Google/hello-world-module-plugini.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "Hello world module & pluginï",
    "source": "https://docs.opnsense.org/development/examples/helloworld.html",
    "lines": [
@@ -34042,7 +34042,7 @@
   },
   {
    "path": "Gemini_Google/how-to-access-routeros-api-in-python-using-the-routeros-library-minimal-example-techoverflow.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "How to access RouterOS API in Python using the 'routeros' library (minimal example) | TechOverflow",
    "source": "https://techoverflow.net/2023/09/16/how-to-access-routeros-api-in-python-using-the-routeros-library-minimal-example/",
    "lines": [
@@ -34108,7 +34108,7 @@
   },
   {
    "path": "Gemini_Google/how-to-set-up-wifiwave2-capsman-for-your-ax-mikrotik-devices.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "How to set up WifiWave2 CAPsMAN for your AX MikroTik devices",
    "source": "https://miro.co.za/blog/technical-tips-guides/how-to-set-up-wifiwave2-capsman-for-your-ax-mikrotik-devices",
    "lines": [
@@ -34119,7 +34119,7 @@
   },
   {
    "path": "Gemini_Google/how-to-setup-a-mikrotik-chr-on-proxmox-admiral-platform.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "How to setup a MikroTik CHR on Proxmox - Admiral Platform",
    "source": "https://admiralplatform.com/how-to-setup-a-mikrotik-chr-on-proxmox/",
    "lines": [
@@ -34350,7 +34350,7 @@
   },
   {
    "path": "Gemini_Google/intrusion-detection-and-prevention-with-opnsense-and-suricata-techdhome.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "Intrusion Detection and Prevention with OPNsense and Suricata » TECHDHOME",
    "source": "https://techdhome.com/intrusion-detection-and-prevention-with-opnsense-and-suricata/",
    "lines": [
@@ -34383,7 +34383,7 @@
   },
   {
    "path": "Gemini_Google/is-googles-gemini-4-hydrogen-fast-cheap-and-good-enough.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Is Google’s Gemini 4 Hydrogen Fast, Cheap and Good Enough?",
    "source": "https://medium.com/@amitsrivastava115/is-googles-gemini-4-hydrogen-fast-cheap-and-good-enough-1adacfa22cbc",
    "lines": [
@@ -34460,7 +34460,7 @@
   },
   {
    "path": "Gemini_Google/mastering-unifi-site-magic-mesh-vs-hub-and-spoke-vpns-made-simple.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Mastering UniFi Site Magic: Mesh vs. Hub-and-Spoke VPNs Made Simple",
    "source": "https://flyteccomputers.com/blog/mastering-unifi-site-magic-mesh-vs-hubandspoke-vpns-made-simple/",
    "lines": [
@@ -34471,7 +34471,7 @@
   },
   {
    "path": "Gemini_Google/meraki-and-cisco-cloud-calling-connected-branch-solution.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "Meraki and Cisco Cloud Calling Connected Branch Solution",
    "source": "https://documentation.meraki.com/Platform_Management/Dashboard_Administration/Design_and_Configure/Architectures_and_Best_Practices/Recommended_Topologies/Meraki_and_Cisco_Cloud_Calling_Connected_Branch_Solution",
    "lines": [
@@ -34482,7 +34482,7 @@
   },
   {
    "path": "Gemini_Google/meraki-and-cisco-collaboration-teleworker-solution-for-businesses.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "Meraki and Cisco Collaboration Teleworker Solution for Businesses",
    "source": "https://documentation.meraki.com/Platform_Management/Dashboard_Administration/Design_and_Configure/Architectures_and_Best_Practices/Meraki_and_Cisco_Collaboration_Teleworker_Solution_for_Businesses",
    "lines": [
@@ -34504,7 +34504,7 @@
   },
   {
    "path": "Gemini_Google/mikrotik-basics-for-beginners-a-practical-guide.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "MikroTik Basics for Beginners: A Practical Guide",
    "source": "https://www.msdist.co.uk/blogs/news/mikrotik-basics-for-beginners-a-practical-guide",
    "lines": [
@@ -34515,7 +34515,7 @@
   },
   {
    "path": "Gemini_Google/mikrotik-cloud-router.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Mikrotik Cloud router -",
    "source": "https://www.eve-ng.net/index.php/documentation/howtos/howto-add-mikrotik-cloud-router/",
    "lines": [
@@ -34526,7 +34526,7 @@
   },
   {
    "path": "Gemini_Google/mikrotik-dual-wan-failover.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Mikrotik Dual WAN Failover",
    "source": "https://forum.mikrotik.com/t/mikrotik-dual-wan-failover/122961",
    "lines": [
@@ -34537,7 +34537,7 @@
   },
   {
    "path": "Gemini_Google/mikrotik-vs-ubiquiti-enterprise-key-business-differenc-distrilist.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Mikrotik Vs Ubiquiti Enterprise: Key Business Differenc... | Distrilist",
    "source": "https://www.distrilist.eu/mikrotik-vs-ubiquiti-enterprise-key-business-differences/",
    "lines": [
@@ -34548,7 +34548,7 @@
   },
   {
    "path": "Gemini_Google/mikrotik-wireguard-road-warrior-a-remote-access-vpn-linkconfig.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "MikroTik WireGuard Road Warrior â Remote Access VPN | linkconfig",
    "source": "https://linkconfig.com/blog/mikrotik-wireguard-road-warrior/",
    "lines": [
@@ -34625,7 +34625,7 @@
   },
   {
    "path": "Gemini_Google/more-links-3.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "More links",
    "source": "https://docs.Fortinet.com/document/fortigate/7.4.8/administration-guide/179018",
    "lines": [
@@ -34636,7 +34636,7 @@
   },
   {
    "path": "Gemini_Google/more-links-4.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "More links",
    "source": "https://docs.fortinet.com/document/fortigate/7.2.9/administration-guide/443323/dialup-ipsec-vpn-with-certificate-authentication",
    "lines": [
@@ -34658,7 +34658,7 @@
   },
   {
    "path": "Gemini_Google/more-links-6.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "More links",
    "source": "https://docs.fortinet.com/document/fortigate/7.0.9/administration-guide/207191/ssl-vpn-with-radius-and-fortitoken-mobile-push-on-fortiauthenticator",
    "lines": [
@@ -34669,7 +34669,7 @@
   },
   {
    "path": "Gemini_Google/more-links-8.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "More links",
    "source": "https://docs.fortinet.com/document/fortigate/7.0.4/administration-guide/702937",
    "lines": [
@@ -34680,7 +34680,7 @@
   },
   {
    "path": "Gemini_Google/more-links-9.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "More links",
    "source": "https://docs.Fortinet.com/document/fortigate/6.4.0/administration-guide/23145/sd-wan-with-fgcp-ha",
    "lines": [
@@ -34691,7 +34691,7 @@
   },
   {
    "path": "Gemini_Google/more-links.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "More links",
    "source": "https://docs.fortinet.com/document/fortigate/latest/administration-guide/335228/synchronizing-forticlient-ztna-tags",
    "lines": [
@@ -34713,7 +34713,7 @@
   },
   {
    "path": "Gemini_Google/nat-dst-nat-port-forwarding-problems.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "NAT, DST-NAT, Port-Forwarding problems",
    "source": "https://forum.mikrotik.com/t/nat-dst-nat-port-forwarding-problems/104960",
    "lines": [
@@ -34933,7 +34933,7 @@
   },
   {
    "path": "Gemini_Google/opnsense-plugins-expanding-functionality-for-your-firewall-techdhome.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "OPNsense Plugins: Expanding Functionality for Your Firewall » TECHDHOME",
    "source": "https://www.techdhome.com/opnsense-plugins-expanding-functionality-for-your-firewall/",
    "lines": [
@@ -34944,7 +34944,7 @@
   },
   {
    "path": "Gemini_Google/opnsense-security-and-hardening-best-practice-guide-zenarmor-com.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "OPNsense Security and Hardening Best Practice Guide - zenarmor.com",
    "source": "https://www.zenarmor.com/docs/network-security-tutorials/opnsense-security-and-hardening-best-practice-guide",
    "lines": [
@@ -34955,7 +34955,7 @@
   },
   {
    "path": "Gemini_Google/opnsense-vs-pfsense-choosing-the-right-firewall-for-your-network.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "OPNsense vs pfSense: Choosing the Right Firewall for Your Network",
    "source": "https://dev.to/lorikeesmart/opnsense-vs-pfsense-choosing-the-right-firewall-for-your-network-516h",
    "lines": [
@@ -34966,7 +34966,7 @@
   },
   {
    "path": "Gemini_Google/opnsense-vs-pfsense-for-homelabs-2026-complete-comparison-diymediaserver.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "OPNsense vs pfSense for Homelabs (2026): Complete Comparison | DiyMediaServer",
    "source": "https://diymediaserver.com/post/2026/opnsense-vs-pfsense-homelab-2026/",
    "lines": [
@@ -34977,7 +34977,7 @@
   },
   {
    "path": "Gemini_Google/optimize-mikrotik-routeros-best-practices-for-performance.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Optimize Mikrotik RouterOS: Best Practices for Performance",
    "source": "https://www.fantech.eu.org/2026/06/optimize-mikrotik-routeros-best.html",
    "lines": [
@@ -35054,7 +35054,7 @@
   },
   {
    "path": "Gemini_Google/ospf-mikrotik-the-secret-to-stable-and-scalable-networks.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "OSPF Mikrotik: The Secret to Stable and Scalable Networks",
    "source": "https://mkcontroller.com/ospf-mikrotik-a-comprehensive-guide-for-efficient-network-connectivity/",
    "lines": [
@@ -35065,7 +35065,7 @@
   },
   {
    "path": "Gemini_Google/ospf-routes.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "OSPF routes",
    "source": "https://forum.mikrotik.com/t/ospf-routes/160602",
    "lines": [
@@ -35153,7 +35153,7 @@
   },
   {
    "path": "Gemini_Google/platform-options.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Platform Options",
    "source": "https://docs.ansible.com/ansible/latest/network/user_guide/platform_index.html",
    "lines": [
@@ -35186,7 +35186,7 @@
   },
   {
    "path": "Gemini_Google/problem-when-routing-all-traffic-through-site-to-site-ipsec-vpn-tunnel-between-cyberoam-mikrotik.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Problem when routing all traffic through Site-to-Site IPSEC VPN Tunnel between Cyberoam & Mikrotik",
    "source": "https://forum.mikrotik.com/t/problem-when-routing-all-traffic-through-site-to-site-ipsec-vpn-tunnel-between-cyberoam-mikrotik/118364",
    "lines": [
@@ -35230,7 +35230,7 @@
   },
   {
    "path": "Gemini_Google/related-videos-2.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Related videos",
    "source": "https://docs.fortinet.com/document/fortigate/6.4.7/administration-guide/321562/failure-detection-for-aggregate-and-redundant-interfaces",
    "lines": [
@@ -35241,7 +35241,7 @@
   },
   {
    "path": "Gemini_Google/request-for-review-mikrotik-firewall-filter-rules.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Request for Review: MikroTik Firewall Filter Rules",
    "source": "https://forum.mikrotik.com/t/request-for-review-mikrotik-firewall-filter-rules/176309",
    "lines": [
@@ -35252,7 +35252,7 @@
   },
   {
    "path": "Gemini_Google/reset-routeros-without-losing-remote-access-winbox-ssh.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Reset RouterOS without losing remote access (Winbox/SSH)",
    "source": "https://forum.mikrotik.com/t/reset-routeros-without-losing-remote-access-winbox-ssh/183292",
    "lines": [
@@ -35263,7 +35263,7 @@
   },
   {
    "path": "Gemini_Google/revolutionize-your-network-effortless-sd-wan-setup-with-unifi-site-magic.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Revolutionize Your Network: Effortless SD-WAN Setup with UniFi Site Magic",
    "source": "https://flyteccomputers.com/blog/revolutionize-your-network-effortless-sdwan-setup-with-unifi-site-magic/",
    "lines": [
@@ -35274,7 +35274,7 @@
   },
   {
    "path": "Gemini_Google/routingi.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "Routingï",
    "source": "https://docs.opnsense.org/development/frontend/routing.html",
    "lines": [
@@ -35296,7 +35296,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-10.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/FortiGate/7.4.1/administration-guide/922423/configuring-an-antivirus-profile",
    "lines": [
@@ -35318,7 +35318,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-13.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/FortiGate/7.4.1/administration-guide/940957/multiple-dhcp-relay-servers",
    "lines": [
@@ -35329,7 +35329,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-14.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.Fortinet.com/document/fortigate/7.4.4/administration-guide/513092/configuring-radius-sso-authentication",
    "lines": [
@@ -35340,7 +35340,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-15.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.3/administration-guide/615462/url-filter",
    "lines": [
@@ -35351,7 +35351,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-16.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.Fortinet.com/document/fortigate/7.4.5/administration-guide/150448",
    "lines": [
@@ -35362,7 +35362,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-17.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.5/administration-guide/183352",
    "lines": [
@@ -35373,7 +35373,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-19.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.6.2/administration-guide/968606/configuring-multicast-forwarding",
    "lines": [
@@ -35384,7 +35384,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-2.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.8/administration-guide/300428",
    "lines": [
@@ -35417,7 +35417,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-24.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.3/administration-guide/266506/ssl-vpn-with-certificate-authentication",
    "lines": [
@@ -35439,7 +35439,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-29.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/latest/administration-guide/567401/dialup-ipsec-vpn-using-custom-tcp-port",
    "lines": [
@@ -35472,7 +35472,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-32.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.Fortinet.com/document/fortigate/7.2.3/administration-guide/183204/ssl-vpn-with-fortitoken-mobile-push-authentication",
    "lines": [
@@ -35483,7 +35483,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-34.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/6.2.0/cookbook/632796/ospf-with-ipsec-vpn-for-network-redundancy",
    "lines": [
@@ -35494,7 +35494,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-35.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/index.php/document/fortigate/7.2.8/administration-guide/335646/inter-vdom-routing-configuration-example-internet-access",
    "lines": [
@@ -35516,7 +35516,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-38.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/latest/administration-guide/249147/sd-wan-traffic-shaping-and-qos",
    "lines": [
@@ -35527,7 +35527,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-39.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.2.0/administration-guide/899762/snmp-agent",
    "lines": [
@@ -35538,7 +35538,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-4.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.6/administration-guide/783883/configuring-fortiguard-updates",
    "lines": [
@@ -35549,7 +35549,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-40.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.0.13/administration-guide/143852/cors-protocol-in-explicit-web-proxy-when-using-session-based-cookie-enabled-and-captive-portal-enabled-saml-authentication",
    "lines": [
@@ -35582,7 +35582,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-7.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Send Feedback",
    "source": "https://docs.Fortinet.com/document/fortigate/7.4.6/administration-guide/614237/snmp-examples",
    "lines": [
@@ -35593,7 +35593,7 @@
   },
   {
    "path": "Gemini_Google/send-feedback-8.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Send Feedback",
    "source": "https://docs.fortinet.com/document/fortigate/7.4.4/administration-guide/432710/dynamic-routing-in-ipv6",
    "lines": [
@@ -35637,7 +35637,7 @@
   },
   {
    "path": "Gemini_Google/site-to-site-ipsec-tunnel-can-t-ping-hosts.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Site to Site IPsec tunnel. Can't ping hosts",
    "source": "https://forum.mikrotik.com/t/site-to-site-ipsec-tunnel-cant-ping-hosts/127208",
    "lines": [
@@ -35659,7 +35659,7 @@
   },
   {
    "path": "Gemini_Google/static-route-redistribution-connected-networks-redistribution.md",
-   "domain": "gemini-google",
+   "domain": "cisco",
    "title": "Static Route Redistribution | Connected Networks Redistribution",
    "source": "https://ipcisco.com/lesson/connected-networks-and-static-routes-redistribution/",
    "lines": [
@@ -35714,7 +35714,7 @@
   },
   {
    "path": "Gemini_Google/syslog-event-types-and-log-samples.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Syslog Event Types and Log Samples",
    "source": "https://documentation.meraki.com/Platform_Management/Dashboard_Administration/Operate_and_Maintain/Monitoring_and_Reporting/Syslog_Event_Types_and_Log_Samples",
    "lines": [
@@ -35736,7 +35736,7 @@
   },
   {
    "path": "Gemini_Google/technical-note-configuring-bgp-on-a-fortigate-with-single-homed-ebgp-peering-ibgp-peering-access-lis.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Technical Note: Configuring BGP on a FortiGate with single-homed eBGP peering, iBGP peering, access-list and OSPF | Community",
    "source": "https://community.fortinet.com/fortigate-3/technical-note-configuring-bgp-on-a-fortigate-with-single-homed-ebgp-peering-ibgp-peering-access-list-and-ospf-94989",
    "lines": [
@@ -35824,7 +35824,7 @@
   },
   {
    "path": "Gemini_Google/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-15-2026.md",
-   "domain": "gemini-google",
+   "domain": "dev-langages",
    "title": "This week in Claude Code, Codex and Gemini CLI (week of November 15, 2026)",
    "source": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-15-2026-4pmm",
    "lines": [
@@ -35923,7 +35923,7 @@
   },
   {
    "path": "Gemini_Google/troubleshooting-tip-sd-wan-performance-sla-for-ipsec-interface-shows-as-down-community.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "Troubleshooting Tip: SD-WAN performance SLA for IPsec interface shows as 'down' | Community",
    "source": "https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-SD-WAN-performance-SLA-for-IPsec-interface/ta-p/191897?externalID=FD48676",
    "lines": [
@@ -35945,7 +35945,7 @@
   },
   {
    "path": "Gemini_Google/tutoriel-express-js-5-api-rest-node-js-en-12-etapes-2026.md",
-   "domain": "gemini-google",
+   "domain": "dev-langages",
    "title": "Tutoriel Express.js 5 : API REST Node.js en 12 Étapes [2026]",
    "source": "https://tech-insider.org/fr/tutoriel-express-js-api-rest-nodejs-2026/",
    "lines": [
@@ -35989,7 +35989,7 @@
   },
   {
    "path": "Gemini_Google/ubiquiti-enterprise-vs-mikrotik-non-cellular-compared-distrilist.md",
-   "domain": "gemini-google",
+   "domain": "mikrotik",
    "title": "Ubiquiti Enterprise Vs Mikrotik Non-Cellular Compared | Distrilist",
    "source": "https://www.distrilist.eu/ubiquiti-enterprise-vs-mikrotik-non-cellular-compared/",
    "lines": [
@@ -36022,7 +36022,7 @@
   },
   {
    "path": "Gemini_Google/use-the-apii.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "Use the APIï",
    "source": "https://docs.opnsense.org/development/how-tos/api.html",
    "lines": [
@@ -36033,7 +36033,7 @@
   },
   {
    "path": "Gemini_Google/using-controllers-and-viewsi.md",
-   "domain": "gemini-google",
+   "domain": "opnsense-pfsense",
    "title": "Using controllers and viewsï",
    "source": "https://docs.opnsense.org/development/frontend/controller.html",
    "lines": [
@@ -36044,7 +36044,7 @@
   },
   {
    "path": "Gemini_Google/using-ospf-to-advertise-remote-vpn-subnets.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "Using OSPF to Advertise Remote VPN Subnets",
    "source": "https://documentation.meraki.com/SASE_and_SD-WAN/MX/Design_and_Configure/Configuration_Guides/Site-to-site_VPN/Using_OSPF_to_Advertise_Remote_VPN_Subnets",
    "lines": [
@@ -36121,7 +36121,7 @@
   },
   {
    "path": "Gemini_Google/welcome-gemma-4-frontier-multimodal-intelligence-on-device.md",
-   "domain": "gemini-google",
+   "domain": "unifi-ubiquiti",
    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
    "source": "https://huggingface.co/blog/gemma4",
    "lines": [
@@ -36209,7 +36209,7 @@
   },
   {
    "path": "Gemini_Google/will-coquillette-src-content-blog-google-fiber-with-fortigate-90d-md-at-5adbf607d3d22288a0db9df9b9df.md",
-   "domain": "gemini-google",
+   "domain": "fortinet",
    "title": "will-coquillette/src/content/blog/google-fiber-with-fortigate-90d.md at 5adbf607d3d22288a0db9df9b9dfeb4feaeb3179 · willquill/will-coquillette",
    "source": "https://github.com/willquill/will-coquillette/blob/HEAD/src/content/blog/google-fiber-with-fortigate-90d.md",
    "lines": [
@@ -36231,7 +36231,7 @@
   },
   {
    "path": "Gemini_Google/wireguard-site-to-site-connect-your-office-and-branch-in-10-minutes-network-technology.md",
-   "domain": "gemini-google",
+   "domain": "reseau-networking",
    "title": "WireGuard site-to-site: connect your office and branch in 10 minutes | Network Technology",
    "source": "https://ntg.bg/en/blog/mikrotik-wireguard-site-to-site",
    "lines": [
@@ -40004,7 +40004,7 @@
   },
   {
    "path": "Grok_xAI/voice-vlan-configuration-how-to-configure-cisco-vlan-vlans.md",
-   "domain": "grok-xai",
+   "domain": "cisco",
    "title": "Voice VLAN Configuration ⋆ | How to Configure Cisco VLAN? |VLANs",
    "source": "https://ipcisco.com/lesson/voice-vlan-configuration/",
    "lines": [
@@ -40598,7 +40598,7 @@
   },
   {
    "path": "Hardware_Semi/anyconnect-client-download-and-deployment.md",
-   "domain": "hardware-semi",
+   "domain": "cisco",
    "title": "AnyConnect Client Download and Deployment",
    "source": "https://documentation.meraki.com/SASE_and_SD-WAN/MX/Design_and_Configure/Configuration_Guides/Client_VPN/AnyConnect_Client_Download_and_Deployment",
    "lines": [
@@ -40829,7 +40829,7 @@
   },
   {
    "path": "Hardware_Semi/firewall-policies.md",
-   "domain": "hardware-semi",
+   "domain": "fortinet",
    "title": "Firewall policies",
    "source": "https://www.fortinetguru.com/2018/12/firewall-policies-3/",
    "lines": [
@@ -41225,7 +41225,7 @@
   },
   {
    "path": "Hardware_Semi/load-balancing-mikrotik-pcc-dengan-pppoe.md",
-   "domain": "hardware-semi",
+   "domain": "mikrotik",
    "title": "Load Balancing Mikrotik PCC dengan PPPoe",
    "source": "https://www.agungjayakomputer.com/2015/02/load-balancing-mikrotik-pcc-dengan-pppoe_11.html",
    "lines": [
@@ -41368,7 +41368,7 @@
   },
   {
    "path": "Hardware_Semi/mikrotik-rds2216-inbound-with-20x-u-2-nvme-and-100gbe-on-arm.md",
-   "domain": "hardware-semi",
+   "domain": "mikrotik",
    "title": "MikroTik RDS2216 Inbound with 20x U.2 NVMe and 100GbE on Arm",
    "source": "https://www.servethehome.com/mikrotik-rds2216-inbound-with-20x-u-2-nvme-and-100gbe-on-arm-marvell-annapurna-labs/",
    "lines": [
@@ -41401,7 +41401,7 @@
   },
   {
    "path": "Hardware_Semi/mpls-bgp-and-ospf-design-for-wisp.md",
-   "domain": "hardware-semi",
+   "domain": "mikrotik",
    "title": "MPLS, BGP and OSPF design for wisp",
    "source": "https://forum.mikrotik.com/t/mpls-bgp-and-ospf-design-for-wisp/115459",
    "lines": [
@@ -41445,7 +41445,7 @@
   },
   {
    "path": "Hardware_Semi/openvpn-server-error-tls-failed.md",
-   "domain": "hardware-semi",
+   "domain": "mikrotik",
    "title": "OpenVPN Server error: TLS failed",
    "source": "https://forum.mikrotik.com/t/openvpn-server-error-tls-failed/80267",
    "lines": [
@@ -41489,7 +41489,7 @@
   },
   {
    "path": "Hardware_Semi/problem-with-port-forwarding-on-l009uigs-double-nat-dynamic-wanip.md",
-   "domain": "hardware-semi",
+   "domain": "mikrotik",
    "title": "Problem with port forwarding on L009UiGS, double NAT, dynamic WANIP",
    "source": "https://forum.mikrotik.com/t/problem-with-port-forwarding-on-l009uigs-double-nat-dynamic-wanip/173817",
    "lines": [
@@ -42996,7 +42996,7 @@
   },
   {
    "path": "Kimi/huawei-says-ascend-supports-kimi-k3-1-pro-from-its-weights-release.md",
-   "domain": "kimi",
+   "domain": "huawei",
    "title": "Huawei says Ascend supports Kimi K3.1 Pro from its weights release",
    "source": "https://www.aiaffairs.com/technology/huawei-ascend-kimi-k3-1-pro-launch-day-inference-support/",
    "lines": [
@@ -43194,7 +43194,7 @@
   },
   {
    "path": "Kimi/kimi-k3-1-pro-follow-up-huawei-ascend-and-alibaba-cloud-superpods-offer-day-one-support-for-the-2-8t.md",
-   "domain": "kimi",
+   "domain": "huawei",
    "title": "Kimi K3.1 Pro follow-up: Huawei Ascend and Alibaba Cloud SuperPoDs offer day-one support for the 2.8T-parameter model (report) · AI Trend Research",
    "source": "https://ai-trend.me/en/events/2026-11-05-kimi-k3-1-pro-day-zero-ascend-alibaba/",
    "lines": [
@@ -43480,7 +43480,7 @@
   },
   {
    "path": "Kimi/mikrotik-routeros-2026-guide-pro-tips-for-better-networking.md",
-   "domain": "kimi",
+   "domain": "mikrotik",
    "title": "Mikrotik RouterOS 2026 Guide: Pro Tips for Better Networking",
    "source": "https://www.fantech.eu.org/2026/05/mikrotik-routeros-2026-guide-pro-tips.html",
    "lines": [
@@ -43568,7 +43568,7 @@
   },
   {
    "path": "Kimi/moonshot-releases-kimi-k3-1-pro-weights-as-huawei-and-alibaba-add-deployment-support.md",
-   "domain": "kimi",
+   "domain": "huawei",
    "title": "Moonshot Releases Kimi K3.1 Pro Weights as Huawei and Alibaba Add Deployment Support",
    "source": "https://asiadaily.org/news/17790/",
    "lines": [
@@ -43711,7 +43711,7 @@
   },
   {
    "path": "Kimi/ubiquiti-unifi-usw-pro-xg-10-poe-review-a-sweet-10gbe-switch.md",
-   "domain": "kimi",
+   "domain": "unifi-ubiquiti",
    "title": "Ubiquiti UniFi USW-Pro-XG-10-PoE Review A Sweet 10GbE Switch",
    "source": "https://www.servethehome.com/ubiquiti-unifi-usw-pro-xg-10-poe-review-a-sweet-10gbe-switch/",
    "lines": [
@@ -50630,7 +50630,7 @@
   },
   {
    "path": "Mistral/logging-and-reporting-for-large-networks.md",
-   "domain": "mistral",
+   "domain": "fortinet",
    "title": "Logging and reporting for large networks",
    "source": "https://www.fortinetguru.com/2016/11/logging-and-reporting-for-large-networks/",
    "lines": [
@@ -51180,7 +51180,7 @@
   },
   {
    "path": "Mistral/troubleshooting-tip-large-file-downloads-fail-over-an-ipsec-tunnel-using-vpn-id-ipip-encapsulation-w.md",
-   "domain": "mistral",
+   "domain": "fortinet",
    "title": "Troubleshooting Tip: Large file downloads fail over an IPsec tunnel using vpn-id-ipip encapsulation with NAT-T | Community",
    "source": "https://community.fortinet.com/fortigate-3/troubleshooting-tip-large-file-downloads-fail-over-an-ipsec-tunnel-using-vpn-id-ipip-encapsulation-with-nat-t-230143",
    "lines": [
@@ -51697,7 +51697,7 @@
   },
   {
    "path": "Modeles_Open/cannot-see-wifi-with-capsman-solved.md",
-   "domain": "modeles-open",
+   "domain": "mikrotik",
    "title": "Cannot see WiFi with CAPsMAN - SOLVED!!",
    "source": "https://forum.mikrotik.com/t/cannot-see-wifi-with-capsman-solved/182078",
    "lines": [
@@ -52093,7 +52093,7 @@
   },
   {
    "path": "Modeles_Open/gns3vault-ccna-r-s-labs-list-in-order.md",
-   "domain": "modeles-open",
+   "domain": "reseau-networking",
    "title": "GNS3Vault CCNA R&S labs list in order",
    "source": "https://forum.networklessons.com/t/gns3vault-ccna-r-s-labs-list-in-order/6656",
    "lines": [
@@ -52104,7 +52104,7 @@
   },
   {
    "path": "Modeles_Open/google-gemma-4-31b-it-hugging-face.md",
-   "domain": "modeles-open",
+   "domain": "unifi-ubiquiti",
    "title": "google/gemma-4-31B-it · Hugging Face",
    "source": "https://huggingface.co/google/gemma-4-31B-it",
    "lines": [
@@ -52225,7 +52225,7 @@
   },
   {
    "path": "Modeles_Open/inclusionai-ling-3-1-flash-1019-hugging-face.md",
-   "domain": "modeles-open",
+   "domain": "dev-langages",
    "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
    "source": "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019",
    "lines": [
@@ -52258,7 +52258,7 @@
   },
   {
    "path": "Modeles_Open/installing-mikrotik-image-on-pnetlab-or-eve-ng-simple-and-easy-undercode-testing.md",
-   "domain": "modeles-open",
+   "domain": "mikrotik",
    "title": "Installing MikroTik Image On PNETLab Or EVE-NG: Simple And Easy! - Undercode Testing",
    "source": "https://undercodetesting.com/installing-mikrotik-image-on-pnetlab-or-eve-ng-simple-and-easy/",
    "lines": [
@@ -52324,7 +52324,7 @@
   },
   {
    "path": "Modeles_Open/ipsec-ikev2-tunnel-tuning.md",
-   "domain": "modeles-open",
+   "domain": "mikrotik",
    "title": "IPsec IKEv2 Tunnel Tuning",
    "source": "https://forum.mikrotik.com/t/ipsec-ikev2-tunnel-tuning/115254",
    "lines": [
@@ -52533,7 +52533,7 @@
   },
   {
    "path": "Modeles_Open/latest-ai-research-papers-ai-paper-radar-30-days-aimap-1.md",
-   "domain": "modeles-open",
+   "domain": "unifi-ubiquiti",
    "title": "Latest AI research papers: AI Paper Radar (30 days) | AIMap",
    "source": "https://aimap.page/en/learn/papers/",
    "lines": [
@@ -52676,7 +52676,7 @@
   },
   {
    "path": "Modeles_Open/local-and-distributed-large-llm-inference-with-mlx-and-rdma-on-mac-studio.md",
-   "domain": "modeles-open",
+   "domain": "unifi-ubiquiti",
    "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
    "source": "https://machinelearning.apple.com/research/mlx-distributed-inference",
    "lines": [
@@ -52687,7 +52687,7 @@
   },
   {
    "path": "Modeles_Open/local-preference-attribute-config-2-ways-bgp-path-attributes.md",
-   "domain": "modeles-open",
+   "domain": "cisco",
    "title": "Local Preference Attribute Config | 2-ways | BGP Path Attributes ⋆",
    "source": "https://ipcisco.com/lesson/bgp-path-attributes-local-preference/",
    "lines": [
@@ -52709,7 +52709,7 @@
   },
   {
    "path": "Modeles_Open/meituan-longcat-longcat-next-hugging-face.md",
-   "domain": "modeles-open",
+   "domain": "unifi-ubiquiti",
    "title": "meituan-longcat/LongCat-Next · Hugging Face",
    "source": "https://huggingface.co/meituan-longcat/LongCat-Next",
    "lines": [
@@ -53314,7 +53314,7 @@
   },
   {
    "path": "Modeles_Open/reseau-avec-gns3-comment-ajouter-un-switch-cisco.md",
-   "domain": "modeles-open",
+   "domain": "cisco",
    "title": "Réseau avec GNS3 : comment ajouter un switch Cisco ?",
    "source": "https://www.it-connect.fr/gns3-comment-importer-une-image-cisco-et-creer-son-premier-switch/",
    "lines": [
@@ -53567,7 +53567,7 @@
   },
   {
    "path": "Modeles_Open/vlans-virtual-local-area-networks-ipcisco.md",
-   "domain": "modeles-open",
+   "domain": "reseau-networking",
    "title": "VLANs (Virtual Local Area Networks) ⋆ IpCisco",
    "source": "https://ipcisco.com/lesson/vlans-virtual-local-area-networks-ccnp/",
    "lines": [
@@ -53842,7 +53842,7 @@
   },
   {
    "path": "Muse/build-with-muse-spark-open.md",
-   "domain": "muse",
+   "domain": "unifi-ubiquiti",
    "title": "Build with Muse Spark Open",
    "source": "https://dev.meta.ai/resources/blog/build-with-muse-spark-open?team_id=1074055538425878&project_id=1366748018914493",
    "lines": [
@@ -53853,7 +53853,7 @@
   },
   {
    "path": "Muse/clamav-antivirus-open-source-linux-10-etapes-2026.md",
-   "domain": "muse",
+   "domain": "cisco",
    "title": "ClamAV : Antivirus Open Source Linux, 10 Étapes [2026]",
    "source": "https://tech-insider.org/fr/clamav-antivirus-open-source-linux-2026/",
    "lines": [
@@ -53864,7 +53864,7 @@
   },
   {
    "path": "Muse/comment-ajouter-une-dmz-a-un-firewall-opnsense.md",
-   "domain": "muse",
+   "domain": "opnsense-pfsense",
    "title": "Comment ajouter une DMZ à un firewall OPNsense ?",
    "source": "https://www.it-connect.fr/comment-creer-et-configurer-une-dmz-sur-un-firewall-opnsense/",
    "lines": [
@@ -53952,7 +53952,7 @@
   },
   {
    "path": "Muse/granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-32k-context-best-sub-.md",
-   "domain": "muse",
+   "domain": "dev-langages",
    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
    "source": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
    "lines": [
@@ -53974,7 +53974,7 @@
   },
   {
    "path": "Muse/installer-opnsense-pare-feu-open-source-en-14-etapes-2026.md",
-   "domain": "muse",
+   "domain": "opnsense-pfsense",
    "title": "Installer OPNsense : Pare-feu Open Source en 14 Étapes [2026]",
    "source": "https://tech-insider.org/fr/installer-opnsense-pare-feu-open-source-2026/",
    "lines": [
@@ -54051,7 +54051,7 @@
   },
   {
    "path": "Muse/les-listes-de-controle-dacces-acl-avec-cisco.md",
-   "domain": "muse",
+   "domain": "cisco",
    "title": "Les listes de contrôle d’accès (ACL) avec Cisco",
    "source": "https://www.it-connect.fr/les-listes-de-controle-dacces-acl-avec-cisco/",
    "lines": [
@@ -54238,7 +54238,7 @@
   },
   {
    "path": "Muse/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio-9to5mac.md",
-   "domain": "muse",
+   "domain": "unifi-ubiquiti",
    "title": "Meta launches new Muse Spark Open model, optimized to run on Mac Studio - 9to5Mac",
    "source": "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
    "lines": [
@@ -54854,7 +54854,7 @@
   },
   {
    "path": "Muse/muse-code.md",
-   "domain": "muse",
+   "domain": "dev-langages",
    "title": "Muse Code",
    "source": "https://dev.meta.ai/docs/muse-code?team_id=1741581793652561&project_id=29035399122726954",
    "lines": [
@@ -55349,7 +55349,7 @@
   },
   {
    "path": "Muse/pfsense-vs-opnsense-which-open-source-firewall-is-right-for-you.md",
-   "domain": "muse",
+   "domain": "opnsense-pfsense",
    "title": "PfSense vs OPNsense: Which Open-Source Firewall is Right for You?",
    "source": "https://techtrickszone.com/pfsense-vs-opnsense/",
    "lines": [
@@ -55833,7 +55833,7 @@
   },
   {
    "path": "NVIDIA_Hardware/big-ai-cluster-little-power-the-8x-nvidia-gb10-cluster.md",
-   "domain": "nvidia-hardware",
+   "domain": "mikrotik",
    "title": "BIG AI Cluster Little Power the 8x NVIDIA GB10 Cluster",
    "source": "https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/",
    "lines": [
@@ -60629,7 +60629,7 @@
   },
   {
    "path": "Qwen/troubleshooting-tip-central-nat-packet-processing-troubleshooting-steps-and-traffic-flow-community.md",
-   "domain": "qwen",
+   "domain": "fortinet",
    "title": "Troubleshooting Tip: Central NAT Packet processing, Troubleshooting steps and traffic flow | Community",
    "source": "https://community.fortinet.com/fortigate-3/troubleshooting-tip-central-nat-packet-processing-troubleshooting-steps-and-traffic-flow-211869",
    "lines": [
@@ -62070,7 +62070,7 @@
   },
   {
    "path": "Samsung_Mobile/ccr2116-12g-4s-ipsec-gre-ospf-one-way-vpn-on-7-16-2.md",
-   "domain": "samsung-mobile",
+   "domain": "reseau-networking",
    "title": "CCR2116-12G-4S+ IPSEC/GRE/OSPF one way VPN on 7.16.2+",
    "source": "https://forum.mikrotik.com/t/ccr2116-12g-4s-ipsec-gre-ospf-one-way-vpn-on-7-16-2/183582/1",
    "lines": [
@@ -62235,7 +62235,7 @@
   },
   {
    "path": "Samsung_Mobile/restore-configuration-from-one-router-to-another.md",
-   "domain": "samsung-mobile",
+   "domain": "mikrotik",
    "title": "Restore configuration from one router to another",
    "source": "https://forum.mikrotik.com/t/restore-configuration-from-one-router-to-another/86518",
    "lines": [
@@ -62719,7 +62719,7 @@
   },
   {
    "path": "Samsung_Mobile/troubleshooting-tip-internet-is-not-working-with-one-of-the-sd-wan-members-when-ip-pool-is-called-in.md",
-   "domain": "samsung-mobile",
+   "domain": "reseau-networking",
    "title": "Troubleshooting Tip: Internet is not working with one of the SD-WAN members when IP pool is called in the policy | Community",
    "source": "https://community.fortinet.com/fortigate-3/troubleshooting-tip-internet-is-not-working-with-one-of-the-sd-wan-members-when-ip-pool-is-called-in-the-policy-92950",
    "lines": [
@@ -65623,7 +65623,7 @@
   },
   {
    "path": "Xiaomi_MiMo/mimo-v2-6-flash-on-deepswe-71-of-113-tasks-done-in-90-steps-per-task.md",
-   "domain": "xiaomi-mimo",
+   "domain": "dev-langages",
    "title": "MiMo-V2.6-Flash on DeepSWE: 71 of 113 tasks, done in 90 steps per task",
    "source": "http://blog.veladan.org/2026/10/10/mimo-v2-6-flash-deepswe-113-tasks.html",
    "lines": [

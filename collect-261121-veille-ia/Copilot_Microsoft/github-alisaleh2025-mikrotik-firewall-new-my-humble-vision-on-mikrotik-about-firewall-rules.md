@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-alisaleh2025-mikrotik-firewall-new-my-humble-vision-on-mikrotik-about-firewall-rules
+id: collect-261121-veille-ia/mikrotik/github-alisaleh2025-mikrotik-firewall-new-my-humble-vision-on-mikrotik-about-firewall-rules
 title: "GitHub - alisaleh2025/mikrotik-firewall-new: My humble vision on mikrotik about firewall rules."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

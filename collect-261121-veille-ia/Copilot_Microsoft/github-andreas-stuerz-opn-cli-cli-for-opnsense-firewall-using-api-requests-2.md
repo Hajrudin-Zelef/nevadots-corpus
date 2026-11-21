@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-andreas-stuerz-opn-cli-cli-for-opnsense-firewall-using-api-requests-2
+id: collect-261121-veille-ia/opnsense-pfsense/github-andreas-stuerz-opn-cli-cli-for-opnsense-firewall-using-api-requests-2
 title: "GitHub - andreas-stuerz/opn-cli: CLI for OPNsense Firewall using API Requests"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

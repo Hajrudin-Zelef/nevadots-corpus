@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-0r1xbyte-opnsense-orchestrator-automation-and-orchestration-toolkit-for-opnsense-python-api-a
+id: collect-261121-veille-ia/opnsense-pfsense/github-0r1xbyte-opnsense-orchestrator-automation-and-orchestration-toolkit-for-opnsense-python-api-a
 title: "GitHub - 0r1xByte/opnsense-orchestrator: Automation and orchestration toolkit for OPNsense – Python API and CLI for DHCP, firewall, NAC, logging, and config sync."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

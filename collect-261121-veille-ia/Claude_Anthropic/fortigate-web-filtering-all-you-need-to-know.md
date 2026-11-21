@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/fortigate-web-filtering-all-you-need-to-know
+id: collect-261121-veille-ia/fortinet/fortigate-web-filtering-all-you-need-to-know
 title: "Fortigate Web Filtering - All You Need to Know"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

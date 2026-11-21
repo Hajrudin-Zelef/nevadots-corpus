@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/cdp-configuration-with-packet-tracer-cisco-discovery-protocol
+id: collect-261121-veille-ia/cisco/cdp-configuration-with-packet-tracer-cisco-discovery-protocol
 title: "CDP Configuration with Packet Tracer ⋆ | Cisco Discovery Protocol"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

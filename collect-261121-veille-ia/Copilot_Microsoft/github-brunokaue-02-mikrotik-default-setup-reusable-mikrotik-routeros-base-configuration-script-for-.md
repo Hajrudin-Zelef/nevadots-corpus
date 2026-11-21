@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-brunokaue-02-mikrotik-default-setup-reusable-mikrotik-routeros-base-configuration-script-for-
+id: collect-261121-veille-ia/mikrotik/github-brunokaue-02-mikrotik-default-setup-reusable-mikrotik-routeros-base-configuration-script-for-
 title: "GitHub - BrunoKaue-02/mikrotik-default-setup: Reusable MikroTik RouterOS base configuration script for quick deployment and standardized setups."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-15-2026
+id: collect-261121-veille-ia/dev-langages/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-15-2026
 title: "This week in Claude Code, Codex and Gemini CLI (week of November 15, 2026)"
-domain: gemini-google
+domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]

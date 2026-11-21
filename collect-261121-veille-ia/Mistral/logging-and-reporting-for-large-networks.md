@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/mistral/logging-and-reporting-for-large-networks
+id: collect-261121-veille-ia/fortinet/logging-and-reporting-for-large-networks
 title: "Logging and reporting for large networks"
-domain: mistral
+domain: fortinet
 role: reference
 task: article
 actors: ["Mistral AI"]

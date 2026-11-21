@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/mikrotik-basics-for-beginners-a-practical-guide
+id: collect-261121-veille-ia/mikrotik/mikrotik-basics-for-beginners-a-practical-guide
 title: "MikroTik Basics for Beginners: A Practical Guide"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

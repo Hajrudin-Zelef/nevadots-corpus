@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/enhanced-visibility-and-hardening-guidance-for-communications-infrastructure-cisa
+id: collect-261121-veille-ia/reseau-networking/enhanced-visibility-and-hardening-guidance-for-communications-infrastructure-cisa
 title: "Enhanced Visibility and Hardening Guidance for Communications Infrastructure | CISA"
-domain: claude-anthropic
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

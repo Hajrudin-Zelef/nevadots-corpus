@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/more-links-9
+id: collect-261121-veille-ia/fortinet/more-links-9
 title: "More links"
-domain: gemini-google
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

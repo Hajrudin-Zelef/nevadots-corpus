@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/hardware-semi/mpls-bgp-and-ospf-design-for-wisp
+id: collect-261121-veille-ia/mikrotik/mpls-bgp-and-ospf-design-for-wisp
 title: "MPLS, BGP and OSPF design for wisp"
-domain: hardware-semi
+domain: mikrotik
 role: reference
 task: article
 actors: []

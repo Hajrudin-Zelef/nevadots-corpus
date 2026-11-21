@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-omaralghafri-cisco-network-automation-python-netmiko-automation-for-cisco-ios-devices-in-a-gn
+id: collect-261121-veille-ia/cisco/github-omaralghafri-cisco-network-automation-python-netmiko-automation-for-cisco-ios-devices-in-a-gn
 title: "GitHub - OmarAlghafri/cisco-network-automation: Python + Netmiko automation for Cisco IOS devices in a GNS3 lab: SSH connectivity checks, config backups, bulk VLAN provisioning, and health reports from a single YAML inventory."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

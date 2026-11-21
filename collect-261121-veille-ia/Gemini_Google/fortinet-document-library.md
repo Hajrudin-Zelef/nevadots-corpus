@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/fortinet-document-library
+id: collect-261121-veille-ia/fortinet/fortinet-document-library
 title: "Fortinet Document Library"
-domain: gemini-google
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

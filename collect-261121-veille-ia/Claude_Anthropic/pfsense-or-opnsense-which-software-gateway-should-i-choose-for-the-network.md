@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/pfsense-or-opnsense-which-software-gateway-should-i-choose-for-the-network
+id: collect-261121-veille-ia/opnsense-pfsense/pfsense-or-opnsense-which-software-gateway-should-i-choose-for-the-network
 title: "pfSense or OPNsense - which software gateway should I choose for the network?"
-domain: claude-anthropic
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Anthropic"]

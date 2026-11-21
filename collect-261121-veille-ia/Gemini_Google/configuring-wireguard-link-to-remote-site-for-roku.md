@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/configuring-wireguard-link-to-remote-site-for-roku
+id: collect-261121-veille-ia/reseau-networking/configuring-wireguard-link-to-remote-site-for-roku
 title: "Configuring Wireguard Link to Remote site for ROKU"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/technical-tip-using-dhcp-server-options-on-a-fortigate-community
+id: collect-261121-veille-ia/fortinet/technical-tip-using-dhcp-server-options-on-a-fortigate-community
 title: "Technical Tip: Using DHCP server 'options' on a FortiGate | Community"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

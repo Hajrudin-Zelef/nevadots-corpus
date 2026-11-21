@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/fortinet-handbook-handbook-labs-02-dhcp-server-configuration-on-fortigate-readme-md-at-23918ccd77127
+id: collect-261121-veille-ia/fortinet/fortinet-handbook-handbook-labs-02-dhcp-server-configuration-on-fortigate-readme-md-at-23918ccd77127
 title: "fortinet-handbook/Handbook/Labs/02-DHCP-Server-Configuration-on-FortiGate/README.md at 23918ccd771277664ffd5c8790864a76ec8e628f · packetarchitect/fortinet-handbook"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

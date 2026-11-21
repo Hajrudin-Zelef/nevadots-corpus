@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/mikrotik-openvpn-client-over-udp-stopped-forwarding-traffic-on-routeros-7-10-1
+id: collect-261121-veille-ia/mikrotik/mikrotik-openvpn-client-over-udp-stopped-forwarding-traffic-on-routeros-7-10-1
 title: "Mikrotik OpenVPN Client over UDP stopped forwarding traffic on RouterOS 7.10.1"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

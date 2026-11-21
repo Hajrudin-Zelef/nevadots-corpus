@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/build-with-muse-spark-open
+id: collect-261121-veille-ia/unifi-ubiquiti/build-with-muse-spark-open
 title: "Build with Muse Spark Open"
-domain: muse
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Meta"]

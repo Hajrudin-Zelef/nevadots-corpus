@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/napalm-docs-index-rst-at-820a06b2069eb1d7b0cbe8943ee2dea6e2949d1a-napalm-automation-napalm
+id: collect-261121-veille-ia/cisco/napalm-docs-index-rst-at-820a06b2069eb1d7b0cbe8943ee2dea6e2949d1a-napalm-automation-napalm
 title: "napalm/docs/index.rst at 820a06b2069eb1d7b0cbe8943ee2dea6e2949d1a · napalm-automation/napalm"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

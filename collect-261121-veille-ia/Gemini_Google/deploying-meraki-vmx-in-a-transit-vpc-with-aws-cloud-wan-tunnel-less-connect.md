@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/deploying-meraki-vmx-in-a-transit-vpc-with-aws-cloud-wan-tunnel-less-connect
+id: collect-261121-veille-ia/reseau-networking/deploying-meraki-vmx-in-a-transit-vpc-with-aws-cloud-wan-tunnel-less-connect
 title: "Deploying Meraki vMX in a Transit VPC with AWS Cloud WAN Tunnel-Less Connect"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

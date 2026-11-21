@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/mikrotik-vs-ubiquiti-enterprise-key-business-differenc-distrilist
+id: collect-261121-veille-ia/mikrotik/mikrotik-vs-ubiquiti-enterprise-key-business-differenc-distrilist
 title: "Mikrotik Vs Ubiquiti Enterprise: Key Business Differenc... | Distrilist"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

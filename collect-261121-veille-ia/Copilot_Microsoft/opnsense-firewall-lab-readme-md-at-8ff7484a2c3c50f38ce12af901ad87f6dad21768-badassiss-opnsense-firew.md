@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/opnsense-firewall-lab-readme-md-at-8ff7484a2c3c50f38ce12af901ad87f6dad21768-badassiss-opnsense-firew
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-firewall-lab-readme-md-at-8ff7484a2c3c50f38ce12af901ad87f6dad21768-badassiss-opnsense-firew
 title: "opnsense-firewall-lab/README.md at 8ff7484a2c3c50f38ce12af901ad87f6dad21768 · badassiss/opnsense-firewall-lab"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

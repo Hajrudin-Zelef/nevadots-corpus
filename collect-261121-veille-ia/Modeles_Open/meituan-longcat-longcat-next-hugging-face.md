@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/meituan-longcat-longcat-next-hugging-face
+id: collect-261121-veille-ia/unifi-ubiquiti/meituan-longcat-longcat-next-hugging-face
 title: "meituan-longcat/LongCat-Next · Hugging Face"
-domain: modeles-open
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: []

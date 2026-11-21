@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/using-site-to-site-vpn-translation
+id: collect-261121-veille-ia/reseau-networking/using-site-to-site-vpn-translation
 title: "Using Site-to-site VPN Translation"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

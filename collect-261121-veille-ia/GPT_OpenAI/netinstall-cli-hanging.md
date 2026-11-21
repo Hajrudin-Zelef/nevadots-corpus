@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/netinstall-cli-hanging
+id: collect-261121-veille-ia/mikrotik/netinstall-cli-hanging
 title: "netinstall-cli hanging"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

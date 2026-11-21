@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/send-feedback-9
-title: "Send Feedback"
-domain: claude-anthropic
+id: collect-261121-veille-ia/fortinet/send-feedback-9
+title: "Transparent mode"
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

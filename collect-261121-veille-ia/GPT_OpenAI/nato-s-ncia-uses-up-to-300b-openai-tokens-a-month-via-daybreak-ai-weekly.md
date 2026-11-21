@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/nato-s-ncia-uses-up-to-300b-openai-tokens-a-month-via-daybreak-ai-weekly
+id: collect-261121-veille-ia/mikrotik/nato-s-ncia-uses-up-to-300b-openai-tokens-a-month-via-daybreak-ai-weekly
 title: "NATO's NCIA Uses Up to 300B OpenAI Tokens a Month via Daybreak | AI Weekly"
-domain: gpt-openai
+domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]

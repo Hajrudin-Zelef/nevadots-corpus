@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/3-steps-gre-tunnel-configuration-with-cisco-packet-tracer
+id: collect-261121-veille-ia/cisco/3-steps-gre-tunnel-configuration-with-cisco-packet-tracer
 title: "3 Steps GRE Tunnel Configuration with Cisco Packet Tracer ⋆"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

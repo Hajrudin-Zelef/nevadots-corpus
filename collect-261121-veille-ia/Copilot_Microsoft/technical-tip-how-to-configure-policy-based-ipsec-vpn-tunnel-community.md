@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/technical-tip-how-to-configure-policy-based-ipsec-vpn-tunnel-community
+id: collect-261121-veille-ia/fortinet/technical-tip-how-to-configure-policy-based-ipsec-vpn-tunnel-community
 title: "Technical Tip: How to configure policy-based IPsec VPN Tunnel | Community"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

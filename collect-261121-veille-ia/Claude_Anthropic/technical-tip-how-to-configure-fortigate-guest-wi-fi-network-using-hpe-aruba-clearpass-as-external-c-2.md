@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/technical-tip-how-to-configure-fortigate-guest-wi-fi-network-using-hpe-aruba-clearpass-as-external-c-2
+id: collect-261121-veille-ia/fortinet/technical-tip-how-to-configure-fortigate-guest-wi-fi-network-using-hpe-aruba-clearpass-as-external-c-2
 title: "Technical Tip: How to configure FortiGate Guest Wi-Fi Network using HPE Aruba ClearPass as external captive portal on Bridge mode SSID | Community"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

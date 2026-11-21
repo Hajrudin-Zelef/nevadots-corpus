@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/how-to-run-deepseek-v4-flash-locally-mac-linux-windows-terminalbytes
+id: collect-261121-veille-ia/unifi-ubiquiti/how-to-run-deepseek-v4-flash-locally-mac-linux-windows-terminalbytes
 title: "How to run DeepSeek V4 Flash locally (Mac, Linux, Windows) | TerminalBytes"
-domain: deepseek
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["DeepSeek"]

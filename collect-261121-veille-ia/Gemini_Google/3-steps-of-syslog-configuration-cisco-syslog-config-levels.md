@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/3-steps-of-syslog-configuration-cisco-syslog-config-levels
+id: collect-261121-veille-ia/cisco/3-steps-of-syslog-configuration-cisco-syslog-config-levels
 title: "3 Steps of Syslog Configuration Cisco | Syslog Config & Levels!"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

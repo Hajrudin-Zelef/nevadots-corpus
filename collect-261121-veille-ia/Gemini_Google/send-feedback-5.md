@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-5
-title: "Send Feedback"
+title: "FortiGuard troubleshooting"
 domain: gemini-google
 role: reference
 task: article

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/virtualized-enterprise-lab-pfsense-opnsense-hardening-md-at-86697a2135698e4a483468811b18349db44685c6
+id: collect-261121-veille-ia/opnsense-pfsense/virtualized-enterprise-lab-pfsense-opnsense-hardening-md-at-86697a2135698e4a483468811b18349db44685c6
 title: "Virtualized-Enterprise-Lab-pfSense-OPNsense-/HARDENING.md at 86697a2135698e4a483468811b18349db44685c6 · shanmkuu/Virtualized-Enterprise-Lab-pfSense-OPNsense-"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

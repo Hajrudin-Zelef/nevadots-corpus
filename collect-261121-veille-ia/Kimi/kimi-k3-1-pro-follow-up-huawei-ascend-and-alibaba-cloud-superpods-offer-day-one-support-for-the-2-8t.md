@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/kimi/kimi-k3-1-pro-follow-up-huawei-ascend-and-alibaba-cloud-superpods-offer-day-one-support-for-the-2-8t
+id: collect-261121-veille-ia/huawei/kimi-k3-1-pro-follow-up-huawei-ascend-and-alibaba-cloud-superpods-offer-day-one-support-for-the-2-8t
 title: "Kimi K3.1 Pro follow-up: Huawei Ascend and Alibaba Cloud SuperPoDs offer day-one support for the 2.8T-parameter model (report) · AI Trend Research"
-domain: kimi
+domain: huawei
 role: reference
 task: article
 actors: ["Moonshot AI"]

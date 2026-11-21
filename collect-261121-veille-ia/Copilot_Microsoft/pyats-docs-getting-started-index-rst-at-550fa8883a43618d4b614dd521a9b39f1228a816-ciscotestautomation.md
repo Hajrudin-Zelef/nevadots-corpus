@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/pyats-docs-getting-started-index-rst-at-550fa8883a43618d4b614dd521a9b39f1228a816-ciscotestautomation
+id: collect-261121-veille-ia/cisco/pyats-docs-getting-started-index-rst-at-550fa8883a43618d4b614dd521a9b39f1228a816-ciscotestautomation
 title: "pyats/docs/getting_started/index.rst at 550fa8883a43618d4b614dd521a9b39f1228a816 · CiscoTestAutomation/pyats"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

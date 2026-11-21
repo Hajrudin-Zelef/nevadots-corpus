@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/samsung-mobile/ccr2116-12g-4s-ipsec-gre-ospf-one-way-vpn-on-7-16-2
+id: collect-261121-veille-ia/reseau-networking/ccr2116-12g-4s-ipsec-gre-ospf-one-way-vpn-on-7-16-2
 title: "CCR2116-12G-4S+ IPSEC/GRE/OSPF one way VPN on 7.16.2+"
-domain: samsung-mobile
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Samsung"]

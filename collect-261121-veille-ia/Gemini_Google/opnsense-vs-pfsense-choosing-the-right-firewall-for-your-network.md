@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/opnsense-vs-pfsense-choosing-the-right-firewall-for-your-network
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-vs-pfsense-choosing-the-right-firewall-for-your-network
 title: "OPNsense vs pfSense: Choosing the Right Firewall for Your Network"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

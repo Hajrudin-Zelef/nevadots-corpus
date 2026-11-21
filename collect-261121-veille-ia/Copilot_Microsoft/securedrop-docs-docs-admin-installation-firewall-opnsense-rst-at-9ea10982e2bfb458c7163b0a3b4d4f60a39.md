@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/securedrop-docs-docs-admin-installation-firewall-opnsense-rst-at-9ea10982e2bfb458c7163b0a3b4d4f60a39
+id: collect-261121-veille-ia/opnsense-pfsense/securedrop-docs-docs-admin-installation-firewall-opnsense-rst-at-9ea10982e2bfb458c7163b0a3b4d4f60a39
 title: "securedrop-docs/docs/admin/installation/firewall_opnsense.rst at 9ea10982e2bfb458c7163b0a3b4d4f60a39475b0 · freedomofpress/securedrop-docs"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

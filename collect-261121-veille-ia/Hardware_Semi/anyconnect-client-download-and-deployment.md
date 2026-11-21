@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/hardware-semi/anyconnect-client-download-and-deployment
+id: collect-261121-veille-ia/cisco/anyconnect-client-download-and-deployment
 title: "AnyConnect Client Download and Deployment"
-domain: hardware-semi
+domain: cisco
 role: reference
 task: article
 actors: []

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/routingi
+id: collect-261121-veille-ia/opnsense-pfsense/routingi
 title: "Routingï"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

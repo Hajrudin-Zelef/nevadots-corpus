@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/community-routeros
+id: collect-261121-veille-ia/mikrotik/community-routeros
 title: "Community.Routeros"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

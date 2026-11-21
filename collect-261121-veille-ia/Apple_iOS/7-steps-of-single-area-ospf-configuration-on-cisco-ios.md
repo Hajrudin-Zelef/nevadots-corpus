@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/7-steps-of-single-area-ospf-configuration-on-cisco-ios
+id: collect-261121-veille-ia/cisco/7-steps-of-single-area-ospf-configuration-on-cisco-ios
 title: "7 Steps of Single Area OSPF Configuration on Cisco IOS ⋆"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

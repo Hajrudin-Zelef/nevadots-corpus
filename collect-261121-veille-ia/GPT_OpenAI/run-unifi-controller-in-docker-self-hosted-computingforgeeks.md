@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/run-unifi-controller-in-docker-self-hosted-computingforgeeks
+id: collect-261121-veille-ia/unifi-ubiquiti/run-unifi-controller-in-docker-self-hosted-computingforgeeks
 title: "Run UniFi Controller in Docker (Self-Hosted) | ComputingForGeeks"
-domain: gpt-openai
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["OpenAI"]

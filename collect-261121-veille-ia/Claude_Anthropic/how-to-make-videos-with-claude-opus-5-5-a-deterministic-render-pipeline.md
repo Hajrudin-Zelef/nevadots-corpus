@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/how-to-make-videos-with-claude-opus-5-5-a-deterministic-render-pipeline
+id: collect-261121-veille-ia/dev-langages/how-to-make-videos-with-claude-opus-5-5-a-deterministic-render-pipeline
 title: "How to Make Videos with Claude Opus 5.5: A Deterministic Render Pipeline"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

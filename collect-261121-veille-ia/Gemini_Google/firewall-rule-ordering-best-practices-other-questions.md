@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/firewall-rule-ordering-best-practices-other-questions
+id: collect-261121-veille-ia/reseau-networking/firewall-rule-ordering-best-practices-other-questions
 title: "Firewall Rule - Ordering, Best Practices & Other Questions"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

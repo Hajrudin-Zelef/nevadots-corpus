@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-vanchhai-fortigate-cisco-redundancy
+id: collect-261121-veille-ia/fortinet/github-vanchhai-fortigate-cisco-redundancy
 title: "GitHub - Vanchhai/fortigate-cisco-redundancy"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

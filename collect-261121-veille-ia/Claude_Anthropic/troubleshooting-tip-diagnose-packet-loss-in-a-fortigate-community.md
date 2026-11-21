@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/troubleshooting-tip-diagnose-packet-loss-in-a-fortigate-community
+id: collect-261121-veille-ia/fortinet/troubleshooting-tip-diagnose-packet-loss-in-a-fortigate-community
 title: "Troubleshooting Tip: Diagnose packet loss in a FortiGate | Community"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

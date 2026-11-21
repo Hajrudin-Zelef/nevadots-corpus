@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/will-coquillette-src-content-blog-google-fiber-with-fortigate-90d-md-at-5adbf607d3d22288a0db9df9b9df
+id: collect-261121-veille-ia/fortinet/will-coquillette-src-content-blog-google-fiber-with-fortigate-90d-md-at-5adbf607d3d22288a0db9df9b9df
 title: "will-coquillette/src/content/blog/google-fiber-with-fortigate-90d.md at 5adbf607d3d22288a0db9df9b9dfeb4feaeb3179 · willquill/will-coquillette"
-domain: gemini-google
+domain: fortinet
 role: reference
 task: article
 actors: ["Google"]

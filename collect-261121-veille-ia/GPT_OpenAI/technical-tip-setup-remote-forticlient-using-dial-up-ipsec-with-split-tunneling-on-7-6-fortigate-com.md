@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/technical-tip-setup-remote-forticlient-using-dial-up-ipsec-with-split-tunneling-on-7-6-fortigate-com
+id: collect-261121-veille-ia/fortinet/technical-tip-setup-remote-forticlient-using-dial-up-ipsec-with-split-tunneling-on-7-6-fortigate-com
 title: "Technical Tip: Setup remote FortiClient using dial-up IPsec with split-tunneling on 7.6 FortiGate | Community"
-domain: gpt-openai
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/hardware-semi/problem-with-port-forwarding-on-l009uigs-double-nat-dynamic-wanip
+id: collect-261121-veille-ia/mikrotik/problem-with-port-forwarding-on-l009uigs-double-nat-dynamic-wanip
 title: "Problem with port forwarding on L009UiGS, double NAT, dynamic WANIP"
-domain: hardware-semi
+domain: mikrotik
 role: reference
 task: article
 actors: []

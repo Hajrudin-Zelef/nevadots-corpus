@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-rosa-luxemburgstiftung-berlin-ansible-opnsense-ansible-role-to-configure-opnsense-firewalls
+id: collect-261121-veille-ia/opnsense-pfsense/github-rosa-luxemburgstiftung-berlin-ansible-opnsense-ansible-role-to-configure-opnsense-firewalls
 title: "GitHub - Rosa-Luxemburgstiftung-Berlin/ansible-opnsense: Ansible role to configure OPNsense firewalls"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

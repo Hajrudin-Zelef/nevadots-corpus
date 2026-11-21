@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/configuring-link-aggregation-with-etherchannel-ciscozine
+id: collect-261121-veille-ia/cisco/configuring-link-aggregation-with-etherchannel-ciscozine
 title: "Configuring Link Aggregation with EtherChannel – CiscoZine"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

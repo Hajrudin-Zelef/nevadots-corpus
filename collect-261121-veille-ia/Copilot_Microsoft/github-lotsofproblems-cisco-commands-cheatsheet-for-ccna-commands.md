@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-lotsofproblems-cisco-commands-cheatsheet-for-ccna-commands
+id: collect-261121-veille-ia/cisco/github-lotsofproblems-cisco-commands-cheatsheet-for-ccna-commands
 title: "GitHub - LotsOfProblems/cisco-commands: cheatsheet for ccna commands"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

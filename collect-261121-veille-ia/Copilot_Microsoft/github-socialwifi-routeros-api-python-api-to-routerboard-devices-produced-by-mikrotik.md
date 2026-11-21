@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-socialwifi-routeros-api-python-api-to-routerboard-devices-produced-by-mikrotik
+id: collect-261121-veille-ia/mikrotik/github-socialwifi-routeros-api-python-api-to-routerboard-devices-produced-by-mikrotik
 title: "GitHub - socialwifi/RouterOS-api: Python API to RouterBoard devices produced by MikroTik."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

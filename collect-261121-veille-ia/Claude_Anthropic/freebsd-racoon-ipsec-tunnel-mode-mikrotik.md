@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/freebsd-racoon-ipsec-tunnel-mode-mikrotik
+id: collect-261121-veille-ia/mikrotik/freebsd-racoon-ipsec-tunnel-mode-mikrotik
 title: "FreeBSD (racoon) - ipsec tunnel mode - Mikrotik"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

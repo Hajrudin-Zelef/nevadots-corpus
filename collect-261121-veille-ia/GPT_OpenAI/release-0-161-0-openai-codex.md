@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/release-0-161-0-openai-codex
+id: collect-261121-veille-ia/dev-langages/release-0-161-0-openai-codex
 title: "Release 0.161.0 · openai/codex"
-domain: gpt-openai
+domain: dev-langages
 role: reference
 task: article
 actors: ["OpenAI"]

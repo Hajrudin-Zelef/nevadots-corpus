@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/gemini-4-carbon-api-model-id-pricing-and-your-first-request
+id: collect-261121-veille-ia/dev-langages/gemini-4-carbon-api-model-id-pricing-and-your-first-request
 title: "Gemini 4 Carbon API: Model ID, Pricing and Your First Request"
-domain: gemini-google
+domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]

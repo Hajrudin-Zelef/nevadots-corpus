@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/ubiquiti-enterprise-vs-mikrotik-non-cellular-compared-distrilist
+id: collect-261121-veille-ia/mikrotik/ubiquiti-enterprise-vs-mikrotik-non-cellular-compared-distrilist
 title: "Ubiquiti Enterprise Vs Mikrotik Non-Cellular Compared | Distrilist"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

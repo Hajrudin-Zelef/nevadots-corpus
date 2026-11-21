@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/claude-anthropic/send-feedback-33
-title: "Send Feedback"
+title: "Migrating from SSL VPN to ZTNA"
 domain: claude-anthropic
 role: reference
 task: article

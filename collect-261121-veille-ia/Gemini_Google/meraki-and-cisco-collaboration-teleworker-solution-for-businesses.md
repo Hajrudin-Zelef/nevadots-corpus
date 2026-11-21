@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/meraki-and-cisco-collaboration-teleworker-solution-for-businesses
+id: collect-261121-veille-ia/cisco/meraki-and-cisco-collaboration-teleworker-solution-for-businesses
 title: "Meraki and Cisco Collaboration Teleworker Solution for Businesses"
-domain: gemini-google
+domain: cisco
 role: reference
 task: article
 actors: ["Google"]

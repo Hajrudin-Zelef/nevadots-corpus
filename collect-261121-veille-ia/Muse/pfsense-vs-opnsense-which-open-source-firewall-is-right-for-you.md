@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/pfsense-vs-opnsense-which-open-source-firewall-is-right-for-you
+id: collect-261121-veille-ia/opnsense-pfsense/pfsense-vs-opnsense-which-open-source-firewall-is-right-for-you
 title: "PfSense vs OPNsense: Which Open-Source Firewall is Right for You?"
-domain: muse
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Meta"]

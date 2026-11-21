@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/inclusionai-ling-3-1-flash-1019-hugging-face
+id: collect-261121-veille-ia/dev-langages/inclusionai-ling-3-1-flash-1019-hugging-face
 title: "inclusionAI/Ling-3.1-flash-1019 · Hugging Face"
-domain: modeles-open
+domain: dev-langages
 role: reference
 task: article
 actors: []

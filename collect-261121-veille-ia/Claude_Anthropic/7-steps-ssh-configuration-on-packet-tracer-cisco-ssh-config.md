@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/7-steps-ssh-configuration-on-packet-tracer-cisco-ssh-config
+id: collect-261121-veille-ia/cisco/7-steps-ssh-configuration-on-packet-tracer-cisco-ssh-config
 title: "7 Steps | SSH Configuration on Packet Tracer | Cisco SSH Config ⋆"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

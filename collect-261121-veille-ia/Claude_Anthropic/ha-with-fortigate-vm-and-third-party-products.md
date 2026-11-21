@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/ha-with-fortigate-vm-and-third-party-products
+id: collect-261121-veille-ia/fortinet/ha-with-fortigate-vm-and-third-party-products
 title: "HA with FortiGate-VM and third-party products"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

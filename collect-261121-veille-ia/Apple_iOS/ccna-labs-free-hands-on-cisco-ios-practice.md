@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/ccna-labs-free-hands-on-cisco-ios-practice
+id: collect-261121-veille-ia/cisco/ccna-labs-free-hands-on-cisco-ios-practice
 title: "CCNA Labs — Free Hands-On Cisco IOS Practice"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

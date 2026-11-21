@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/google-jules-ai-graveyard
+id: collect-261121-veille-ia/dev-langages/google-jules-ai-graveyard
 title: "Google Jules - AI Graveyard"
-domain: gemini-google
+domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]

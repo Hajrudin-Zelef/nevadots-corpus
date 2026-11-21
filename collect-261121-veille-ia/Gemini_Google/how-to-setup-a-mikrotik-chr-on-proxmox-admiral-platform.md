@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/how-to-setup-a-mikrotik-chr-on-proxmox-admiral-platform
+id: collect-261121-veille-ia/mikrotik/how-to-setup-a-mikrotik-chr-on-proxmox-admiral-platform
 title: "How to setup a MikroTik CHR on Proxmox - Admiral Platform"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

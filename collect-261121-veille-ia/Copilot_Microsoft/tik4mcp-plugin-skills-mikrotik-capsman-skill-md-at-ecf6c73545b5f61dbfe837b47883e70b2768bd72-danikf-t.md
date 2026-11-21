@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/tik4mcp-plugin-skills-mikrotik-capsman-skill-md-at-ecf6c73545b5f61dbfe837b47883e70b2768bd72-danikf-t
+id: collect-261121-veille-ia/mikrotik/tik4mcp-plugin-skills-mikrotik-capsman-skill-md-at-ecf6c73545b5f61dbfe837b47883e70b2768bd72-danikf-t
 title: "tik4mcp/plugin/skills/mikrotik-capsman/SKILL.md at ecf6c73545b5f61dbfe837b47883e70b2768bd72 · danikf/tik4mcp"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

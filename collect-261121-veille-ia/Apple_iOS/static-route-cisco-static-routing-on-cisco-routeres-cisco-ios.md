@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/static-route-cisco-static-routing-on-cisco-routeres-cisco-ios
+id: collect-261121-veille-ia/cisco/static-route-cisco-static-routing-on-cisco-routeres-cisco-ios
 title: "Static Route Cisco | Static Routing on Cisco Routeres ⋆ Cisco IOS"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

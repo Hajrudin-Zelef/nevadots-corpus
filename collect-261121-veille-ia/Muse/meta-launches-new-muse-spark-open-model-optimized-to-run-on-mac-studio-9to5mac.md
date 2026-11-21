@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/muse/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio-9to5mac
+id: collect-261121-veille-ia/unifi-ubiquiti/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio-9to5mac
 title: "Meta launches new Muse Spark Open model, optimized to run on Mac Studio - 9to5Mac"
-domain: muse
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Meta"]

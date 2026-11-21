@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/optimize-mikrotik-routeros-best-practices-for-performance
+id: collect-261121-veille-ia/mikrotik/optimize-mikrotik-routeros-best-practices-for-performance
 title: "Optimize Mikrotik RouterOS: Best Practices for Performance"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

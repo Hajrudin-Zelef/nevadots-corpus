@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-6
-title: "Send Feedback"
+title: "ZTNA IP MAC based access control example"
 domain: gemini-google
 role: reference
 task: article

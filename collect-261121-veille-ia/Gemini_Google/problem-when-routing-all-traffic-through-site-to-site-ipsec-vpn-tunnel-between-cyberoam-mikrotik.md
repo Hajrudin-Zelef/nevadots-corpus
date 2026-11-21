@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/problem-when-routing-all-traffic-through-site-to-site-ipsec-vpn-tunnel-between-cyberoam-mikrotik
+id: collect-261121-veille-ia/mikrotik/problem-when-routing-all-traffic-through-site-to-site-ipsec-vpn-tunnel-between-cyberoam-mikrotik
 title: "Problem when routing all traffic through Site-to-Site IPSEC VPN Tunnel between Cyberoam & Mikrotik"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

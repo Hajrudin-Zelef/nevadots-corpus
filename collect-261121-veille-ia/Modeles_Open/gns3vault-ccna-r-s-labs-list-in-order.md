@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/gns3vault-ccna-r-s-labs-list-in-order
+id: collect-261121-veille-ia/reseau-networking/gns3vault-ccna-r-s-labs-list-in-order
 title: "GNS3Vault CCNA R&S labs list in order"
-domain: modeles-open
+domain: reseau-networking
 role: reference
 task: article
 actors: []

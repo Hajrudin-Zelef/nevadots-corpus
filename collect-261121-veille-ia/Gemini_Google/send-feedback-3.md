@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-3
-title: "Send Feedback"
+title: "Automatic updates"
 domain: gemini-google
 role: reference
 task: article

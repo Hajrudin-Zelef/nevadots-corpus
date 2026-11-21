@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/router-upgrade-problem-routeros-powerpc-7-1-3-npk-missing-use-ignore-missing-or-disable-package-s
+id: collect-261121-veille-ia/mikrotik/router-upgrade-problem-routeros-powerpc-7-1-3-npk-missing-use-ignore-missing-or-disable-package-s
 title: "router Upgrade problem 'routeros-powerpc-7.1.3.npk missing, use ignore-missing or disable package(s)'"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

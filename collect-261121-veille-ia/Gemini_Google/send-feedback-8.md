@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/send-feedback-8
-title: "Send Feedback"
-domain: gemini-google
+id: collect-261121-veille-ia/reseau-networking/send-feedback-8
+title: "Dynamic routing in IPv6"
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

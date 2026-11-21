@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/community-routeros-facts-module-collect-facts-from-remote-devices-running-mikrotik-routeros
+id: collect-261121-veille-ia/mikrotik/community-routeros-facts-module-collect-facts-from-remote-devices-running-mikrotik-routeros
 title: "community.routeros.facts module – Collect facts from remote devices running MikroTik RouterOS"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

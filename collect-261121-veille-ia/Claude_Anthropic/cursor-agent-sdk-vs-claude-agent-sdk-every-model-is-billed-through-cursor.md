@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/cursor-agent-sdk-vs-claude-agent-sdk-every-model-is-billed-through-cursor
+id: collect-261121-veille-ia/dev-langages/cursor-agent-sdk-vs-claude-agent-sdk-every-model-is-billed-through-cursor
 title: "Cursor Agent SDK vs Claude Agent SDK: Every Model Is Billed Through Cursor"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

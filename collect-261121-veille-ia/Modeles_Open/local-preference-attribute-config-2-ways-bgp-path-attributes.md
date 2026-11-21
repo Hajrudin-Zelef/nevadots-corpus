@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/local-preference-attribute-config-2-ways-bgp-path-attributes
+id: collect-261121-veille-ia/cisco/local-preference-attribute-config-2-ways-bgp-path-attributes
 title: "Local Preference Attribute Config | 2-ways | BGP Path Attributes ⋆"
-domain: modeles-open
+domain: cisco
 role: reference
 task: article
 actors: []

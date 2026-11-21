@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/using-routeros-winbox-for-default-vlan-and-vlans
+id: collect-261121-veille-ia/mikrotik/using-routeros-winbox-for-default-vlan-and-vlans
 title: "Using RouterOS & Winbox for default VLAN and VLANS"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/routeros-scripts-doc-backup-email-md-at-b5acba6d53b4432bfe272a32a439c07063731ff6-eworm-de-routeros-s
+id: collect-261121-veille-ia/mikrotik/routeros-scripts-doc-backup-email-md-at-b5acba6d53b4432bfe272a32a439c07063731ff6-eworm-de-routeros-s
 title: "routeros-scripts/doc/backup-email.md at b5acba6d53b4432bfe272a32a439c07063731ff6 · eworm-de/routeros-scripts"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

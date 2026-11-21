@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-andreas-stuerz-puppet-opnsense-puppet-providers-for-automating-the-opnsense-firewall
+id: collect-261121-veille-ia/opnsense-pfsense/github-andreas-stuerz-puppet-opnsense-puppet-providers-for-automating-the-opnsense-firewall
 title: "GitHub - andreas-stuerz/puppet-opnsense: Puppet providers for automating the OPNsense Firewall."
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

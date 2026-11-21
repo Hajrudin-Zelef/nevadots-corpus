@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gemini-google/send-feedback-36
-title: "Send Feedback"
+title: "Websense Integrated Services Protocol"
 domain: gemini-google
 role: reference
 task: article

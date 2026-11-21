@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/net-conf-2026-recap-the-announcements-that-actually-matter
+id: collect-261121-veille-ia/dev-langages/net-conf-2026-recap-the-announcements-that-actually-matter
 title: ".NET Conf 2026 Recap: The Announcements That Actually Matter"
-domain: copilot-microsoft
+domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-dimogeo-cisco-packet-tracer-labs-for-ccna-a-collection-of-completed-cisco-packet-tracer-labs-
+id: collect-261121-veille-ia/cisco/github-dimogeo-cisco-packet-tracer-labs-for-ccna-a-collection-of-completed-cisco-packet-tracer-labs-
 title: "GitHub - DimoGeo/Cisco-Packet-Tracer-Labs-for-CCNA: a collection of completed Cisco Packet Tracer labs covering various topics from the CCNA (Cisco Certified Network Associate) curriculum. The labs provide hands-on practice for networking concepts, helping learners reinforce their understanding through simulations."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

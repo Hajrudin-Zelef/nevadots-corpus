@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-networklessons-labs-labs
+id: collect-261121-veille-ia/cisco/github-networklessons-labs-labs
 title: "GitHub - networklessons/labs: Labs"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/tutoriel-mcp-server-13-etapes-typescript-et-python-2026
+id: collect-261121-veille-ia/dev-langages/tutoriel-mcp-server-13-etapes-typescript-et-python-2026
 title: "Tutoriel MCP Server : 13 Étapes TypeScript et Python [2026]"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

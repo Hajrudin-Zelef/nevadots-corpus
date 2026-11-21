@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/google-cloud-brings-openai-models-to-customers-google-cloud-blog
+id: collect-261121-veille-ia/unifi-ubiquiti/google-cloud-brings-openai-models-to-customers-google-cloud-blog
 title: "Google Cloud brings OpenAI models to customers | Google Cloud Blog"
-domain: gpt-openai
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["OpenAI"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/openvpn-ping-issues
+id: collect-261121-veille-ia/reseau-networking/openvpn-ping-issues
 title: "OpenVPN Ping Issues"
-domain: claude-anthropic
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Anthropic"]

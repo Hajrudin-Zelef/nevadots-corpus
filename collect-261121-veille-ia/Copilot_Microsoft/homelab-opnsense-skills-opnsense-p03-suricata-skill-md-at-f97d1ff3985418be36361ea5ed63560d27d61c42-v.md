@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/homelab-opnsense-skills-opnsense-p03-suricata-skill-md-at-f97d1ff3985418be36361ea5ed63560d27d61c42-v
+id: collect-261121-veille-ia/opnsense-pfsense/homelab-opnsense-skills-opnsense-p03-suricata-skill-md-at-f97d1ff3985418be36361ea5ed63560d27d61c42-v
 title: "homelab-opnsense/skills/opnsense-p03-suricata/SKILL.md at f97d1ff3985418be36361ea5ed63560d27d61c42 · vushueh/homelab-opnsense"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

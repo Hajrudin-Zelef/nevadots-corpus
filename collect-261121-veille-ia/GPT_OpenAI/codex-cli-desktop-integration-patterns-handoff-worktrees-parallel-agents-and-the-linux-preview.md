@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/codex-cli-desktop-integration-patterns-handoff-worktrees-parallel-agents-and-the-linux-preview
+id: collect-261121-veille-ia/unifi-ubiquiti/codex-cli-desktop-integration-patterns-handoff-worktrees-parallel-agents-and-the-linux-preview
 title: "Codex CLI Desktop Integration Patterns: Handoff, Worktrees, Parallel Agents, and the Linux Preview"
-domain: gpt-openai
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["OpenAI"]

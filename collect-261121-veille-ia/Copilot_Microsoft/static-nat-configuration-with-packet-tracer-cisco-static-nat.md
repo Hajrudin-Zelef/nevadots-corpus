@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/static-nat-configuration-with-packet-tracer-cisco-static-nat
+id: collect-261121-veille-ia/cisco/static-nat-configuration-with-packet-tracer-cisco-static-nat
 title: "Static NAT Configuration with Packet Tracer ⋆ | Cisco Static NAT"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

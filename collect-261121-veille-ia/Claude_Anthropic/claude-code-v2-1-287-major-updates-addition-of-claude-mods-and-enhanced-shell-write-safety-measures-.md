@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/claude-code-v2-1-287-major-updates-addition-of-claude-mods-and-enhanced-shell-write-safety-measures-
+id: collect-261121-veille-ia/dev-langages/claude-code-v2-1-287-major-updates-addition-of-claude-mods-and-enhanced-shell-write-safety-measures-
 title: "Claude Code v2.1.287 Major Updates - Addition of Claude Mods and Enhanced Shell Write Safety Measures | DevelopersIO"
-domain: claude-anthropic
+domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]

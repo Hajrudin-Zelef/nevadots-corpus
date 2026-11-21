@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/xiaomi-mimo/mimo-v2-6-flash-on-deepswe-71-of-113-tasks-done-in-90-steps-per-task
+id: collect-261121-veille-ia/dev-langages/mimo-v2-6-flash-on-deepswe-71-of-113-tasks-done-in-90-steps-per-task
 title: "MiMo-V2.6-Flash on DeepSWE: 71 of 113 tasks, done in 90 steps per task"
-domain: xiaomi-mimo
+domain: dev-langages
 role: reference
 task: article
 actors: ["Xiaomi"]

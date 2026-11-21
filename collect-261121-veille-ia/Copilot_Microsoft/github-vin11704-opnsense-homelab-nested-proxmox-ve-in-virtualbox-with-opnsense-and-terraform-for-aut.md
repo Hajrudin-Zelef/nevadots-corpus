@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-vin11704-opnsense-homelab-nested-proxmox-ve-in-virtualbox-with-opnsense-and-terraform-for-aut
+id: collect-261121-veille-ia/opnsense-pfsense/github-vin11704-opnsense-homelab-nested-proxmox-ve-in-virtualbox-with-opnsense-and-terraform-for-aut
 title: "GitHub - Vin11704/OPNsense-homelab: nested Proxmox VE in virtualbox with OPNsense and Terraform for automated VM cloning"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

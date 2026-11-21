@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/send-feedback-18
-title: "Send Feedback"
-domain: gpt-openai
+id: collect-261121-veille-ia/fortinet/send-feedback-18
+title: "config system ntp"
+domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]

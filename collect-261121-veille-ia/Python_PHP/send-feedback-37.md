@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/python-php/send-feedback-37
-title: "Send Feedback"
+title: "Configuring client certificate authentication on the LDAP server"
 domain: python-php
 role: reference
 task: article

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/five-developer-deadlines-in-august-2026-copilot-credits-rust-1-98-typescript-7
+id: collect-261121-veille-ia/dev-langages/five-developer-deadlines-in-august-2026-copilot-credits-rust-1-98-typescript-7
 title: "Five developer deadlines in August 2026: Copilot credits, Rust 1.98, TypeScript 7"
-domain: copilot-microsoft
+domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]

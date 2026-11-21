@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/intrusion-detection-and-prevention-with-opnsense-and-suricata-techdhome
+id: collect-261121-veille-ia/opnsense-pfsense/intrusion-detection-and-prevention-with-opnsense-and-suricata-techdhome
 title: "Intrusion Detection and Prevention with OPNsense and Suricata » TECHDHOME"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

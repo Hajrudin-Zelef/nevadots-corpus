@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/modeles-open/google-gemma-4-31b-it-hugging-face
+id: collect-261121-veille-ia/unifi-ubiquiti/google-gemma-4-31b-it-hugging-face
 title: "google/gemma-4-31B-it · Hugging Face"
-domain: modeles-open
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: []

@@ -1,6 +1,6 @@
 ---
 id: collect-261121-veille-ia/gpt-openai/send-feedback-26
-title: "Send Feedback"
+title: "execute log"
 domain: gpt-openai
 role: reference
 task: article

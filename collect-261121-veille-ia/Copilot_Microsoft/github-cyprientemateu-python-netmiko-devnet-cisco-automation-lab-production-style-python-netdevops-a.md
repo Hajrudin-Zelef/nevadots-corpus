@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-cyprientemateu-python-netmiko-devnet-cisco-automation-lab-production-style-python-netdevops-a
+id: collect-261121-veille-ia/cisco/github-cyprientemateu-python-netmiko-devnet-cisco-automation-lab-production-style-python-netdevops-a
 title: "GitHub - cyprientemateu/python-netmiko-devnet-cisco-automation-lab: Production-style Python NetDevOps automation for Cisco IOS-XE — Netmiko, drift detection, RESTCONF validation, compliance dashboard"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-ryszard-suchocki-mikrotik-hotspot
+id: collect-261121-veille-ia/mikrotik/github-ryszard-suchocki-mikrotik-hotspot
 title: "GitHub - ryszard-suchocki/mikrotik-Hotspot"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

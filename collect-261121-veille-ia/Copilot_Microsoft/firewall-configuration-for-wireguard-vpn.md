@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/firewall-configuration-for-wireguard-vpn
+id: collect-261121-veille-ia/reseau-networking/firewall-configuration-for-wireguard-vpn
 title: "Firewall configuration for Wireguard VPN"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/the-package-was-microsofts-the-code-wasnt
+id: collect-261121-veille-ia/dev-langages/the-package-was-microsofts-the-code-wasnt
 title: "The Package Was Microsoft’s. The Code Wasn’t."
-domain: copilot-microsoft
+domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]

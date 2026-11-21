@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-nils-ost-ansible-collection-opnsense-collection-to-streamline-my-opnsense-configurations
+id: collect-261121-veille-ia/opnsense-pfsense/github-nils-ost-ansible-collection-opnsense-collection-to-streamline-my-opnsense-configurations
 title: "GitHub - nils-ost/ansible-collection-opnsense: Collection to streamline my OPNsense configurations"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-sepidehgho-ipsec-site-to-site-vpn-lab-this-project-demonstrates-an-ipsec-site-to-site-vpn-imp
+id: collect-261121-veille-ia/cisco/github-sepidehgho-ipsec-site-to-site-vpn-lab-this-project-demonstrates-an-ipsec-site-to-site-vpn-imp
 title: "GitHub - Sepidehgho/IPSec-Site-to-Site-VPN-Lab: This project demonstrates an IPSec Site-to-Site VPN implementation using Cisco IOS routers within a GNS3 simulated network environment. It establishes a secure, encrypted tunnel between two distinct private networks over a simulated public internet connection."
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

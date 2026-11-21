@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/opnsense-vs-pfsense-for-homelabs-2026-complete-comparison-diymediaserver
+id: collect-261121-veille-ia/opnsense-pfsense/opnsense-vs-pfsense-for-homelabs-2026-complete-comparison-diymediaserver
 title: "OPNsense vs pfSense for Homelabs (2026): Complete Comparison | DiyMediaServer"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

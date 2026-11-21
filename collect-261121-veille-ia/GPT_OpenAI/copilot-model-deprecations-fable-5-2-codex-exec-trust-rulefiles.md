@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/copilot-model-deprecations-fable-5-2-codex-exec-trust-rulefiles
+id: collect-261121-veille-ia/dev-langages/copilot-model-deprecations-fable-5-2-codex-exec-trust-rulefiles
 title: "Copilot model deprecations, Fable 5.2, Codex exec trust | Rulefiles"
-domain: gpt-openai
+domain: dev-langages
 role: reference
 task: article
 actors: ["OpenAI"]

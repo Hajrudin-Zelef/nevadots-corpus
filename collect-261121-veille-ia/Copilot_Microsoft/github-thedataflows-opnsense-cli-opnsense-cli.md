@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-thedataflows-opnsense-cli-opnsense-cli
+id: collect-261121-veille-ia/opnsense-pfsense/github-thedataflows-opnsense-cli-opnsense-cli
 title: "GitHub - thedataflows/opnsense-cli: OPNSense CLI"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

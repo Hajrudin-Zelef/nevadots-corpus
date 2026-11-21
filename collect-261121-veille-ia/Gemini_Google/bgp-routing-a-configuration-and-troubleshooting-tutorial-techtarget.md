@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/bgp-routing-a-configuration-and-troubleshooting-tutorial-techtarget
+id: collect-261121-veille-ia/reseau-networking/bgp-routing-a-configuration-and-troubleshooting-tutorial-techtarget
 title: "BGP routing: A configuration and troubleshooting tutorial | TechTarget"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

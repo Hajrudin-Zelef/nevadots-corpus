@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/tutorial-home-vlan-configuration-rb5009-cap-acs-multiple-ssids
+id: collect-261121-veille-ia/mikrotik/tutorial-home-vlan-configuration-rb5009-cap-acs-multiple-ssids
 title: "Tutorial: Home VLAN configuration (RB5009, cAP ACs, multiple SSIDs)"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

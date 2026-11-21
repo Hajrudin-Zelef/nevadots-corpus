@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/why-use-hsrp-version-2-ciscozine
+id: collect-261121-veille-ia/cisco/why-use-hsrp-version-2-ciscozine
 title: "Why use HSRP version 2? – CiscoZine"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

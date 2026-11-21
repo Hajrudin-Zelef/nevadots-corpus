@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-0xpr0rekt0r-matrix-bot-mikrotik-mikrotik-management-bot-over-the-matrix-protocol-supports-all
+id: collect-261121-veille-ia/mikrotik/github-0xpr0rekt0r-matrix-bot-mikrotik-mikrotik-management-bot-over-the-matrix-protocol-supports-all
 title: "GitHub - 0xpr0rekt0r/matrix-bot-mikrotik: MikroTik management bot over the Matrix protocol. Supports all RouterOS versions via REST API (7.1+) and RouterOS API (3.x–6.x). Multi-router management from a single Matrix room."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

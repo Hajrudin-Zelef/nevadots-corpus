@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/gemini-4-argon-release-date-out-now-access-pricing
+id: collect-261121-veille-ia/dev-langages/gemini-4-argon-release-date-out-now-access-pricing
 title: "Gemini 4 Argon Release Date (Out Now): Access & Pricing"
-domain: gemini-google
+domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]

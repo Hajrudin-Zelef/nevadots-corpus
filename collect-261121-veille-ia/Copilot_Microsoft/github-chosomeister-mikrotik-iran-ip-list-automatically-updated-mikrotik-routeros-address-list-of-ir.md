@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-chosomeister-mikrotik-iran-ip-list-automatically-updated-mikrotik-routeros-address-list-of-ir
+id: collect-261121-veille-ia/mikrotik/github-chosomeister-mikrotik-iran-ip-list-automatically-updated-mikrotik-routeros-address-list-of-ir
 title: "GitHub - ChosoMeister/Mikrotik-IRAN-IP-List: Automatically updated MikroTik RouterOS address list of Iran IPv4/IPv6 prefixes generated from RIPE country resource data."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

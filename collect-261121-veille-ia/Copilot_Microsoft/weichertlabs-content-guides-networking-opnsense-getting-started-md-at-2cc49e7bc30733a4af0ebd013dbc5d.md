@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/weichertlabs-content-guides-networking-opnsense-getting-started-md-at-2cc49e7bc30733a4af0ebd013dbc5d
+id: collect-261121-veille-ia/opnsense-pfsense/weichertlabs-content-guides-networking-opnsense-getting-started-md-at-2cc49e7bc30733a4af0ebd013dbc5d
 title: "weichertlabs/content/guides/networking/opnsense-getting-started.md at 2cc49e7bc30733a4af0ebd013dbc5d7a66ef9be2 · weichertlabs/weichertlabs"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

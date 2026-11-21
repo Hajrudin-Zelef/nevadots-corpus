@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/technical-tip-fortigate-explicit-proxy-authentication-with-kerberos-community
+id: collect-261121-veille-ia/fortinet/technical-tip-fortigate-explicit-proxy-authentication-with-kerberos-community
 title: "Technical Tip: FortiGate explicit proxy authentication with Kerberos | Community"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

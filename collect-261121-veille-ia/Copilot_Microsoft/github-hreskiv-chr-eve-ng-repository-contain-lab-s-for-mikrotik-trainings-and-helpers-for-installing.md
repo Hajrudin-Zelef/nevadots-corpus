@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-hreskiv-chr-eve-ng-repository-contain-lab-s-for-mikrotik-trainings-and-helpers-for-installing
+id: collect-261121-veille-ia/mikrotik/github-hreskiv-chr-eve-ng-repository-contain-lab-s-for-mikrotik-trainings-and-helpers-for-installing
 title: "GitHub - hreskiv/chr-eve-ng: Repository contain LAB's for Mikrotik trainings and helpers for installing CHR into eve-ng."
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

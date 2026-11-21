@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/using-controllers-and-viewsi
+id: collect-261121-veille-ia/opnsense-pfsense/using-controllers-and-viewsi
 title: "Using controllers and viewsï"
-domain: gemini-google
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]

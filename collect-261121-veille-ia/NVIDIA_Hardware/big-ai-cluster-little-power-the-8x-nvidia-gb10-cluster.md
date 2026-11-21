@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/nvidia-hardware/big-ai-cluster-little-power-the-8x-nvidia-gb10-cluster
+id: collect-261121-veille-ia/mikrotik/big-ai-cluster-little-power-the-8x-nvidia-gb10-cluster
 title: "BIG AI Cluster Little Power the 8x NVIDIA GB10 Cluster"
-domain: nvidia-hardware
+domain: mikrotik
 role: reference
 task: article
 actors: ["NVIDIA"]

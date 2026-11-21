@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/how-to-mdns-and-ssdp-over-wireguard
+id: collect-261121-veille-ia/reseau-networking/how-to-mdns-and-ssdp-over-wireguard
 title: "HOW TO: mDNS and SSDP over Wireguard"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

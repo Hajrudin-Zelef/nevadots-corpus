@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/github-opnsense-core-opnsense-gui-api-and-systems-backend
+id: collect-261121-veille-ia/opnsense-pfsense/github-opnsense-core-opnsense-gui-api-and-systems-backend
 title: "GitHub - opnsense/core: OPNsense GUI, API and systems backend"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

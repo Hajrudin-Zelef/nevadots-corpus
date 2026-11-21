@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/command-module-run-commands-on-remote-devices-running-mikrotik-routeros-ansible
+id: collect-261121-veille-ia/mikrotik/command-module-run-commands-on-remote-devices-running-mikrotik-routeros-ansible
 title: "Command Module – Run Commands on Remote Devices Running MikroTik RouterOS - Ansible"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/plugins-contributing-md-at-7faee23153f3af1695b2e28270d9d63943e6d234-opnsense-plugins
+id: collect-261121-veille-ia/opnsense-pfsense/plugins-contributing-md-at-7faee23153f3af1695b2e28270d9d63943e6d234-opnsense-plugins
 title: "plugins/CONTRIBUTING.md at 7faee23153f3af1695b2e28270d9d63943e6d234 · opnsense/plugins"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/google-cloud-expands-model-choice-and-flexibility-bringing-openai-models-to-customers-aiwire
+id: collect-261121-veille-ia/unifi-ubiquiti/google-cloud-expands-model-choice-and-flexibility-bringing-openai-models-to-customers-aiwire
 title: "Google Cloud Expands Model Choice and Flexibility, Bringing OpenAI Models to Customers - AIwire"
-domain: gpt-openai
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["OpenAI"]

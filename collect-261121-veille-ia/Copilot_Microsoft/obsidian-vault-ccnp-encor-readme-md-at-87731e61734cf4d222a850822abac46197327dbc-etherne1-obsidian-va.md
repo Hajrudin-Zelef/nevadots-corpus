@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/obsidian-vault-ccnp-encor-readme-md-at-87731e61734cf4d222a850822abac46197327dbc-etherne1-obsidian-va
+id: collect-261121-veille-ia/reseau-networking/obsidian-vault-ccnp-encor-readme-md-at-87731e61734cf4d222a850822abac46197327dbc-etherne1-obsidian-va
 title: "obsidian-vault/CCNP ENCOR/README.md at 87731e61734cf4d222a850822abac46197327dbc · Etherne1/obsidian-vault"
-domain: copilot-microsoft
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]

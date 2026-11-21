@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/embeddings-ollama
+id: collect-261121-veille-ia/dev-langages/embeddings-ollama
 title: "Embeddings - Ollama"
-domain: gemini-google
+domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]

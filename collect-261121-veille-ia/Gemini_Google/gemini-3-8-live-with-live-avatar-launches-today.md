@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/gemini-3-8-live-with-live-avatar-launches-today
+id: collect-261121-veille-ia/dev-langages/gemini-3-8-live-with-live-avatar-launches-today
 title: "Gemini 3.8 Live with Live Avatar Launches Today"
-domain: gemini-google
+domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]

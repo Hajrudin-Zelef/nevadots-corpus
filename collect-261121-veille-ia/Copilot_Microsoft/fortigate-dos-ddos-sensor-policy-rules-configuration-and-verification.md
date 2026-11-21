@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/fortigate-dos-ddos-sensor-policy-rules-configuration-and-verification
+id: collect-261121-veille-ia/fortinet/fortigate-dos-ddos-sensor-policy-rules-configuration-and-verification
 title: "Fortigate DoS/DDoS sensor/policy rules configuration and verification"
-domain: copilot-microsoft
+domain: fortinet
 role: reference
 task: article
 actors: ["Microsoft"]

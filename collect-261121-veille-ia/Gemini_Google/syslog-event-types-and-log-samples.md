@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/syslog-event-types-and-log-samples
+id: collect-261121-veille-ia/reseau-networking/syslog-event-types-and-log-samples
 title: "Syslog Event Types and Log Samples"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

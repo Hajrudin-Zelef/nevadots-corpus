@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/best-scripts-for-firewall-and-router-protection
+id: collect-261121-veille-ia/reseau-networking/best-scripts-for-firewall-and-router-protection
 title: "Best scripts for firewall and router protection"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

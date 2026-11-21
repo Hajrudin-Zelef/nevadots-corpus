@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/mastering-unifi-site-magic-mesh-vs-hub-and-spoke-vpns-made-simple
+id: collect-261121-veille-ia/unifi-ubiquiti/mastering-unifi-site-magic-mesh-vs-hub-and-spoke-vpns-made-simple
 title: "Mastering UniFi Site Magic: Mesh vs. Hub-and-Spoke VPNs Made Simple"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/configuring-bgp-neighbors-on-cisco-routers-flackbox
+id: collect-261121-veille-ia/cisco/configuring-bgp-neighbors-on-cisco-routers-flackbox
 title: "Configuring BGP Neighbors on Cisco Routers - FlackBox"
-domain: copilot-microsoft
+domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/openai-daybreak-gpt-5-5-cyber-codex-security-patch-the-planet
+id: collect-261121-veille-ia/dev-langages/openai-daybreak-gpt-5-5-cyber-codex-security-patch-the-planet
 title: "OpenAI Daybreak: GPT-5.5-Cyber, Codex Security & “Patch the Planet”"
-domain: gpt-openai
+domain: dev-langages
 role: reference
 task: article
 actors: ["OpenAI"]

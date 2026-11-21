@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/gemini-4-argon-what-you-can-actually-call-today-soba-labs
+id: collect-261121-veille-ia/unifi-ubiquiti/gemini-4-argon-what-you-can-actually-call-today-soba-labs
 title: "Gemini 4 Argon: what you can actually call today | Soba Labs"
-domain: gemini-google
+domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]

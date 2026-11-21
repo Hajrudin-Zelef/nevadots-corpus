@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/route-redistribution-redistribute-ospf-into-eigrp-vica-versa
+id: collect-261121-veille-ia/cisco/route-redistribution-redistribute-ospf-into-eigrp-vica-versa
 title: "Route Redistribution | Redistribute OSPF into EIGRP | Vica Versa"
-domain: claude-anthropic
+domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]

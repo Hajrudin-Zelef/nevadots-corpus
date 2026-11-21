@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/home-network-setup-help
+id: collect-261121-veille-ia/reseau-networking/home-network-setup-help
 title: "home network setup help"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

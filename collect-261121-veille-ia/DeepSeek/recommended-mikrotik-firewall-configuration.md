@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/deepseek/recommended-mikrotik-firewall-configuration
+id: collect-261121-veille-ia/mikrotik/recommended-mikrotik-firewall-configuration
 title: "Recommended MikroTik Firewall Configuration"
-domain: deepseek
+domain: mikrotik
 role: reference
 task: article
 actors: ["DeepSeek"]

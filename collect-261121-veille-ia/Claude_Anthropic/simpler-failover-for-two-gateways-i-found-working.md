@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/simpler-failover-for-two-gateways-i-found-working
+id: collect-261121-veille-ia/mikrotik/simpler-failover-for-two-gateways-i-found-working
 title: "Simpler Failover for two Gateways I found working"
-domain: claude-anthropic
+domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]

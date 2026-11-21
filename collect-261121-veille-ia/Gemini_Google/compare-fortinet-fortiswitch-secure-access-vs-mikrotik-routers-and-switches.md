@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/compare-fortinet-fortiswitch-secure-access-vs-mikrotik-routers-and-switches
+id: collect-261121-veille-ia/mikrotik/compare-fortinet-fortiswitch-secure-access-vs-mikrotik-routers-and-switches
 title: "Compare Fortinet FortiSwitch - Secure Access vs MikroTik Routers and Switches"
-domain: gemini-google
+domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]

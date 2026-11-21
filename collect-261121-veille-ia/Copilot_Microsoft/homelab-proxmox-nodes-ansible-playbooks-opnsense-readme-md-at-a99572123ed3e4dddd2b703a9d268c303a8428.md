@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/homelab-proxmox-nodes-ansible-playbooks-opnsense-readme-md-at-a99572123ed3e4dddd2b703a9d268c303a8428
+id: collect-261121-veille-ia/opnsense-pfsense/homelab-proxmox-nodes-ansible-playbooks-opnsense-readme-md-at-a99572123ed3e4dddd2b703a9d268c303a8428
 title: "Homelab/proxmox-nodes/ansible/playbooks/opnsense/README.md at a99572123ed3e4dddd2b703a9d268c303a8428d3 · yuriy-kovalchuk/Homelab"
-domain: copilot-microsoft
+domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]

@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/copilot-microsoft/mikrotik-failover-routing-description-living-document
+id: collect-261121-veille-ia/mikrotik/mikrotik-failover-routing-description-living-document
 title: "MikroTik failover routing description (living document)"
-domain: copilot-microsoft
+domain: mikrotik
 role: reference
 task: article
 actors: ["Microsoft"]

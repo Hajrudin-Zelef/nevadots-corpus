@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gpt-openai/bgp-ospf-route-distribution
+id: collect-261121-veille-ia/reseau-networking/bgp-ospf-route-distribution
 title: "BGP / OSPF Route Distribution"
-domain: gpt-openai
+domain: reseau-networking
 role: reference
 task: article
 actors: ["OpenAI"]

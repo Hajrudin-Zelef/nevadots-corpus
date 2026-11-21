@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/claude-anthropic/technical-tip-fortigate-bfd-implementation-and-examples-bidirectional-forwarding-detection-for-ospf-
+id: collect-261121-veille-ia/fortinet/technical-tip-fortigate-bfd-implementation-and-examples-bidirectional-forwarding-detection-for-ospf-
 title: "Technical Tip: FortiGate BFD implementation and examples (Bidirectional Forwarding Detection for OSPF and BGP) | Community"
-domain: claude-anthropic
+domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]

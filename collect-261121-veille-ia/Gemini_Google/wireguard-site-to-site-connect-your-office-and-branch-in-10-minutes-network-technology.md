@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/gemini-google/wireguard-site-to-site-connect-your-office-and-branch-in-10-minutes-network-technology
+id: collect-261121-veille-ia/reseau-networking/wireguard-site-to-site-connect-your-office-and-branch-in-10-minutes-network-technology
 title: "WireGuard site-to-site: connect your office and branch in 10 minutes | Network Technology"
-domain: gemini-google
+domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]

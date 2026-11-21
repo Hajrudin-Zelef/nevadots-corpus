@@ -1,7 +1,7 @@
 ---
-id: collect-261121-veille-ia/apple-ios/ansible-cisco-ios-command-example-network-automation-blog
+id: collect-261121-veille-ia/cisco/ansible-cisco-ios-command-example-network-automation-blog
 title: "Ansible Cisco IOS_Command Example » Network Automation Blog"
-domain: apple-ios
+domain: cisco
 role: reference
 task: article
 actors: ["Apple"]

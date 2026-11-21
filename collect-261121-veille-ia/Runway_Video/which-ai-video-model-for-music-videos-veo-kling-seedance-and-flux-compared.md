@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-08-04"]
 keywords: ["model", "video", "kling", "music", "seedance", "flux", "videos", "shot"]
 source: https://www.renderforest.com/blog/ai-video-model-for-music-videos
 source_anchor: ""

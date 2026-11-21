@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4-max", "alibaba", "qwen", "qwen3", "november", "model", "gated", "tokens"]
 source: https://www.intelligentliving.co/qwen4-max-alibaba-agent-tested/
 source_anchor: ""

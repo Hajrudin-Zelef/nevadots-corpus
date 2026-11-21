@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["carbon", "index", "opus", "artificial", "analysis", "astra", "claude", "coding"]
 source: https://explainx.ai/blog/gemini-4-carbon-vs-claude-opus-5-5-vs-gpt-6-astra-vs-grok-4-7-comparison-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-18"]
 keywords: ["flashx", "model", "tokens", "openrouter", "through", "price", "openai", "million"]
 source: https://zolamir.com/en/models/z-ai-glm-5-3-flashx/
 source_anchor: ""

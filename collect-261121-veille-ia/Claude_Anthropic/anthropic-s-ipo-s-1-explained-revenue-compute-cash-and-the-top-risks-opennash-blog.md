@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-30"]
 keywords: ["revenue", "billion", "compute", "about", "anthropic", "first", "quarter", "year"]
 source: https://opennash.com/blog/anthropic-s1-explained-revenue-compute-cash-risks/
 source_anchor: ""

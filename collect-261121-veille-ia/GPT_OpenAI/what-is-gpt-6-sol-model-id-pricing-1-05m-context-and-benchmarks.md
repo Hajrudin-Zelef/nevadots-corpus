@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["gpt-6", "model", "gpt-5", "price", "tokens", "context", "luna", "openai"]
 source: https://apidog.com/blog/what-is-gpt-6-sol/
 source_anchor: ""

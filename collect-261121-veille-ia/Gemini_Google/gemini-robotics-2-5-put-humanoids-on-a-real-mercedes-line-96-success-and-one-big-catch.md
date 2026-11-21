@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["gemini", "robotics", "deepmind", "model", "real", "robot", "success", "kitting"]
 source: https://dev.to/paullovelace/gemini-robotics-25-put-humanoids-on-a-real-mercedes-line-96-success-and-one-big-catch-5gje
 source_anchor: ""

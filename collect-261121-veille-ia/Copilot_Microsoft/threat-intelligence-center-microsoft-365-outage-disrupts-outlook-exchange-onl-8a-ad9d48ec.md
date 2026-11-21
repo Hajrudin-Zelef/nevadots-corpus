@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["microsoft", "outlook", "outage", "email", "exchange", "teams", "affected", "servers"]
 source: ""
 source_anchor: ""

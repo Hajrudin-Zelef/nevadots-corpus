@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["duration", "clamp", "partial", "time", "function", "application", "readonly", "admin"]
 source: https://www.besthub.dev/articles/php-8-6-new-features-partial-application-time-duration-clamp-and-more-84497c4ac977
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-19"]
 keywords: ["google", "gemini", "free", "student", "offer", "plan", "account", "terms"]
 source: https://creditforstartups.com/students/gemini-student
 source_anchor: ""

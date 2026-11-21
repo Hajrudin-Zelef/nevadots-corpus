@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-06-12"]
 keywords: ["speech", "cc-by-4", "hours", "labels", "source", "pipeline", "voxpopuli", "granary-v2"]
 source: https://huggingface.co/datasets/nvidia/Granary-v2?ref=explainx
 source_anchor: ""

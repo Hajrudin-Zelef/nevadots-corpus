@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "harness", "repository", "stars", "github", "august", "forks", "field"]
 source: https://deepseekai.works/github/
 source_anchor: ""

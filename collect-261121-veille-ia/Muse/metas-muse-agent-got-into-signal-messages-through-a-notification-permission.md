@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["muse", "messages", "agent", "signal", "reuters", "permission", "metas", "through"]
 source: https://medium.com/@deborahprecious48/metas-muse-agent-got-into-signal-messages-through-a-notification-permission-99109e6d9ef2
 source_anchor: ""

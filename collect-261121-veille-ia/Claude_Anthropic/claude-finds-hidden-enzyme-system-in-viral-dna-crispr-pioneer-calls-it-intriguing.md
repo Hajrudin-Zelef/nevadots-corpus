@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["system", "enzyme", "crispr", "claude", "array", "intriguing", "anthropic", "reverse"]
 source: https://www.techtimes.com/articles/327986/20260924/claude-finds-hidden-enzyme-system-viral-dna-crispr-pioneer-calls-it-intriguing.htm
 source_anchor: ""

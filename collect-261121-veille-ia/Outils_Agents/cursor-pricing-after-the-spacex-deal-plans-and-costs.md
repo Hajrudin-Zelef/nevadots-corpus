@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-21"]
 keywords: ["cursor", "plans", "pricing", "says", "legacy", "teams", "plan", "ultra"]
 source: https://benchclaw.io/cursor-pricing/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-14"]
 keywords: ["performance", "rubin", "agentic", "inference", "benchmark", "results", "software", "nvl72"]
 source: https://inferencex.semianalysis.com/blog/vera-rubin-nvl72-agentic-inference
 source_anchor: ""

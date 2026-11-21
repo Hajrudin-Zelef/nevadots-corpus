@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["mimo-v2", "model", "glm-5", "flash", "minimax", "task", "agent", "cost"]
 source: https://www.betterclaw.io/blog/mimo-v2-6-pro-agents-setup-cost
 source_anchor: ""

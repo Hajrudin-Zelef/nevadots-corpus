@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["astra", "business", "gpt-6", "openai", "outputs", "models", "context", "data"]
 source: https://www.layer3labs.io/guides/gpt-6-astra-for-business
 source_anchor: ""

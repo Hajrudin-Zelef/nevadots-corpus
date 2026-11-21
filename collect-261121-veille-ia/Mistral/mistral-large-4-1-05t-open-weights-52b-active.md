@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "open", "large", "weights", "active", "license", "tokens", "model"]
 source: https://aihubhq.com/news/mistral-large-4-launch/
 source_anchor: ""

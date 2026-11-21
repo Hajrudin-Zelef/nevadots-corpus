@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["image", "kling", "credits", "generator", "images", "higgsfield", "product", "pricing"]
 source: https://www.aiformortals.co/blog/kling-ai-image-generator-4-0
 source_anchor: ""

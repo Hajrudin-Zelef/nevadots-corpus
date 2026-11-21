@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2025-12-01"]
 keywords: ["gen-4", "runway", "text-to-video", "motion", "video", "improved", "model", "more"]
 source: https://www.cometapi.com/runway-gen-4-5-review-what-is-is-and-what-is-new/
 source_anchor: ""

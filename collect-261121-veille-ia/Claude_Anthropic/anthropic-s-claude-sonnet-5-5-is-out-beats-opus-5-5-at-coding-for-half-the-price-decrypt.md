@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "anthropic", "opus", "claude", "tokens", "price", "artificial", "analysis"]
 source: https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release
 source_anchor: ""

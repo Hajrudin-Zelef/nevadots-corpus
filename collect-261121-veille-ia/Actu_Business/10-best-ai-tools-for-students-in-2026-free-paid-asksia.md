@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["student", "asksia", "best", "students", "tool", "course", "chatgpt", "free"]
 source: https://www.asksia.ai/blog/best-ai-tools-for-students
 source_anchor: ""

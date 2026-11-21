@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "flash", "microsoft", "copilot", "tokens", "prix", "sortie", "github"]
 source: https://crewmark.ai/blog/mai-code-2
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-11"]
 keywords: ["openai", "anthropic", "investigation", "chatbot", "reported", "companies", "copy", "archived"]
 source: https://trymorse.ai/blog/ftc-ai-chatbot-investigation
 source_anchor: ""

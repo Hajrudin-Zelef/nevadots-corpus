@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["astra", "gpt-6", "gpt-5", "openai", "model", "business", "output", "benchmarks"]
 source: https://www.layer3labs.io/comparisons/gpt-6-astra-vs-gpt-5-6
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["gpt-6", "astra", "openai", "models", "work", "cybersecurity", "access", "both"]
 source: https://casrai.org/news/openai-gpt-6-2-astra-sol-release-2026
 source_anchor: ""

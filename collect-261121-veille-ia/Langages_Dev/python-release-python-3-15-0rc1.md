@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-01"]
 keywords: ["python", "release", "changes", "candidate", "type", "first", "final", "projects"]
 source: https://test.python.org/downloads/release/python-3150rc1/
 source_anchor: ""

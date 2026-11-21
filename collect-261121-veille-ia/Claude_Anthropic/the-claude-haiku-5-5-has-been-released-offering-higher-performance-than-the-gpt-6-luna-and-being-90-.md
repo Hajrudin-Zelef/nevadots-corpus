@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["claude", "haiku", "approximately", "performance", "gpt-6", "luna", "sonnet", "released"]
 source: http://gigazine.net/gsc_news/en/20261008-claude-haiku-5-5/
 source_anchor: ""

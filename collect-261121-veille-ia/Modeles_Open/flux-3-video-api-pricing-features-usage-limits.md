@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-04"]
 keywords: ["video", "flux", "sound", "images", "speech", "effects", "ambience", "text"]
 source: https://www.therundown.ai/tools/flux-3
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-05-14"]
 keywords: ["claude", "thinking", "sonnet", "type", "model", "disabled", "between", "text"]
 source: https://platform.claude.com/docs/en/models/sonnet-5-5/migration-guide
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-31"]
 keywords: ["october", "month", "keys", "platform", "about", "black", "fireworks", "warp"]
 source: https://www.helix.ml/blog/black-october-ai-platform-breaches
 source_anchor: ""

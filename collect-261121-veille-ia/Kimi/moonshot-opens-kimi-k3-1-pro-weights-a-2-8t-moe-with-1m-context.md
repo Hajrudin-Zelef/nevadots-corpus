@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "moonshot", "weights", "model", "context", "open", "hugging", "face"]
 source: https://i10x.ai/news/moonshot-kimi-k3-1-pro-open-weights
 source_anchor: ""

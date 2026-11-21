@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "model", "thinking", "claude", "prompt", "better", "effort", "anthropic"]
 source: https://betterstack.com/community/guides/ai/claude-opus-55-prompting-guide/
 source_anchor: ""

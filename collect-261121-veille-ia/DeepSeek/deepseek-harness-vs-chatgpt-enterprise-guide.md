@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["harness", "enterprise", "deepseek", "chatgpt", "runtime", "agent", "business", "data"]
 source: https://dev.to/teamvoy/deepseek-harness-vs-chatgpt-enterprise-guide-422o
 source_anchor: ""

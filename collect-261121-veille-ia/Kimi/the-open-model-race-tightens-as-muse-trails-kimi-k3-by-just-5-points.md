@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["deepseek", "kimi", "muse", "federal", "security", "index", "together", "model"]
 source: https://www.beri.net/article/kimi-qwen-alternatives-us-open-weights-muse-spark-open-reflection-beam-gpt-oss-chinese-origin-policy-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["github", "copilot", "review", "code", "balanced", "effort", "models", "default"]
 source: https://webairadar.com/en/news/github-copilot-retires-four-models-and-makes-balanced-its-default-code-review-effort
 source_anchor: ""

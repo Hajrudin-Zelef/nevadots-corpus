@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-08-01"]
 keywords: ["omnibus", "high-risk", "providers", "obligations", "annex", "rules", "article", "before"]
 source: https://contentoren.com/insights/eu-ai-act-timeline-2026-2027
 source_anchor: ""

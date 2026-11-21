@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["beta", "samsung", "galaxy", "users", "update", "launches", "one", "s26"]
 source: https://kenya-today.com/report-samsung-launches-one-ui-95-beta-for-galaxy-s26-series-in-six-markets-29705/
 source_anchor: ""

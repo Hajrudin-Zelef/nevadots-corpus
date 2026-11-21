@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "opus", "against", "anthropics", "mythos", "november", "costs"]
 source: https://medium.com/@mcthkayaa/claude-fable-5-2-review-what-changed-from-fable-5-1-what-it-costs-and-who-can-use-mythos-5-2-888180931c37
 source_anchor: ""

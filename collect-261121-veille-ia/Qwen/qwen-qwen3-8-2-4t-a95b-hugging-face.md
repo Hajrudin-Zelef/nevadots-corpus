@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["qwen3", "qwen", "number", "model", "dimension", "hugging", "face", "t-a95b"]
 source: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
 source_anchor: ""

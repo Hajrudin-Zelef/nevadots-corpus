@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "anthropic", "opus", "about", "artificial", "analysis", "says", "frontiercode"]
 source: https://dev.to/technomadcode/what-anthropic-and-artificial-analysis-say-about-sonnet-55-254p
 source_anchor: ""

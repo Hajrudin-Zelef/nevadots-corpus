@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-02"]
 keywords: ["raspberry", "lpddr4", "price", "samsung", "months", "same", "supply", "dram"]
 source: https://www.techtimes.com/articles/329919/20261102/raspberry-pi-5-16gb-reaches-385-samsung-ends-lpddr4-pi-6-still-eighteen-months-out.htm
 source_anchor: ""

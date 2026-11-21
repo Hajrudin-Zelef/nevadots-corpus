@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-12"]
 keywords: ["cursor", "plans", "models", "pricing", "worth", "premium", "ultra", "plan"]
 source: https://xvibers.com/blog/cursor-pricing-2026-new-plans-explained-is-pro-worth-it
 source_anchor: ""

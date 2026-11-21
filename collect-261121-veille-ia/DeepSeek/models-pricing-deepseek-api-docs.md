@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["model", "search", "price", "fetch", "models", "pricing", "unit", "text"]
 source: https://api-docs.deepseek.com/quick_start/pricing/?nb_kwd=best+social+media+ai&nb_mt=p&nb_ti=kwd-2297875758714&scroll_speed=instant
 source_anchor: ""

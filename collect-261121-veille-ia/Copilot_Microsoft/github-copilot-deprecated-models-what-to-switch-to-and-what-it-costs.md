@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["wave", "github", "gemini", "rates", "claude", "gpt-5", "unchanged", "flash"]
 source: https://pondero.ai/coding/guides/github-copilot-model-deprecation/
 source_anchor: ""

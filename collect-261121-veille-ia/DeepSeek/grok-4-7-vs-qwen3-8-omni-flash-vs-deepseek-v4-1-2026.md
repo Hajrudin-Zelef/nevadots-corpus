@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["trois", "qwen3", "septembre", "omni-flash", "texte", "deepseek", "grok", "modele"]
 source: https://tech-insider.org/fr/grok-4-7-vs-qwen3-8-omni-flash-vs-deepseek-v4-1-flash-2026/
 source_anchor: ""

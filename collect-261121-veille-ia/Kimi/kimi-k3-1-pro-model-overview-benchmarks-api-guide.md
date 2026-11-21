@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["kimi", "model", "moonshot", "license", "benchmarks", "parameters", "active", "token"]
 source: https://deepinfra.com/blog/kimi-k3-1-pro-model-overview
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["memory", "prices", "percent", "expensive", "same", "squeeze", "explained", "market"]
 source: https://ismagazine.com/Home/Post/8928/Why-Is-RAM-So-Expensive-in-2026-The-AI-Memory-Squeeze-Explained
 source_anchor: ""

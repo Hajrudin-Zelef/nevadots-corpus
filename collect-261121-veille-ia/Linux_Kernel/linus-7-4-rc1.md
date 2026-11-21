@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["updates", "more", "fixes", "linus", "merge", "just", "window", "reason"]
 source: https://lkml.iu.edu/hypermail/linux/kernel/2611.0/00796.html
 source_anchor: ""

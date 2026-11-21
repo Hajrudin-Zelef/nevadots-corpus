@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-28"]
 keywords: ["change", "wrangler", "issue", "release", "line", "assigned", "changes", "python"]
 source: https://fedoraproject.org/w/index.php?title=Changes/Python3.16&diff=793212&oldid=791034
 source_anchor: ""

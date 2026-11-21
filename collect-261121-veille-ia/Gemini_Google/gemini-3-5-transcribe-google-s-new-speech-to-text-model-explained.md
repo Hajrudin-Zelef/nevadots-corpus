@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["gemini", "transcribe", "model", "audio", "google", "speech-to-text", "transcription", "speaker"]
 source: https://www.intelligentliving.co/gemini-35-transcribe-google-speech-text/
 source_anchor: ""

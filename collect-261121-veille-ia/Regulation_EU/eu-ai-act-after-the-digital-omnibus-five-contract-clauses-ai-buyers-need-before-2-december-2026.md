@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["article", "december", "systems", "contract", "before", "august", "after", "five"]
 source: https://medium.com/@venactis/eu-ai-act-after-the-digital-omnibus-five-contract-clauses-ai-buyers-need-before-2-december-2026-b4fcc0529eee
 source_anchor: ""

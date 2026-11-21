@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["agent", "agents", "cursor", "entire", "github", "october", "code", "every"]
 source: https://vibekitweekly.com/issues/issue-003.html
 source_anchor: ""

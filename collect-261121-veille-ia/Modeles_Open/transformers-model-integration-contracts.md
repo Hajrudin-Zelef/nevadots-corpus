@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-30"]
 keywords: ["model", "tests", "transformers", "running", "integration", "fixture", "umt5", "tokens"]
 source: https://huggingface.co/blog/transformers-mic
 source_anchor: ""

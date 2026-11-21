@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["bank", "banks", "agent", "account", "tool", "citi", "losses", "tools"]
 source: https://stevendigital.com/alerts/banks-say-you-pay-if-ai-agent-gets-account-hacked/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["qwen3", "milliards", "flash-next", "modele", "parametres", "tokens", "qwen4", "modeles"]
 source: https://tech-insider.org/fr/qwen3-8-flash-next-alibaba-qwen4-2026/
 source_anchor: ""

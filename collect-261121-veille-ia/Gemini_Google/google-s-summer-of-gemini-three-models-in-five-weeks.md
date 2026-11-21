@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["gemini", "google", "model", "flash", "three", "models", "weeks", "august"]
 source: https://academy.yallo.co/insights/google-s-summer-of-gemini-three-models-in-five-weeks
 source_anchor: ""

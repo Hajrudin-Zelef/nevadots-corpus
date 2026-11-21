@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["sandbox", "claude", "code", "oauth", "fixes", "escape", "upgrade", "permission"]
 source: https://neomanex.com/news/claude-code-2-1-319-2-1-321-worktree-sandbox-escape-bash-bypass-mcp-oauth-fixes
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["windows", "version", "home", "office", "october", "updates", "security", "update"]
 source: https://securerank.info/blog/windows-11-24h2-office-2021-end-of-support-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["orchestrator", "gemini", "antigravity", "workflows", "google", "hydrogen", "cheat", "sheet"]
 source: https://medium.com/google-cloud/a-practitioners-cheat-sheet-to-multi-agent-workflows-in-google-antigravity-93520180bfea
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["flash", "more", "introducing", "architecture", "faster", "efficient", "cost", "cache"]
 source: https://www.deepseek.com/en/news/deepseek-v4-1-flash/
 source_anchor: ""

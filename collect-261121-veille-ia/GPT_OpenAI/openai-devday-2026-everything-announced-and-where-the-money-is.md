@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["openai", "devday", "chatgpt", "gpt-6", "money", "users", "everything", "cost"]
 source: https://zipai.io/openai-devday-2026-everything-announced-what-it-costs-and-where-the-money-is/
 source_anchor: ""

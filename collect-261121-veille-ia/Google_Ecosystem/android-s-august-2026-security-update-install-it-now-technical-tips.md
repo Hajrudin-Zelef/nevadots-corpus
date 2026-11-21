@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-01"]
 keywords: ["security", "android", "update", "patch", "august", "system", "phone", "fixes"]
 source: https://technical-tips.com/blog/android/android-august-2026-security-update
 source_anchor: ""

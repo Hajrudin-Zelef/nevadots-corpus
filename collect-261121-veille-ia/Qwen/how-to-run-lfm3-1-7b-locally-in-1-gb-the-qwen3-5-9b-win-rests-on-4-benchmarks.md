@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["lfm3-1", "llama", "qwen3", "liquid", "agent", "model", "context", "lfm3"]
 source: https://dev.to/alanwest/how-to-run-lfm3-17b-locally-in-1-gb-the-qwen35-9b-win-rests-on-4-benchmarks-201d
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cognition-swe
 role: reference
 task: article
 actors: ["Cognition"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["swe-2", "flash", "model", "cognition", "coding", "faster", "price", "launches"]
 source: https://emergent.sh/news/swe-2-flash-launches-3x-faster-1-5-price
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["cyber", "model", "openai", "daybreak", "chatgpt", "gpt-6", "security", "tier"]
 source: https://dev.to/paullovelace/openais-chatgpt-cyber-a-security-model-for-the-few-explained-honestly-1pk1
 source_anchor: ""

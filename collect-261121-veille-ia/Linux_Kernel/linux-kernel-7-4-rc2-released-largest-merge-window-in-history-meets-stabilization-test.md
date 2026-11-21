@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-09"]
 keywords: ["kernel", "linux", "torvalds", "merge", "window", "fixes", "largest", "release"]
 source: https://www.linuxcompatible.org/story/linux-kernel-74rc2-released-largest-merge-window-in-history-meets-stabilization-test/
 source_anchor: ""

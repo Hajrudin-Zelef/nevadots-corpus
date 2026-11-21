@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["deepseek", "harness", "repository", "explainx", "official", "august", "github", "stack"]
 source: https://www.explainx.ai/blog/deepseek-harness-v0-1-plugin-first-agent-stack-august-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-06-24"]
 keywords: ["openai", "jalapeno", "said", "inference", "chip", "broadcom", "more", "design"]
 source: https://betanews.com/article/openai-and-broadcom-unveil-jalapeno-inference-chip-for-llms/
 source_anchor: ""

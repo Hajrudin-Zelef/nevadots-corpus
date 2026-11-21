@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-25"]
 keywords: ["projects", "foundations", "four", "project", "process", "vendor-neutral", "donors", "agentic"]
 source: https://sxz.io/aaif-four-new-projects-vendor-neutral-six-step-process-donors-still-lead/
 source_anchor: ""

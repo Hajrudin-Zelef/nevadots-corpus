@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-06-09"]
 keywords: ["ashish", "mold", "devel", "update", "shukla", "remove", "onetbb", "upstream"]
 source: https://www.freshports.org/devel/mold/
 source_anchor: ""

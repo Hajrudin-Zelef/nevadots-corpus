@@ -5,7 +5,7 @@ domain: bluetooth-audio
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["bluetooth", "audio", "mbps", "lossless", "wireless", "more", "headphones", "data"]
 source: https://www.ecoustics.com/news/bluetooth-7-hdt-lossless-wireless-audio/
 source_anchor: ""

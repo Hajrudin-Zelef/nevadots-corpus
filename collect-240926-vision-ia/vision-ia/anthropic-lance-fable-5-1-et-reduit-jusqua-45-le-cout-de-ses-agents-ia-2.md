@@ -5,7 +5,7 @@ domain: vision-ia
 role: reference
 task: reference
 actors: ["AWS", "Google", "Hugging Face", "OpenAI"]
-dates: ["2027-02-28"]
+dates: []
 keywords: ["research", "agent", "agents", "agi", "attention", "benchmark", "energy", "gemini", "gpu", "humanoid", "incident", "reasoning"]
 source: docs/RAG/clean_en/vision-ia/anthropic-lance-fable-5-1-et-reduit-jusqua-45-le-cout-de-ses-agents-ia.md
 source_anchor: ""

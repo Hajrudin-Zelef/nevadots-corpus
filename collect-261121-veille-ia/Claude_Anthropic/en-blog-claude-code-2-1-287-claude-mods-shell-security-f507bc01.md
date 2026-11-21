@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["claude", "code", "shell", "mods", "writes", "command", "plugins", "change"]
 source: ""
 source_anchor: ""

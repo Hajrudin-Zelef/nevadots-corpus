@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2021-02-02"]
 keywords: ["patch", "function", "macro", "directly", "string", "parser", "included", "python"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

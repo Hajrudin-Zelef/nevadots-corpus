@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-15"]
 keywords: ["intellij", "idea", "java", "features", "preview", "project", "using", "download"]
 source: https://blog.jetbrains.com/?p=739827/
 source_anchor: ""

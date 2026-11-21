@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["fable", "claude", "model", "mtok", "code", "update", "november", "output"]
 source: https://wmedia.es/en/tips/claude-code-fable-5-2-faster-for-less
 source_anchor: ""

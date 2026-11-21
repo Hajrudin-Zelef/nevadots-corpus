@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Google"]
-dates: ["2026-13-32"]
+dates: []
 keywords: ["agent", "agents", "arr", "gemini", "incident"]
 source: docs/RAG/collect-261001-ia-llm/ia_agents_concepts.md
 source_anchor: ""

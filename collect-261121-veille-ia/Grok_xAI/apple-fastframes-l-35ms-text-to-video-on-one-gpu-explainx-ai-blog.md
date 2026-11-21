@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["apple", "fastframes-l", "latency", "fastframes", "video", "model", "demo", "lingbot"]
 source: https://explainx.ai/blog/apple-fastframes-l-interactive-text-to-video-open-weights-2026
 source_anchor: ""

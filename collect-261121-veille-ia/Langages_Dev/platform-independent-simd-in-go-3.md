@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["simd", "vector", "operations", "support", "provide", "bits", "some", "platform-independent"]
 source: https://www.gocrazy.dev/learn/platform-independent-simd-in-go/
 source_anchor: ""

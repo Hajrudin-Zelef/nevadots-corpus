@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-04"]
 keywords: ["portable", "throttlestop", "bridage", "version", "puces", "selon", "intel", "etapes"]
 source: https://tech-insider.org/fr/throttlestop-undervolt-cpu-portable-2026/
 source_anchor: ""

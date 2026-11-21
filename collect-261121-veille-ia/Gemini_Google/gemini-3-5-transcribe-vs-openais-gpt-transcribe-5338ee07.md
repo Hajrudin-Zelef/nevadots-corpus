@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["transcribe", "gemini", "model", "google", "gpt-transcribe", "openai", "transcription", "streaming"]
 source: ""
 source_anchor: ""

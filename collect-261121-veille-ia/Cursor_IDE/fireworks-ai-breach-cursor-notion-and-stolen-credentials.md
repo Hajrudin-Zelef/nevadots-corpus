@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["fireworks", "credentials", "cursor", "used", "attacker", "traces", "notion", "secrets"]
 source: https://blog.gitguardian.com/fireworks-ai-breach-cursor-credentials/
 source_anchor: ""

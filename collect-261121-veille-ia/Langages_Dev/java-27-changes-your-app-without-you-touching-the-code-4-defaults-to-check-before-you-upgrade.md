@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["java", "changes", "without", "code", "check", "before", "default", "upgrade"]
 source: https://medium.com/@ascendrixtech/java-27-changes-your-app-without-you-touching-the-code-4-defaults-to-check-before-you-upgrade-96f4095e4fe7
 source_anchor: ""

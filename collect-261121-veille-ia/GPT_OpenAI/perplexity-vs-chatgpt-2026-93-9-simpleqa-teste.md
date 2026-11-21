@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-06-11"]
 keywords: ["chatgpt", "perplexity", "mois", "recherche", "mode", "sonar", "deux", "reponse"]
 source: https://tech-insider.org/fr/perplexity-vs-chatgpt-2026-3/
 source_anchor: ""

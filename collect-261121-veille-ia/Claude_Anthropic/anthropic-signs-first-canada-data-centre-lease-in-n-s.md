@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["anthropic", "lease", "first", "canada", "release", "data", "centre", "canadian"]
 source: https://medium.com/@cowrytechnews/anthropic-signs-first-canada-data-centre-lease-in-n-s-be321c5eaf87
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["claude", "code", "sous-agents", "tutoriel", "sous-agent", "etapes", "projet", "chaque"]
 source: https://tech-insider.org/fr/sous-agents-claude-code-2026/
 source_anchor: ""

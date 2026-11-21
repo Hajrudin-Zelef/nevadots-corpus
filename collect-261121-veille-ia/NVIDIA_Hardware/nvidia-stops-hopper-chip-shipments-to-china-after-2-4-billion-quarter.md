@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["nvidia", "china", "hopper", "products", "data", "h200", "processors", "licensed"]
 source: https://asiadaily.org/news/19116/
 source_anchor: ""

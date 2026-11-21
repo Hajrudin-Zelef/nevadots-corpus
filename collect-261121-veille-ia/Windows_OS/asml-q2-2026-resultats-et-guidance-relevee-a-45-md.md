@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-07-15"]
 keywords: ["trimestre", "deuros", "ventes", "milliards", "resultats", "asml", "juillet", "marge"]
 source: https://tech-insider.org/fr/asml-q2-2026-resultats-guidance-45-milliards/
 source_anchor: ""

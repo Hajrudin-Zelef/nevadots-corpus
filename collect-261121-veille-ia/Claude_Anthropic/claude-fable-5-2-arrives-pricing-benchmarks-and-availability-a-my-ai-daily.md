@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["claude", "fable", "cache", "output", "million", "tokens", "input", "cost"]
 source: https://www.myaidaily.net/news/claude-fable-5-2-pricing-benchmarks/
 source_anchor: ""

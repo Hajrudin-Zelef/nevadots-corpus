@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["android", "qpr2", "pixel", "beta", "release", "date", "stable", "battery"]
 source: https://droid-developers.com/android-17-qpr2/
 source_anchor: ""

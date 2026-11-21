@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["AWS", "Anthropic", "Apple", "Broadcom", "Glasswing", "Google", "Microsoft", "Mistral", "Nvidia", "OpenAI", "Poolside", "xAI"]
-dates: ["2025-10-31", "2026-02-24", "2026-03-09", "2026-03-18", "2026-05-15", "2026-06-15", "2026-06-25", "2026-06-30", "2026-07-28", "2026-07-31", "2026-08-31", "2026-09-29", "2026-10-15", "2026-11-02", "2026-11-24", "2027-02-04"]
+dates: ["2025-10-31", "2026-02-24", "2026-03-09", "2026-03-18", "2026-05-15", "2026-06-15", "2026-06-25", "2026-06-30", "2026-07-28", "2026-07-31", "2026-08-31", "2026-09-29", "2026-10-15", "2026-11-02"]
 keywords: ["arr", "chatgpt", "claude", "copilot", "cyber", "gemini", "gpt-5.6", "grok", "grok 4", "luna", "mistral", "mythos 5"]
 source: docs/RAG/collect-261001-ia-llm/ia_modeles_occident.md
 source_anchor: ""

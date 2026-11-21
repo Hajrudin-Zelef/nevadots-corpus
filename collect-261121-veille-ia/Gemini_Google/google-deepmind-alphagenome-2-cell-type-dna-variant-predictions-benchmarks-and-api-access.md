@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["cell", "alphagenome", "model", "single-cell", "google", "deepmind", "variant", "predictions"]
 source: https://datastudios.org/post/google-deepmind-alphagenome-2-cell-type-dna-model-api-non-commercial-research
 source_anchor: ""

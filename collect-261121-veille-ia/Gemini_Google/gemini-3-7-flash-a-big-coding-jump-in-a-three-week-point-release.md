@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["flash", "gemini", "against", "coding", "moves", "claude", "sonnet", "benchmark"]
 source: https://rits.shanghai.nyu.edu/ai/gemini-3-7-flash-three-week-coding-jump/
 source_anchor: ""

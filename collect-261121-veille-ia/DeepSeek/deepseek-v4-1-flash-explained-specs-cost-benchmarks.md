@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["deepseek", "model", "flash", "token", "percent", "cost", "benchmarks", "explained"]
 source: https://www.layer3labs.io/guides/deepseek-v4-1-flash-explained
 source_anchor: ""

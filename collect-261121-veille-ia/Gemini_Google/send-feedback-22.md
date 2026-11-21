@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2019-01-25"]
 keywords: ["uuid", "service", "traffic", "policy", "internet", "source", "destination", "fields"]
 source: https://docs.fortinet.com/document/fortigate/7.4.8/administration-guide/313871
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["agent", "skills", "foundation", "anthropic", "skill", "agentic", "specification", "developers"]
 source: https://dev.to/tokely/agent-skills-moves-to-the-agentic-ai-foundation-what-developers-need-to-know-1g90
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-25"]
 keywords: ["china", "nvidia", "chips", "longer", "billion", "dollars", "percent", "after"]
 source: https://itdaily.com/news/business/nvidia-ai-chips-china-h200/
 source_anchor: ""

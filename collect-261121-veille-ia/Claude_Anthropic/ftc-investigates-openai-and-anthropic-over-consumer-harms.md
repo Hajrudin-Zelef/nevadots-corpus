@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-03"]
 keywords: ["investigation", "openai", "anthropic", "company", "consumer", "other", "matter", "inquiry"]
 source: https://openclassactions.com/news/ftc-openai-anthropic-ai-investigation-2026.php
 source_anchor: ""

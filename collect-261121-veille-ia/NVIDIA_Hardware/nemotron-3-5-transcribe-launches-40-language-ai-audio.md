@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["transcribe", "audio", "nemotron", "nvidia", "model", "also", "open-weight", "speech"]
 source: https://saeedai.com/nemotron-3-5-transcribe-launch/
 source_anchor: ""

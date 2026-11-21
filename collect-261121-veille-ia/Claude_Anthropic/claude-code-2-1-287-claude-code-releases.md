@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-11-25"]
 keywords: ["claude", "added", "improved", "prompt", "plugin", "code", "background", "tool"]
 source: https://releases.oikon48.dev/en/2.1.287/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["glm-5", "flash", "tokens", "scores", "tests", "artificial", "model", "license"]
 source: https://www.parasail.io/blog/glm-5-3-vs-glm-5-3-flash
 source_anchor: ""

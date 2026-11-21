@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["model", "apple", "latency", "video", "fastframes-l", "license", "interactive", "text-to-video"]
 source: https://sciherald.com/article/fastframes-l-apple-s-14b-text-to-video-model-with-interactive-latency
 source_anchor: ""

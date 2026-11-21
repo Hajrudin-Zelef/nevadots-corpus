@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["rubin", "vera", "nvl72", "cloud", "live", "availability", "customer", "first"]
 source: https://www.spheron.network/blog/vera-rubin-nvl72-cloud-availability-who-s-live-first-in-2026/
 source_anchor: ""

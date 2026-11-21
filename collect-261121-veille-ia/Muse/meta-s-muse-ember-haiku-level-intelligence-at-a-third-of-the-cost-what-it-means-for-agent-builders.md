@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["ember", "meta", "muse", "model", "agent", "intelligence", "tokens", "haiku"]
 source: https://dev.to/tin_thnhbnh_6d6c9102d/metas-muse-ember-haiku-level-intelligence-at-a-third-of-the-cost-what-it-means-for-agent-3he9
 source_anchor: ""

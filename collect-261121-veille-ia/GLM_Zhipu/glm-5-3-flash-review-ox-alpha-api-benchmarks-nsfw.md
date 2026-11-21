@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["glm-5", "flash", "model", "review", "ox-alpha", "multimodal", "benchmarks", "nsfw"]
 source: https://airmore.ai/ai-review/glm-53-flash-review
 source_anchor: ""

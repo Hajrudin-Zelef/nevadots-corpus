@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["test", "agents", "google", "chrome", "mirror", "dimension", "environment", "sites"]
 source: https://neoteo.com/en/how-googles-mirror-dimension-tests-chrome-agents
 source_anchor: ""

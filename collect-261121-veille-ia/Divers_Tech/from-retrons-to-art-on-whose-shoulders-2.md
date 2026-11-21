@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["michael", "thomas", "martin", "chen1", "richard", "sarah", "sequence", "retrons"]
 source: https://seafill.info/Shoulders/art/
 source_anchor: ""

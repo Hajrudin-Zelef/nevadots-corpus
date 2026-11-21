@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["claude", "enzyme", "system", "anthropic", "bacteria", "crispr", "scientists", "novel"]
 source: ""
 source_anchor: ""

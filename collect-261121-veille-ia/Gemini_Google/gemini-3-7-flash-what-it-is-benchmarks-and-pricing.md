@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["flash", "gemini", "model", "google", "input", "supported", "coding", "weeks"]
 source: https://emergent.sh/learn/gemini-3-7-flash
 source_anchor: ""

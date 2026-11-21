@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-29"]
 keywords: ["model", "tokens", "draft", "faster", "proposals", "gemma", "ollama", "runs"]
 source: https://ollama.com/blog/faster-gemma-4-mlx-mtp
 source_anchor: ""

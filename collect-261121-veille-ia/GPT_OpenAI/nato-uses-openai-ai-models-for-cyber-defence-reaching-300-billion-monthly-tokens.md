@@ -5,7 +5,7 @@ domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["openai", "models", "nato", "cyber", "software", "security", "daybreak", "using"]
 source: https://www.thedefensenews.com/NATO-Uses-OpenAI-AI-Models-for-Cyber-Defence-Reaching-300-Billion-Monthly-Tokens/
 source_anchor: ""

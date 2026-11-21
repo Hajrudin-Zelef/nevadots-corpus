@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-08"]
 keywords: ["security", "products", "claude", "enterprise", "anthropic", "partner", "agents", "productivity"]
 source: https://blogs.techbytes.app/posts/new-agents-and-products-for-security-productivity-and-creative-work/
 source_anchor: ""

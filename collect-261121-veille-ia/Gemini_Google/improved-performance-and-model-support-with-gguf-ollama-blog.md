@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-06-05"]
 keywords: ["ollama", "model", "gguf", "performance", "support", "models", "my-model", "hardware"]
 source: https://ollama.com/blog/improved-performance-and-model-support-with-gguf
 source_anchor: ""

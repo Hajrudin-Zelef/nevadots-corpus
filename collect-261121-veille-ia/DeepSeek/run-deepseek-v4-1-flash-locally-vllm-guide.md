@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "flash", "weights", "vllm", "vram", "locally", "hugging", "face"]
 source: https://www.deepseekv4guide.org/guides/v4-1-flash-local-deployment
 source_anchor: ""

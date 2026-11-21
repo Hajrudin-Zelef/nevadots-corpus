@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["billion", "shares", "anthropic", "about", "dealroom", "class", "million", "profile"]
 source: https://dealroom.co/news/170996-anthropic-sets-ipo-terms-up-to-69-3b-at-70-to-80-a-share-plus-26b-from-s/
 source_anchor: ""

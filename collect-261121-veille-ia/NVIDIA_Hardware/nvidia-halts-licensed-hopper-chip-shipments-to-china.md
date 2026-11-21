@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-25"]
 keywords: ["china", "sales", "billion", "nvidia", "licensed", "revenue", "quarter", "forecast"]
 source: https://davefinances.com/nvidia-halts-licensed-hopper-chip-shipments-china/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["nvidia", "rubin", "vera", "rack", "nvl72", "nvfp4", "blackwell", "platform"]
 source: https://usd.ai/blog/vera-rubin
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["nvidia", "model", "free", "space", "open", "transcribe", "nemotron", "only"]
 source: https://dev.to/hassann/how-to-use-nvidia-nemotron-35-transcribe-for-free-the-1-open-speech-to-text-model-5fij
 source_anchor: ""

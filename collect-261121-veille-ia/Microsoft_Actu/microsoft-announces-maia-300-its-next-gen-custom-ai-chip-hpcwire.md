@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["maia", "microsoft", "more", "hpcwire", "services", "workloads", "every", "tokens"]
 source: https://www.hpcwire.com/off-the-wire/microsoft-announces-maia-300-its-next-gen-custom-ai-chip/
 source_anchor: ""

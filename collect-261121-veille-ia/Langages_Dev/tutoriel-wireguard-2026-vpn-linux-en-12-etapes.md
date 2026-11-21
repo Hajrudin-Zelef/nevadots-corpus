@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-23"]
 keywords: ["wireguard", "linux", "openvpn", "depuis", "mbit", "ipsec", "noyau", "mars"]
 source: https://tech-insider.org/fr/wireguard-tutoriel-vpn-linux-12-etapes-2026/
 source_anchor: ""

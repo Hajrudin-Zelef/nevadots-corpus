@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-17"]
 keywords: ["gemini", "live", "models", "more", "voice", "tasks", "extended", "thinking"]
 source: ""
 source_anchor: ""

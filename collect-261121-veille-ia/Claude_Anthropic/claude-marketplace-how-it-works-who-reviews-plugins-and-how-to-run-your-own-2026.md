@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["claude", "plugins", "marketplace", "anthropic", "connectors", "code", "catalog", "products"]
 source: https://fastero.com/blog/claude-marketplace
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["carbon", "gemini", "model", "argon", "cyber", "hydrogen", "google", "models"]
 source: https://dev.to/gde/hydrogen-carbon-or-argon-a-cost-first-guide-to-gemini-4-for-every-team-205b
 source_anchor: ""

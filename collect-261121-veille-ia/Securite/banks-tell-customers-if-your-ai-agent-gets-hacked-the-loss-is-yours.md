@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["banks", "customers", "agent", "bank", "terms", "agents", "citi", "access"]
 source: https://mail.ainewsround.com/blog/banks-tell-customers-if-your-ai-agent-gets-hacked-the-loss-is-yours
 source_anchor: ""

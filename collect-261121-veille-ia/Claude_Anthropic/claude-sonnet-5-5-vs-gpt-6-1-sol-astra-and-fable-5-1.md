@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["gpt-6", "sonnet", "fable", "model", "astra", "more", "claude", "against"]
 source: https://www.intelligentliving.co/claude-sonnet-5-5-vs-gpt-6-sol-astra/
 source_anchor: ""

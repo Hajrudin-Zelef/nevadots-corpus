@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["septembre", "tokens", "google", "modele", "gemini", "trois", "claude", "fable"]
 source: https://tech-insider.org/fr/claude-fable-5-1-vs-gpt-6-astra-vs-gemini-3-1-pro-2026/
 source_anchor: ""

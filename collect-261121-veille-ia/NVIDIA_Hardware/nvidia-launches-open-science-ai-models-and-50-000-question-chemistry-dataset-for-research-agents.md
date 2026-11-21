@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["models", "scientific", "nvidia", "chemistry", "dataset", "researchers", "agents", "data"]
 source: https://www.cdomagazine.tech/aiml/nvidia-launches-open-science-ai-models-and-50000-question-chemistry-dataset-for-research-agents
 source_anchor: ""

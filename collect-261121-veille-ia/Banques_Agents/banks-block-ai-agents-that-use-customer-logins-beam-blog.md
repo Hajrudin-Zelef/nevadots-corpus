@@ -5,7 +5,7 @@ domain: banques-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["agents", "banks", "agent", "logins", "customer", "jpmorgan", "techcrunch", "access"]
 source: https://agentbeam.com/blog/us-banks-block-ai-agents-customer-credentials-read-only-mcp
 source_anchor: ""

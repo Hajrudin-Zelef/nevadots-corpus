@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["mistral", "claude", "chatgpt", "team", "model", "output", "structured", "business"]
 source: https://fluence.ai/blog/?p=52922
 source_anchor: ""

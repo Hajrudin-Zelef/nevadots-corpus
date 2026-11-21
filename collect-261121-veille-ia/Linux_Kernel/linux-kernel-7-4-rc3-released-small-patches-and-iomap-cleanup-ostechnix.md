@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-15"]
 keywords: ["linux", "kernel", "iomap", "patches", "small", "release", "november", "daily"]
 source: https://ostechnix.com/linux-kernel-7-4-rc3-released/
 source_anchor: ""

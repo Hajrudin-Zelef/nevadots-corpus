@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["AWS", "Google", "Meta", "OpenRouter", "xAI"]
-dates: ["2026-12-31"]
+dates: []
 keywords: ["gemini", "grok", "muse", "agent", "aws", "bedrock", "benchmark", "benchmarks", "grok 4", "llama", "multimodal", "muse spark"]
 source: docs/RAG/collect-261001-ia-llm/gemini-3-7-flash-vs-grok-4-6-vs-muse-spark-1-2.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["model", "copilot", "anthropic", "coding", "githubs", "policy", "api", "turns"]
 source: https://opentools.ai/news/github-copilot-model-policy-api-enterprise-controls
 source_anchor: ""

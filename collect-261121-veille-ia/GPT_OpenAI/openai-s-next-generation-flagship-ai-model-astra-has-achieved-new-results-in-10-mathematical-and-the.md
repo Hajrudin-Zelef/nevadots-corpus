@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-01"]
 keywords: ["openai", "problems", "model", "astra", "mathematical", "theoretical", "computer", "science"]
 source: http://gigazine.net/gsc_news/en/20260803-openai-astra-lean/
 source_anchor: ""

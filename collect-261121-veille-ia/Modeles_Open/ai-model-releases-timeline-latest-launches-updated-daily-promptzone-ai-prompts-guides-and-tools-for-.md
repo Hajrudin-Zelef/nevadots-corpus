@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-21"]
 keywords: ["openai", "model", "context", "gpt-6", "token", "launchnew", "million", "tokens"]
 source: https://www.promptzone.com/ai-model-releases
 source_anchor: ""

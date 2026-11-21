@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["electron", "rust", "discord", "gpui", "team", "client", "desktop", "native"]
 source: http://dev.to/jamilxt/electron-vs-gpui-what-discords-290-mb-rust-rewrite-can-and-cannot-prove-34b6
 source_anchor: ""

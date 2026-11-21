@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["pixel", "android", "update", "qpr2", "controls", "devices", "settings", "november"]
 source: https://www.techrepublic.com/article/news-android-17-qpr2-pixel-customization-update/
 source_anchor: ""

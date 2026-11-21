@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-07-12"]
 keywords: ["glm-5", "zhipu", "august", "community", "model", "actually", "base", "every"]
 source: https://kie.ai/blog/glm-5-3-zhipu-next-model
 source_anchor: ""

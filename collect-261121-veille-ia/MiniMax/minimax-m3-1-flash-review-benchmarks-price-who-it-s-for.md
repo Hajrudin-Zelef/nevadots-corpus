@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "best", "flash", "price", "setting", "model", "free", "route"]
 source: https://springprompt.com/blog/minimax-m3-1-flash-review
 source_anchor: ""

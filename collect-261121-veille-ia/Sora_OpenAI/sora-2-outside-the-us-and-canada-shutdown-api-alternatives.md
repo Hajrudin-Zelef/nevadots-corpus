@@ -5,7 +5,7 @@ domain: sora-openai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-10-06"]
 keywords: ["sora", "canada", "openai", "models", "video", "countries", "shutdown", "export"]
 source: https://gizmodo.com/best-vpn/access-sora-2-outside-us-canada
 source_anchor: ""

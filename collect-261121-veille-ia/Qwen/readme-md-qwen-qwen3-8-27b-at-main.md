@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-03-05"]
 keywords: ["qwen3", "qwen", "readme", "model", "coding", "agentic", "main", "tasks"]
 source: https://huggingface.co/Qwen/Qwen3.8-27B/blob/main/README.md
 source_anchor: ""

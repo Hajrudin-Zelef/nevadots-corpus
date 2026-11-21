@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-07-21"]
 keywords: ["flash", "gemini", "google", "capabilities", "cyber", "inference", "releases", "performance"]
 source: http://gigazine.net/gsc_news/en/20260903-gemini-3-8-flash-cyber/
 source_anchor: ""

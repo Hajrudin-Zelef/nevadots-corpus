@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-11"]
 keywords: ["model", "dawn", "atria", "agentic", "shanghai", "mit-licensed", "paper", "rather"]
 source: https://www.eneralabs.com/blog/shanghai-ai-lab-atria-dawn-744b-open-weight-enterprise-2026/
 source_anchor: ""

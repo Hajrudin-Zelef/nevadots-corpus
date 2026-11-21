@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-12"]
 keywords: ["amodei", "anthropic", "frontier", "industry", "pace", "evaluators", "urges", "embedded"]
 source: https://evermx.com/case/amodei-pace-the-frontier
 source_anchor: ""

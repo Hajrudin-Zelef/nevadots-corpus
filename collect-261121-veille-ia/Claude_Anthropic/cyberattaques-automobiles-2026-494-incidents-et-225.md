@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2024-06-18"]
 keywords: ["incidents", "rapport", "attaques", "automobile", "cybersecurite", "security", "vicone", "automobiles"]
 source: https://tech-insider.org/fr/cyberattaques-automobiles-494-incidents-225-pourcent-vehicules-connectes-2026/
 source_anchor: ""

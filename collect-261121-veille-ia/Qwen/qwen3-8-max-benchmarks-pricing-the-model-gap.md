@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["qwen3", "noise", "pricing", "benchmark", "model", "scores", "tracked", "terminal-bench"]
 source: https://themodelgap.com/models/qwen3-8-max
 source_anchor: ""

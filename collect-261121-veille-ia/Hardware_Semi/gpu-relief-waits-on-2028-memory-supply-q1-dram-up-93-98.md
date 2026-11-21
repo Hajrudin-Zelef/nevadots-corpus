@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-03-31"]
 keywords: ["dram", "supply", "prices", "memory", "quarter", "contract", "conventional", "release"]
 source: https://tech-insider.org/gpu-relief-pushed-2028-dram-price-jump-2026/
 source_anchor: ""

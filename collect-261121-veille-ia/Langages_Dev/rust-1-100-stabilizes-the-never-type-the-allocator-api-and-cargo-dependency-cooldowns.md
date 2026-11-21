@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["type", "never", "cargo", "allocator", "rust", "code", "dependency", "stabilizes"]
 source: https://vinish.dev/rust-1-100-never-type-allocator-api-cargo-cooldowns
 source_anchor: ""

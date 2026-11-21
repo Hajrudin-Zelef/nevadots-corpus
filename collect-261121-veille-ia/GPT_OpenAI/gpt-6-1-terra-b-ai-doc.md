@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["tokens", "gpt-6", "reasoning", "input", "output", "terra", "context", "supports"]
 source: https://docs.b.ai/llmservice/models/gpt-6-1-terra/
 source_anchor: ""

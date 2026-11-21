@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["jules", "google", "export", "down", "steps", "agent", "tasks", "prompt"]
 source: https://www.danilchenko.dev/posts/google-jules-review/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["gemini", "model", "audio", "transcribe", "word", "google", "transcription", "chirp"]
 source: https://spokenly.app/blog/gemini-3-5-transcribe
 source_anchor: ""

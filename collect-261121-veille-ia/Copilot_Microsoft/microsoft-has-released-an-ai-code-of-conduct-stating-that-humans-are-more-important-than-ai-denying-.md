@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["microsoft", "humans", "code", "conduct", "consciousness", "human", "released", "more"]
 source: http://gigazine.net/gsc_news/en/20260915-microsoft-humanist-ai-code-of-conduct/
 source_anchor: ""

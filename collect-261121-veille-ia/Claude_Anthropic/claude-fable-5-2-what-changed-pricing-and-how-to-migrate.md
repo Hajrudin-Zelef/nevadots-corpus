@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["claude", "fable", "code", "prefix", "account", "mtok", "check", "every"]
 source: https://www.developersdigest.tech/blog/claude-fable-5-2-whats-new-migration-2026
 source_anchor: ""

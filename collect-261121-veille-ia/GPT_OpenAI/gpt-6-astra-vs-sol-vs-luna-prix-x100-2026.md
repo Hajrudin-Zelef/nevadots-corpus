@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["gpt-6", "luna", "astra", "prix", "septembre", "trois", "openai", "chatgpt"]
 source: https://tech-insider.org/fr/gpt-6-astra-vs-sol-vs-luna-2026/
 source_anchor: ""

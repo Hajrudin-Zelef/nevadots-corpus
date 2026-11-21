@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["aion", "instruct", "microsoft", "model", "on-device", "browser", "free", "them"]
 source: http://invovai.blogspot.com/2026/11/microsoft-aion-instruct-2026.html
 source_anchor: ""

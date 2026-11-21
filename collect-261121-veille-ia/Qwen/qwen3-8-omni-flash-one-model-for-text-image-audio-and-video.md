@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["model", "audio", "video", "text", "qwen3", "flash", "image", "omni"]
 source: https://mer.vin/news/qwen3-8-omni-flash-one-model-text-image-audio-video/
 source_anchor: ""

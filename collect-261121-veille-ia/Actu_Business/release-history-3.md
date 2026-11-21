@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2017-08-01"]
 keywords: ["ticket", "sqlite", "hashes", "source", "sha3-256", "sqlite3", "optimization", "left"]
 source: https://sqlite.org/draft/changes.html
 source_anchor: ""

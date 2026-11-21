@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "neon", "xhigh", "artificial", "analysis", "arena", "index", "model"]
 source: https://openrouter.ai/google/gemini-4-neon:batch
 source_anchor: ""

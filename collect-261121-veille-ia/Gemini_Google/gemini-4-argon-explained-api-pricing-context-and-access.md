@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["argon", "gemini", "google", "model", "output", "pricing", "input", "googles"]
 source: https://www.lycore.com/technology/gemini-4-argon-explained/
 source_anchor: ""

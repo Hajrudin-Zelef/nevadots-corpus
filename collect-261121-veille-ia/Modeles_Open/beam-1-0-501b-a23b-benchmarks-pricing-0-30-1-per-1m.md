@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-21"]
 keywords: ["arena", "reasoning", "gamebench", "model", "benchmarks", "index", "lmarena", "setting"]
 source: https://www.benchleader.com/models/beam-1-0-501b-a23b
 source_anchor: ""

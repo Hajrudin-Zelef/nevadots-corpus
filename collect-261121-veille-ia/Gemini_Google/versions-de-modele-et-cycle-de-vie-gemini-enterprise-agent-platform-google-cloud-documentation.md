@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["date", "modele", "apres", "gemini-3", "retrait", "modeles", "flash", "disponibilite"]
 source: https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/model-versions
 source_anchor: ""

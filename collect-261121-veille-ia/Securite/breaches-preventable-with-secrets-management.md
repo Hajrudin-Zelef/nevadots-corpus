@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-03"]
 keywords: ["keys", "variables", "customers", "environment", "trigger", "northflank", "platform", "cloud"]
 source: https://www.doppler.com/breach-dashboard
 source_anchor: ""

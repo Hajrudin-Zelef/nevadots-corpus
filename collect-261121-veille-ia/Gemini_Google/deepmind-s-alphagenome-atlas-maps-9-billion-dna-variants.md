@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["atlas", "deepmind", "alphagenome", "model", "billion", "predictions", "gene", "human"]
 source: https://edufabtech.com/news/deepmind-alphagenome-atlas-9-billion-dna-variants
 source_anchor: ""

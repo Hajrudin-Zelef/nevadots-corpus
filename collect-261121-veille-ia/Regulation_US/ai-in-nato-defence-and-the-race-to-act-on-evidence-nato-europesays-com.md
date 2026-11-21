@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["nato", "defence", "november", "cyber", "operational", "openai", "information", "evidence"]
 source: https://www.europesays.com/nato/22049/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-10-15"]
 keywords: ["haiku", "tokens", "input", "prompt", "million", "model", "tokenizer", "line"]
 source: https://gloss.run/post/its-tokenizer-gets-there-on-77000-of-the-old-ones
 source_anchor: ""

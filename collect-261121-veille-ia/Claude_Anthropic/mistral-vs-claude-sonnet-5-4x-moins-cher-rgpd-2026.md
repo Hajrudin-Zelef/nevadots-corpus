@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-12-02"]
 keywords: ["mistral", "claude", "sonnet", "trafic", "comparatif", "rgpd", "chaque", "sest"]
 source: https://tech-insider.org/fr/mistral-vs-claude-sonnet-5-2026/
 source_anchor: ""

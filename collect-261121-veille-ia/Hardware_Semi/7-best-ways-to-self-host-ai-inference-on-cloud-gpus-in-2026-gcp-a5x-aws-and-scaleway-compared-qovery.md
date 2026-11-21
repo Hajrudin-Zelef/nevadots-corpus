@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-06"]
 keywords: ["nvidia", "cloud", "google", "inference", "gpus", "rubin", "scaleway", "vera"]
 source: https://www.qovery.com/blog/best-ways-self-host-ai-inference-cloud-gpus-2026
 source_anchor: ""

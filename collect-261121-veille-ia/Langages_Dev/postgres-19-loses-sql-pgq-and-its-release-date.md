@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-09"]
 keywords: ["postgres", "data", "release", "date", "table", "thread", "more", "paradedb"]
 source: https://postgresweekly.com/issues/664
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-28"]
 keywords: ["gpt-6", "kling", "astra", "million", "output", "tools", "sonnet", "video"]
 source: https://www.curatedai.net/radar/2026-w40.html
 source_anchor: ""

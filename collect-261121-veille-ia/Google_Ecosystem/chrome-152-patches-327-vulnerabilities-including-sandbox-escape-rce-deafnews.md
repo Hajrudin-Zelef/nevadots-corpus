@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["sandbox", "vulnerabilities", "chrome", "use-after-free", "code", "cve-2026-79282", "angle", "arbitrary"]
 source: https://deafnews.it/en/news/vulnerabilities/chrome-152-patches-327-vulnerabilities-including-sandbox-escape-rce
 source_anchor: ""

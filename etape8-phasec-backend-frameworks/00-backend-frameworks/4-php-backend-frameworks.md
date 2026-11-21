@@ -5,7 +5,7 @@ domain: step-8-phase-c-backend-frameworks-apis
 role: deep-dive
 task: reference
 actors: []
-dates: ["2025-11", "2026-01-18", "2026-02", "2026-03-12", "2026-03-17", "2026-05", "2026-07-29", "2026-09-16", "2026-11", "2026-12-31", "2027-01", "2027-10-10"]
+dates: ["2026-01-18", "2026-03-12", "2026-03-17", "2026-07-29", "2026-09-16"]
 keywords: ["claude", "embedding", "energy"]
 source: docs/RAG/etape8_phaseC_backend_frameworks.md
 source_anchor: ""

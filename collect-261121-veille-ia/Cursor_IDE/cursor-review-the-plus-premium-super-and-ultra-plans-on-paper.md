@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["cursor", "usage", "grok", "pricing", "models", "premium", "month", "super"]
 source: https://dev.to/stackversus/cursor-review-the-plus-premium-super-and-ultra-plans-on-paper-54bo
 source_anchor: ""

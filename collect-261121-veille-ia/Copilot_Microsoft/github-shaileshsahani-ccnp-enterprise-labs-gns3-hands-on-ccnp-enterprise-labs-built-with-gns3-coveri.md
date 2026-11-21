@@ -5,7 +5,7 @@ domain: reseau-networking
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-09"]
 keywords: ["enterprise", "ospf", "eigrp", "mpls", "ccnp", "design", "route", "advanced"]
 source: https://github.com/shaileshsahani/ccnp-enterprise-labs-gns3
 source_anchor: ""

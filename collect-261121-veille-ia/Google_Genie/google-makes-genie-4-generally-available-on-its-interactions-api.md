@@ -5,7 +5,7 @@ domain: google-genie
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["google", "genie", "interactive", "world", "real-time", "output", "audio", "interactions"]
 source: https://kju.ai/story/google-introduces-genie-4-for-interactive-world-simulation
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-27"]
 keywords: ["design", "intel", "process", "version", "kit", "releases", "final", "available"]
 source: https://www.afroeuropa.com/article/intel-releases-14a-process-design-kit-version-09-final-kit-due-in-2027
 source_anchor: ""

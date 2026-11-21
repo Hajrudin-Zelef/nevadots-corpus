@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-08-28"]
 keywords: ["mimo", "preview", "both", "benchmark", "tencent", "xiaomi", "weights", "score"]
 source: https://www.intelligentliving.co/hy4-preview-vs-mimo-v2-6-pro/
 source_anchor: ""

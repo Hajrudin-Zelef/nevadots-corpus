@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["vera", "cloud", "oracle", "rubin", "google", "nvidia", "nvl72", "available"]
 source: https://geekbyte.com/post/nvidia-vera-rubin-cloud-general-availability/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-30"]
 keywords: ["luna", "gpt-5", "input", "output", "openai", "terra", "million", "tokens"]
 source: https://www.layer3labs.io/guides/gpt-5-6-luna-price-cut
 source_anchor: ""

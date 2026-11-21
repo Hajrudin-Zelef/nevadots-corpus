@@ -5,7 +5,7 @@ domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-15"]
 keywords: ["pfsense", "opnsense", "firewall", "free", "pick", "changed", "release", "hardware"]
 source: https://www.wundertech.net/pfsense-vs-opnsense/
 source_anchor: ""

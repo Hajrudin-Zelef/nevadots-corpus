@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["gemini", "carbon", "opus", "gpt-6", "astra", "claude", "does", "google"]
 source: https://www.scaler.com/topics/gemini-4-carbon-vs-gpt-6-astra-vs-claude-opus-5/
 source_anchor: ""

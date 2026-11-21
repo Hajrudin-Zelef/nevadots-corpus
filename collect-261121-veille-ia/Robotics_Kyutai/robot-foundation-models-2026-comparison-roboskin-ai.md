@@ -5,7 +5,7 @@ domain: robotics-kyutai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["robot", "model", "foundation", "action", "training", "roboskin", "models", "evaluation"]
 source: https://roboskin.ai/robot-foundation-models
 source_anchor: ""

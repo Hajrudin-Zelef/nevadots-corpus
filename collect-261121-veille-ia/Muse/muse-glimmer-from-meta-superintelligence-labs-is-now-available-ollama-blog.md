@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-10"]
 keywords: ["ollama", "muse", "glimmer", "model", "muse-glimmer", "available", "meta", "superintelligence"]
 source: https://ollama.com/blog/muse-glimmer
 source_anchor: ""

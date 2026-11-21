@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "model", "gemini", "agent", "same", "cost", "workflows", "models"]
 source: https://enterprisedna.co/resources/news/google-gemini-38-flash-coding-agents-enterprise-september-2026/
 source_anchor: ""

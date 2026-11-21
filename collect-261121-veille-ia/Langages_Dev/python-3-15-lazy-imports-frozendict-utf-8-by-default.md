@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["lazy", "import", "json", "frozendict", "utf-8", "python", "release", "code"]
 source: https://dev.to/ali_82f3409ed625e8ba8515b/python-315-lazy-imports-frozendict-utf-8-by-default-1gf3
 source_anchor: ""

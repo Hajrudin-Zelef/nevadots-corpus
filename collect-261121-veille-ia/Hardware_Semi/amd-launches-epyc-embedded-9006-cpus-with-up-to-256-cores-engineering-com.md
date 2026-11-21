@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["embedded", "epyc", "storage", "cpus", "memory", "throughput", "processors", "network"]
 source: https://www.engineering.com/amd-launches-epyc-embedded-9006-cpus-with-up-to-256-cores/
 source_anchor: ""

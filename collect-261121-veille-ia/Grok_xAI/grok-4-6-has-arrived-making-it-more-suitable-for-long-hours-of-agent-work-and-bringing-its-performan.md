@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "agent", "work", "performance", "gpt-5", "claude", "fable", "spacexai"]
 source: https://gigazine.net/gsc_news/en/20260813-grok-4-6/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["google", "argon", "gemini", "claude", "code", "coding", "opus", "access"]
 source: https://www.layer3labs.io/guides/gemini-4-argon-for-coding
 source_anchor: ""

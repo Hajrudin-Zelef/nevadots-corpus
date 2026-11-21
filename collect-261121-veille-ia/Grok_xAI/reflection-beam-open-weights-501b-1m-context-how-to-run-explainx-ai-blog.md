@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["reflection", "beam", "weights", "model", "experts", "token", "context", "october"]
 source: https://explainx.ai/blog/reflection-beam-501b-open-weights-released-hugging-face-apache-2026
 source_anchor: ""

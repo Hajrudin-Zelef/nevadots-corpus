@@ -5,7 +5,7 @@ domain: sora-openai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["sora", "videos", "openai", "replacement", "clips", "september", "alternatives", "models"]
 source: https://digitaltatva.com/best-sora-alternatives/
 source_anchor: ""

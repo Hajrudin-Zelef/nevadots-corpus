@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "nemotron", "lightning", "mmlu", "real", "swe-bench", "diamond", "pinchbench"]
 source: https://www.layer3labs.io/guides/nemotron-3-5-lightning-benchmarks
 source_anchor: ""

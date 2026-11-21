@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["neon", "gemini", "gpt-6", "output", "input", "tokens", "model", "choose"]
 source: https://www.cometapi.com/gemini-4-neon-vs-gpt-6-2-sol/
 source_anchor: ""

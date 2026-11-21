@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["tokens", "input", "astra", "million", "gpt-6", "output", "openai", "costs"]
 source: https://www.layer3labs.io/guides/gpt-6-astra-api-pricing
 source_anchor: ""

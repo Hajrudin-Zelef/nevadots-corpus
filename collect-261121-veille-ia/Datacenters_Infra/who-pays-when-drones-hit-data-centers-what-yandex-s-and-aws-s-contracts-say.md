@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-12-23"]
 keywords: ["yandex", "data", "center", "customers", "said", "been", "drones", "october"]
 source: https://www.omniscient.media/post/who-pays-when-a-drone-hits-the-cloud-yandex-and-aws
 source_anchor: ""

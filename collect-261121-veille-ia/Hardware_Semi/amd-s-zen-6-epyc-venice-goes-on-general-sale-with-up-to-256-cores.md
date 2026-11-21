@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["epyc", "venice", "cores", "goes", "general", "sale", "ryzen", "processors"]
 source: https://xenadia.com/en/articles/amd-zen-6-epyc-venice-256-cores-general-availability
 source_anchor: ""

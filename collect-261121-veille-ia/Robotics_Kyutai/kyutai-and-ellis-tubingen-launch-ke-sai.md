@@ -5,7 +5,7 @@ domain: robotics-kyutai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-05-20"]
 keywords: ["tubingen", "kyutai", "ellis", "physical", "research", "systems", "learning", "intelligence"]
 source: https://institut-tue.ellis.eu/news/kyutai-ellis
 source_anchor: ""

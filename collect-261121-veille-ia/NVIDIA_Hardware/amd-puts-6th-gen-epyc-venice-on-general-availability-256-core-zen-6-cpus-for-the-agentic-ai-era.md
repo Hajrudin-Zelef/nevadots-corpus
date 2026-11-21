@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["epyc", "agentic", "socket", "availability", "cores", "general", "servethehome", "venice"]
 source: https://dev.to/delimitter/amd-puts-6th-gen-epyc-venice-on-general-availability-256-core-zen-6-cpus-for-the-agentic-ai-era-1njf
 source_anchor: ""

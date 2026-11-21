@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["gpt-6", "astra", "luna", "model", "chatgpt", "openai", "page", "gpt-5"]
 source: https://www.ssdnodes.com/learn/gpt-6-astra-vs-sol-vs-luna-in-chatgpt
 source_anchor: ""

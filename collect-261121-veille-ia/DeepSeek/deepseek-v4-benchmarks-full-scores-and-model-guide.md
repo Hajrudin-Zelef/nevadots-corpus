@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["flash", "deepseek", "v4-pro", "benchmarks", "model", "scores", "benchmark", "v4-flash"]
 source: https://www.layer3labs.io/guides/deepseek-v4-benchmarks
 source_anchor: ""

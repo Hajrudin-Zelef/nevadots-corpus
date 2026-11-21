@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-10"]
 keywords: ["tauri", "rust", "application", "tutoriel", "binaire", "electron", "etapes", "windows"]
 source: https://tech-insider.org/fr/tauri-2-tutoriel-app-bureau-rust-13-etapes-2026/
 source_anchor: ""

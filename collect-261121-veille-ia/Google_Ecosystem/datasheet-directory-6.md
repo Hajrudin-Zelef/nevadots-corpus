@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-27"]
 keywords: ["knob", "request", "thread", "type", "mpls", "configuration", "size", "height"]
 source: https://www.product.network/datasheet/huaweienterprises/EDOC1100468677/01_02_BGP_MPLS_IP_VPN_CONFIGURATION.pdf
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["pixel", "charging", "same", "phones", "both", "identical", "android", "google"]
 source: https://geekblog.net/mobile/pixel-11-vs-pixel-11-pro/
 source_anchor: ""

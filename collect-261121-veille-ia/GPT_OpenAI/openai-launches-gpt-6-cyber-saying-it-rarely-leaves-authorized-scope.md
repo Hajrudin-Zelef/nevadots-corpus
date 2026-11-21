@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["openai", "cyber", "model", "gpt-6", "said", "exploits", "linux", "percent"]
 source: https://dev.to/the_daily_flare/openai-launches-gpt-6-cyber-saying-it-rarely-leaves-authorized-scope-1j6j
 source_anchor: ""

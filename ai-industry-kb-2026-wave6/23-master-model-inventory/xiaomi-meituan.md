@@ -5,7 +5,7 @@ domain: master-model-inventory
 role: deep-dive
 task: reference
 actors: ["DeepSeek", "EU", "Hugging Face", "LongCat", "Meituan", "Meta", "Microsoft", "MiniMax", "Mistral", "OpenAI", "United States", "Xiaomi", "vLLM"]
-dates: ["2025-02-26", "2025-04-30", "2025-07-08", "2025-09", "2026-01", "2026-06-01", "2026-07-05", "2026-08-02", "2026-08-06", "2026-08-31", "2026-09-08", "2026-09-21", "2026-11-30"]
+dates: ["2025-02-26", "2025-04-30", "2025-07-08", "2026-06-01", "2026-07-05", "2026-08-02", "2026-08-06", "2026-08-31", "2026-09-08", "2026-09-21"]
 keywords: ["agentic", "apache", "attribution", "benchmarks", "claude", "deepseek", "inference", "license", "llama", "mistral", "moe", "multimodal"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

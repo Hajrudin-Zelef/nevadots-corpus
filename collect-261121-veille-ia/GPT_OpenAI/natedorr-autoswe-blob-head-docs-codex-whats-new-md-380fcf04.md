@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-30"]
 keywords: ["chatgpt", "codex", "available", "work", "site", "browser", "desktop", "website"]
 source: ""
 source_anchor: ""

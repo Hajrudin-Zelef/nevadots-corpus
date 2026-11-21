@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "release", "november", "date", "upgrade", "vacuum", "autovacuum", "confirmed"]
 source: https://pandromeda.com/software/postgresql-19-release-date-confirmed-whats-new-how-to-prepare
 source_anchor: ""

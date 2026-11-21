@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-29"]
 keywords: ["order", "intelligence", "super", "trump", "existing", "artificial", "definition", "executive"]
 source: https://dev.to/michael_hensel/trumps-super-intelligence-order-explained-what-changes-and-who-it-affects-1e24
 source_anchor: ""

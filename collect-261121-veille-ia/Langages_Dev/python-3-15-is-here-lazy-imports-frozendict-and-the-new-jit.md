@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["lazy", "imports", "python", "module", "data", "frozendict", "application", "import"]
 source: https://www.c-sharpcorner.com/article/python-3-15-is-here-lazy-imports-frozendict-and-the-new-jit
 source_anchor: ""

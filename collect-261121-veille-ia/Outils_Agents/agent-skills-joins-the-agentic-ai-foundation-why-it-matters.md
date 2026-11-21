@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-12-09"]
 keywords: ["agent", "foundation", "skills", "anthropic", "standard", "agentic", "open", "instructions"]
 source: https://tech-stribe.com/anthropic-donates-agent-skills-ai-foundation/
 source_anchor: ""

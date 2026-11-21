@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["daybreak", "access", "cyber", "openai", "authorized", "validation", "blue", "models"]
 source: https://help.openai.com/en/articles/20001258-openai-daybreak-trusted-access-for-cyber-overview
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2025-12-02"]
 keywords: ["mistral", "large", "reasoning", "model", "context", "october", "license", "retirement"]
 source: https://www.datastudios.org/post/mistral-large-4-vs-mistral-large-3-comparison
 source_anchor: ""

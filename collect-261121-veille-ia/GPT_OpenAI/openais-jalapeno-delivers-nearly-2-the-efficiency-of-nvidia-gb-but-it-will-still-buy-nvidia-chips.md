@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["jalapeno", "nvidia", "test", "openai", "inference", "first", "efficiency", "results"]
 source: https://www.topcpu.net/en/news/openai-jalapeno-inference-benchmarks-gb200-gb300
 source_anchor: ""

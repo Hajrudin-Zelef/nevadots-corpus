@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["samsung", "update", "beta", "galaxy", "also", "program", "users", "software"]
 source: https://www.sammobile.com/news/samsung-opens-one-ui-9-5-beta-program-galaxy-s26/
 source_anchor: ""

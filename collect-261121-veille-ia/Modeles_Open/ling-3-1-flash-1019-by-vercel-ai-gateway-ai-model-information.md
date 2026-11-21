@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["vercel", "gateway", "model", "ling", "flash", "information", "weights", "ling-3"]
 source: https://models.sulat.com/models/vercel-inclusionailing-31-flash-1019-17df16c9
 source_anchor: ""

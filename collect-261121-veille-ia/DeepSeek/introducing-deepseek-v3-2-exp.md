@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2025-10-15"]
 keywords: ["deepseek-v3", "introducing", "terminus", "exp", "deepseek", "sparse", "attention", "prices"]
 source: https://www.deepseek.com/en/news/v3-2-exp/
 source_anchor: ""

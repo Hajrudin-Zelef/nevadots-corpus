@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["luna", "task", "tokens", "effort", "index", "gpt-5", "gpt-6", "about"]
 source: https://llmlearner.com/models/gpt-6-luna
 source_anchor: ""

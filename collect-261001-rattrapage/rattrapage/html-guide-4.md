@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: []
-dates: ["2026-01-01", "2026-12-31"]
+dates: ["2026-01-01"]
 keywords: []
 source: docs/RAG/collect-261001-rattrapage/html_guide.md
 source_anchor: ""

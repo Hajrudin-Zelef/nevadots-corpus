@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["anthropic", "claude", "carahsoft", "onegov", "strategy", "through", "schedule", "delivers"]
 source: https://www.carahsoft.com/anthropic/gsa-onegov
 source_anchor: ""

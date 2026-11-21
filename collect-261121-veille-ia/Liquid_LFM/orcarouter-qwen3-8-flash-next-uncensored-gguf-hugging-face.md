@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["llama", "build", "qwen3", "orcarouter", "model", "files", "flash-next-uncensored-gguf", "gguf"]
 source: https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["nist", "fips", "signatures", "transition", "cryptography", "post-quantum", "federal", "deprecation"]
 source: https://quantumcomputingreport.com/nist-releases-final-ir-8547-establishing-definitive-post-quantum-cryptography-transition-timeline-and-deprecation-schedules/?amp
 source_anchor: ""

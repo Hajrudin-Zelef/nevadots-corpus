@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-11"]
 keywords: ["flash", "deepseek", "off-peak", "ai-digest", "cached-input", "rates", "active", "multimodal"]
 source: https://aidigest.shelfcritter.com/topics/deepseek-v4-1-flash
 source_anchor: ""

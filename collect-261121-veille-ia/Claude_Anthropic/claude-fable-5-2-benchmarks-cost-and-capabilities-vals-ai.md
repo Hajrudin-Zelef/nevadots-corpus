@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["vals", "claude", "fable", "index", "science", "opus", "benchmarks", "cost"]
 source: https://www.vals.ai/models/anthropic_claude-fable-5-2
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["package", "azure", "python", "agents", "stealer", "every", "code", "tokens"]
 source: https://ongoingideas.com/the-package-was-microsofts-the-code-wasnt/2026/cyber-security/1926/
 source_anchor: ""

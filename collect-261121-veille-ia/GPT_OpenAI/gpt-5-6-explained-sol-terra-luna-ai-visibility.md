@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-06"]
 keywords: ["gpt-5", "luna", "openai", "gpt-6", "terra", "chatgpt", "work", "three"]
 source: https://geotoolbox.ai/blog/gpt-5-6
 source_anchor: ""

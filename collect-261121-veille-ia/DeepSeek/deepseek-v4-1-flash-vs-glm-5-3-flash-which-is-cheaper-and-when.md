@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["flash", "glm-5", "deepseek", "input", "october", "checkpoint", "same", "models"]
 source: https://blog.laozhang.ai/en/posts/deepseek-v4-1-flash-vs-glm-5-3-flash
 source_anchor: ""

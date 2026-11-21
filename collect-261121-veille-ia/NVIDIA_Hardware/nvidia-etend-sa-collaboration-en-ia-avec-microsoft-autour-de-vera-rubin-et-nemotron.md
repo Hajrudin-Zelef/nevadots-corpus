@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["microsoft", "modeles", "nvidia", "nemotron", "foundry", "vera", "rubin", "donnees"]
 source: https://www.unite.ai/fr/nvidia-expands-microsoft-ai-collaboration-with-vera-rubin-and-nemotron/
 source_anchor: ""

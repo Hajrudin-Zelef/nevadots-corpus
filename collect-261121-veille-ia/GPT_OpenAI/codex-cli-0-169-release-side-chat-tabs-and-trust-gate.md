@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["codex", "tabs", "terminal", "trust", "release", "workspace", "side-chat", "side"]
 source: https://enghyu.com/en/ax/3970-codex-cli-0169-side-chat-trust/
 source_anchor: ""

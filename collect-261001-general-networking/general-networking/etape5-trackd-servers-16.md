@@ -5,7 +5,7 @@ domain: general-networking
 role: reference
 task: reference
 actors: ["AMD", "AWS", "Alibaba", "Baidu", "ByteDance", "China", "Google", "Meta", "Microsoft", "Nvidia", "Oracle", "United States"]
-dates: ["2026-01-20", "2026-02", "2026-04-15", "2026-05", "2026-06-15", "2026-07", "2026-07-21", "2026-08-03", "2026-28-07"]
+dates: ["2026-01-20", "2026-04-15", "2026-06-15", "2026-07-21", "2026-08-03"]
 keywords: ["amd", "asic", "aws", "capex", "compute", "dram", "gpu", "gpus", "helios", "hyperscaler", "inference", "memory"]
 source: docs/RAG/collect-261001-general-networking/etape5_trackD_servers.md
 source_anchor: ""

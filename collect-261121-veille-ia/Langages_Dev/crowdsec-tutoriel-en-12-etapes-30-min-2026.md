@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-05-11"]
 keywords: ["crowdsec", "publie", "millions", "tutoriel", "etapes", "source", "logs", "environ"]
 source: https://tech-insider.org/fr/crowdsec-tutoriel-proteger-serveur-linux-2026/
 source_anchor: ""

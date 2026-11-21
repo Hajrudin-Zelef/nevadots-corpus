@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-04-30"]
 keywords: ["codex", "model", "default", "gpt-6", "catalog", "changed", "release", "releases"]
 source: https://zenn.dev/kai_kou/articles/1228-codex-cli-0161-gpt-61-sol-default-guide?locale=en
 source_anchor: ""

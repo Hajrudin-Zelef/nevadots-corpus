@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["open", "meta", "model", "muse", "spark", "chinese", "models", "developers"]
 source: https://asiadaily.org/news/15613/
 source_anchor: ""

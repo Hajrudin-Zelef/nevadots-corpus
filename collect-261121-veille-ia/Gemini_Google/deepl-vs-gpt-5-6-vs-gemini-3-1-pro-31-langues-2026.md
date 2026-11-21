@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-06-26"]
 keywords: ["deepl", "gemini", "gpt-5", "usage", "langues", "depuis", "google", "abonnement"]
 source: https://tech-insider.org/fr/deepl-vs-gpt-5-6-vs-gemini-3-1-pro-2026/
 source_anchor: ""

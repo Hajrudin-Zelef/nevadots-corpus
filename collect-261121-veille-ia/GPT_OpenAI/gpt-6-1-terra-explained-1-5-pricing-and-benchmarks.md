@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["gpt-6", "terra", "openai", "input", "million", "tokens", "output", "gpt-5"]
 source: https://www.layer3labs.io/guides/gpt-6-1-terra-explained
 source_anchor: ""

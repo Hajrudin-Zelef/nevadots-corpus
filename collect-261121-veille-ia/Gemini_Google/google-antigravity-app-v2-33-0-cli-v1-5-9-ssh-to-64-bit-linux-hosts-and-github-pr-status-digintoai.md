@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["antigravity", "november", "github", "google", "dated", "pull", "linux", "status"]
 source: https://digintoai.com/en/articles/google-antigravity-app-v2-32-1-cli-v1-5-9-release-notes-hydrogen-via-adc-login-r-03e5335be562
 source_anchor: ""

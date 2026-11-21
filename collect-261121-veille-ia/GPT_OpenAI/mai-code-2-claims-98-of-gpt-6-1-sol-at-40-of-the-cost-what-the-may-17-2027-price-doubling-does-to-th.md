@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "flash", "cost", "gpt-6", "model", "microsoft", "price", "rate"]
 source: https://dev.to/ai_maya_063fc568e157562fd/mai-code-2-claims-98-of-gpt-61-sol-at-40-of-the-cost-what-the-may-17-2027-price-doubling-does-170h
 source_anchor: ""

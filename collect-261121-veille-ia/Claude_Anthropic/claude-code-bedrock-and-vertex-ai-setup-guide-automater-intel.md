@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["claude", "bedrock", "code", "model", "vertex", "anthropic", "guide", "through"]
 source: https://automater.ai/intel/claude-code-bedrock-vertex-setup/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["openai", "astra", "september", "model", "anthropic", "reached", "organizations", "more"]
 source: https://www.tvl.tech/blog/ai-market-updates-september-2026
 source_anchor: ""

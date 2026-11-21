@@ -5,7 +5,7 @@ domain: mikrotik
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2024-08-25"]
 keywords: ["disk", "routeros", "virtual", "network", "license", "hyper-v", "image", "vmware"]
 source: https://help.mikrotik.com/docs/spaces/ROS/pages/18350234/Cloud+Hosted+Router+CHR
 source_anchor: ""

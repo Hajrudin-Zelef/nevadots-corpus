@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["jules", "google", "export", "november", "antigravity", "changelog", "december", "shutdown"]
 source: https://explainx.ai/blog/google-jules-shutdown-december-31-antigravity-export-guide-2026
 source_anchor: ""

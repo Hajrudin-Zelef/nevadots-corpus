@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["chrome", "critical", "vulnerabilities", "google", "patching", "including", "flaws", "user"]
 source: https://finance.biggo.com/news/d7d2b2ea-db03-40d7-8a7c-079b9398975c
 source_anchor: ""

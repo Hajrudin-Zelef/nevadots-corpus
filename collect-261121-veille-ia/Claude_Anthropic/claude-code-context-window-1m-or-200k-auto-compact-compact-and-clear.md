@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["window", "context", "claude", "code", "auto-compact", "compact", "model", "every"]
 source: https://caprock.dev/guides/claude-code-context-window/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: github-workflows-network-ci-yml-sketch
 role: deep-dive
 task: reference
 actors: []
-dates: ["2026-07", "2026-08-19", "2026-09-22", "2026-11-30", "2027-05", "2028-04-01"]
+dates: ["2026-08-19", "2026-09-22"]
 keywords: ["guardrails", "mcp", "research", "sandbox"]
 source: docs/RAG/etape6_phaseE2_ansible_nornir_terraform.md
 source_anchor: ""

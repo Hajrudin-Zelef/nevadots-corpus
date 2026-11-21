@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["gpt-6", "astra", "model", "work", "output", "input", "coding", "context"]
 source: https://www.intelligentliving.co/gpt-62-astra-vs-sol-smarter-default/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["gpt-6", "openai", "retrieved", "astra", "october", "terra", "safety", "release"]
 source: https://en.wikipedia.org/wiki/GPT-6.1
 source_anchor: ""

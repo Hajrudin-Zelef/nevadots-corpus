@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["oregon", "openai", "chatgpt", "safety", "against", "about", "legal", "action"]
 source: https://www.itechpost.com/articles/237829/20261118/oregon-takes-legal-action-against-openai-over-chatgpt-child-safety-concerns.htm
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "search", "tools", "chat", "model", "thinking", "fetch", "tool"]
 source: https://metarix.io/deepseek-api-tools-pricing
 source_anchor: ""

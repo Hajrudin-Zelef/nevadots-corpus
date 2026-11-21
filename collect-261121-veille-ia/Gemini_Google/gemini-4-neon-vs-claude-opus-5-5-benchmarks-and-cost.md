@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["neon", "opus", "claude", "gemini", "google", "tokens", "leads", "benchmarks"]
 source: https://www.layer3labs.io/comparisons/gemini-4-neon-vs-claude-opus-5-5
 source_anchor: ""

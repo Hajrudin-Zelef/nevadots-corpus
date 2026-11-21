@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["gemini", "google", "carbon", "artificial", "analysis", "model", "november", "input"]
 source: https://www.lindy.ai/blog/gemini-4-carbon
 source_anchor: ""

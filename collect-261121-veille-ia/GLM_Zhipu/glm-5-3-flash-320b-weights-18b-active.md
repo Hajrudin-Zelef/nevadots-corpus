@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-19"]
 keywords: ["glm-5", "throughput", "tokens", "output", "model", "flash", "prompt", "flashx"]
 source: https://musthave.ai/glm-5-3-flash-18b-active-parameters-1m-context/
 source_anchor: ""

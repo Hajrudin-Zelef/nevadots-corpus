@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "nvidia", "default", "spark", "speculative", "nvidia-nemotron-3", "lightning-30b-a3b-nvfp4", "hardware"]
 source: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4
 source_anchor: ""

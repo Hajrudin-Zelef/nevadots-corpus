@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["agent-framework", "pypi", "azure", "aikido", "minutes", "malicious", "releases", "microsoft"]
 source: https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes
 source_anchor: ""

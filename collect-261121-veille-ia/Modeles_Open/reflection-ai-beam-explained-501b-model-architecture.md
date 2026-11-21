@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["reflection", "beam", "model", "october", "tokens", "pretraining", "open-weight", "weights"]
 source: https://www.layer3labs.io/guides/reflection-beam-explained
 source_anchor: ""

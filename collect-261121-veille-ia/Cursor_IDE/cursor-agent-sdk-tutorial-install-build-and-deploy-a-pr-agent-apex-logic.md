@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "agent-sdk", "agent", "october", "grok", "install", "package", "agents"]
 source: https://www.apex-logic.net/news/cursor-agent-sdk-tutorial-2026
 source_anchor: ""

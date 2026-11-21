@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["AWS", "Anthropic", "EU", "Glasswing", "Google", "Meta", "Microsoft", "MiniMax", "Mistral", "Moonshot", "Nvidia", "OpenAI", "OpenRouter", "United States", "xAI"]
-dates: ["2026-02-04", "2026-03-23", "2026-09-24", "2026-09-27", "2026-12-31"]
+dates: ["2026-02-04", "2026-03-23", "2026-09-24", "2026-09-27"]
 keywords: ["agent", "agents", "agi", "apache", "astra", "attention", "bedrock", "benchmarks", "chatgpt", "claude", "copilot", "cyber"]
 source: docs/RAG/collect-261001-ia-llm/ia_modeles_occident.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-16"]
 keywords: ["claude", "gemini", "aout", "opus", "classement", "modele", "chatgpt", "modeles"]
 source: https://tech-insider.org/fr/ai-act-claude-opus-5-gpt-5-6-gemini-2026/
 source_anchor: ""

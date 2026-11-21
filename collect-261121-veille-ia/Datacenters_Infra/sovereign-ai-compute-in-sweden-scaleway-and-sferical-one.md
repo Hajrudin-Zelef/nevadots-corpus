@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-13"]
 keywords: ["sferical", "scaleway", "sovereign", "release", "machine", "models", "compute", "sweden"]
 source: https://www.supercomputing.news/ai/sweden-sovereign-ai-compute-scaleway-sferical-one
 source_anchor: ""

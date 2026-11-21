@@ -5,7 +5,7 @@ domain: atria-dawn
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-11"]
 keywords: ["model", "preview", "card", "atria", "dawn", "agentic", "internlm", "quietly"]
 source: https://www.orcarouter.ai/blog/atria-dawn-preview-quiet-release
 source_anchor: ""

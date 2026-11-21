@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-11-28"]
 keywords: ["model", "nvidia", "reasoning", "tools", "nemo", "data", "open", "nvidia-nemotron-3-nano-30b-a3b-bf16"]
 source: https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16
 source_anchor: ""

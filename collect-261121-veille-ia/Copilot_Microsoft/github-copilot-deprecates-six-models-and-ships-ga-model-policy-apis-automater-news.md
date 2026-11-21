@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["copilot", "model", "enterprise", "github", "models", "gpt-6", "gpt-5", "model-policy"]
 source: https://automater.ai/news/github-copilot-six-models-deprecated-model-policy-api-ga/
 source_anchor: ""

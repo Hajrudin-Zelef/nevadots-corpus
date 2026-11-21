@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["agents", "chrome", "google", "mirror", "dimension", "browsing", "security", "details"]
 source: https://www.siliconreport.com/google-details-mirror-dimension-to-test-chrome-ai-browsing-agents
 source_anchor: ""

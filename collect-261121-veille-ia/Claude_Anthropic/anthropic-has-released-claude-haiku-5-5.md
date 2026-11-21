@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["haiku", "gpt-6", "tokens", "luna", "claude", "model", "intelligence", "flash"]
 source: https://artificialanalysis.ai/articles/claude-haiku-5-5
 source_anchor: ""

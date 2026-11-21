@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-04"]
 keywords: ["claude", "directory", "plugins", "plugin", "documentation", "marketplace", "september", "portal"]
 source: https://max.nardit.com/articles/claude-plugin-directory-explained
 source_anchor: ""

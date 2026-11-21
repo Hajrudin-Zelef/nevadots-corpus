@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["grok", "coding", "model", "tokens", "review", "artificial", "analysis", "launch"]
 source: https://carthageelectronics.com/grok-4-7-in-depth-review-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-07"]
 keywords: ["nvidia", "rubin", "vera", "announced", "production", "nvl72", "shipping", "release"]
 source: https://gpuwerk.com/blog/nvidia-vera-rubin-for-buyers/
 source_anchor: ""

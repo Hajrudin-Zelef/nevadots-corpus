@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-01-23"]
 keywords: ["ollama", "launch", "cloud", "models", "context", "length", "coding", "opencode"]
 source: https://ollama.com/blog/launch
 source_anchor: ""

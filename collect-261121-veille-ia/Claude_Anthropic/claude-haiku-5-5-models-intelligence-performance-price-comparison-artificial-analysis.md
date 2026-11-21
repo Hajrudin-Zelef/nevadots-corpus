@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["intelligence", "models", "claude", "haiku", "index", "tokens", "task", "price"]
 source: https://artificialanalysis.ai/models/claude-haiku-5-5?models=claude-haiku-5-5%2Cclaude-haiku-5-5-xhigh%2Cclaude-haiku-5-5-high%2Cclaude-haiku-5-5-medium%2Cclaude-haiku-5-5-low%2Cclaude-opus-4-6-adaptive%2Cclaude-opus-4-6
 source_anchor: ""

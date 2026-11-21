@@ -5,7 +5,7 @@ domain: banques-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["citi", "agent", "agreement", "actions", "section", "agents", "online", "access"]
 source: https://alfw.ai/article/citi-ai-agent-liability-leaked-credentials/
 source_anchor: ""

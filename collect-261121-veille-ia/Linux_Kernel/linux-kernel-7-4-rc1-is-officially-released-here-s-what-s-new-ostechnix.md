@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["linux", "kernel", "merge", "release", "commits", "window", "developers", "greg"]
 source: https://ostechnix.com/linux-kernel-7-4-rc1-released/
 source_anchor: ""

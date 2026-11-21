@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-05-19"]
 keywords: ["gemini", "users", "google", "billion", "monthly", "active", "million", "statistics"]
 source: https://quashbugs.com/blog/gemini-app-active-user-statistics
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["data", "google", "orbit", "blue", "origin", "satellite", "centers", "space"]
 source: https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/
 source_anchor: ""

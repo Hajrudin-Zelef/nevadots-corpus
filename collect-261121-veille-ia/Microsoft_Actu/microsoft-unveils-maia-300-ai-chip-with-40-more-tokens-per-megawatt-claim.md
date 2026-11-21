@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["microsoft", "maia", "more", "tokens", "chip", "megawatt", "systems", "claim"]
 source: https://thenyjournals.com/microsoft-unveils-maia-300-ai-chip/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-30"]
 keywords: ["opencode", "session", "code", "header", "flash", "send", "models", "qwen3"]
 source: https://opencode.ai/v2/docs/console/go/
 source_anchor: ""

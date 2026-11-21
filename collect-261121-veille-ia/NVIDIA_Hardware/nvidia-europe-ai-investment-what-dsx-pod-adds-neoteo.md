@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["nvidia", "investment", "neoteo", "company", "says", "nvidias", "billion", "europe"]
 source: https://www.neoteo.com/en/nvidias-european-ai-push-dsx-pod-uk-funding-and-swedens-compute
 source_anchor: ""

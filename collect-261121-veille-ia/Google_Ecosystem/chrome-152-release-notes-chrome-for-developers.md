@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["chrome", "permet", "entree", "reference", "chromestatus", "specification", "cible", "utilisateur"]
 source: https://developer.chrome.com/release-notes/152
 source_anchor: ""

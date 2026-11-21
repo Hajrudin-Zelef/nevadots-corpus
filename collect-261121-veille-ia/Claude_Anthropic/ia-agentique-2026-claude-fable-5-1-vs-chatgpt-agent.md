@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["claude", "fable", "agent", "agentique", "chatgpt", "sans", "chatbot", "septembre"]
 source: https://tech-insider.org/fr/ia-agentique-claude-fable-5-1-vs-chatgpt-agent-2026/
 source_anchor: ""

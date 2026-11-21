@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gpt-6", "gemini", "neon", "tokens", "benchmarks", "input", "token", "better"]
 source: https://llm-stats.com/models/compare/gemini-4-neon-vs-gpt-6.2-sol
 source_anchor: ""

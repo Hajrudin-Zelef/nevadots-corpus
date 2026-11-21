@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-04-26"]
 keywords: ["video", "runway", "gen-4", "sora", "pricing", "features", "generation", "review"]
 source: https://pick-right.com/tools/runway/
 source_anchor: ""

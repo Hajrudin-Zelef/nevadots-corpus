@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-12-23"]
 keywords: ["python", "language", "summit", "garbage", "collection", "namespace", "release", "posts"]
 source: https://blog.python.org/blog/year/2026/
 source_anchor: ""

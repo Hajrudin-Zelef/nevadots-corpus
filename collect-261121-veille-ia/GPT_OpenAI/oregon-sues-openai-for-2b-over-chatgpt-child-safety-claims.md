@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["oregon", "openai", "state", "chatgpt", "page", "complaint", "november", "general"]
 source: https://www.recordinglaw.com/news/oregon-openai-chatgpt-minors-lawsuit/
 source_anchor: ""

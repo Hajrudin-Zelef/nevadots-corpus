@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-17"]
 keywords: ["tailscale", "tutoriel", "etapes", "wireguard", "reseau", "mesh", "dollars", "selon"]
 source: https://tech-insider.org/fr/tailscale-tutoriel-vpn-mesh-13-etapes-2026/
 source_anchor: ""

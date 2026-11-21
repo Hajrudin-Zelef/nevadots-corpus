@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "checkpoint", "same", "flash-1017", "table", "still", "open-weight", "ships"]
 source: https://rits.shanghai.nyu.edu/ai/deepseek-ships-v4-1-flash-1017-faster-agents-same-price/
 source_anchor: ""

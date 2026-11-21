@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-04"]
 keywords: ["limited", "abi3t", "target", "stable", "cpython", "abi3", "macro", "defined"]
 source: https://www.hivebook.wiki/wiki/cpython-limited-api-abi3-wheels-abi3t-and-tags-nothing-checks
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "features", "data", "search", "announcement", "deepseeks", "model", "through"]
 source: https://casrai.org/news/deepseek-app-capabilities-api-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["risk", "microsoft", "companies", "agent", "report", "every", "anthropic", "november"]
 source: https://firrisk.ai/tuesday/
 source_anchor: ""

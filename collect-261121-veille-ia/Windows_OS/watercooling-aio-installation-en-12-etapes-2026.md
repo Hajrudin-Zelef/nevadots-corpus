@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-06-16"]
 keywords: ["watercooling", "liquide", "gamme", "ventirad", "etapes", "installation", "desormais", "cest"]
 source: https://tech-insider.org/fr/watercooling-aio-installation-2026/
 source_anchor: ""

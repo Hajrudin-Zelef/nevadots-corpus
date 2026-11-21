@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["flux", "video", "seedance", "lite", "kling", "grok", "flawless", "arena"]
 source: https://quantslant.com/flux-3-max-vs-kling-seedance-veo-wan/
 source_anchor: ""

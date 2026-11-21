@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["flash", "minimax", "model", "minimaxs", "deepseek", "about", "cost", "tokens"]
 source: https://foundermag.co/launches/minimax-m3-1-flash/
 source_anchor: ""

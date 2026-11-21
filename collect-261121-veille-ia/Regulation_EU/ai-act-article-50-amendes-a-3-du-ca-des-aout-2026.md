@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["aout", "chez", "change", "gpt-5", "mistral", "deployeur", "amendes", "modeles"]
 source: https://tech-insider.org/fr/ai-act-article-50-entreprises-amendes-2026/
 source_anchor: ""

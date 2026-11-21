@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "model", "opus", "anthropic", "announcement", "costs", "mythos"]
 source: https://blog.beerandcode.com.br/en/news/claude-fable-5-1-vs-opus-5
 source_anchor: ""

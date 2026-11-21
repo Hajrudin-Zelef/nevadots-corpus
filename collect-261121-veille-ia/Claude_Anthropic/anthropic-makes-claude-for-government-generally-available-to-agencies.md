@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["claude", "agencies", "anthropic", "usage", "administrators", "government", "beta", "seat"]
 source: https://www.unite.ai/anthropic-makes-claude-for-government-generally-available-to-agencies/
 source_anchor: ""

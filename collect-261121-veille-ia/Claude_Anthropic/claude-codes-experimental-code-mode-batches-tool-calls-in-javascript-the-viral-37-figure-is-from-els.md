@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["code", "claude", "mode", "tool", "javascript", "calls", "experimental", "anthropic"]
 source: https://i10x.ai/news/claude-code-code-mode-javascript-tool-calls
 source_anchor: ""

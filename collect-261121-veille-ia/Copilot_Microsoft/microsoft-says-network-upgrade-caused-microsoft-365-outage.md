@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["microsoft", "network", "upgrade", "traffic", "servers", "outage", "capacity", "issue"]
 source: https://betanews.com/article/microsoft-365-outage-network-upgrade/
 source_anchor: ""

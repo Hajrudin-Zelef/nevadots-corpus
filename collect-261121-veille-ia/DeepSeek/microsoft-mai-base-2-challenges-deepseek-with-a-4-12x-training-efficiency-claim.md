@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["microsoft", "training", "model", "mai-base-2", "each", "data", "deepseek", "utilization"]
 source: https://www.remio.ai/post/microsoft-mai-base-2-challenges-deepseek-with-a-4-12x-training-efficiency-claim
 source_anchor: ""

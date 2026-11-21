@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["gpt-6", "astra", "modele", "avantage", "trois", "gemini", "flash", "opus"]
 source: https://tech-insider.org/fr/gpt-6-astra-vs-opus-5-vs-gemini-3-8-flash-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["linux", "same", "scheduling", "cache-aware", "release", "threads", "cache", "changes"]
 source: https://www.howmation.com/en_US/blog/article/linux-7-2-cache-aware-scheduling-faster-ext4-what-changes-for-your-homelab
 source_anchor: ""

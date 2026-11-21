@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-15"]
 keywords: ["deepseek", "modele", "prix", "glm-5", "trois", "flash", "qwen3", "parametres"]
 source: https://tech-insider.org/fr/deepseek-v4-vs-qwen3-8-max-vs-glm-5-3-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["astra", "gpt-6", "model", "tokens", "pricing", "effort", "chatgpt", "prompt"]
 source: https://computingforgeeks.com/gpt-6-astra-released-features-benchmarks/
 source_anchor: ""

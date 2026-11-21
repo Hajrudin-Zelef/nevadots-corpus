@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["astra", "claude", "against", "openai", "fable", "gpt-6", "announcement", "million"]
 source: https://www.modperl.com/en/gpt-6-astra-benchmarks-pricing-cybersecurity/
 source_anchor: ""

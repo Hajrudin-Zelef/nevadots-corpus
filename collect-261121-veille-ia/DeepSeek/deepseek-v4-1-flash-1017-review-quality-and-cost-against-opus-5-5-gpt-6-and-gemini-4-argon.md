@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["deepseek", "opus", "gpt-6", "about", "flash", "gemini", "argon", "model"]
 source: https://x.yrzhe.top/en/articles/deepseek-v4-1-flash-review
 source_anchor: ""

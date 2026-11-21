@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "claude", "model", "opus", "effort", "launch", "anthropic", "only"]
 source: https://dive.vladyslavpodoliako.com/chapters/55-claude-sonnet-5-5/
 source_anchor: ""

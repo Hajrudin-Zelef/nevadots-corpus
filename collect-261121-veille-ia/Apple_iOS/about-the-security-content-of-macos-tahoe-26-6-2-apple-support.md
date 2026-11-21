@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-08-17"]
 keywords: ["macos", "tahoe", "security", "available", "impact", "description", "addressed", "improved"]
 source: https://support.apple.com/en-us/148281
 source_anchor: ""

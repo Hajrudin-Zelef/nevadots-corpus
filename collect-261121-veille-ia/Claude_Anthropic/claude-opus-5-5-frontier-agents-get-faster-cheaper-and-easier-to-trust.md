@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "claude", "work", "more", "less", "anthropic", "lower", "fable"]
 source: https://dev.to/0xgosu/claude-opus-55-frontier-agents-get-faster-cheaper-and-easier-to-trust-pl7
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "microsoft", "mai-base-2", "parameters", "pre-training", "claims", "microsofts", "comparison"]
 source: https://www.aiaffairs.com/technology/microsoft-mai-base-2-deepseek-pretraining-efficiency/
 source_anchor: ""

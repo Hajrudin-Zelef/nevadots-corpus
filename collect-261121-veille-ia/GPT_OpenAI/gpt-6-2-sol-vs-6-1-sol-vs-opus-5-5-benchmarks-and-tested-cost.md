@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["gpt-6", "opus", "agent", "medium", "same", "runs", "effort", "codex"]
 source: https://blog.laozhang.ai/en/posts/gpt-6-2-sol-vs-gpt-6-1-sol-vs-claude-opus-5-5
 source_anchor: ""

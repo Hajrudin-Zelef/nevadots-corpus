@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-08-01"]
 keywords: ["article", "august", "system", "regulation", "apply", "high-risk", "obligations", "systems"]
 source: https://docs.modulos.ai/frameworks/eu-ai-act
 source_anchor: ""

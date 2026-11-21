@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-31"]
 keywords: ["code", "commission", "content", "article", "section", "practice", "ai-generated", "providers"]
 source: https://www.locize.com/blog/ai-act-transparency-code-of-practice
 source_anchor: ""

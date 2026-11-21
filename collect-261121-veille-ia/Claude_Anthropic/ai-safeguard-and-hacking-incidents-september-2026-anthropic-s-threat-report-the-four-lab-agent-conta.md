@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["containment", "anthropic", "threat", "openai", "report", "anthropics", "incidents", "september"]
 source: https://intel.innerpulse.net/doc/ai-safeguard-and-hacking-incidents-september-2026-anthropic-s-threat-report-the
 source_anchor: ""

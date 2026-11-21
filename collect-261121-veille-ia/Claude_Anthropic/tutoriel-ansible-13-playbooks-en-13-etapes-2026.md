@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-28"]
 keywords: ["ansible", "playbooks", "projet", "tutoriel", "etapes", "selon", "avril", "sortie"]
 source: https://tech-insider.org/fr/ansible-playbook-tutoriel-13-etapes-devops-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-06-01"]
 keywords: ["copilot", "model", "github", "claude", "gemini", "models", "fable", "december"]
 source: https://www.datastudios.org/post/github-copilot-retires-six-models-december-14-claude-fable-5-gemini-4-argon
 source_anchor: ""

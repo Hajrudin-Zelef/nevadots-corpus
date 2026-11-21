@@ -5,7 +5,7 @@ domain: step-7-phase-a-server-operating-systems-linux-os-layer
 role: deep-dive
 task: reference
 actors: ["AWS", "Google"]
-dates: ["2023-06-10", "2026-04", "2026-04-23", "2026-06-11", "2026-07-11", "2026-08", "2026-08-31", "2026-09", "2028-06-30", "2031-04", "2031-06-30", "2033-06-30", "2036-04"]
+dates: ["2023-06-10", "2026-04-23", "2026-06-11", "2026-07-11", "2026-08-31"]
 keywords: ["aws", "memory", "research"]
 source: docs/RAG/etape7_phaseA_os.md
 source_anchor: ""

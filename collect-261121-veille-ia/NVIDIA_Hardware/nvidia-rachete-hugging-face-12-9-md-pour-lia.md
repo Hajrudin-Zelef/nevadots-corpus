@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["nvidia", "hugging", "face", "dollars", "septembre", "milliards", "avait", "modeles"]
 source: https://tech-insider.org/fr/nvidia-rachat-hugging-face-2026/
 source_anchor: ""

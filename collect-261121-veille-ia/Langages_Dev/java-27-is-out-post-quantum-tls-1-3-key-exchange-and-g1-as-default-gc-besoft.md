@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["java", "default", "preview", "post-quantum", "exchange", "memory", "release", "early"]
 source: https://besoft.vn/en/blog/java-27-ra-mat-mat-ma-hau-luong-tu-g1-mac-dinh
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "sonnet", "work", "tasks", "anthropic", "claude", "rank", "terminal-bench"]
 source: http://dev.to/sichi_chen_a4a87b20aa2dbf/claude-haiku-55s-scorecard-stop-reading-the-rank-start-routing-tasks-1m54
 source_anchor: ""

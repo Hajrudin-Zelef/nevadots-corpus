@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-11"]
 keywords: ["gpt-5", "terra", "openai", "luna", "available", "here", "july", "chatgpt"]
 source: https://www.notebookcheck.net/OpenAI-GPT-5-6-is-here-Sol-Terra-and-Luna-now-available.1340205.0.html
 source_anchor: ""

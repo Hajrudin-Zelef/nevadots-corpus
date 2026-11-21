@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-30"]
 keywords: ["claude", "tokens", "sonnet", "model", "haiku", "comparison", "output", "performance"]
 source: https://docsbot.ai/models/compare/claude-haiku-5-5/claude-sonnet-5-5
 source_anchor: ""

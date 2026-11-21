@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-08-01"]
 keywords: ["systems", "obligations", "force", "provisions", "high-risk", "transparency", "august", "omnibus"]
 source: https://www.houthoff.com/insights/news/ai-act-transparency-obligations-and-the-ai-omnibus-regulation/
 source_anchor: ""

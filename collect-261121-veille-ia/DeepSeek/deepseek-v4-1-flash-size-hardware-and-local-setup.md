@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["deepseek", "flash", "token", "parameters", "billion", "weights", "engram", "active"]
 source: https://vdf.ai/blog/deepseek-v4-1-flash-local/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-01-04"]
 keywords: ["model", "muse", "spark", "open", "each", "meta", "experts", "parameters"]
 source: https://huggingface.co/blog/meta-muse-spark-open
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: ["2027-04-09"]
+dates: []
 keywords: ["sqlite", "option", "release", "command", "history", "prompt", "default", "timeline"]
 source: https://sqlite.org/draft/changes.html
 source_anchor: ""

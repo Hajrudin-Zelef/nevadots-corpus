@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["oracle", "cloud", "inference", "silicon", "world", "google", "nvidia", "first"]
 source: https://futurumgroup.com/insights/oracle-makes-the-supercluster-multi-silicon-at-ai-world-2026/
 source_anchor: ""

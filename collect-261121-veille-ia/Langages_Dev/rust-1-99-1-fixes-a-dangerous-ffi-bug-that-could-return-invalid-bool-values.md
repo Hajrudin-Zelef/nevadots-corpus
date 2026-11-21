@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["rust", "return", "could", "fixes", "bool", "dangerous", "invalid", "values"]
 source: https://medium.com/@rothyyorn9/rust-1-99-1-fixes-a-dangerous-ffi-bug-that-could-return-invalid-bool-values-325379d8d40e
 source_anchor: ""

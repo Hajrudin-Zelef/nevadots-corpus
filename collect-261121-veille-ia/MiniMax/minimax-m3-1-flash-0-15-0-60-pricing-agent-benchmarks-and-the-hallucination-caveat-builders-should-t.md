@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "venturebeat", "agent", "says", "cost", "about", "benchmarks"]
 source: https://www.harelasaf.com/articles/minimax-m3-1-flash-agent-model-price-claims-hallucination-caveat
 source_anchor: ""

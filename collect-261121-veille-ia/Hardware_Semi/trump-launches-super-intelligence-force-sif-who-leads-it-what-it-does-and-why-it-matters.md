@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-04"]
 keywords: ["intelligence", "super", "force", "federal", "trump", "white", "house", "does"]
 source: https://www.bbntimes.com/technology/trump-launches-super-intelligence-force-sif-who-leads-it-what-it-does-and-why-it-matters
 source_anchor: ""

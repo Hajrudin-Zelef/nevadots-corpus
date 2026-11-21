@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["updates", "more", "fixes", "linus", "merge", "just", "window", "reason"]
 source: https://lwn.net/Articles/1104653/
 source_anchor: ""

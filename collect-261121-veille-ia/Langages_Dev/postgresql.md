@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-13"]
 keywords: ["postgresql", "data", "database", "major", "october", "backend", "constraints", "citus"]
 source: https://kb.ekarisky.com/databases/postgresql/
 source_anchor: ""

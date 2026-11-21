@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["cursor", "agents", "teammate", "projects", "work", "coding", "talk", "goes"]
 source: https://agentstacklist.com/trending/cursor/projects-multiplayer-your-agents-talk-to-teammates-agents/
 source_anchor: ""

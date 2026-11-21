@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["nvidia", "vera", "rubin", "oracle", "blackwell", "cloud", "infrastructure", "multi-gigawatt"]
 source: https://pandromeda.com/hardware/nvidia-vera-rubin-release-specs-and-the-oracle-deal
 source_anchor: ""

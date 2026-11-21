@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-02"]
 keywords: ["government", "openai", "dhabi", "inception42", "agreements", "energy", "first", "release"]
 source: ""
 source_anchor: ""

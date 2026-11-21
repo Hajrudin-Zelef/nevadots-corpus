@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["lfm3-1", "artificial", "analysis", "free", "model", "provider", "index", "outputs"]
 source: https://openrouter.ai/liquid/lfm-3-1.7b:free
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["astra", "model", "gpt-6", "gpt6", "reasoning", "openai", "tokens", "text"]
 source: https://dev.to/modelflare_dev/gpt-62-astra-vs-sol-benchmarks-and-api-pricing-2n8p
 source_anchor: ""

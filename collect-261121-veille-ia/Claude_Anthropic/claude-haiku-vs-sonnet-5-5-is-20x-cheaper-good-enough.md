@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["sonnet", "haiku", "claude", "tokens", "anthropic", "effort", "model", "benchmark"]
 source: https://www.respan.ai/blog/claude-3-5-sonnet-vs-claude-3-5-haiku
 source_anchor: ""

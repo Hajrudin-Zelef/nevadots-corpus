@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["lfm3", "ollama", "against", "liquid", "llama", "model", "models", "lfm3-1"]
 source: https://geekbyte.com/post/liquid-ai-lfm3-local-models/
 source_anchor: ""

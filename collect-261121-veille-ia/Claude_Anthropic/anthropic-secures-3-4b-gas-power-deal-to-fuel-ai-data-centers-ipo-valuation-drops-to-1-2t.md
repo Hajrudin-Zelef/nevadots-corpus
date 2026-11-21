@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["anthropic", "billion", "power", "data", "electricity", "infrastructure", "generators", "deal"]
 source: https://bravenewcoin.com/insights/anthropic-secures-3-4b-gas-power-deal-to-fuel-ai-data-centers-ipo-valuation-drops-to-1-2t
 source_anchor: ""

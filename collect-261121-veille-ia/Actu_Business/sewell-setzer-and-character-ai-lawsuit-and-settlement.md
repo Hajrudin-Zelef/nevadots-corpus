@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-02-28"]
 keywords: ["character", "chatbot", "suicide", "after", "sewell", "setzer", "court", "lawsuit"]
 source: https://warningshots.ai/i/setzer-character-ai-suicide/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2025-12-02"]
 keywords: ["mistral", "large", "model", "preview", "weights", "october", "simon", "text"]
 source: https://www.dsebastien.net/mistral-large-4/
 source_anchor: ""

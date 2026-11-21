@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-28"]
 keywords: ["codex", "usage", "install", "openai", "chatgpt", "update", "limit", "version"]
 source: https://www.turboai.dev/blog/codex-cli-versions
 source_anchor: ""

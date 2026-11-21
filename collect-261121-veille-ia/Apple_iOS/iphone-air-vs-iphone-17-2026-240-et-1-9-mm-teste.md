@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-04-07"]
 keywords: ["iphone", "liphone", "septembre", "gamme", "france", "avril", "gurman", "apple"]
 source: https://tech-insider.org/fr/iphone-air-vs-iphone-17-2026/
 source_anchor: ""

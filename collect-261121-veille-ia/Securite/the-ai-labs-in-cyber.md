@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-09"]
 keywords: ["cyber", "security", "model", "labs", "mythos", "partners", "crowdstrike", "palo"]
 source: https://wiki.el-doradocapital.com/20e-ai-labs-cyber
 source_anchor: ""

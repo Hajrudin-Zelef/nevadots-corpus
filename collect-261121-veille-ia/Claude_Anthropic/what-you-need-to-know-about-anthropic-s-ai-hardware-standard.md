@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["standard", "safety", "hardware", "anthropic", "model", "equipment", "device", "research"]
 source: https://cybermediacreations.com/what-you-need-to-know-about-anthropic-s-ai-hardware-standard/
 source_anchor: ""

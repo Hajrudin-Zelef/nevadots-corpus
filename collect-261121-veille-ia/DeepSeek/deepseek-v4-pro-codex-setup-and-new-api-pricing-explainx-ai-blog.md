@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "codex", "agent", "setup", "points", "official", "table", "august"]
 source: https://explainx.ai/blog/deepseek-v4-pro-0813-terminal-bench-cline-august-2026
 source_anchor: ""

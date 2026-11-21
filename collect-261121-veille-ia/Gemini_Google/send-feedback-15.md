@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2023-08-10"]
 keywords: ["filter", "exempt", "action", "facebook", "traffic", "fortigate", "match", "filters"]
 source: https://docs.fortinet.com/document/fortigate/7.4.3/administration-guide/615462/url-filter
 source_anchor: ""

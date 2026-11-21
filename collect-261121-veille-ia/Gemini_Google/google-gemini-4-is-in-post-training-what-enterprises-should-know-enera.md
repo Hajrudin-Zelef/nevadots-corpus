@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-07-21"]
 keywords: ["post-training", "google", "gemini", "september", "released", "flagship", "enterprises", "should"]
 source: https://www.eneralabs.com/blog/google-gemini-4-post-training-enterprise-ai-2026/
 source_anchor: ""

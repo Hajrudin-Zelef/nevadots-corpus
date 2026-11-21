@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["claude", "sonnet", "opus", "anthropic", "work", "tokens", "model", "models"]
 source: https://www.cynoteck.com/blog-post/claude-sonnet-5-5-vs-claude-opus-5-5
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-29"]
 keywords: ["voluntary", "accord", "industry", "platform", "federal", "new", "name", "used"]
 source: https://www.benton.org/headlines/new-name-new-platform-and-voluntary-industry-accord-what-you-used-call-ai
 source_anchor: ""

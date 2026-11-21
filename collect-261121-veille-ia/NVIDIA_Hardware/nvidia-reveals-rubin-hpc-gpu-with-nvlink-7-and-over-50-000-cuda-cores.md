@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["nvidia", "rubin", "cores", "cuda", "nvlink", "reveals", "vera", "faster"]
 source: https://hothardware.com/news/nvidia-reveals-rubin-hpc-gpu-nvlink-7-over-50000-cuda-cores
 source_anchor: ""

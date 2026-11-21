@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["chrome", "security", "synthetic", "agents", "builds", "web", "test", "browsing"]
 source: https://www.ai-news-brief.info/chrome-security-builds-a-synthetic-web-to-test-ai-browsing-agents/
 source_anchor: ""

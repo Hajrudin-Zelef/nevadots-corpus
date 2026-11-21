@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["python", "paquets", "dastral", "aout", "astral", "ruff", "comme", "outils"]
 source: https://tech-insider.org/fr/uv-python-tutoriel-12-etapes-2026/
 source_anchor: ""

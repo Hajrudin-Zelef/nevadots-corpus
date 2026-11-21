@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["fable", "claude", "opus", "benchmark", "price", "tier", "tokens", "models"]
 source: https://www.fullstack.com/blog/claude-opus-5-5-vs-fable-5-1-when-is-fable-worth-it
 source_anchor: ""

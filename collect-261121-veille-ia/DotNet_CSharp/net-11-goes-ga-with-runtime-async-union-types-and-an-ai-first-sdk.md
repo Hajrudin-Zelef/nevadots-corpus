@@ -5,7 +5,7 @@ domain: dotnet-csharp
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["runtime", "async", "union", "types", "shipped", "preview", "goes", "ai-first"]
 source: https://medium.com/@adrianbailador/net-11-goes-ga-with-runtime-async-union-types-and-an-ai-first-sdk-17c9482b4b1e
 source_anchor: ""

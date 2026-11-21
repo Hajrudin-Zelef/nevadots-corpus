@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["release", "postgresql", "candidate", "beta", "shipped", "november", "features", "before"]
 source: http://dev.to/muhammadmoiz269/postgresql-19-release-candidate-what-shipped-what-was-cut-how-to-upgrade-5foi
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["devin", "desktop", "sessions", "november", "v3000", "background", "local", "adds"]
 source: https://digintoai.com/en/articles/devin-desktop-v3-13-4-cli-v3000-13-4-release-notes-multi-tab-command-center-shar-23a6557d84b3
 source_anchor: ""

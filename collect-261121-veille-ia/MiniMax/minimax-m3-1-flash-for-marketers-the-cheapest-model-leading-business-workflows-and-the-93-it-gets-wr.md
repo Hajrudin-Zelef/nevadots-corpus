@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "model", "flash", "input", "tokens", "benchmark", "business", "workflows"]
 source: https://www.aimarketingfocus.com/posts/minimax-m3-1-flash-marketers/
 source_anchor: ""

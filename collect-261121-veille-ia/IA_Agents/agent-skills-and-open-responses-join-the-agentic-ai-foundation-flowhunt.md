@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-20"]
 keywords: ["agent", "skills", "foundation", "responses", "open", "agents", "agentic", "anthropic"]
 source: https://www.flowhunt.io/blog/agentic-ai-foundation-agent-skills-open-responses/
 source_anchor: ""

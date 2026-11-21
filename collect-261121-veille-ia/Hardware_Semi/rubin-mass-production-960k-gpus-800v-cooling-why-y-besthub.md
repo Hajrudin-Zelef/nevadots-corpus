@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-29"]
 keywords: ["rubin", "bandwidth", "full", "rack", "gpus", "cooling", "single", "factory"]
 source: https://www.besthub.dev/articles/rubin-mass-production-960k-gpus-800v-cooling-why-your-mac-isn-t-obsolete-d3921b785fff
 source_anchor: ""

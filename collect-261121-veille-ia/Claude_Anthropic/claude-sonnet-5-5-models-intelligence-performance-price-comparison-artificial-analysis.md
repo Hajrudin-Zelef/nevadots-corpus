@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["intelligence", "models", "claude", "sonnet", "index", "tokens", "task", "price"]
 source: https://artificialanalysis.ai/models/claude-sonnet-5-5
 source_anchor: ""

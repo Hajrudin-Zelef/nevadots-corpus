@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2025-12-01"]
 keywords: ["runway", "video", "gen-4", "aleph", "studio", "nodes", "models", "credits"]
 source: https://toolsworld.ai/runway-ml/
 source_anchor: ""

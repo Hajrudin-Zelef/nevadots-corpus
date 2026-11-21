@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["pprof", "goroutine", "profile", "goroutineleak", "production", "json", "team", "release"]
 source: https://wawand.co/blog/posts/go-127-production-features/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["variant", "alphagenome", "atlas", "deepmind", "genome", "precomputed", "every", "model"]
 source: ""
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["profile", "inference", "only", "active", "gpt-6", "terra", "openai", "bedrock"]
 source: https://www.modeleol.com/models/openai-gpt-6-1-terra
 source_anchor: ""

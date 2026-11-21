@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["model", "reflection", "beam", "open", "weights", "under", "apache", "build"]
 source: https://www.digitalapplied.com/blog/reflection-beam-open-model-apache-2-licence-hardware
 source_anchor: ""

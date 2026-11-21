@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["video", "elorian", "glimpse", "chart", "tokens", "model", "charts", "output"]
 source: https://rohitai.com/blog/elorian-glimpse-chart-video-analysis
 source_anchor: ""

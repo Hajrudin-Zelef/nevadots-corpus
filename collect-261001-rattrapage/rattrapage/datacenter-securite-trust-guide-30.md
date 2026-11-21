@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: []
-dates: ["2026-09-27", "2027-01-01"]
+dates: ["2026-09-27"]
 keywords: ["arr"]
 source: docs/RAG/collect-261001-rattrapage/datacenter_securite_trust_guide.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "tokens", "model", "input", "million", "output", "says"]
 source: https://www.aighten.com/en/blog/minimax-m3-1-flash-specs-pricing-benchmarks
 source_anchor: ""

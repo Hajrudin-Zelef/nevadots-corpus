@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-27"]
 keywords: ["datasheet", "product", "request", "st25ta02k-p", "directory", "search", "results", "rfid"]
 source: https://www.datasheet.support/datasheet/huaweienterprises/EDOC1100410104/CLOUDENGINE_S8700_V600R024C00_CONFIGURATION_GUIDE_VXLAN.pdf
 source_anchor: ""

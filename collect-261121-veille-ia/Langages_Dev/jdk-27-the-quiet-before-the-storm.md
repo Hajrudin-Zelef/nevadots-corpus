@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["first", "release", "changes", "features", "valhalla", "patch", "preview", "feature"]
 source: https://www.azul.com/blog/jdk-27-the-quiet-before-the-storm/
 source_anchor: ""

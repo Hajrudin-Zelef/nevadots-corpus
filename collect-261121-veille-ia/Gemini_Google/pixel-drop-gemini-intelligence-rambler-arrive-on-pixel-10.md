@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["pixel", "gemini", "google", "intelligence", "rambler", "drop", "widget", "november"]
 source: https://shiftdelete.net/en/november-pixel-drop
 source_anchor: ""

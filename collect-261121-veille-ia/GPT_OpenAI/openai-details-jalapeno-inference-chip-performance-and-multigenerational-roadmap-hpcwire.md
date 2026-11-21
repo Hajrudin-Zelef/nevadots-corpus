@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["openai", "jalapeno", "performance", "more", "chip", "across", "power", "latency"]
 source: https://www.hpcwire.com/off-the-wire/openai-details-jalapeno-inference-chip-performance-and-multigenerational-roadmap/
 source_anchor: ""

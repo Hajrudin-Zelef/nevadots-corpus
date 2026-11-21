@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["flash", "gemini", "gemini-3", "model", "google", "token", "calls", "more"]
 source: https://codedtx.com/insights/gemini-3-7-flash-routed-to-3-8-flash
 source_anchor: ""

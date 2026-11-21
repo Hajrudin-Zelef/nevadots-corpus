@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["nvidia", "computing", "google", "rubin", "cloud", "vera", "infrastructure", "gpus"]
 source: https://www.coodryx.com/blog/google-cloud-nvidia-vera-rubin-ai-infrastructure
 source_anchor: ""

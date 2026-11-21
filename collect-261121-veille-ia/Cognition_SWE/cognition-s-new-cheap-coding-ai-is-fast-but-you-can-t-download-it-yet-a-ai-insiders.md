@@ -5,7 +5,7 @@ domain: cognition-swe
 role: reference
 task: article
 actors: ["Cognition"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["model", "cognition", "percent", "coding", "work", "swe-2", "november", "stage"]
 source: https://syndicate.aiinsiders.net/article/cognitions-new-cheap-coding-ai-is-fast-but-you-cant
 source_anchor: ""

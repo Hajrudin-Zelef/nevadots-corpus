@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["carbon", "google", "gemini", "argon", "developers", "about", "intelligence", "index"]
 source: https://dev.to/zhang_tengfei_c85cbcb9e56/gemini-4-carbon-benchmarks-pricing-and-what-it-means-for-developers-563e
 source_anchor: ""

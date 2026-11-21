@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2023-04-04"]
 keywords: ["patch", "test", "python", "http", "request", "configure", "tests", "bolt"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

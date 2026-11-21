@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["chatgpt", "linux", "desktop", "work", "codex", "available", "official", "version"]
 source: https://gigazine.net/gsc_news/en/20260812-chatgpt-desktop-linux/
 source_anchor: ""

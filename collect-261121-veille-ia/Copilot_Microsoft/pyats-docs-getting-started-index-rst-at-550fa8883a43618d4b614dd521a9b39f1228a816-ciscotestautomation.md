@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2018-03-15"]
 keywords: ["pyats", "testbed", "install", "topology", "devices", "cisco", "file", "type"]
 source: https://github.com/ciscotestautomation/pyats/blob/HEAD/docs/getting_started/index.rst
 source_anchor: ""

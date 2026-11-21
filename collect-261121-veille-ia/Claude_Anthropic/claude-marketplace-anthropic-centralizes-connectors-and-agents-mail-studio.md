@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["marketplace", "claude", "connectors", "anthropic", "agents", "agent", "three", "consulting"]
 source: https://www.mail-studio.com/en/ai/claude-marketplace-connectors-agents/
 source_anchor: ""

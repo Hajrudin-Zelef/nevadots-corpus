@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-09"]
 keywords: ["apple", "ipad", "later", "november", "macos", "iphone", "security", "updates"]
 source: https://ecorpit.com/apple-9-november-2026-security-updates-ios-macos-patching-checklist/
 source_anchor: ""

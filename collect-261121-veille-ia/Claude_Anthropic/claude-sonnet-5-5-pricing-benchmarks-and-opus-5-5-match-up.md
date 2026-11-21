@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "opus", "claude", "versus", "tokens", "pricing", "output", "anthropic"]
 source: https://www.modperl.com/en/claude-sonnet-5-5-benchmarks-pricing/
 source_anchor: ""

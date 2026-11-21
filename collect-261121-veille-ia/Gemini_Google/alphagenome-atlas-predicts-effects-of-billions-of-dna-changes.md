@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["atlas", "effects", "alphagenome", "resource", "changes", "across", "researchers", "predictions"]
 source: https://scienmag.com/alphagenome-atlas-predicts-effects-of-billions-of-dna-changes/
 source_anchor: ""

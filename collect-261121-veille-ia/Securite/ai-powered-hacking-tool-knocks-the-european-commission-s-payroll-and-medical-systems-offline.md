@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["commission", "tool", "artex", "november", "first", "systems", "offline", "incident"]
 source: https://aifrontierpost.com/articles/european-commission-artex-ai-cyberattack/
 source_anchor: ""

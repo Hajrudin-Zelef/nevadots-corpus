@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["transcribe", "google", "gemini", "pricing", "tokens", "live", "gemini-3", "preview"]
 source: https://aireiter.com/blog/gemini-3-5-transcribe-api-guide
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["microsoft", "chase", "november", "united", "five", "traffic", "outage", "cyberattack"]
 source: https://dev.to/noahcontrolplane/the-november-2026-outage-wave-explained-what-broke-at-microsoft-365-the-faa-aws-chase-and-dop
 source_anchor: ""

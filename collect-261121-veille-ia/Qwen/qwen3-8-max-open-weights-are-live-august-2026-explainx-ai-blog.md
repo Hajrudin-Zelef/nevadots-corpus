@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["qwen3", "weights", "august", "open", "qwen", "model", "live", "blog"]
 source: https://explainx.ai/blog/qwen3-8-max-open-weights-live-hugging-face-august-2026
 source_anchor: ""

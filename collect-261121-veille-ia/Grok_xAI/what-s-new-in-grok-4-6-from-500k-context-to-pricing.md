@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "model", "work", "context", "spacexai", "coding", "visual", "knowledge"]
 source: https://appwrite.io/blog/post/whats-new-in-grok-46-from-500k-context-to-pricing
 source_anchor: ""

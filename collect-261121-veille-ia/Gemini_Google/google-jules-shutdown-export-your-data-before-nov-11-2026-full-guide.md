@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["jules", "google", "export", "november", "shutdown", "sessions", "before", "github"]
 source: https://dev.to/theglitchfixer/google-jules-shutdown-export-your-data-before-nov-11-2026-full-guide-25nc
 source_anchor: ""

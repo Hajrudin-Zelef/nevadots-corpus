@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["deepseek", "cache", "build", "tokens", "model", "snapshot", "attention", "august"]
 source: https://apidog.com/blog/how-to-use-deepseek-v4-pro-0813-api/
 source_anchor: ""

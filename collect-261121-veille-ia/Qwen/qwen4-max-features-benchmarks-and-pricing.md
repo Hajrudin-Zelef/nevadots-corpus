@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4-max", "alibaba", "pricing", "model", "features", "flagship", "context", "input"]
 source: https://www.datacamp.com/blog/qwen4-max
 source_anchor: ""

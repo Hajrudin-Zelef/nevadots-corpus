@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["anthropic", "onepwr", "piper", "page", "power", "deal", "explainx", "reported"]
 source: https://explainx.ai/blog/anthropic-onepwr-3-4-billion-gas-generators-data-centers-november-2026
 source_anchor: ""

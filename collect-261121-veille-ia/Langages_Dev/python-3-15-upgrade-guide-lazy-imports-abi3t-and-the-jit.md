@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-04"]
 keywords: ["release", "october", "candidate", "python", "final", "lazy", "imports", "abi3t"]
 source: https://ecorpit.com/python-3-15-upgrade-free-threaded-abi-lazy-imports-jit-2026/
 source_anchor: ""

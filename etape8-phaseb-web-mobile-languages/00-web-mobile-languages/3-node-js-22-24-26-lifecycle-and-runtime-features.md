@@ -5,7 +5,7 @@ domain: step-8-phase-b-web-mobile-languages-runtimes-and-toolchains
 role: deep-dive
 task: reference
 actors: ["Anthropic"]
-dates: ["2025-05-06", "2025-06", "2026-09", "2026-10", "2027-04-30", "2028-04-30"]
+dates: ["2025-05-06"]
 keywords: ["acquisition", "benchmark", "benchmarks", "exploit"]
 source: docs/RAG/etape8_phaseB_web_mobile_languages.md
 source_anchor: ""

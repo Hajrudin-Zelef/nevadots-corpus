@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-06"]
 keywords: ["design", "process", "intels", "cadence", "chip", "milestone", "next-generation", "intel"]
 source: https://equityswarm.com/stocks/company/cdns/intels-14a-pdk-milestone-highlights-cadences-role-in-next-generation-chip-design/
 source_anchor: ""

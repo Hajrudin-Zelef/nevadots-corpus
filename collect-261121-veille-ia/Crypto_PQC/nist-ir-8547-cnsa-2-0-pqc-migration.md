@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-08-13"]
 keywords: ["cnsa", "migration", "nist", "systems", "most", "must", "cryptographic", "fips"]
 source: https://o3.security/compliance/post-quantum-cryptography-cnsa-2-migration
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-30"]
 keywords: ["model", "reflection", "beam", "reasoning", "card", "open-weight", "agentic", "using"]
 source: https://test.eigent.ai/blog/reflection-beam-open-weight-model
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["extension", "code", "cursor", "marketplace", "version", "claude", "anthropic", "malicious"]
 source: https://www.thehackernews.com/2026/10/official-claude-code-vs-code-extension.html?m=1&hl=ja_JP
 source_anchor: ""

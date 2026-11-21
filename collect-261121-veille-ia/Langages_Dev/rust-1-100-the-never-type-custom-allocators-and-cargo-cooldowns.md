@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["type", "never", "cargo", "infallible", "rust", "custom", "allocators", "cooldowns"]
 source: https://medium.com/@abhinav.dobhal/rust-1-100-the-never-type-custom-allocators-and-cargo-cooldowns-13c0a6e131a2
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["union", "types", "async", "runtime", "net", "conf", "still", "preview"]
 source: https://dev.to/adrianbailador/net-conf-2026-recap-net-11-goes-ga-with-runtime-async-union-types-and-an-ai-first-sdk-3k5e
 source_anchor: ""

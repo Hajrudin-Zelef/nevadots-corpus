@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-01"]
 keywords: ["rust", "string", "self", "tokens", "pending", "streamed", "utf8", "bytes"]
 source: https://medium.com/@abhinav.dobhal/rust-1-99-for-ai-engineers-streamed-tokens-zero-copy-buffers-and-c-variadics-796a8026a4a5
 source_anchor: ""

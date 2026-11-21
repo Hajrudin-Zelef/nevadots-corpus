@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["akamai", "anthropic", "deal", "cloud", "billion", "akamais", "about", "revenue"]
 source: ""
 source_anchor: ""

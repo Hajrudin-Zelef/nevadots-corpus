@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "price", "october", "model", "input", "tokens", "million"]
 source: https://www.digitalapplied.com/blog/minimax-m3-1-flash-price-benchmarks-release
 source_anchor: ""

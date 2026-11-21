@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-16"]
 keywords: ["mysql", "postgresql", "donnees", "json", "extensions", "deux", "comparatif", "teste"]
 source: https://tech-insider.org/fr/mysql-vs-postgresql-2026/
 source_anchor: ""

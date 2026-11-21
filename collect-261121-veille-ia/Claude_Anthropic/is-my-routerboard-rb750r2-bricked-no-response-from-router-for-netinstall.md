@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2024-11-26"]
 keywords: ["netinstall", "button", "reset", "routerboard", "router", "light", "then", "tried"]
 source: https://forum.mikrotik.com/t/is-my-routerboard-rb750r2-bricked-no-response-from-router-for-netinstall/180785
 source_anchor: ""

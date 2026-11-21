@@ -5,7 +5,7 @@ domain: step-7-phase-a-server-operating-systems-linux-os-layer
 role: deep-dive
 task: reference
 actors: []
-dates: ["2021-03-30", "2022-05-26", "2023-06", "2024-05-01", "2025-05-27", "2025-11-24", "2027-05-31", "2029-03-01", "2029-05-01", "2030-05-31", "2032-05-31", "2035-05-31"]
+dates: ["2021-03-30", "2022-05-26", "2024-05-01", "2025-05-27", "2025-11-24"]
 keywords: ["governance", "pricing"]
 source: docs/RAG/etape7_phaseA_os.md
 source_anchor: ""

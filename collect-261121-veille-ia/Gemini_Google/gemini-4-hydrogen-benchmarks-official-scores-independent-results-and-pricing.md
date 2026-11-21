@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "google", "hydrogen", "model", "benchmarks", "sonnet", "gpt-6", "terra"]
 source: https://emergent.sh/learn/gemini-4-hydrogen-benchmarks
 source_anchor: ""

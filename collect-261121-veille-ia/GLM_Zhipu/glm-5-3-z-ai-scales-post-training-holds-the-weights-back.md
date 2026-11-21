@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["glm-5", "post-training", "weights", "against", "base", "more", "gpt-5", "model"]
 source: https://rits.shanghai.nyu.edu/ai/glm-5-3-post-training-scales-cyber/
 source_anchor: ""

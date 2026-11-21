@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["qwen3", "provider", "model", "output", "speed", "cost", "deepinfra", "tokens"]
 source: https://deepinfra.com/blog/qwen3-8-27b-api-provider-benchmarks
 source_anchor: ""

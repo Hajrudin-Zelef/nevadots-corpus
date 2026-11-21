@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["google", "flash", "batch", "gemini", "price", "providers", "openrouter", "context"]
 source: https://daily.rclabs.in/models/google/gemini-3.8-flash-batch
 source_anchor: ""

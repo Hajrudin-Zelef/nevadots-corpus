@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["apple", "milliseconds", "fastframes", "video", "model", "generation", "frames", "frame"]
 source: https://www.orcarouter.ai/blog/fastframes-video-generation-apple-interactive-latency
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["spacex", "billion", "cursor", "june", "merger", "stock", "shares", "deal"]
 source: https://tech-insider.org/cursor-60-billion-valuation-anysphere-ai-coding-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-07"]
 keywords: ["epyc", "vera", "hardware", "venice", "tomas", "amdas", "often", "ahead"]
 source: https://origotech.dev/articles/amd-zen-6-epyc-venice-built-on-tsmc-n2p-often-beats-nvidia-vera-in-toms-hardware-tests-but-vera-leads-on-some-workloads-and-amd-s-own-agents-per-watt-claims-remain-company-figures/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["google", "satellites", "blue", "launch", "origin", "orbit", "project", "suncatcher"]
 source: https://cryptobriefing.com/google-blue-origin-ai-satellites-2029/
 source_anchor: ""

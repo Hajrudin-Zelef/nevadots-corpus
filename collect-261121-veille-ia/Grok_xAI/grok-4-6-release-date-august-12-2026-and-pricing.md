@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "interactive", "work", "benchmarks", "pricing", "august", "agentic", "workflows"]
 source: https://www.layer3labs.io/guides/grok-4-6-explained
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["mimo-v2", "effective", "artificial", "analysis", "index", "model", "token", "provider"]
 source: https://openrouter.ai/xiaomi/mimo-v2.6-pro
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["muse", "reuters", "meta", "said", "users", "flagged", "agent", "staff"]
 source: ""
 source_anchor: ""

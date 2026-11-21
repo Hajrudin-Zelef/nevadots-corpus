@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "claude", "agentic", "research", "model", "context", "price", "artificial"]
 source: https://intuitionlabs.ai/articles/grok-4-6-research-software-coding
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["cursor", "context", "projects", "agents", "shared", "work", "teammate", "multiplayer"]
 source: https://aiincontext.com/articles/cursor-opens-multiplayer-projects-beta-for-human-and-agent-teams
 source_anchor: ""

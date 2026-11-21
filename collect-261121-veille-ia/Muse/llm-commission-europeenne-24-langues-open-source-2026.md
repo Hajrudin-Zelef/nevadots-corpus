@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-07-16"]
 keywords: ["modele", "commission", "langues", "europeenne", "institutional", "modeles", "open", "source"]
 source: https://tech-insider.org/fr/bruxelles-llm-institutionnel-24-langues-2026/
 source_anchor: ""

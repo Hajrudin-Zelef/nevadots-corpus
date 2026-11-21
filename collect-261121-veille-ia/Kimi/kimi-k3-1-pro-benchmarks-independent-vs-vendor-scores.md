@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "moonshot", "artificial", "analysis", "index", "independent", "tokens", "scores"]
 source: https://www.layer3labs.io/guides/kimi-k3-1-pro-benchmarks
 source_anchor: ""

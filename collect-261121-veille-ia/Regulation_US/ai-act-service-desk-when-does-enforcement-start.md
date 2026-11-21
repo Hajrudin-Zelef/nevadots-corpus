@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["enforcement", "start", "apply", "systems", "august", "provisions", "rules", "december"]
 source: https://ai-act-service-desk.ec.europa.eu/en/ai-act/faq/when-does-enforcement-start
 source_anchor: ""

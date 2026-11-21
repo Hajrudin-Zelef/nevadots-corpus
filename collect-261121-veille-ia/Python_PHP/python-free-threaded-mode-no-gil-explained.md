@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-06-16"]
 keywords: ["python", "threads", "thread", "free-threaded", "build", "four", "time", "about"]
 source: https://pythonresources.com/guides/python-free-threading-explained/
 source_anchor: ""

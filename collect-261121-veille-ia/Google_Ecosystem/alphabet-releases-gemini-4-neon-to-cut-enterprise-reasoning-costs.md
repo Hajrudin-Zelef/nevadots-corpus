@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["neon", "reasoning", "enterprise", "gemini", "alphabet", "releases", "costs", "below"]
 source: https://wsnext.com/c881839-Artificial-Intelligence-Alphabet/
 source_anchor: ""

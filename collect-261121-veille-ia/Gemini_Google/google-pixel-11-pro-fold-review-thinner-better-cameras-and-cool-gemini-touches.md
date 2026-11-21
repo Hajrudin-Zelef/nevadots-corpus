@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["fold", "google", "pixel", "gemini", "cameras", "review", "thinner", "better"]
 source: https://www.machinebrief.com/news/google-pixel-11-pro-fold-review-thinner-better-cameras-and-c-30co
 source_anchor: ""

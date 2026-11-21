@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["microsoft", "runtime", "support", "maui", "default", "releases", "coreclr", "types"]
 source: https://itdaily.com/news/software/net-11-csharp-15-coreclr-maui/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["grok", "models", "model", "spacex", "openai", "spacexsi", "language", "foundation"]
 source: https://primo.ai/wiki/Grok
 source_anchor: ""

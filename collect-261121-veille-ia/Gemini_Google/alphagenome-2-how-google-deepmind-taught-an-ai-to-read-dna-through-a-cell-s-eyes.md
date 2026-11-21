@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["cell", "alphagenome", "model", "condition", "variant", "deepmind", "sequence", "tissue"]
 source: https://dev.to/prabhakar_chaudhary_7afe4/alphagenome-2-how-google-deepmind-taught-an-ai-to-read-dna-through-a-cells-eyes-4pbg
 source_anchor: ""

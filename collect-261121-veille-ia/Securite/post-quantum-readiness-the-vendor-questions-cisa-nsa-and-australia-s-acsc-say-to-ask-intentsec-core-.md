@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-05"]
 keywords: ["questions", "post-quantum", "cryptography", "vendor", "most", "guidance", "acsc", "cisa"]
 source: https://www.intentsec.com/blog/post-quantum-vendor-questions-cisa-nsa-acsc-guide
 source_anchor: ""

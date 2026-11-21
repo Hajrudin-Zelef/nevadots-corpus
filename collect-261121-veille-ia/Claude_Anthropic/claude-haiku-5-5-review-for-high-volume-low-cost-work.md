@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["claude", "haiku", "percent", "sonnet", "anthropic", "scored", "high-volume", "work"]
 source: https://www.layer3labs.io/guides/claude-haiku-5-5-review
 source_anchor: ""

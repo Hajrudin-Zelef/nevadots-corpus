@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "model", "anthropic", "november", "never", "week", "launch"]
 source: https://improvado.io/blog/claude-fable-5-2
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["claude", "code", "mode", "tool", "permission", "november", "month", "improved"]
 source: https://agentgid.com/agents/claude-code/changelog/
 source_anchor: ""

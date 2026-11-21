@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["model", "kimi", "provider", "name", "code", "another", "crazyrouter", "endpoint"]
 source: https://dev.to/buluo/kimi-code-external-models-set-up-and-verify-kimi-k31-pro-2ih7
 source_anchor: ""

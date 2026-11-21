@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["cell", "alphagenome", "data", "same", "deepmind", "tissue", "google", "model"]
 source: https://blog.pebblous.ai/blog/alphagenome-2-cell-type-resolution/en/
 source_anchor: ""

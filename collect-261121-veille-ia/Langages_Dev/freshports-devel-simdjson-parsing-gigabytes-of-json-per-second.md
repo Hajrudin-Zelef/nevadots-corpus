@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-21"]
 keywords: ["simdjson", "devel", "changelog", "github", "releases", "update", "robert", "clausecker"]
 source: https://www.freshports.org/devel/simdjson
 source_anchor: ""

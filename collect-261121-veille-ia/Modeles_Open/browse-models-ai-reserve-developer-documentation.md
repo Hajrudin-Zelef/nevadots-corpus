@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-08-07"]
 keywords: ["models", "model", "same", "retired", "only", "tokens", "date", "kimi-k2"]
 source: https://docs.aireserve.com/models/index
 source_anchor: ""

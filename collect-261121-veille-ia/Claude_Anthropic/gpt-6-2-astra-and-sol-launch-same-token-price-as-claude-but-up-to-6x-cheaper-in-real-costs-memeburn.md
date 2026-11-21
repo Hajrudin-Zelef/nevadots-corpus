@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["astra", "gpt-6", "price", "same", "models", "work", "token", "cheaper"]
 source: https://memeburn.com/gpt-6-2-astra-and-sol-launch-same-token-price-as-claude-but-up-to-6x-cheaper-in-real-costs/
 source_anchor: ""

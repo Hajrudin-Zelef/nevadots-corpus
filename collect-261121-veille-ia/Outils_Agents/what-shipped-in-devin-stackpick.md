@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["devin", "session", "slack", "agent", "review", "each", "november", "skills"]
 source: https://stackpick.app/tool/devin/changelog
 source_anchor: ""

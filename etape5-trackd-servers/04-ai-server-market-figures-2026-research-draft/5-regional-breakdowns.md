@@ -5,7 +5,7 @@ domain: ai-server-market-figures-2026-research-draft
 role: deep-dive
 task: reference
 actors: ["Alibaba", "ByteDance", "China", "Nvidia", "Samsung", "United States"]
-dates: ["2026-05", "2026-28-07"]
+dates: []
 keywords: ["asic", "capex", "compute", "dram", "hyperscaler", "licenses", "memory", "nvidia", "research", "revenue"]
 source: docs/RAG/etape5_trackD_servers.md
 source_anchor: ""

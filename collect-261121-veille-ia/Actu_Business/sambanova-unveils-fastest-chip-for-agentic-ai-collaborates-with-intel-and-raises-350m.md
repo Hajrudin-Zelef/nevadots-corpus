@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-02-24"]
 keywords: ["sn50", "sambanova", "chip", "intel", "inference", "scale", "more", "agentic"]
 source: https://sambanova.ai/press/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m?hs_amp=true
 source_anchor: ""

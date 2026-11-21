@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["grok", "amazon", "bedrock", "model", "xais", "available", "work", "across"]
 source: https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/
 source_anchor: ""

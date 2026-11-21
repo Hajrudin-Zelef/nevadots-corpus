@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-03-05"]
 keywords: ["qwen3", "qwen", "gated", "flash-next", "attention", "number", "dimension", "hugging"]
 source: https://huggingface.co/Qwen/Qwen3.8-Flash-Next?library=transformers
 source_anchor: ""

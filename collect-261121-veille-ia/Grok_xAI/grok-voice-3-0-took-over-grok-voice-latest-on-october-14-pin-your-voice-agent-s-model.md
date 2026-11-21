@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["voice", "model", "grok", "grok-voice-latest", "alias", "agent", "october", "speech"]
 source: https://dev.to/gabrielanhaia/grok-voice-30-took-over-grok-voice-latest-on-october-14-pin-your-voice-agents-model-435
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["microsoft", "repository", "instruct", "aion", "weights", "model", "release", "windows"]
 source: https://www.orcarouter.ai/blog/aion-1-0-instruct-quiet-release
 source_anchor: ""

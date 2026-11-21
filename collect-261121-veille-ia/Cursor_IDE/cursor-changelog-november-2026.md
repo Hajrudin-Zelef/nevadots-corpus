@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["agent", "chat", "cursor", "voice", "agent-sdk", "november", "tools", "start"]
 source: https://www.gradually.ai/en/changelogs/cursor/
 source_anchor: ""

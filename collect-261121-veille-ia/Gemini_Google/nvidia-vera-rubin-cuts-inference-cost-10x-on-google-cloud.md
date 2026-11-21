@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["rubin", "google", "vera", "cloud", "cost", "nvidia", "infrastructure", "inference"]
 source: https://techfastforward.com/articles/nvidia-vera-rubin-cuts-inference-cost-10x-on-google-cloud
 source_anchor: ""

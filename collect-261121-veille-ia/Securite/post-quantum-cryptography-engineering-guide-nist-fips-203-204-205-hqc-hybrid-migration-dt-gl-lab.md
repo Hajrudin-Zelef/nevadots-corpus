@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-14"]
 keywords: ["fips", "hybrid", "classical", "post-quantum", "nist", "quantum", "migration", "x25519"]
 source: https://dt.gl/privacy/post-quantum-cryptography-fips
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["nova", "data", "scotia", "billion", "centre", "million", "campus", "first"]
 source: https://aimagazine.ca/ai-in-business/ai-data-centres/nova-scotia-data-centre-anthropic/
 source_anchor: ""

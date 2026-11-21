@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-05-07"]
 keywords: ["tuesday", "release", "python", "schedule", "alpha", "beta", "final", "development"]
 source: https://peps.python.org/pep-0826/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "extension", "marketplace", "code", "attacker", "claude", "official", "through"]
 source: https://dev.to/suraj_nandan/a-fake-official-claude-code-update-planted-ssh-backdoors-through-cursors-marketplace-2o19
 source_anchor: ""

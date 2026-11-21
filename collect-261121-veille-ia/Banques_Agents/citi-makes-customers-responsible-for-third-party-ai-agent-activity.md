@@ -5,7 +5,7 @@ domain: banques-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["citi", "agent", "access", "customers", "third-party", "customer", "agents", "actions"]
 source: https://www.unite.ai/citi-makes-customers-responsible-for-third-party-ai-agent-activity/
 source_anchor: ""

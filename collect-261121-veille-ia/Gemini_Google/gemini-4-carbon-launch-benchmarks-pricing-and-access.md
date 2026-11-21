@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["carbon", "gemini", "google", "november", "tokens", "launch", "argon", "model"]
 source: https://alphacorp.ai/blog/gemini-4-carbon-launch-benchmarks-pricing-and-everything-you-need-to-know
 source_anchor: ""

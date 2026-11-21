@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["copilot", "teams", "github", "xcode", "jetbrains", "slack", "agent", "code"]
 source: https://medium.com/@mvpkenlin/github-copilot-just-moved-into-xcode-jetbrains-air-slack-and-teams-in-one-week-f192c2c4b346
 source_anchor: ""

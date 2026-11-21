@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-07"]
 keywords: ["million", "input", "gpt-6", "openrouter", "price", "terra", "tokens", "models"]
 source: https://enterprisedna.co/directories/models/openai-gpt-6-1-terra
 source_anchor: ""

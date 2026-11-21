@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["kernel", "cache", "process", "linux", "threads", "memory", "load", "share"]
 source: https://www.ssdnodes.com/learn/whats-new-in-linux-kernel-7-2
 source_anchor: ""

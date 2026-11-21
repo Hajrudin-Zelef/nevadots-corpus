@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-09"]
 keywords: ["binance", "october", "about", "billion", "november", "says", "hack", "wallet"]
 source: https://topaml.com/blog/binance-hack-two-weeks-later/
 source_anchor: ""

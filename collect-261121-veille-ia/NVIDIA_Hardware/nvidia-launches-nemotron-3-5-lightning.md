@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["nemotron", "lightning", "model", "weights", "intelligence", "nvidia", "gpt-oss-120b", "nano"]
 source: https://artificialanalysis.ai/articles/nemotron-3-5-lightning-launch
 source_anchor: ""

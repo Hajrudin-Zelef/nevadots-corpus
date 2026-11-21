@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["joomla", "function", "value", "duration", "time", "released", "site", "before"]
 source: https://www.nextsoftware.dev/news/php-8-6-released-joomla
 source_anchor: ""

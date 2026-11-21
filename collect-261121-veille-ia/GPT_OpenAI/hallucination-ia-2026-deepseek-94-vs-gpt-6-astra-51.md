@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["meme", "hallucination", "gpt-6", "astra", "deepseek", "modele", "fait", "chiffres"]
 source: https://tech-insider.org/fr/hallucination-ia-deepseek-vs-gpt-6-astra-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-12"]
 keywords: ["anthropic", "essay", "amodei", "pacing", "must", "frontier", "reading", "nvidia"]
 source: ""
 source_anchor: ""

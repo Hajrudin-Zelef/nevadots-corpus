@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["card", "nvfp4", "muse", "spark", "meta", "bf16", "model", "open"]
 source: https://dev.to/akaranjkar08/muse-spark-open-hardware-license-and-cost-to-self-host-4gah
 source_anchor: ""

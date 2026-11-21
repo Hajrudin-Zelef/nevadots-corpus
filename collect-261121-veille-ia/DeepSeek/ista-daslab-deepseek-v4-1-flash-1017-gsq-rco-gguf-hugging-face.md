@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["gguf", "quantization", "deepseek-v4", "build", "budget", "llama", "model", "type"]
 source: https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
 source_anchor: ""

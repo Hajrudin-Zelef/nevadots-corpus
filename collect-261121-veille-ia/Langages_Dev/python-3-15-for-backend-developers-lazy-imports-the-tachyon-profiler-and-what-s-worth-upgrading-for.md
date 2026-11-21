@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["lazy", "import", "imports", "python", "tachyon", "first", "does", "module"]
 source: https://zyvop.com/python-3-15-for-backend-developers-lazy-imports-the-tachyon-profiler-and-what-s-worth-upgrading-for-cc5dq
 source_anchor: ""

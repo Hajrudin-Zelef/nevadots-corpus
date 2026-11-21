@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "open", "muse", "spark", "output", "attention", "inference", "license"]
 source: https://ai.azure.com/catalog/models/meta-models--muse-spark-open-816b-a42b-nvfp4?search=muse
 source_anchor: ""

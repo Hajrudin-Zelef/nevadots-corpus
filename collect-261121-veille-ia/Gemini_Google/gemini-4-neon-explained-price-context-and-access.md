@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "google", "neon", "model", "tokens", "reasoning", "access", "context"]
 source: https://www.layer3labs.io/guides/gemini-4-neon-explained
 source_anchor: ""

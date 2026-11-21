@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["release", "features", "function", "support", "callback", "changes", "more", "application"]
 source: https://www.zend.com/blog/php-8-6
 source_anchor: ""

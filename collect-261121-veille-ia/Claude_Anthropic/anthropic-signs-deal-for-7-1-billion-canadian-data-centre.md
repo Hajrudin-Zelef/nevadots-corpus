@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["data", "centre", "billion", "anthropic", "deal", "canada", "company", "energy"]
 source: https://www.el-fondo.com/en/news/anthropic-signs-deal-for-71-billion-canadian-data-centre
 source_anchor: ""

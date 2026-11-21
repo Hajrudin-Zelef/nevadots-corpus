@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["qwen", "qwen3", "model", "benchmark", "alibaba", "published", "scores", "claude"]
 source: https://emergent.sh/learn/qwen-3-8-benchmarks
 source_anchor: ""

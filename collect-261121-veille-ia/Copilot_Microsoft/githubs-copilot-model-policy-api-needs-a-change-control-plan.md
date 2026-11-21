@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["enterprise", "team", "model", "copilot", "policy", "teams", "organization", "mode"]
 source: https://www.baristalabs.io/blog/copilot-model-policy-api-change-control
 source_anchor: ""

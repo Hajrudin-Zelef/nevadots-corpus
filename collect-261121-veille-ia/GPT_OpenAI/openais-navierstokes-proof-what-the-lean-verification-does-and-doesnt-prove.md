@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["proof", "navierstokes", "lean", "problem", "millennium", "openai", "openais", "agents"]
 source: http://i10x.ai/news/openai-navier-stokes-proof-lean-verification
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: bluetooth-audio
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["bluetooth", "audio", "mbps", "data", "lossless", "wireless", "standard", "device"]
 source: https://www.techtimes.com/articles/330097/20261105/bluetooth-70-here-new-standard-that-makes-lossless-wireless-audio-possible.htm
 source_anchor: ""

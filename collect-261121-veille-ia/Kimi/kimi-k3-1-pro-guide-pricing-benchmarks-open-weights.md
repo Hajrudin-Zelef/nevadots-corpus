@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["kimi", "moonshot", "october", "input", "model", "kimi-k3", "tokens", "weights"]
 source: https://codersera.com/blog/kimi-k3-1-pro-complete-guide-2026/amp/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["scene", "opus", "render", "frame", "videos", "claude", "time", "playwright"]
 source: https://huggingface.co/blog/karmen-beatapi/how-to-make-videos-with-claude-opus-5-5
 source_anchor: ""

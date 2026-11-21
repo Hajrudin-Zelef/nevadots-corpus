@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4-max", "tools", "qwen3", "rates", "price", "reported", "listed", "reasoning"]
 source: https://llmlearner.com/compare/qwen4-max-vs-qwen3-8-max
 source_anchor: ""

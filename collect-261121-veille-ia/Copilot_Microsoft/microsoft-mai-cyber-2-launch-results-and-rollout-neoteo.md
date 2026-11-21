@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "cyber", "flash", "results", "model", "reports", "says", "reasoning"]
 source: https://neoteo.com/en/microsoft-mai-cyber-2-flash-launch-results-and-rollout
 source_anchor: ""

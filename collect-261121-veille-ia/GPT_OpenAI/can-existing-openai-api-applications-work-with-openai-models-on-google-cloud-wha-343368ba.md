@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["google", "cloud", "openai", "model", "models", "existing", "gemini", "endpoint"]
 source: ""
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["anthropic", "stock", "nasdaq", "price", "billion", "record", "companys", "prospectus"]
 source: https://betanews.com/article/anthropic-stock-ipo-nasdaq-debut/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft-decision-1", "decision", "page", "microsoft", "board", "generally", "available", "more"]
 source: https://modelsystem.one/news/microsoft-decision-1-1-ga/
 source_anchor: ""

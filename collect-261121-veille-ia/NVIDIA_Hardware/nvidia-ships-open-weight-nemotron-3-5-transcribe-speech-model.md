@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["model", "nvidia", "open-weight", "nemotron", "speech", "about", "error", "rate"]
 source: https://www.deai.org/news/nvidia-nemotron-35-transcribe-30b-open-weights
 source_anchor: ""

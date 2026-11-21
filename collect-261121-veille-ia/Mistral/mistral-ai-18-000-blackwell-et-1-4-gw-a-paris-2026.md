@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-05-18"]
 keywords: ["mistral", "blackwell", "nvidia", "grace", "premiere", "campus", "systemes", "phase"]
 source: https://tech-insider.org/fr/mistral-ai-compute-18000-blackwell-paris-1-4-gw-2026/
 source_anchor: ""

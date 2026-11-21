@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-28"]
 keywords: ["seven", "open", "about", "clay", "water", "each", "money", "problem"]
 source: https://enlight.blog/millennium-prize-problems/
 source_anchor: ""

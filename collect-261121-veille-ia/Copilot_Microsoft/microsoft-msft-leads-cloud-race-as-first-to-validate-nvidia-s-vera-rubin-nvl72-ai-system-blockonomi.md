@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-03-13"]
 keywords: ["rubin", "infrastructure", "vera", "nvl72", "microsoft", "cloud", "nvidia", "validate"]
 source: https://blockonomi.com/microsoft-msft-leads-cloud-race-as-first-to-validate-nvidias-vera-rubin-nvl72-ai-system/
 source_anchor: ""

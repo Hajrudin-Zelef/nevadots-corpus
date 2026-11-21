@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "Google", "OpenAI"]
-dates: ["2026-12-31"]
+dates: []
 keywords: ["astra", "gemini", "gpt-6", "agent", "benchmark", "benchmarks", "chatgpt", "claude", "cyber", "fable 5", "foundry", "gemini 3.8"]
 source: docs/RAG/collect-261001-ia-llm/gpt-6-astra-vs-opus-5-vs-gemini-3-8-flash-prix-x13.md
 source_anchor: ""

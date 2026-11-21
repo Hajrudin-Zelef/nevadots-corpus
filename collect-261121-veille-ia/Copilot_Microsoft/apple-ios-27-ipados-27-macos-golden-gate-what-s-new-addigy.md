@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["siri", "apple", "iphone", "intelligence", "ipados", "rebuilt", "users", "hardware"]
 source: https://addigy.com/blog/whats-new-in-os-27/
 source_anchor: ""

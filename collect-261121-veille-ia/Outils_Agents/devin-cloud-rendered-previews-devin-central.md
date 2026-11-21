@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["devin", "rendered", "files", "finding", "previews", "findings", "cloud", "markdown"]
 source: https://devincentral.com/continuity/cloud/2026-w44
 source_anchor: ""

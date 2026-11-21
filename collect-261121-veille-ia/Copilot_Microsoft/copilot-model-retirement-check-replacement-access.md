@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["copilot", "model", "github", "replacement", "access", "check", "gemini", "flash"]
 source: https://www.baristalabs.io/blog/copilot-october-model-retirement
 source_anchor: ""

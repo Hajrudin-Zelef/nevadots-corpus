@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["glm-5", "prime", "flashx", "model", "weights", "flash", "text", "models"]
 source: https://codersera.com/blog/glm-5-3-prime-flashx-guide-2026/
 source_anchor: ""

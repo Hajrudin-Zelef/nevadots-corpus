@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["claude", "fable", "model", "anthropic", "opus", "agentic", "tokens", "demanding"]
 source: https://pandromeda.com/ai/what-is-claude-fable-51-anthropics-model-explained
 source_anchor: ""

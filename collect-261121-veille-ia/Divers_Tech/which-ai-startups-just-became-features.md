@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-01"]
 keywords: ["agent", "just", "openai", "openais", "became", "code", "startups", "features"]
 source: https://aisignal.veletica.com/p/which-ai-startups-just-became-features?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F299f3825-a8c1-4f31-bfcf-cbd8094327af_1920x1920.jpeg%22&open=false
 source_anchor: ""

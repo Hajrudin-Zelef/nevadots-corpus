@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-08"]
 keywords: ["defaut", "modele", "model", "chaque", "agent", "claude", "vous", "opus"]
 source: https://agentsroom.dev/features/default-model
 source_anchor: ""

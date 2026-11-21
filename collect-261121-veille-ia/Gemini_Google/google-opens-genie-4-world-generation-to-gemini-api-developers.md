@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["genie", "generation", "google", "seconds", "sessions", "text", "developers", "gemini"]
 source: https://www.unite.ai/google-opens-genie-4-world-generation-to-gemini-api-developers/
 source_anchor: ""

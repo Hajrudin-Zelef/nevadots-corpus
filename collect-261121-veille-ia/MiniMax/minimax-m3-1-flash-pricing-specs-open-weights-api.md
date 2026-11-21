@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["flash", "minimax", "input", "minimax-m3", "tokens", "model", "openrouter", "weights"]
 source: https://codersera.com/blog/minimax-m3-1-flash-complete-guide-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mhs-standard
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-27"]
 keywords: ["agents", "standard", "model", "hardware", "physical", "devices", "equipment", "driver"]
 source: https://medium.com/@DataNorthAI/model-hardware-standard-explained-how-mhs-connects-ai-agents-to-physical-devices-db04d6a13923
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["ember", "muse", "meta", "model", "tokens", "agents", "intelligence", "haiku"]
 source: https://www.datacamp.com/blog/muse-ember
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["copilot", "github", "xcode", "apple", "coding", "assistant", "beta", "month"]
 source: https://dev.to/shaam_ai/github-copilot-in-xcode-273-setup-guide-593f
 source_anchor: ""

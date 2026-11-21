@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["window", "december", "merge", "release", "linux", "likely", "late", "torvalds"]
 source: https://pbxscience.com/linux-7-4-is-likely-to-arrive-in-late-december-but-a-record-sized-merge-window-raises-the-stakes/
 source_anchor: ""

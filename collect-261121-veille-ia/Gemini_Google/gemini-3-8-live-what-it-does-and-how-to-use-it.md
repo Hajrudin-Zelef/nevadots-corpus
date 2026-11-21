@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["live", "gemini", "avatar", "google", "deepmind", "does", "video", "enterprise"]
 source: https://the64th.com/gemini-3-8-live/
 source_anchor: ""

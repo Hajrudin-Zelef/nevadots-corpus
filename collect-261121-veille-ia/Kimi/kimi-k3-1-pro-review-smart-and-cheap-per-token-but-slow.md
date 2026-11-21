@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["kimi", "model", "artificial", "analysis", "index", "tokens", "price", "same"]
 source: https://www.eesel.ai/blog/kimi-k3-1-pro-review
 source_anchor: ""

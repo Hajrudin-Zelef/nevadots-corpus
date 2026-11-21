@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["rust", "discord", "native", "electron", "client", "desktop", "mobile", "away"]
 source: https://dev.to/f9xrteam/discord-drops-electron-for-rust-should-you-follow-473b
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["google", "gemini", "argon", "october", "price", "update", "antigravity", "output"]
 source: https://explainx.ai/blog/gemini-4-argon-launch-benchmarks-pricing-2026
 source_anchor: ""

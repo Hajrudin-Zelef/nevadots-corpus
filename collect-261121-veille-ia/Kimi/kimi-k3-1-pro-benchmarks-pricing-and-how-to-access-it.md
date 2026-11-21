@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "moonshot", "model", "coding", "benchmarks", "open-weight", "pricing", "rather"]
 source: https://www.datacamp.com/blog/kimi-k3-1-pro
 source_anchor: ""

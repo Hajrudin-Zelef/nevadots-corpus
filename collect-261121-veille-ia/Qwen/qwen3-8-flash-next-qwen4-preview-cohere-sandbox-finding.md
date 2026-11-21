@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["qwen3", "model", "flash-next", "preview", "alibaba", "sandbox", "qwen4", "token"]
 source: https://www.orcarouter.ai/blog/qwen3-8-flash-next-release
 source_anchor: ""

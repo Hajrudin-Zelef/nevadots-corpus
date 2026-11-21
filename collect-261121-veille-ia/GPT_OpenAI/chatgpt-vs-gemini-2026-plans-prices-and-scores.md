@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["gemini", "chatgpt", "month", "google", "plan", "free", "scores", "page"]
 source: https://noxi.ai/blog/chatgpt-vs-gemini
 source_anchor: ""

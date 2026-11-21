@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["anthropic", "system", "array", "repeat", "claude", "found", "reverse", "crispr"]
 source: http://dev.to/jamilxt/claude-found-a-crispr-like-system-in-virus-dna-what-anthropics-lab-actually-did-fko
 source_anchor: ""

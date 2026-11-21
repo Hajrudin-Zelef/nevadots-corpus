@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-07-27"]
 keywords: ["modeles", "kimi", "deepseek", "trois", "open-weight", "moonshot", "glm-5", "parametres"]
 source: https://tech-insider.org/fr/kimi-k3-vs-deepseek-v4-vs-glm-5-2-2026/
 source_anchor: ""

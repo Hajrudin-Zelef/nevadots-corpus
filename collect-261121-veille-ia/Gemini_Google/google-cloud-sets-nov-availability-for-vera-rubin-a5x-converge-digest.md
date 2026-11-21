@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["google", "storage", "rubin", "availability", "googles", "networking", "vera", "cloud"]
 source: https://convergedigest.com/google-cloud-vera-rubin-a5x-november-availability/
 source_anchor: ""

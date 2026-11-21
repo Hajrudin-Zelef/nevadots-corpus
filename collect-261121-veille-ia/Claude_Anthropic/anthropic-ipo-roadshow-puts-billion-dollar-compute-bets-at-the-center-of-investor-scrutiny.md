@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-30"]
 keywords: ["anthropic", "compute", "billion", "november", "scrutiny", "roadshow", "business", "frontier"]
 source: https://venturemagazine.net/blog/anthropic-ipo-roadshow-puts-billion-dollar-compute-bets-at-the-center-of-investor-scrutiny
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["terra", "sonnet", "claude", "gpt-6", "tokens", "effort", "mid-tier", "models"]
 source: https://www.datacamp.com/blog/gpt-6-1-terra-vs-claude-sonnet-5-5
 source_anchor: ""

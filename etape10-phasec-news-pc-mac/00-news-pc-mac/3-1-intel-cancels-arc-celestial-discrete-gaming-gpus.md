@@ -5,7 +5,7 @@ domain: step-10-phase-c-pc-mac-news-february-september-2026
 role: deep-dive
 task: hardware
 actors: ["AMD", "Apple", "Intel", "Microsoft", "Nvidia"]
-dates: ["2024-12", "2025-05", "2026-04-24", "2026-04-25", "2026-05", "2026-05-31", "2026-06", "2026-06-01", "2026-06-09", "2026-07", "2026-08", "2026-11-19", "2027-02", "2027-03-31"]
+dates: ["2026-04-24", "2026-04-25", "2026-05-31", "2026-06-01", "2026-06-09", "2026-11-19"]
 keywords: ["gpu", "gpus", "intel", "amd", "consumer", "crescent island", "datacenter", "latency", "lpddr5x", "nvidia", "panther lake", "pricing"]
 source: docs/RAG/etape10_phaseC_news_pc_mac.md
 source_anchor: ""

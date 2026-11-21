@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "model", "weights", "large", "open", "release", "cybersecurity", "license"]
 source: https://www.technologyhq.org/mistral-large-4-open-weights-cybersecurity-2026/
 source_anchor: ""

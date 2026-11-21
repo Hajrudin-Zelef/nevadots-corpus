@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-11"]
 keywords: ["claude", "week", "haiku", "code", "model", "default", "hooks", "also"]
 source: https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-october-11-2026-2k6d
 source_anchor: ""

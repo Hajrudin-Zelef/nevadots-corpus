@@ -5,7 +5,7 @@ domain: agents-mcp
 role: deep-dive
 task: agents
 actors: ["AWS", "Anthropic", "DeepSeek", "EU", "Google", "Microsoft", "OpenAI", "SpaceX", "xAI"]
-dates: ["2024-11", "2025-04", "2025-06-18", "2025-10-22", "2025-11-25", "2025-12", "2026-03", "2026-03-25", "2026-04", "2026-04-16", "2026-05-21", "2026-05-24", "2026-05-29", "2026-06", "2026-06-02", "2026-06-10", "2026-06-16", "2026-07-28", "2026-08-02", "2028-07-28"]
+dates: ["2025-06-18", "2025-10-22", "2025-11-25", "2026-03-25", "2026-04-16", "2026-05-21", "2026-05-24", "2026-05-29", "2026-06-02", "2026-06-10", "2026-06-16", "2026-07-28", "2026-08-02"]
 keywords: ["agent", "agents", "mcp", "acquisition", "agentic", "aws", "benchmark", "chatgpt", "claude", "compute", "copilot", "deepseek"]
 source: docs/RAG/ai-industry-knowledge-base-2026.md
 source_anchor: ""

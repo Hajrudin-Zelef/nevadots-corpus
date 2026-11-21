@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["openai", "oregon", "chatgpt", "billion", "children", "risks", "sues", "child-safety"]
 source: https://ai123.com/newshub/18528
 source_anchor: ""

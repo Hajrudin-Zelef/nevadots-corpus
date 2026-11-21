@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["jules", "google", "down", "december", "tasks", "november", "agent", "plan"]
 source: https://wetheflywheel.com/en/radar/google-jules-review/
 source_anchor: ""

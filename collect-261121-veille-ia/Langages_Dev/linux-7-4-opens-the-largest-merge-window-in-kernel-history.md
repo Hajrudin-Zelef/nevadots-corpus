@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["window", "merge", "kernel", "linux", "largest", "opens", "history", "phoronix"]
 source: https://www.8bitsbytes.com/articles/linux-74-rc1-largest-merge-window-ai.html
 source_anchor: ""

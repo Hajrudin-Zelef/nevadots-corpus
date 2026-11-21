@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-01"]
 keywords: ["lean", "openai", "each", "mathematics", "ai-hall-of-fame", "model", "astra", "proof"]
 source: https://github.com/adamghaida/ai-hall-of-fame/blob/HEAD/mathematics/astra-ten-proofs/CONTEXT.md
 source_anchor: ""

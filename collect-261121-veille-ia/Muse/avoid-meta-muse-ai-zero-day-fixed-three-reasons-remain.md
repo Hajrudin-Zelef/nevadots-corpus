@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["meta", "metas", "muse", "zero-day", "account", "says", "access", "setting"]
 source: https://tech-insider.org/4-reasons-avoid-meta-muse-ai-2026/
 source_anchor: ""

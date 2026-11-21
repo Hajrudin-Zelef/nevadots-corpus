@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-16"]
 keywords: ["wazuh", "siem", "source", "open", "detection", "licence", "sous", "etapes"]
 source: https://tech-insider.org/fr/wazuh-tutoriel-siem-open-source-2026/
 source_anchor: ""

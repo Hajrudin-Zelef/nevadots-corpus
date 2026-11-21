@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["stripe", "openrouter", "same", "more", "august", "company", "model", "layer"]
 source: https://www.tokenstead.ai/guides/stripe-openrouter-close
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["liquid", "lfm3", "october", "lfm3-1", "tri-hybrid", "model", "family", "released"]
 source: https://local-ai-zone.github.io/blog/lfm3-deep-dive.html
 source_anchor: ""

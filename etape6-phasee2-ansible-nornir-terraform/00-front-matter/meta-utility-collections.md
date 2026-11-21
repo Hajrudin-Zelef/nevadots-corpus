@@ -5,7 +5,7 @@ domain: front-matter
 role: reference
 task: actor-profile
 actors: ["Meta"]
-dates: ["2024-07", "2026-03", "2026-03-25", "2026-05", "2028-03", "2028-04-01"]
+dates: ["2026-03-25"]
 keywords: ["aws", "guardrails", "memory"]
 source: docs/RAG/etape6_phaseE2_ansible_nornir_terraform.md
 source_anchor: ""

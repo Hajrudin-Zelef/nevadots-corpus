@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["nvidia", "model", "transcribe", "languages", "voice", "open", "nemotron", "october"]
 source: https://www.mamiferolab.com/notes/nemotron-transcribe-open-voice
 source_anchor: ""

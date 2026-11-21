@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["claude", "seat", "code", "month", "team", "credit", "credits", "plan"]
 source: https://pick-right.com/tools/claude-code/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-03-24"]
 keywords: ["kali", "linux", "parrot", "vous", "offsec", "debian", "rolling", "votre"]
 source: https://tech-insider.org/fr/kali-linux-vs-parrot-os-2026/
 source_anchor: ""

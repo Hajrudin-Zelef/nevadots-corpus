@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["luna", "gpt-6", "cost", "index", "gpt-5", "task", "frontier", "points"]
 source: https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier?ref=hackernoon.com
 source_anchor: ""

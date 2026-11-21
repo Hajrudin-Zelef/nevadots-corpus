@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-11-24"]
 keywords: ["code", "claude", "tool", "compaction", "fixed", "monitor", "enterprise", "controls"]
 source: https://www.lockdraft.com/posts/claude-code-update-adds-monitor-tool-refines-compaction-and-expands-enterprise-c/
 source_anchor: ""

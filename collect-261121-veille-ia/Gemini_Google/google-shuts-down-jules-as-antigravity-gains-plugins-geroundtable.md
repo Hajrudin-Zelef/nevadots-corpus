@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["jules", "google", "antigravity", "coding", "move", "plugin", "marketplace", "agents"]
 source: https://geroundtable.com/google-jules-shutdown-antigravity-plugins/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["sferical", "nvidia", "sweden", "supercomputer", "wallenberg", "shared", "gpus", "goes"]
 source: https://cryptobriefing.com/sferical-one-nvidia-supercomputer-sweden/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["claude", "github", "copilot", "several", "models", "retires", "opus", "gpt"]
 source: https://www.theaicatalog.com/stories/j570ybtxxcge4cq27h24c3vg1n8jagwb
 source_anchor: ""

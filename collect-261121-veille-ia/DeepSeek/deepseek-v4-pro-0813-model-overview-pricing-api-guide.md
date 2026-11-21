@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "model", "preview", "effort", "tasks", "release", "guide", "table"]
 source: https://deepinfra.com/blog/deepseek-v4-pro-model-overview
 source_anchor: ""

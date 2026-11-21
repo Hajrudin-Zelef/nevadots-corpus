@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["glimpse", "elorian", "model", "reasoning", "visual", "video", "image", "thinking"]
 source: https://www.eigent.ai/blog/elorian-glimpse-visual-thinking-model
 source_anchor: ""

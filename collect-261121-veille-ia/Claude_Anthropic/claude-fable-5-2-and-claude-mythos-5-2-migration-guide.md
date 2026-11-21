@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-01"]
 keywords: ["claude", "fable", "mythos", "model", "thinking", "models", "google", "type"]
 source: https://platform.claude.com/docs/en/models/fable-5-2/migration-guide?ref=journal.qualiteg.com
 source_anchor: ""

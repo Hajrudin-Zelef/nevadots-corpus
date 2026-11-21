@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["claude", "fable", "model", "retell", "voice", "agents", "anthropic", "most"]
 source: https://www.retellai.com/blog/claude-fable-5-2-voice-agents
 source_anchor: ""

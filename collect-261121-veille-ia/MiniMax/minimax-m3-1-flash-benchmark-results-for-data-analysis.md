@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-20"]
 keywords: ["minimax", "model", "flash", "tokens", "space", "bunny", "question", "data"]
 source: https://plotly.com/blog/minimax-m3-1-flash-plotly-data-analytics-bench/
 source_anchor: ""

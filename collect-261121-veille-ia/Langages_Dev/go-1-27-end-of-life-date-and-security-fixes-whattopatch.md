@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["fixes", "date", "record", "release", "page", "records", "security", "branch"]
 source: https://www.whattopatch.com/platform/go/1-27
 source_anchor: ""

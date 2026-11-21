@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["function", "clamp", "duration", "november", "partial", "time", "application", "parameter"]
 source: https://pbxscience.com/php-8-6-arrives-november-19-partial-function-application-clamp-timeduration-and-more/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-09"]
 keywords: ["codex", "version", "openai", "release", "since", "history", "changes", "removed"]
 source: https://developertoolkit.ai/en/codex/reference/changelog/
 source_anchor: ""

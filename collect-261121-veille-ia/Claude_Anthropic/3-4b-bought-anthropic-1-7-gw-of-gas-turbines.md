@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["anthropic", "billion", "onepwr", "turbines", "purchase", "compute", "about", "bought"]
 source: https://dev.to/frankchu/34b-bought-anthropic-17-gw-of-gas-turbines-2ce2
 source_anchor: ""

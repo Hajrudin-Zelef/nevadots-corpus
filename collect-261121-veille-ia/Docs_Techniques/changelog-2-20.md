@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2015-12-06"]
 keywords: ["patch", "xiang", "zhang", "fixed", "bytes", "readline", "instead", "return"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

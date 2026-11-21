@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["harness", "deepseek", "agent", "tools", "model", "time", "models", "tool"]
 source: https://www.datacamp.com/tutorial/deepseek-harness
 source_anchor: ""

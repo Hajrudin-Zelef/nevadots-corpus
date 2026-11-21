@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["weights", "ling-3", "flash-1019", "mit-licensed", "h200", "model", "card", "drops"]
 source: https://gpujournal.ai/story/ling-3-1-flash-1019-weights
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-07-27"]
 keywords: ["kimi", "model", "across", "open", "frontier", "intelligence", "models", "attention"]
 source: https://www.kimi.ai/blog/kimi-k3
 source_anchor: ""

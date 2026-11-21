@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "model", "generally", "available", "workflows", "decision-1", "ignite", "models"]
 source: https://news-ai.co/microsoft-decision-1-1-ai-workflows/
 source_anchor: ""

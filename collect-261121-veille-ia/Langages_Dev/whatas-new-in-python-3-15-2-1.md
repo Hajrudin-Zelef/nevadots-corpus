@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "import", "lazy", "module", "imported", "changes", "imports", "code"]
 source: https://docs.python.org/dev/whatsnew/3.15.html
 source_anchor: ""

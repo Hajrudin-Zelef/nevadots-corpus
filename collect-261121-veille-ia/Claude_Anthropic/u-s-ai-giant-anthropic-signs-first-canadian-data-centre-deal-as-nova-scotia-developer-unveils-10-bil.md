@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["nova", "data-centre", "billion", "anthropic", "scotia", "canadian", "first", "infrastructure"]
 source: https://www.hashtaginvesting.com/blog/u-s-ai-giant-anthropic-signs-first-canadian-data-centre-deal-as-nova-scotia-developer-unveils-10-billion-plan
 source_anchor: ""

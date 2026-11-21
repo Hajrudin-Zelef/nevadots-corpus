@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-06"]
 keywords: ["tesla", "roadmap", "compute", "accelerator", "training", "hardware", "unveils", "targets"]
 source: https://dev.to/delimitter/tesla-unveils-si-accelerator-roadmap-si6-targets-80x-compute-of-ai4-39bl
 source_anchor: ""

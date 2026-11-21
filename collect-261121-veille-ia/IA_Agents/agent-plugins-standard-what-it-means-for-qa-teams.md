@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-06"]
 keywords: ["agent", "plugin", "skills", "plugins", "json", "standard", "files", "client"]
 source: https://katalon.com/resources-center/blog/agent-plugins-standard
 source_anchor: ""

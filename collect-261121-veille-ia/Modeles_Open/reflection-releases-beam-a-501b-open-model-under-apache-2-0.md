@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["model", "beam", "reflection", "hugging", "face", "under", "apache", "token"]
 source: https://dev.to/mikefluff/reflection-releases-beam-a-501b-open-model-under-apache-20-4o14
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "neon", "tokens", "input", "million", "output", "tier", "rate"]
 source: https://www.layer3labs.io/guides/gemini-4-neon-pricing
 source_anchor: ""

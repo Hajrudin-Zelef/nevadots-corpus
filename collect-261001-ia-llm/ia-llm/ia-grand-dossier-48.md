@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "EU", "Google", "Meta"]
-dates: ["2025-02-02", "2025-08-02", "2026-01-26", "2026-08-02", "2026-09-27", "2026-12-02", "2027-08-02", "2027-12-02", "2028-08-02"]
+dates: ["2025-02-02", "2025-08-02", "2026-01-26", "2026-08-02", "2026-09-27"]
 keywords: ["agi", "arr", "reasoning", "valuation"]
 source: docs/RAG/collect-261001-ia-llm/ia_grand_dossier.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-05-12"]
 keywords: ["gemini", "google", "android", "intelligence", "rambler", "galaxy", "pixel", "apps"]
 source: https://techstoriesindia.com/gemini-intelligence-android-features-rollout/
 source_anchor: ""

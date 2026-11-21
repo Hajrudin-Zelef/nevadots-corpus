@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["model", "microsoft", "index", "decision", "artificial", "analysis", "more", "decision-1"]
 source: https://cryptobriefing.com/microsoft-decision-1-1-scores-68-index/
 source_anchor: ""

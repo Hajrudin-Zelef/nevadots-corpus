@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["opus", "astra", "claude", "gpt-6", "price", "work", "score", "benchmark"]
 source: https://www.fullstack.com/blog/claude-opus-5-5-vs-gpt-6-astra-flagship-showdown
 source_anchor: ""

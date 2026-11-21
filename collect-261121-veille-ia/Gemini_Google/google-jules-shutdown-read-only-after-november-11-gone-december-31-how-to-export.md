@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["jules", "google", "export", "november", "notice", "december", "read-only", "users"]
 source: https://www.datastudios.org/post/google-jules-shutdown-december-31-read-only-november-11-antigravity
 source_anchor: ""

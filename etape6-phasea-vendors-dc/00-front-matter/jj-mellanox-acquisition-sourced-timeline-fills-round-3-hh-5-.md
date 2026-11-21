@@ -5,7 +5,7 @@ domain: front-matter
 role: reference
 task: reference
 actors: ["Broadcom", "China", "EU", "Nvidia", "United States"]
-dates: ["2019-03", "2019-03-11", "2020-04-16", "2020-04-17", "2020-04-27", "2020-10-07", "2020-11", "2020-11-04", "2026-23-10"]
+dates: ["2019-03-11", "2020-04-16", "2020-04-17", "2020-04-27", "2020-10-07", "2020-11-04"]
 keywords: ["acquisition", "cost", "disclosure", "gpu", "latency", "license", "licenses", "nvidia", "pricing", "regulation", "revenue"]
 source: docs/RAG/etape6_phaseA_vendors_dc.md
 source_anchor: ""

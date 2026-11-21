@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["meta", "muse", "open", "model", "spark", "kimi", "coding", "agent"]
 source: https://www.michaelleung.info/latest-news/meta-muse-spark-open-816b-open-weight-model
 source_anchor: ""

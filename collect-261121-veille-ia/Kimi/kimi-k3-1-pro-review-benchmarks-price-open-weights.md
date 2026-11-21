@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["kimi", "best", "models", "weights", "benchmarks", "million", "moonshot", "price"]
 source: https://springprompt.com/blog/kimi-k3-1-pro-review
 source_anchor: ""

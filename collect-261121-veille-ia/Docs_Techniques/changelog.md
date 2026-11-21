@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-11"]
 keywords: ["jules", "export", "github", "commit", "folder", "settings", "repositories", "authorship"]
 source: https://jules.google/docs/changelog/
 source_anchor: ""

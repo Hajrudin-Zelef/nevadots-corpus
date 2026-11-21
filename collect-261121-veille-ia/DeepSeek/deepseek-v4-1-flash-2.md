@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "model", "flash", "october", "encoding", "repository", "deepseek-v4", "files"]
 source: https://www.anchorterminal.com/tools/deepseek-v4-1-flash
 source_anchor: ""

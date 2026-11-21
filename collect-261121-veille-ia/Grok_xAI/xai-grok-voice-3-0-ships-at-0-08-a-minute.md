@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["voice", "grok", "model", "minute", "speech-to-speech", "same", "call", "index"]
 source: https://dev.to/techaiwire/xai-grok-voice-30-ships-at-008-a-minute-1p9l
 source_anchor: ""

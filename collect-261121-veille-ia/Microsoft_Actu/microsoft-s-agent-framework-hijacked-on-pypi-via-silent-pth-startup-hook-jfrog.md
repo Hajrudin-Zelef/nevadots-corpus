@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["pypi", "framework", "agent", "microsoft", "agent-framework", "attacker", "startup", "meta"]
 source: https://research.jfrog.com/post/agent-framework-hijack/
 source_anchor: ""

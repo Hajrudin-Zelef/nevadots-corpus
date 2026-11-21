@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-02-22"]
 keywords: ["code", "claude", "selon", "developpeurs", "etapes", "loutil", "version", "ligne"]
 source: https://tech-insider.org/fr/claude-code-cli-installation-2026/
 source_anchor: ""

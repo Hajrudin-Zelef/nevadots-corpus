@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "moonshot", "context", "window", "model", "coding", "releases", "token"]
 source: https://emergent.sh/news/moonshot-releases-kimi-k3-1-pro-2-8t-moe-1m
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["claude", "anthropic", "programme", "engineers", "first", "engineer", "frontier", "training"]
 source: https://dev.to/neticslabs/anthropic-turns-ai-adoption-into-a-training-programme-for-customer-engineers-14oo
 source_anchor: ""

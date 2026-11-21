@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["haiku", "percent", "tokens", "model", "claude", "anthropic", "gpt-6", "luna"]
 source: https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/
 source_anchor: ""

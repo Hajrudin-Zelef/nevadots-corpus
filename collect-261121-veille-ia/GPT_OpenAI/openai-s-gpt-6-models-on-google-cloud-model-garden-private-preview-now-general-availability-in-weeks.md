@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["gpt-6", "google", "preview", "model", "weeks", "general", "availability", "says"]
 source: https://synapsewire.com/en/posts/model-garden-preview-not-the-weeks-2026/
 source_anchor: ""

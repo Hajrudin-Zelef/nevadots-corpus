@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["qwen3", "model", "flash-next", "qwen", "models", "hosted", "benchmarks", "open"]
 source: https://www.respan.ai/articles/qwen-3.8-models-comparison
 source_anchor: ""

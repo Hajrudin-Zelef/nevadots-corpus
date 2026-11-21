@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "model", "deepseek-flash", "anthropic", "opencode", "claude", "code", "flash"]
 source: https://www.deepseekv4guide.org/guides/v4-1-flash-coding-agents
 source_anchor: ""

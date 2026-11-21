@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["cell", "alphagenome", "google", "deepmind", "model", "affect", "human", "types"]
 source: https://unicornapi.net/blog/google-deepmind-alphagenome-2-predicts-dna-changes-cell-types
 source_anchor: ""

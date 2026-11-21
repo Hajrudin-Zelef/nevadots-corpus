@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["session", "function", "clamp", "release", "readonly", "duration", "cookie", "upgrade"]
 source: https://www.cloudhim.com/php-laravel-wordpress/php-8-6-release-date-new-features
 source_anchor: ""

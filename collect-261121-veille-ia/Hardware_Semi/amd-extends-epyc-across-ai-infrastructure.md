@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-10-10"]
 keywords: ["epyc", "confidential", "accelerator", "infrastructure", "hosts", "host", "embedded", "configuration"]
 source: https://www.jonpeddie.com/news/amd-extends-epyc-across-ai-infrastructure/
 source_anchor: ""

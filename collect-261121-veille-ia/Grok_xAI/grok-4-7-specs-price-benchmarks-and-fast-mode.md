@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-18"]
 keywords: ["grok", "spacexsi", "effort", "tokens", "artificial", "analysis", "price", "specs"]
 source: https://grokmag.com/grok-models/grok-4-7/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["live", "avatar", "gemini", "model", "google", "conversational", "streaming", "launches"]
 source: https://emergent.sh/news/gemini-3-8-live-live-avatar-launches-today
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["openai", "fournisseurs", "mistral", "fuite", "france", "ecarte", "donnees", "francais"]
 source: https://tech-insider.org/fr/france-ecarte-openai-mistral-ia-souveraine-2026/
 source_anchor: ""

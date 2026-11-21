@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "mtok", "input", "output", "claude", "tokens", "label", "costs"]
 source: https://www.ssdnodes.com/learn/claude-opus-5-5-price-and-plans
 source_anchor: ""

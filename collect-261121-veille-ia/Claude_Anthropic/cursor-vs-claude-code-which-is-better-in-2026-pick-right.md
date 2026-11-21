@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["claude", "cursor", "code", "month", "model", "meter", "cursoras", "premium"]
 source: https://pick-right.com/compare/cursor-vs-claude-code/
 source_anchor: ""

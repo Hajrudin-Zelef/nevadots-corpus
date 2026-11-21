@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-01"]
 keywords: ["rust", "double", "c-variadic", "parts", "cargo", "unsafe", "functions", "release"]
 source: https://fullstackweb.dev/blog/rust-1-99-c-variadic-functions-debug-profile/
 source_anchor: ""

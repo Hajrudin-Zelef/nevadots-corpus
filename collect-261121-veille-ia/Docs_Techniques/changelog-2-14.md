@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2020-05-19"]
 keywords: ["pyunicode", "size", "pyobject", "longer", "type", "patch", "unicode", "python"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

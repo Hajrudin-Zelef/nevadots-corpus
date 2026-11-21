@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["type", "import", "typescript", "beta", "module", "ambient", "imports", "attribute"]
 source: https://www.digitalapplied.com/blog/typescript-7-1-beta-whats-new-what-to-test
 source_anchor: ""

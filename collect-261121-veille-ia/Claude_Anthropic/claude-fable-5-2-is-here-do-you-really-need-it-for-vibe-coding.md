@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["opus", "fable", "claude", "sonnet", "anthropic", "model", "price", "cursor"]
 source: http://dev.to/kondasviktor/claude-fable-52-is-here-do-you-really-need-it-for-vibe-coding-29gj
 source_anchor: ""

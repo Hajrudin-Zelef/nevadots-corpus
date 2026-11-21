@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-27"]
 keywords: ["request", "vxlan", "configuration", "commands", "package", "bytes", "september", "power"]
 source: https://www.huaweienterprises.com/datasheet/huaweienterprises/EDOC1100389663/01_13_VXLAN_CONFIGURATION_COMMANDS.pdf
 source_anchor: ""

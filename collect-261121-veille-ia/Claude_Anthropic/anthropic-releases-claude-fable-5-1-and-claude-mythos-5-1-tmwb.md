@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-02"]
 keywords: ["fable", "claude", "anthropic", "safeguards", "mythos", "work", "cyber", "about"]
 source: https://www.themakersworkbench.com/ai/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1
 source_anchor: ""

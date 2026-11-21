@@ -5,7 +5,7 @@ domain: mhs-standard
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-27"]
 keywords: ["device", "standard", "agent", "model", "hardware", "driver", "devices", "every"]
 source: https://datanorth.ai/blog/model-hardware-standard-mhs-what-it-is-how-it-works-and-why-it-matters
 source_anchor: ""

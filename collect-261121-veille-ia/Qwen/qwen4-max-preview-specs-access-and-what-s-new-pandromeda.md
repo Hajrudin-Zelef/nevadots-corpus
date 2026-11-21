@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["alibaba", "tokens", "preview", "qwen4-max", "model", "output", "context", "window"]
 source: https://pandromeda.com/ai/qwen4-max-preview-what-it-is-how-to-access-it-and-whats-new
 source_anchor: ""

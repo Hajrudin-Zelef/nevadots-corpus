@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-12-18"]
 keywords: ["skills", "agent", "anthropic", "standard", "just", "claude", "code", "open"]
 source: https://dev.to/max_quimby/anthropic-just-gave-away-agent-skills-4g3k
 source_anchor: ""

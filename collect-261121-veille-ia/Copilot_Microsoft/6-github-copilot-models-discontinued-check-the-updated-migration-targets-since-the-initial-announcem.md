@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["models", "model", "gpt-5", "announcement", "copilot", "migration", "github", "check"]
 source: https://note.com/noahs_nalog/n/nf34dd26096d2?hl=en
 source_anchor: ""

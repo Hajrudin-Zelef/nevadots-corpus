@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["chatgpt", "linux", "ubuntu", "install", "desktop", "fosslinux", "download", "package"]
 source: https://www.fosslinux.com/160235/install-chatgpt-desktop-linux.htm
 source_anchor: ""

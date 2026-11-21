@@ -5,7 +5,7 @@ domain: mikrotik
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-02-20"]
 keywords: ["defconf", "comment", "bridge", "interface", "accept", "action", "chain", "port"]
 source: https://forum.mikrotik.com/t/problem-with-port-forwarding-on-l009uigs-double-nat-dynamic-wanip/173817
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["agent", "skills", "foundation", "open", "responses", "openai", "anthropic", "spec"]
 source: https://www.beri.net/article/agntcon-mcpcon-2026-recap-aaif-open-responses-agent-skills-opensandbox-openenv-multi-provider-portability
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["flash", "google", "gemini", "model", "high", "variant", "index", "about"]
 source: https://ridgebench.com/models/gemini-3.8-flash
 source_anchor: ""

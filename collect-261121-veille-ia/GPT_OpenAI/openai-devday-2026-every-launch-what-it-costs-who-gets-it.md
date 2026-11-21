@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["chatgpt", "enterprise", "business", "included", "today", "codex", "cloud", "work"]
 source: https://andrewlauchner.com/notes/openai-devday-2026
 source_anchor: ""

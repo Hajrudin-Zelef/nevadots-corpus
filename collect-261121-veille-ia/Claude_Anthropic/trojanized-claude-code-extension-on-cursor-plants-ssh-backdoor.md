@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-15"]
 keywords: ["cursor", "extension", "code", "claude", "marketplace", "version", "october", "svc-telemetry"]
 source: https://blog.ostorlab.co/claude-code-cursor-extension-ssh-backdoor.html
 source_anchor: ""

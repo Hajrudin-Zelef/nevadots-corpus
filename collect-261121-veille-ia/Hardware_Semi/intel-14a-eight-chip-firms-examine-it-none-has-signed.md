@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["piper", "intel", "note", "news", "international", "techspot", "examining", "sandler"]
 source: https://tech-insider.org/intel-14a-node-apple-nvidia-evaluation-2026/
 source_anchor: ""

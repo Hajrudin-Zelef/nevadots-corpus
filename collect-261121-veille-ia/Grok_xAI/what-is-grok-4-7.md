@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "model", "input", "spacexai", "same", "output", "tokens", "reasoning"]
 source: https://apidog.com/blog/what-is-grok-4-7/
 source_anchor: ""

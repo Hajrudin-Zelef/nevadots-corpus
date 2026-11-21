@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["flash", "gemini", "google", "input", "model", "deepswe", "code", "output"]
 source: https://apidog.com/blog/how-to-use-gemini-3-7-flash-api/
 source_anchor: ""

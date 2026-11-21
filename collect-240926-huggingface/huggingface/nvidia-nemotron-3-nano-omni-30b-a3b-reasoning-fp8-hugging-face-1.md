@@ -5,7 +5,7 @@ domain: huggingface
 role: reference
 task: reference
 actors: ["Alibaba", "Hugging Face", "Nvidia", "SGLang", "TensorRT-LLM", "vLLM"]
-dates: ["2026-28-04"]
+dates: []
 keywords: ["agentic", "agents", "blackwell", "fp8", "gpu", "incident", "inference", "llama", "llama.cpp", "mixture of experts", "moe", "multimodal"]
 source: docs/RAG/clean_en/huggingface/nvidia-nemotron-3-nano-omni-30b-a3b-reasoning-fp8-hugging-face.md
 source_anchor: ""

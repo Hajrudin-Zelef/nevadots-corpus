@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-12"]
 keywords: ["essay", "amodei", "time", "frontier", "anthropic", "models", "pace", "says"]
 source: https://tech-insider.org/what-amodei-actually-proposed-in-we-must-pace-the-frontier/
 source_anchor: ""

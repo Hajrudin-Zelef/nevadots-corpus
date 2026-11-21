@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["zhipu", "model", "more", "training", "coding", "cyber", "about", "benchmark"]
 source: http://dev.to/jamilxt/glm-53-zhipus-open-weight-model-excels-at-coding-and-cyber-1m86
 source_anchor: ""

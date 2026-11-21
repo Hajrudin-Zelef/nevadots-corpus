@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["upgrade", "check", "postgresql", "release", "change", "queries", "cluster", "before"]
 source: https://devops-daily.com/posts/postgresql-19-upgrade-checklist
 source_anchor: ""

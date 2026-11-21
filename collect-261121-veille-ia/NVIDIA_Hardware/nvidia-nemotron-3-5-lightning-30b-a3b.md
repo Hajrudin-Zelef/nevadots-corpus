@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["nemotron", "nvidia", "lightning", "b-a3b", "model", "ultra", "tokens", "accuracy"]
 source: https://awesomeagents.ai/models/nvidia-nemotron-3-5-lightning-30b-a3b/
 source_anchor: ""

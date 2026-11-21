@@ -5,7 +5,7 @@ domain: google-genie
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["genie", "google", "costs", "hour", "gemini", "model", "november", "session"]
 source: https://aipressbox.com/genie-4-price-per-hour/
 source_anchor: ""

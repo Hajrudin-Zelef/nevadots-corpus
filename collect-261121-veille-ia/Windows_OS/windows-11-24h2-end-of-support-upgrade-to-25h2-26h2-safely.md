@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-31"]
 keywords: ["windows", "october", "support", "home", "update", "upgrade", "version", "updates"]
 source: https://dev.to/theglitchfixer/windows-11-24h2-end-of-support-upgrade-to-25h226h2-safely-40pp
 source_anchor: ""

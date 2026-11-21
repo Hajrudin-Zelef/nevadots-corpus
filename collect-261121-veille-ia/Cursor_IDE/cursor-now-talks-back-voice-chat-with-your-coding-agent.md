@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-07"]
 keywords: ["voice", "agent", "cursor", "chat", "coding", "call", "loud", "talks"]
 source: http://dev.to/paullovelace/cursor-now-talks-back-voice-chat-with-your-coding-agent-4hnb
 source_anchor: ""

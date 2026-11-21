@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["google", "cloud", "openai", "claude", "anthropic", "gpt-6", "models", "says"]
 source: https://digitalmatters.me/it-infrastructure/openai-claude-google-cloud/
 source_anchor: ""

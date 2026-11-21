@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["background", "default", "subagents", "session", "opencode", "parent", "release", "work"]
 source: https://enghyu.com/en/ax/3985-opencode-v2-3-0-background-subagents/
 source_anchor: ""

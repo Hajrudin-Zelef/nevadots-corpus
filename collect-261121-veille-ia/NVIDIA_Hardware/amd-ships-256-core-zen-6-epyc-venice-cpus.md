@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["epyc", "venice", "cpus", "chips", "more", "system", "intel", "agents"]
 source: https://aiincontext.com/articles/amd-ships-256-core-zen-6-epyc-venice-chips-as-ai-agents-drive-cpu-demand
 source_anchor: ""

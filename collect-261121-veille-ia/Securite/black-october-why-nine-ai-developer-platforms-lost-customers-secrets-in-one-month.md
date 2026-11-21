@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["october", "nine", "report", "disclosed", "month", "environment", "variables", "access"]
 source: https://dev.to/rbonweb/black-october-why-nine-ai-developer-platforms-lost-customers-secrets-in-one-month-4nj3
 source_anchor: ""

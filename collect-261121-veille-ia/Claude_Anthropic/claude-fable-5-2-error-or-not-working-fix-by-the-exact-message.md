@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "model", "code", "message", "update", "anthropic", "claude-fable-5-2"]
 source: https://blog.laozhang.ai/en/posts/claude-fable-5-2-error
 source_anchor: ""

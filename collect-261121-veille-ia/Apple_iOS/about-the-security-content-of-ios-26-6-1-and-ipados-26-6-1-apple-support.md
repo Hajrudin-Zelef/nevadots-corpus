@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-08-17"]
 keywords: ["later", "ipad", "generation", "inch", "security", "available", "apple", "ipados"]
 source: https://support.apple.com/en-us/148282
 source_anchor: ""

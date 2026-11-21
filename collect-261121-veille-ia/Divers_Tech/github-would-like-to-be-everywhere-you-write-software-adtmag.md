@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-31"]
 keywords: ["github", "copilot", "developers", "would", "agent", "like", "software", "plugins"]
 source: https://adtmag.com/blogs/watersworks/2026/08/github-would-like-to-be-everywhere-you-write-software.aspx
 source_anchor: ""

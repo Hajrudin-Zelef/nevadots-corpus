@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-21"]
 keywords: ["usage", "flash", "opencode", "model", "models", "glm-5", "rankings", "data"]
 source: https://opencode.ai/data
 source_anchor: ""

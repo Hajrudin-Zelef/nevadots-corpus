@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["hardware", "model", "standard", "agents", "anthropic", "physical", "across", "research"]
 source: https://techiexpert.com/anthropic-introduces-model-hardware-standard-to-connect-ai-agents-with-physical-lab-hardware/
 source_anchor: ""

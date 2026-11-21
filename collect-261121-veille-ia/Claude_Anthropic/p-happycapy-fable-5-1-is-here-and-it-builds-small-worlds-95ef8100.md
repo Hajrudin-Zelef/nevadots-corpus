@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "model", "right", "built", "bird", "here", "builds", "small"]
 source: ""
 source_anchor: ""

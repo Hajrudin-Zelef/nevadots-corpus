@@ -5,7 +5,7 @@ domain: sora-openai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["sora", "openai", "page", "credits", "october", "alternatives", "shut", "down"]
 source: https://ai-alternative.com/blog/sora-alternatives
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "open", "muse", "inference", "output", "attention", "spark", "reasoning"]
 source: https://huggingface.co/unsloth/Muse-Spark-Open-816B-A42B-GGUF
 source_anchor: ""

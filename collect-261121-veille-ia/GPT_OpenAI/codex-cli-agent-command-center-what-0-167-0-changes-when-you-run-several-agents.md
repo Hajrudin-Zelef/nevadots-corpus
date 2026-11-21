@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["codex", "command", "center", "agents", "agent", "unread", "session", "no-daemon"]
 source: http://dev.to/systemdesignsimple/codex-cli-agent-command-center-what-01670-changes-when-you-run-several-agents-23pj
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["gpt-6", "astra", "model", "input", "output", "tokens", "same", "price"]
 source: https://apidog.com/blog/what-is-gpt-6-2-astra-sol/
 source_anchor: ""

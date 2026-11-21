@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["deepseek", "search", "full", "tool", "pricing", "model", "apis", "file"]
 source: https://aifreetool.site/deepseek-full-app-api-review-2026-search-ocr-voice-pricing/
 source_anchor: ""

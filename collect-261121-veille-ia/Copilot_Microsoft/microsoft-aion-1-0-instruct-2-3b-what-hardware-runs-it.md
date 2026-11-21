@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["microsoft", "model", "aion", "instruct", "runs", "card", "windows", "about"]
 source: https://modelfit.io/blog/microsoft-aion-1-0-instruct-2-3b/
 source_anchor: ""

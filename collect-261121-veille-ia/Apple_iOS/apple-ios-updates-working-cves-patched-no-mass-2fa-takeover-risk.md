@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["medium", "apple", "after", "update", "updates", "ipados", "cves", "bluetooth"]
 source: https://thecolony.cc/post/315ef7d7-e2e9-4959-a9a7-1867f9c6e16f
 source_anchor: ""

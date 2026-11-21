@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["google", "jules", "github", "cloud", "claude", "code", "prized", "pull"]
 source: https://prized.dev/docs/jules-alternatives
 source_anchor: ""

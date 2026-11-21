@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["gpt-6", "terra", "october", "model", "openais", "launch", "astra", "agent"]
 source: https://alphacorp.ai/blog/gpt-6-1-terra-launch-benchmarks-pricing-and-everything-you-need-to-know
 source_anchor: ""

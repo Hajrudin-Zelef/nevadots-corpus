@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["model", "beam", "reflection", "index", "tokens", "output", "scores", "models"]
 source: https://www.reviewramble.com/models/reflection-beam
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: frandroid
 role: reference
 task: reference
 actors: ["Samsung", "Xiaomi"]
-dates: ["2026-09-17", "2027-01-03"]
+dates: ["2026-09-17"]
 keywords: ["cost", "exploit", "memory"]
 source: docs/RAG/clean_en/frandroid/test-du-xiaomi-redmi-note-17-5g-plus-cher-moins-bien-la-douche-froide.md
 source_anchor: ""

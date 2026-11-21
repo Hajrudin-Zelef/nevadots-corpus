@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "model", "three", "points", "open-weight", "index", "moonshot", "artificial"]
 source: https://www.intelligentliving.co/kimi-k3-1-pro-debuts-fourth-globally/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-genie
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["google", "genie", "second", "generation", "tokens", "world", "text", "seconds"]
 source: https://af.net/realtime/google-releases-genie-4-world-generation-api-at-0-10-per-second/
 source_anchor: ""

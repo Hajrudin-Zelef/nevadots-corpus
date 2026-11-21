@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["carbon", "gemini", "model", "hydrogen", "argon", "google", "november", "same"]
 source: https://runelab.ai/en/blog/post/which-gemini-4-model-to-choose
 source_anchor: ""

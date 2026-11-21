@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["beta", "samsung", "galaxy", "countries", "first", "program", "owners", "staggered"]
 source: https://infosecplatform.com/mobile-apps/samsung-one-ui-9-5-beta-release/
 source_anchor: ""

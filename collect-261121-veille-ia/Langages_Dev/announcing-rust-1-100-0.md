@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["type", "never", "rust", "return", "rustup", "release", "code", "infallible"]
 source: https://retroweb.n9taxretrolab.net/r/d2d762fbff
 source_anchor: ""

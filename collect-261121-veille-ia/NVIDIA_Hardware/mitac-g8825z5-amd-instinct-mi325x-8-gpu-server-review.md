@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2025-09-01"]
 keywords: ["mitac", "g8825z5", "also", "here", "going", "chassis", "server", "like"]
 source: https://www.servethehome.com/mitac-g8825z5-amd-instinct-mi325x-8-gpu-server-review/
 source_anchor: ""

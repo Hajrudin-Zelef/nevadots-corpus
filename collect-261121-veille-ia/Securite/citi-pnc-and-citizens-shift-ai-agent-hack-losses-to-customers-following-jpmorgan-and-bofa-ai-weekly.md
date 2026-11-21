@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["citi", "citizens", "customers", "agent", "jpmorgan", "shift", "hack", "losses"]
 source: https://aiweekly.co/alerts/citi-pnc-and-citizens-shift-ai-agent-hack-losses-to-customers-following
 source_anchor: ""

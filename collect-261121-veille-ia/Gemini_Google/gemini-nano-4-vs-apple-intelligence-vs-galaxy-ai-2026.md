@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["gemini", "nano", "apple", "galaxy", "trois", "google", "aout", "modele"]
 source: https://tech-insider.org/fr/gemini-nano-4-vs-apple-intelligence-2026/
 source_anchor: ""

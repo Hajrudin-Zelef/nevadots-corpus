@@ -5,7 +5,7 @@ domain: zig-lang
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2016-02-08"]
 keywords: ["language", "programming", "github", "designed", "platform", "generative", "andrew", "kelley"]
 source: https://en.wikipedia.org/wiki/Zig_(programming_language)
 source_anchor: ""

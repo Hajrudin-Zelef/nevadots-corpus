@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["model", "elorian", "glimpse", "visual", "data", "reasoning", "video", "vision"]
 source: https://emergent.sh/news/elorian-glimpse-ai-model-launches-advanced
 source_anchor: ""

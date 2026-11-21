@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["mistral", "large", "benchmarks", "pricing", "active", "hugging", "face", "preview"]
 source: https://www.terapep.com/blog/mistral-large-4-benchmarks-pricing-how-to-use-2026/
 source_anchor: ""

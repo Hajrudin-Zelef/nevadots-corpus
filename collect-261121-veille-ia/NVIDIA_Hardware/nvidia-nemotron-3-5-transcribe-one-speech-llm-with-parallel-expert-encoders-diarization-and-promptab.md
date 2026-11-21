@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["model", "nvidia", "nemotron", "transcribe", "speech", "diarization", "promptable", "parallel"]
 source: https://www.narenvadapalli.com/blog/nvidia-nemotron-3-5-transcribe-speech-llm-moe/
 source_anchor: ""

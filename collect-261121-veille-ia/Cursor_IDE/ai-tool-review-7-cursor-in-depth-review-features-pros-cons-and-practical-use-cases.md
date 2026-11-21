@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["review", "cursor", "agent", "tool", "plan", "features", "agents", "composer"]
 source: https://medium.com/@piona_log/ai-tool-review-7-cursor-in-depth-review-features-pros-cons-and-practical-use-cases-df1b57ab93d3
 source_anchor: ""

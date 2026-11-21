@@ -5,7 +5,7 @@ domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2023-12-05"]
 keywords: ["spoke", "sd-wan", "edit", "next", "example", "config", "advpn", "overlay"]
 source: https://docs.fortinet.com/document/fortigate/7.6.0/administration-guide/256210/example-sd-wan-configurations-using-advpn-2-0
 source_anchor: ""

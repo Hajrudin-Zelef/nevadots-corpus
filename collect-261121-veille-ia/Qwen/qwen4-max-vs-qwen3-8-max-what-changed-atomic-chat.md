@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen3", "qwen4-max", "alibaba", "token", "high", "model", "tokens", "reasoning"]
 source: https://atomic.chat/blog/llm-updates/qwen4-max-vs-qwen3-8-max-4dae3
 source_anchor: ""

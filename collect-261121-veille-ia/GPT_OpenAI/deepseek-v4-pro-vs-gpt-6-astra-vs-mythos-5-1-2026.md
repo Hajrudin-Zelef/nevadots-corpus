@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["deepseek", "v4-pro", "septembre", "modele", "aout", "trois", "mythos", "gpt-6"]
 source: https://tech-insider.org/fr/deepseek-v4-pro-vs-gpt-6-astra-vs-mythos-2026/
 source_anchor: ""

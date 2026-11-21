@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-07"]
 keywords: ["buckmaster", "mathematics", "part", "navierstokes", "one", "tristan", "evidence", "professor"]
 source: https://edrm.net/2026/11/evidence-that-ai-has-attained-superintelligence-in-one-field-mathematics-and-what-this-means-to-law-and-society-part-one-of-three/
 source_anchor: ""

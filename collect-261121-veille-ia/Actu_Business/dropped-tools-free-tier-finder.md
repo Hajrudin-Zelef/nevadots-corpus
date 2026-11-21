@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-14"]
 keywords: ["free", "page", "official", "pricing", "plan", "says", "tier", "could"]
 source: https://freetierfinder.com/dropped
 source_anchor: ""

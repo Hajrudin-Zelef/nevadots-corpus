@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["model", "elorian", "glimpse", "million", "back", "image", "chart", "frames"]
 source: https://dev.to/paullovelace/elorians-glimpse-thinks-with-its-eyes-the-model-that-zooms-back-in-mid-thought-3f7m
 source_anchor: ""

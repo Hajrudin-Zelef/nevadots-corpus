@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["launch", "blue", "satellites", "google", "origin", "suncatcher", "particle", "contracts"]
 source: https://particle.news/story/google-contracts-blue-origin-to-launch-ai-server-satellites-in-2029
 source_anchor: ""

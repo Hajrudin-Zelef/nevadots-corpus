@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["liquid", "open", "model", "card", "lfm3", "lfm3-vl-2b", "files", "weights"]
 source: https://www.anchorterminal.com/tools/lfm3-vl-2b
 source_anchor: ""

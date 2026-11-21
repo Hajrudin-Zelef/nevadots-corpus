@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "office", "support", "microsoft", "october", "also", "discontinued", "these"]
 source: https://www.pcworld.com/article/3023221/these-windows-and-office-versions-will-be-discontinued-in-2026.html
 source_anchor: ""

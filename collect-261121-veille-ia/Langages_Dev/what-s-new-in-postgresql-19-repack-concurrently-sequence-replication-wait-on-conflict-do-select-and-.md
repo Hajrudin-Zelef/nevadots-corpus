@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["repack", "concurrently", "vacuum", "postgresql", "table", "full", "post", "orders"]
 source: https://www.mertozen.com/en/blog/postgresql-19-yenilikleri-repack-sequence-replication-wait
 source_anchor: ""

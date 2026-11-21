@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["ltsc", "office", "device", "microsoft", "windows", "enterprise", "apps", "user"]
 source: https://o365hq.com/blog/office-ltsc-2024-vs-microsoft-365-apps-on-windows-ltsc-devices-what-runs-where-and-what-it-costs
 source_anchor: ""

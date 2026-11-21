@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-02-11"]
 keywords: ["free", "stack", "threading", "patch", "same", "bytearray", "build", "future"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

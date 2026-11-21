@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["carbon", "gemini", "argon", "data", "google", "seconds", "model", "tokens"]
 source: https://plotly.com/blog/gemini-4-carbon-plotly-data-analytics-bench/
 source_anchor: ""

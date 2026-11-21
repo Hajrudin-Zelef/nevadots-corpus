@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "opus", "claude", "tokens", "anthropics", "cache", "model", "agentic"]
 source: https://apidog.com/blog/claude-fable-5-1-vs-opus-5/
 source_anchor: ""

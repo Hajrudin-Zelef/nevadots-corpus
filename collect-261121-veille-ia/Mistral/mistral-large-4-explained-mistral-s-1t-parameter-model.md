@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["mistral", "large", "model", "billion", "parameters", "artificial", "says", "analysis"]
 source: https://www.layer3labs.io/guides/mistral-large-4-explained
 source_anchor: ""

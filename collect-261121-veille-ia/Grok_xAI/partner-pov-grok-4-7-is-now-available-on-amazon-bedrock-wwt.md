@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "work", "model", "knowledge", "bedrock", "amazon", "available", "coding"]
 source: https://www.wwt.com/article/partner-pov-grok-47-is-now-available-on-amazon-bedrock
 source_anchor: ""

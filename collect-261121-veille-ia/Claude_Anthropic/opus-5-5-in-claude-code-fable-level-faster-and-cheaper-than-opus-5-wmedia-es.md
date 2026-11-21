@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "claude", "faster", "code", "model", "fable", "less", "sonnet"]
 source: https://wmedia.es/en/tips/claude-code-opus-5-5-not-showing-up
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["microsoft", "servers", "microsofts", "email", "outlook", "outage", "back", "three"]
 source: https://office-watch.com/2026/microsoft-365-outage-explained/
 source_anchor: ""

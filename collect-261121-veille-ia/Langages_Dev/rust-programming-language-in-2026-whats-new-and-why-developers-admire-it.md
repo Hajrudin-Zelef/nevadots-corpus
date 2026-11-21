@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["rust", "language", "release", "memory", "programming", "ownership", "safety", "type"]
 source: https://vaizazone.com/rust-programming-language-guide-2026/
 source_anchor: ""

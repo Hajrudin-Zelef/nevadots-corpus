@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-25"]
 keywords: ["python", "lazy", "youll", "imports", "import", "tutorial", "keyword", "first"]
 source: https://realpython.com/python315-lazy-imports/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["newsom", "trump", "about", "outages", "said", "gavin", "november", "tech"]
 source: https://www.soapcentral.com/entertainment/he-s-full-it-gavin-newsom-blasts-trump-tech-outages-disrupt-america
 source_anchor: ""

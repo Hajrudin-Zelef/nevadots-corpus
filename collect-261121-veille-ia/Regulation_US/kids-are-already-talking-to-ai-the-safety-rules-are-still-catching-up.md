@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["already", "chatbot", "used", "most", "kids", "these", "safety", "about"]
 source: https://richellexolson.substack.com/p/kids-are-already-talking-to-ai-the
 source_anchor: ""

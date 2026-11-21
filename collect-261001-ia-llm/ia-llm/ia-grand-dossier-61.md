@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Alibaba", "Anthropic", "DeepSeek", "Moonshot", "OpenAI", "United States", "vLLM"]
-dates: ["2025-09-01", "2026-08-02", "2026-09-27", "2026-12-02"]
+dates: ["2025-09-01", "2026-08-02", "2026-09-27"]
 keywords: ["agents", "chatgpt", "claude", "deepseek", "kimi", "open source", "qwen", "rlhf", "vllm"]
 source: docs/RAG/collect-261001-ia-llm/ia_grand_dossier.md
 source_anchor: ""

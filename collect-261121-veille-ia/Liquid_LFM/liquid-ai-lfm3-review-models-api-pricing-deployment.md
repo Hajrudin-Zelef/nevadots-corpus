@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["models", "text", "lfm3", "liquid", "deployment", "context", "review", "pricing"]
 source: https://officialreview.blog/articles/liquid-ai-lfm3-review.html
 source_anchor: ""

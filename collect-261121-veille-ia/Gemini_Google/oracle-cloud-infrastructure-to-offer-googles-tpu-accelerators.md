@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["google", "tpus", "cloud", "oracle", "said", "infrastructure", "training", "access"]
 source: https://www.unite.ai/oracle-cloud-infrastructure-to-offer-googles-tpu-accelerators/
 source_anchor: ""

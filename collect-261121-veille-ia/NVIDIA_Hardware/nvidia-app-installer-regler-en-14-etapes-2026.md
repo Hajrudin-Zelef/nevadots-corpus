@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-07-06"]
 keywords: ["nvidia", "geforce", "experience", "jour", "pilotes", "comme", "panneau", "configuration"]
 source: https://tech-insider.org/fr/nvidia-app-tutoriel-installation-2026/
 source_anchor: ""

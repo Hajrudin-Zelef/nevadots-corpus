@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["office", "support", "microsoft", "october", "security", "cost", "best", "main"]
 source: https://windows.gadgethacks.com/how-to/office-2021-end-of-support-options-what-to-do-before-2026/
 source_anchor: ""

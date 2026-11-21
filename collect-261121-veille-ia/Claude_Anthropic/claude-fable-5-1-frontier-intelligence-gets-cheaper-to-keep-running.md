@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "model", "anthropic", "work", "more", "cheaper", "keep"]
 source: https://dev.to/0xgosu/claude-fable-51-frontier-intelligence-gets-cheaper-to-keep-running-m8p
 source_anchor: ""

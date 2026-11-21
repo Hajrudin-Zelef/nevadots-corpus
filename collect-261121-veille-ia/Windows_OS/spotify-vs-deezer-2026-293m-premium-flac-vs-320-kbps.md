@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-04-18"]
 keywords: ["deezer", "spotify", "millions", "avril", "deux", "premium", "marche", "audio"]
 source: https://tech-insider.org/fr/spotify-vs-deezer-2026/
 source_anchor: ""

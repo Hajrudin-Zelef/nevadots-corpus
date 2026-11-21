@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["billion", "anthropic", "filing", "first", "nearly", "commitments", "revenue", "loss"]
 source: https://cryptobriefing.com/anthropic-ipo-filing-900-billion-commitments/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-20"]
 keywords: ["cell", "trait", "thing", "lifetime", "currently", "test", "change", "shortening"]
 source: https://github.com/rust-lang/rust/pull/149219
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "million", "tokens", "model", "page", "same", "claude", "token"]
 source: https://dev.to/hassann/migrating-from-claude-opus-5-to-opus-55-what-changes-for-api-callers-3kl7
 source_anchor: ""

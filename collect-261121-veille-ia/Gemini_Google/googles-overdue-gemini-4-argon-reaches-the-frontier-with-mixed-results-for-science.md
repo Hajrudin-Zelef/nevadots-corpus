@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["gemini", "google", "argon", "coding", "flash", "frontier", "googles", "results"]
 source: https://www.rdworldonline.com/googles-overdue-gemini-4-argon-reaches-the-frontier-with-mixed-results-for-science/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["anthropic", "generators", "about", "power", "onepwr", "deal", "reported", "billion"]
 source: https://webreon.agency/anthropic-gas-generators-3-4-billion-deal/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["luna", "gpt-6", "model", "openai", "tokens", "everyday", "chat", "replies"]
 source: https://gpt.me/models/gpt-6-luna
 source_anchor: ""

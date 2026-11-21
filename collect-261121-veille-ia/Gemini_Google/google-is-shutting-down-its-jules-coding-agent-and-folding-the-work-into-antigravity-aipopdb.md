@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["jules", "google", "coding", "agent", "work", "antigravity", "tasks", "shutting"]
 source: https://aipopdb.com/news/google-jules-shutdown
 source_anchor: ""

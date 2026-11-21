@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "anthropic", "claude", "tokens", "model", "browser", "lower", "effort"]
 source: https://explainx.ai/blog/claude-haiku-5-5-launch-pricing-benchmarks-sonnet-cache-cut-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-12"]
 keywords: ["character", "million", "company", "disney", "google", "sale", "platform", "chapter"]
 source: https://www.the-ledger.net/events/character-ai-chapter-11-disney-stalking-horse
 source_anchor: ""

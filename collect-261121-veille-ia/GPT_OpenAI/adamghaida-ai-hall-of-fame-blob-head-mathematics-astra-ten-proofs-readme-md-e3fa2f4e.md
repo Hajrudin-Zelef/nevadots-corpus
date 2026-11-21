@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-01"]
 keywords: ["lean", "mathematics", "results", "every", "conjecture", "manuscript", "openai", "model"]
 source: ""
 source_anchor: ""

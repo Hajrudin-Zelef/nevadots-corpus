@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["google", "systems", "compute", "training", "vahdat", "four", "silicon", "about"]
 source: https://web-observer.com/tag/torchtpu/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["microsoft", "support", "windows", "azure", "server", "updates", "deadlines", "office"]
 source: https://www.techrepublic.com/article/news-microsoft-2026-support-deadlines/
 source_anchor: ""

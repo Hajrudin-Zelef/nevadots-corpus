@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["yandex", "data", "vladimir", "cloud", "center", "strike", "reported", "independent"]
 source: https://explainx.ai/blog/yandex-vladimir-data-center-third-drone-strike-force-majeure-cloud-outage-2026
 source_anchor: ""

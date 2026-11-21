@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["google", "cloud", "models", "gpt-6", "three", "openais", "enterprise", "openai"]
 source: https://www.winzheng.com/en/article/openai-gpt6-google-cloud-model-garden-partnership-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: compute-and-capital-deals
 role: deep-dive
 task: funding-deals
 actors: ["AMD", "Anthropic", "Applied Digital", "CoreWeave", "Crusoe", "Fluidstack", "Google", "Groq", "IREN", "Lambda", "Meta", "Microsoft", "Nebius", "Nvidia", "OpenAI", "United States"]
-dates: ["2026-04", "2026-06", "2026-06-08", "2026-08", "2026-08-11", "2026-08-12", "2026-08-17", "2026-08-21", "2026-08-28", "2026-09-17", "2029-05-29", "2032-12"]
+dates: ["2026-06-08", "2026-08-11", "2026-08-12", "2026-08-17", "2026-08-21", "2026-08-28", "2026-09-17"]
 keywords: ["amd", "arr", "backlog", "compute", "cost", "cpo", "gpu", "gpus", "inference", "neocloud", "nvidia", "rack-scale"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

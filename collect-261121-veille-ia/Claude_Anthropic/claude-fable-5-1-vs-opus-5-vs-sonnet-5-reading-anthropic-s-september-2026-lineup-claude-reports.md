@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "opus", "anthropic", "model", "sonnet", "september", "announcement"]
 source: https://www.claudereports.com/reports/claude-fable-5-1-vs-opus-5-vs-sonnet-5/
 source_anchor: ""

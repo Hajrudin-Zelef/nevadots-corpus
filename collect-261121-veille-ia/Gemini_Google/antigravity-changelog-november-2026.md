@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["conversation", "remote", "control", "view", "gemini", "afixed", "such", "antigravity"]
 source: https://www.gradually.ai/en/changelogs/antigravity/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2025-02-24"]
 keywords: ["device", "netinstall-cli", "using", "hanging", "option", "install", "router", "winbox"]
 source: https://forum.mikrotik.com/t/netinstall-cli-hanging/182361
 source_anchor: ""

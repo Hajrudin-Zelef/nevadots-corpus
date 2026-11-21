@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["classifier", "mode", "auto", "default", "switch", "claude", "prompt", "pushes"]
 source: https://dev.to/rulestack/auto-mode-is-now-claude-codes-default-what-the-classifier-approves-and-how-to-switch-back-4j2j
 source_anchor: ""

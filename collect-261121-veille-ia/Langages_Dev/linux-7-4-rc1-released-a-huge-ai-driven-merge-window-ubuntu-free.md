@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["kernel", "ubuntu", "linux", "merge", "torvalds", "window", "release", "released"]
 source: https://www.ubuntufree.com/linux-7-4-rc1-released/
 source_anchor: ""

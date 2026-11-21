@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["model", "mistral", "token", "large", "about", "experts", "weights", "every"]
 source: https://www.emergentmind.com/mistral-large-4
 source_anchor: ""

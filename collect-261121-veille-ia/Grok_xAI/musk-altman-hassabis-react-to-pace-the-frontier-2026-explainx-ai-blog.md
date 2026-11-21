@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-12"]
 keywords: ["essay", "anthropic", "musk", "altman", "commitment", "frontier", "reaction", "within"]
 source: https://www.explainx.ai/blog/emad-mostaque-elon-musk-altman-react-pace-the-frontier-2026
 source_anchor: ""

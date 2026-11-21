@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-18"]
 keywords: ["voice", "model", "audio", "grok", "checked", "connection", "speech-to-speech", "agent"]
 source: https://www.activepieces.com/blog/grok-voice-agent-api-pricing-speed-and-setup-2026
 source_anchor: ""

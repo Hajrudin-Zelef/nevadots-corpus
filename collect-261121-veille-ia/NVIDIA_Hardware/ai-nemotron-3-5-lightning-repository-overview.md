@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "nvidia", "lightning", "h100", "nvidia-nemotron-3", "nemotron", "vllm", "nemotron-3"]
 source: https://hub.docker.com/r/ai/nemotron-3.5-lightning
 source_anchor: ""

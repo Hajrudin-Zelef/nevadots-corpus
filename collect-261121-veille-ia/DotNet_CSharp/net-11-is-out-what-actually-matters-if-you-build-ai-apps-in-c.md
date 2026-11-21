@@ -5,7 +5,7 @@ domain: dotnet-csharp
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["union", "tool", "build", "apps", "types", "server", "string", "actually"]
 source: https://medium.com/@satyamyadavaiml/net-11-is-out-what-actually-matters-if-you-build-ai-apps-in-c-371c72fa2264
 source_anchor: ""

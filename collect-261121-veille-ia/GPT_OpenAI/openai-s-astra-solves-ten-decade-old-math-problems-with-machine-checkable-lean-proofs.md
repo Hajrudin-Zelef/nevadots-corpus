@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-06-02"]
 keywords: ["openai", "astra", "lean", "group", "problems", "every", "machine-checkable", "certificate"]
 source: https://www.techtimes.com/articles/322710/20260802/openais-astra-solves-ten-decade-old-math-problems-machine-checkable-lean-proofs.htm
 source_anchor: ""

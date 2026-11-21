@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "compiler", "next", "upgrade", "guide", "code", "server", "three"]
 source: http://dev.to/fabwaseem/typescript-7-upgrade-guide-what-breaks-eslint-nextjs-and-real-benchmarks-3m16
 source_anchor: ""

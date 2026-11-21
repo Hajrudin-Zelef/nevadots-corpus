@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-11"]
 keywords: ["flags", "linker", "http", "sysroot", "security", "clang", "files", "library"]
 source: https://importstatic.com/go/go-1-27-4-cgo-security-flags
 source_anchor: ""

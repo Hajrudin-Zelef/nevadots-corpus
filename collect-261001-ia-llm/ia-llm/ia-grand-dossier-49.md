@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "China", "DeepSeek", "Huawei", "Mistral", "Nvidia", "United States"]
-dates: ["2025-09-01", "2026-01-01", "2026-05-14", "2027-01-01"]
+dates: ["2025-09-01", "2026-01-01", "2026-05-14"]
 keywords: ["agents", "ascend", "benchmarks", "claude", "compute", "cyber", "deepseek", "mai", "mistral", "nvidia", "valuation"]
 source: docs/RAG/collect-261001-ia-llm/ia_grand_dossier.md
 source_anchor: ""

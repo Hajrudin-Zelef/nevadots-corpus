@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "copilot", "work", "code", "ignite", "here", "actually", "changes"]
 source: https://dev.to/paullovelace/microsoft-ignite-2026-copilot-is-now-the-os-for-work-heres-what-actually-changes-for-1o05
 source_anchor: ""

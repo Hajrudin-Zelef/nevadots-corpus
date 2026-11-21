@@ -5,7 +5,7 @@ domain: edg-compiler
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-30"]
 keywords: ["source", "code", "compiler", "front-end", "cuda", "open", "youve", "visual"]
 source: https://byteiota.com/edg-c-front-end-open-source-what-breaks-what-doesnt/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-06-02"]
 keywords: ["agent", "agents", "code", "vous", "mistral", "chatbot", "entre", "nest"]
 source: https://tech-insider.org/fr/creer-agent-ia-mistral-api-agents-12-etapes-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["everwind", "first", "anthropic", "lease", "data", "center", "nova", "campus"]
 source: https://cryptobriefing.com/anthropic-first-canadian-data-center-everwind/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["ansible", "version", "tutoriel", "serveurs", "python", "septembre", "vault", "controle"]
 source: https://tech-insider.org/fr/ansible-tutoriel-automatisation-serveurs-vault-molecule-2026/
 source_anchor: ""

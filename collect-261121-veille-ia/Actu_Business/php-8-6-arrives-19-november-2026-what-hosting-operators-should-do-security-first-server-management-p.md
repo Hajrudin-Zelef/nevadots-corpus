@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["server", "november", "sites", "first", "anyone", "deprecation", "notices", "rather"]
 source: https://www.panelica.com/blog/php-8-6-release-19-november-2026-what-hosting-operators-should-do
 source_anchor: ""

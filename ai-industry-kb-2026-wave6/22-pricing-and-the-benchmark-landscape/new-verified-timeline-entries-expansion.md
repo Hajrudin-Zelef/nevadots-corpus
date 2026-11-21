@@ -5,7 +5,7 @@ domain: pricing-and-the-benchmark-landscape
 role: deep-dive
 task: pricing
 actors: ["Anthropic", "DeepSeek", "Google", "Mistral", "Moonshot", "OpenAI", "Z.ai", "xAI"]
-dates: ["2026-07-12", "2026-08-10", "2026-08-11", "2026-08-19", "2026-08-26", "2026-08-31", "2026-09-22", "2026-12-31", "2027-01-01"]
+dates: ["2026-07-12", "2026-08-10", "2026-08-11", "2026-08-19", "2026-08-26", "2026-08-31", "2026-09-22"]
 keywords: ["agents", "claude", "deepseek", "gemini", "gemini 3.8", "glm", "gpt-5.6", "grok", "kimi", "mistral", "pricing", "research"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

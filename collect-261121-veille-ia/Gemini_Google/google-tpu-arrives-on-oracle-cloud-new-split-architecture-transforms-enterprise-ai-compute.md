@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-20"]
 keywords: ["google", "compute", "oracle", "training", "cloud", "chip", "enterprise", "inference"]
 source: https://www.techtimes.com/articles/329577/20261028/google-tpu-arrives-oracle-cloud-new-split-architecture-transforms-enterprise-ai-compute.htm
 source_anchor: ""

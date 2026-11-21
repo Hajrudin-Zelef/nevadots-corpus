@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["linux", "window", "merge", "commits", "perf", "pull", "torvalds", "almost"]
 source: https://free-linux.com/articles/linux-7-4-rc1
 source_anchor: ""

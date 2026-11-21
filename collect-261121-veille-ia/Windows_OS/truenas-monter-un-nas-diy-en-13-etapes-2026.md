@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-22"]
 keywords: ["truenas", "community", "edition", "scale", "branche", "version", "selon", "qnap"]
 source: https://tech-insider.org/fr/truenas-nas-diy-2026/
 source_anchor: ""

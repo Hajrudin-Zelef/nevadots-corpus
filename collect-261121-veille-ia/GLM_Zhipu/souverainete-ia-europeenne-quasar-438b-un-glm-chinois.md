@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["modele", "quasar", "europeenne", "chinois", "multiverse", "computing", "construit", "europe"]
 source: https://tech-insider.org/fr/souverainete-ia-europeenne-quasar-438b-glm-chinois-2026/
 source_anchor: ""

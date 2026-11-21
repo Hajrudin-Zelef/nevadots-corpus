@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "announcement", "compiler", "microsoft", "compile", "vscode", "faster", "native"]
 source: https://muhittincamdali.com/en/blog/typescript-7-go-derleyici-gecis-karari/
 source_anchor: ""

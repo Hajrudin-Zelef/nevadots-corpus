@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-17"]
 keywords: ["ovhcloud", "frontiere", "modele", "deux", "plutot", "modeles", "francaise", "dossier"]
 source: https://tech-insider.org/fr/ovhcloud-ia-frontiere-2026/
 source_anchor: ""

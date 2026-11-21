@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-11"]
 keywords: ["script", "video", "python", "flux3", "wideo", "flux", "draft", "full"]
 source: https://quantslant.com/how-to-run-flux-3-video-api-script/
 source_anchor: ""

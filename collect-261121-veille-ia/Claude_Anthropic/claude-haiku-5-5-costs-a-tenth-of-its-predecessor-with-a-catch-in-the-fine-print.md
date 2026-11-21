@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "percent", "tokens", "claude", "anthropic", "more", "model", "costs"]
 source: https://www.newscast.tech/claude-haiku-5-5-price-cut
 source_anchor: ""

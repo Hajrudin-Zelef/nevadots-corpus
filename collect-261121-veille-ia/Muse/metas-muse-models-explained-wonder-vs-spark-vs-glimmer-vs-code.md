@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["muse", "spark", "model", "wonder", "meta", "code", "glimmer", "metas"]
 source: https://www.scaler.com/topics/meta-muse-models-explained-wonder-vs-spark-vs-glimmer-vs-code/
 source_anchor: ""

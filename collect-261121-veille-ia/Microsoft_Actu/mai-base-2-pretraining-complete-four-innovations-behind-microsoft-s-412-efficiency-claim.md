@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "microsoft", "mai-base-2", "efficiency", "compute", "training", "claim", "deepseek-v4-pro-base"]
 source: https://www.techtimes.com/articles/329192/20261019/mai-base-2-pretraining-complete-four-innovations-behind-microsofts-4-12x-efficiency-claim.htm
 source_anchor: ""

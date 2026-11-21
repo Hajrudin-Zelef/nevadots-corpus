@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["windows", "beta", "microsoft", "builds", "five", "experimental", "channel", "version"]
 source: https://www.ntcompatible.com/story/microsoft-releases-five-new-windows-11-builds-moves-beta-channel-to-26h2/
 source_anchor: ""

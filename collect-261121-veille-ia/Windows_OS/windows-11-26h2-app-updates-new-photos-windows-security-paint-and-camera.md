@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["windows", "photos", "microsoft", "security", "camera", "updates", "version", "apps"]
 source: https://dev.to/rohan_techofficial_81a0f/windows-11-26h2-app-updates-new-photos-windows-security-paint-and-camera-1b6i
 source_anchor: ""

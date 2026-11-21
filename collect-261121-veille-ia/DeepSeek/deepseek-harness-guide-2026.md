@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "harness", "agent", "plugin", "model", "code", "cordis", "tool"]
 source: https://rpabotsworld.com/deepseek-harness-open-source-agent-framework-guide/
 source_anchor: ""

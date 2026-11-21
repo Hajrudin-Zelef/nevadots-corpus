@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["google", "jules", "november", "after", "github", "agent", "does", "team"]
 source: https://www.agentqueue.dev/alternatives/google-jules/
 source_anchor: ""

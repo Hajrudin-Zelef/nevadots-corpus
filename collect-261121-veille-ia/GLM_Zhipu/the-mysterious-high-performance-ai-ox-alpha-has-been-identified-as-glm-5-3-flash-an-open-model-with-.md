@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["glm-5", "flash", "model", "claude", "performance", "opus", "alpha", "chinese-made"]
 source: https://gigazine.net/gsc_news/en/20260827-glm-5-3-flash/
 source_anchor: ""

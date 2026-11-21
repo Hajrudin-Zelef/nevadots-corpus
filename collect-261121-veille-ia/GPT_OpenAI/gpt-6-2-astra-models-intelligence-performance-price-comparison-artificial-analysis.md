@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["intelligence", "models", "gpt-6", "astra", "index", "tokens", "task", "price"]
 source: https://artificialanalysis.ai/models/gpt-6-2-astra
 source_anchor: ""

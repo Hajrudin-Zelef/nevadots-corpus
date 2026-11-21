@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["grok", "grok-4", "plugin", "openrouter", "models", "x-ai", "model", "gateway"]
 source: https://docs.ever.works/plugin-system/xai-plugin/
 source_anchor: ""

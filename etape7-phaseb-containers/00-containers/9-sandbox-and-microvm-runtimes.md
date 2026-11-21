@@ -5,7 +5,7 @@ domain: step-7-phase-b-containers-orchestration-sandbox-runtimes
 role: deep-dive
 task: reference
 actors: ["AMD", "AWS", "Google", "Intel", "Lambda"]
-dates: ["2026-06-03", "2026-08-21", "2026-09", "2026-09-07", "2026-09-10", "2026-12-03", "2027-03-10"]
+dates: ["2026-06-03", "2026-08-21", "2026-09-07", "2026-09-10"]
 keywords: ["sandbox", "agent", "agents", "amd", "apache", "aws", "intel"]
 source: docs/RAG/etape7_phaseB_containers.md
 source_anchor: ""

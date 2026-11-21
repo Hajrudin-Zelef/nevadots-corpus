@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["hardware", "anthropic", "standard", "agent", "device", "physical", "model", "agents"]
 source: https://explainx.ai/blog/anthropic-model-hardware-standard-mhs-research-preview-august-2026
 source_anchor: ""

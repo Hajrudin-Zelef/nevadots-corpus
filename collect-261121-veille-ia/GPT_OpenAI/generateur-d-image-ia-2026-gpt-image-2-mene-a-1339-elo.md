@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-02"]
 keywords: ["image", "generateur", "dimage", "flux", "modele", "diffusion", "nano", "banana"]
 source: https://tech-insider.org/fr/meilleur-generateur-image-ia-2026/
 source_anchor: ""

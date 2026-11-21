@@ -5,7 +5,7 @@ domain: google-genie
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["genie", "google", "real-time", "scene", "launches", "audio", "generation", "agent"]
 source: https://emergent.sh/news/google-genie-4-launches-real-time-edits-3
 source_anchor: ""

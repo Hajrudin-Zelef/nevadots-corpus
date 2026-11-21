@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["gemini", "carbon", "google", "developers", "model", "reapi", "argon", "access"]
 source: https://reapi.ai/resources/how-to-use-gemini-4-carbon
 source_anchor: ""

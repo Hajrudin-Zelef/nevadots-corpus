@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "anthropic", "anthropics", "mythos", "tasks", "said", "safety"]
 source: https://hodl.press/anthropics-claude-fable-5-1-helps-build-a-3d-aircraft-engine/
 source_anchor: ""

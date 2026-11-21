@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["binance", "withdrawals", "coins", "about", "networks", "still", "billion", "bitcoin"]
 source: https://memeburn.com/binance-reopening-withdrawals-one-coin-at-time/
 source_anchor: ""

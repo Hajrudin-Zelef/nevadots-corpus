@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "gemini", "model", "review", "google", "worth", "coding", "output"]
 source: https://www.eesel.ai/blog/gemini-3-8-flash-review
 source_anchor: ""

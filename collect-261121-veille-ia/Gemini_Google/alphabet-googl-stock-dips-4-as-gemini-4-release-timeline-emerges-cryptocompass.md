@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["gemini", "kavukcuoglu", "google", "release", "googl", "alphabet", "artificial", "intelligence"]
 source: https://cryptocompass.com/articles/alphabet-googl-stock-dips-4-as-gemini-4-release-timeline-emerges
 source_anchor: ""

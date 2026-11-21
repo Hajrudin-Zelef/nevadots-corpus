@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["glm-5", "august", "model", "launch", "update", "open", "code", "weights"]
 source: https://explainx.ai/blog/glm-5-3-launch-cyber-defense-benchmarks-august-2026
 source_anchor: ""

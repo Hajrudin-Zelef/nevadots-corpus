@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "gemini", "price", "model", "output", "tokens", "cyber", "reasoning"]
 source: https://dev.to/projedefteri/gemini-38-flash-benchmarks-price-cyber-proje-defteri-41i9
 source_anchor: ""

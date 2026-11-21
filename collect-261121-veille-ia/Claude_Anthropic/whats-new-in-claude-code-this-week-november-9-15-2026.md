@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["code", "claude", "mode", "november", "week", "session", "whats", "tool"]
 source: https://aiparabellum.com/whats-new-in-claude-code-nov-9-15/
 source_anchor: ""

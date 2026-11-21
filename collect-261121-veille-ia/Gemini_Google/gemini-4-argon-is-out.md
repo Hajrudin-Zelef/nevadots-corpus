@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-07-21"]
 keywords: ["gemini", "argon", "google", "ultra", "october", "available", "cyber", "tokens"]
 source: https://dev.to/hassann/gemini-4-argon-is-out-5cpp
 source_anchor: ""

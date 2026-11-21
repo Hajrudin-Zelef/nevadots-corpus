@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["json", "team", "encoding", "jsontext", "package", "packages", "empty", "stable"]
 source: https://vinish.dev/go-json-v2-stable-in-go-1-27
 source_anchor: ""

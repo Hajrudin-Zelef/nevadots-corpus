@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["text", "models", "liquid", "model", "lfm3", "lfm3-1", "audio", "backbone"]
 source: https://www.unite.ai/liquid-ai-launches-lfm3-family-of-six-open-weight-2b-class-models/
 source_anchor: ""

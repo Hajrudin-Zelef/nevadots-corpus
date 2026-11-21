@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-06-25"]
 keywords: ["gemini", "google", "jour", "code", "gratuit", "votre", "terminal", "comme"]
 source: https://tech-insider.org/fr/gemini-cli-tutoriel-12-etapes-2026/
 source_anchor: ""

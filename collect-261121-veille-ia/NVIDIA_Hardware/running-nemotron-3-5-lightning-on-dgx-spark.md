@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["ollama", "model", "spark", "nemotron", "lightning", "nvidia", "parameters", "active"]
 source: https://blog.kubesimplify.com/nemotron-3-5-lightning-on-dgx-spark
 source_anchor: ""

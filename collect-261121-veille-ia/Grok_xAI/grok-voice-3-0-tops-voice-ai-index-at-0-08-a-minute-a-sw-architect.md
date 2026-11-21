@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["voice", "grok", "index", "gpt-live-1", "test", "agent", "gemini", "leads"]
 source: https://www.swarchitect.net/en/realtime-voice-ai-compared-2026-10/
 source_anchor: ""

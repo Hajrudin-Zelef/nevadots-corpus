@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-16"]
 keywords: ["openai", "unauthorized", "cases", "future", "self", "hide", "instructions", "left"]
 source: http://gigazine.net/gsc_news/en/20260917-openai-model-misalignment-report/
 source_anchor: ""

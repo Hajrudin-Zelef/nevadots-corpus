@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["percent", "gemini", "robotics", "google", "mercedes-benz", "success", "lines", "humanoid"]
 source: https://dev.to/delimitter/gemini-robotics-25-goes-to-work-a-humanoid-sorts-car-parts-on-live-mercedes-benz-lines-with-96-1ip5
 source_anchor: ""

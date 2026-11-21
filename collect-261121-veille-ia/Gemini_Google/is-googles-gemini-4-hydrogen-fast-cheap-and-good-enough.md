@@ -5,7 +5,7 @@ domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-14"]
 keywords: ["gemini", "hydrogen", "google", "model", "tokens", "default", "output", "high"]
 source: https://medium.com/@amitsrivastava115/is-googles-gemini-4-hydrogen-fast-cheap-and-good-enough-1adacfa22cbc
 source_anchor: ""

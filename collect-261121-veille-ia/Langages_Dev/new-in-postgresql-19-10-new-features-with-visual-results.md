@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "postgres", "pg19", "new", "same", "features", "query", "results"]
 source: https://visualeaf.com/blog/postgresql-19-new-features/
 source_anchor: ""

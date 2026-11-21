@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "claude", "tokens", "million", "output", "anthropic", "task", "input"]
 source: https://apidog.com/blog/what-is-claude-opus-5-5/
 source_anchor: ""

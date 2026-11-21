@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["infrastructure", "watch", "memory", "cloud", "tech", "gigawatt", "problem", "broadcom"]
 source: https://www.thecodew.com/2026/11/ai-infrastructure-watch-november-4.html
 source_anchor: ""

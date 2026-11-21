@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["october", "version", "windows", "microsoft", "home", "update", "device", "updates"]
 source: https://www.myabt.com/windows-11-24h2-end-of-support
 source_anchor: ""

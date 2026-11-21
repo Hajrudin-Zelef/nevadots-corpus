@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2025-05-30"]
 keywords: ["veracrypt", "disque", "windows", "chiffrement", "chiffrer", "macos", "fichiers", "truecrypt"]
 source: https://tech-insider.org/fr/veracrypt-chiffrement-disque-2026/
 source_anchor: ""

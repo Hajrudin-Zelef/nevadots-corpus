@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["grok", "model", "high", "card", "xhigh", "coding", "effort", "read"]
 source: https://aq.dev/guides/grok-4-7-for-coding-agents/
 source_anchor: ""

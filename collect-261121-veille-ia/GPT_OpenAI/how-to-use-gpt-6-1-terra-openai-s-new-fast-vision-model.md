@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["openai", "terra", "image", "input", "gpt-6", "text", "type", "model"]
 source: https://flaviocopes.com/gpt-6-1-terra/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["cursor", "agent", "claude", "model", "agent-sdk", "install", "through", "docs"]
 source: https://dev.to/alanwest/cursor-agent-sdk-vs-claude-agent-sdk-every-model-is-billed-through-cursor-gal
 source_anchor: ""

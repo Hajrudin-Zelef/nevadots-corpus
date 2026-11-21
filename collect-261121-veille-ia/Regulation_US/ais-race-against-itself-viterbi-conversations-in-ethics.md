@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-12"]
 keywords: ["companies", "safety", "could", "anthropic", "amodei", "development", "build", "increasingly"]
 source: https://vce.usc.edu/weekly-news-profile/ais-race-against-itself/
 source_anchor: ""

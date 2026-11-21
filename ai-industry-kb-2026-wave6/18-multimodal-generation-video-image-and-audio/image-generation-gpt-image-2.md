@@ -5,7 +5,7 @@ domain: multimodal-generation-video-image-and-audio
 role: deep-dive
 task: multimodal
 actors: ["OpenAI"]
-dates: ["2023-03", "2026-03", "2026-03-19", "2026-04", "2026-04-21", "2026-04-22", "2026-05", "2026-06-11", "2026-07", "2026-08", "2026-10-23", "2026-12-01"]
+dates: ["2026-03-19", "2026-04-21", "2026-04-22", "2026-06-11", "2026-10-23"]
 keywords: ["chatgpt", "claude", "cost", "diffusion", "disclosure", "gemini", "gpu", "pricing", "research", "text-to-image"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

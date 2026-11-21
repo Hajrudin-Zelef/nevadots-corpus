@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["argon", "google", "tokens", "gemini", "output", "model", "work", "gpt-6"]
 source: https://www.datacamp.com/blog/gemini-4-argon
 source_anchor: ""

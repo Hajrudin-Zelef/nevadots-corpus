@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-12"]
 keywords: ["imports", "lazy", "python", "import", "startup", "json", "release", "module"]
 source: https://www.danilchenko.dev/posts/python-3-15/
 source_anchor: ""

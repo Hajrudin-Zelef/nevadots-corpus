@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["intelligence", "gemini", "hydrogen", "models", "index", "tokens", "task", "price"]
 source: https://artificialanalysis.ai/models/gemini-4-hydrogen
 source_anchor: ""

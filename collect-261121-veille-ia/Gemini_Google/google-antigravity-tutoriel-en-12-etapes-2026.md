@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["google", "antigravity", "vous", "code", "agents", "depuis", "selon", "taches"]
 source: https://tech-insider.org/fr/antigravity-google-tutoriel-12-etapes-2026/
 source_anchor: ""

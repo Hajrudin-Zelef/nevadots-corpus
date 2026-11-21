@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["office", "support", "october", "ltsc", "dates", "every", "microsoft", "life"]
 source: https://blog.invgate.com/microsoft-office-2016-2019-end-of-life
 source_anchor: ""

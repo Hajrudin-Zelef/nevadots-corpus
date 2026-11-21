@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-09"]
 keywords: ["face", "hugging", "securite", "openai", "piratage", "sans", "agent", "juillet"]
 source: https://tech-insider.org/fr/openai-enquete-16-etats-hugging-face-2026/
 source_anchor: ""

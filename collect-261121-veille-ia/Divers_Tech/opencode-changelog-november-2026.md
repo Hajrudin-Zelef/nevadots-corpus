@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["background", "compaction", "november", "prompt", "opencode", "timeout", "instead", "claude"]
 source: https://www.gradually.ai/en/changelogs/opencode/
 source_anchor: ""

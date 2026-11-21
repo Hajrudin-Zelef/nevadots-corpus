@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "model", "nemotron", "super", "tokens", "text", "billion", "parameters"]
 source: https://www.layer3labs.io/guides/nemotron-3-5-super-vl-explained
 source_anchor: ""

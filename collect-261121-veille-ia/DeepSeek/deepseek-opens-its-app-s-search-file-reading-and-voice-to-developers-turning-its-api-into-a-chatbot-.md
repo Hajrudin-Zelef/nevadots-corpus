@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "search", "model", "file", "reading", "voice", "developers", "page"]
 source: https://dailymech.com/articles/deepseek-api-app-features-web-search-ocr-asr-tts.html
 source_anchor: ""

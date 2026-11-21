@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["horizon", "modeles", "parametres", "modele", "tokens", "abou", "dabi", "milliards"]
 source: https://tech-insider.org/fr/k2-horizon-ifm-abu-dhabi-modeles-ouverts-2026/
 source_anchor: ""

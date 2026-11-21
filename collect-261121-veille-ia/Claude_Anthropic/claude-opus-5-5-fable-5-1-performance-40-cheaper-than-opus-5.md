@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "claude", "anthropic", "fable", "disclosed", "model", "first", "gpt-6"]
 source: https://www.intelligentliving.co/claude-opus-55-beats-fable-51-for-60-less/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["sonnet", "claude", "price", "benchmark", "anthropic", "same", "score", "model"]
 source: https://www.fullstack.com/blog/claude-sonnet-5-5-vs-sonnet-5-same-price-big-jump
 source_anchor: ""

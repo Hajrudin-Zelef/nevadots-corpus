@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2021-07-10"]
 keywords: ["server", "supermicro", "intel", "power", "sys-110a-16c-rn10sp", "ports", "snow", "ridge"]
 source: https://www.servethehome.com/supermicro-sys-110a-16c-rn10sp-1u-25gbe-intel-snow-ridge-server-review/
 source_anchor: ""

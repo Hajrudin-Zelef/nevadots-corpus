@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["gpt-6", "astra", "model", "benchmark", "tasks", "task", "inside", "claude"]
 source: https://www.robotaigeek.com/articles/openais-gpt-6-astra-leads-new-robot-control-benchmark-at-a-price
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mojo-modular
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-12"]
 keywords: ["mojo", "language", "modular", "programming", "compiler", "python", "llvm", "mlir"]
 source: https://en.wikipedia.org/wiki/Mojo_(programming_language)
 source_anchor: ""

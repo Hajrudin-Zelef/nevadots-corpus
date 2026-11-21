@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "code", "models", "flash", "coding", "github", "copilot", "percent"]
 source: https://signal.tokenta.space/articles/microsoft-mai-code-2-coding-models-github-copilot/
 source_anchor: ""

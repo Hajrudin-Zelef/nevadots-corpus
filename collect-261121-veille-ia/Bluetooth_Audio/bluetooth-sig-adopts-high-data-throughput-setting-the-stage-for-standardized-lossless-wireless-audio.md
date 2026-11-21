@@ -5,7 +5,7 @@ domain: bluetooth-audio
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["bluetooth", "audio", "wireless", "standardized", "data", "mbps", "lossless", "high"]
 source: https://audioxpress.com/news/bluetooth-sig-adopts-high-data-throughput-setting-the-stage-for-standardized-lossless-wireless-audio
 source_anchor: ""

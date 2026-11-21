@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-18"]
 keywords: ["glm-5", "flashx", "flash", "modele", "tokens", "prix", "zhipu", "palier"]
 source: https://apimaster.ai/blog/glm-5-3-flashx-api
 source_anchor: ""

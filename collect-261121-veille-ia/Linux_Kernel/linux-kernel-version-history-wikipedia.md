@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-18"]
 keywords: ["version", "release", "kernel", "linux", "greg", "kroah-hartman", "history", "linus"]
 source: https://en.wikipedia.org/wiki/Linux_kernel_version_history
 source_anchor: ""

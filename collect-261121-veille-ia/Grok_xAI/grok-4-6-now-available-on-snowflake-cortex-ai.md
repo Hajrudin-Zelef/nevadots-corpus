@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["snowflake", "grok", "work", "across", "cortex", "frontier", "data", "complex"]
 source: https://www.snowflake.com/en/blog/announcing-grok-4-6-snowflake-cortex-ai/
 source_anchor: ""

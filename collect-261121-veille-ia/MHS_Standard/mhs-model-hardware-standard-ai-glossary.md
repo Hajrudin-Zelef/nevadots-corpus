@@ -5,7 +5,7 @@ domain: mhs-standard
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-27"]
 keywords: ["model", "hardware", "standard", "anthropic", "physical", "equipment", "agent", "specification"]
 source: https://www.thequery.in/glossary/mhs
 source_anchor: ""

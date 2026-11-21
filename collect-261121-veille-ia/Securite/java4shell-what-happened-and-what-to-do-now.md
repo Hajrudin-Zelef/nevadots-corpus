@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["java", "base64", "java4shell", "happened", "like", "them", "about", "thats"]
 source: https://medium.com/@ashenbhagye/java4shell-what-happened-and-what-to-do-now-6c5721503d99
 source_anchor: ""

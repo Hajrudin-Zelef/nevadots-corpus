@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-28"]
 keywords: ["model", "models", "months", "away", "preview", "agents", "agent", "copilot"]
 source: https://dev.to/htekdev/six-months-away-where-do-i-restart-20pp
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["video", "flux", "audio", "model", "labs", "black", "forest", "image"]
 source: https://digitalmatters.me/artificial-intelligence-ai/what-is-flux-3/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["million", "input", "openrouter", "models", "mimo-v2", "tokenssince", "price", "change"]
 source: https://enterprisedna.co/directories/models/xiaomi-mimo-v2-6-pro/
 source_anchor: ""

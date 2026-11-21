@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["beam", "index", "open", "intelligence", "model", "weights", "gpt-6", "models"]
 source: https://artificialanalysis.ai/articles/reflection-beam
 source_anchor: ""

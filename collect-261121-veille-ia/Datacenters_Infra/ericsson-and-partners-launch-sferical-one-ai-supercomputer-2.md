@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["sferical", "ericsson", "launch", "companies", "supercomputer", "partners", "sovereign", "wallenberg"]
 source: https://www.pipelinepub.com/news/ericsson-sferical-one-ai-supercomputer-sweden-press-release
 source_anchor: ""

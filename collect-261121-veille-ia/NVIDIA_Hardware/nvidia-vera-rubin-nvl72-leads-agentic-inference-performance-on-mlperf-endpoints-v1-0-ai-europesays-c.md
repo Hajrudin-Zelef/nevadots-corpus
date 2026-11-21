@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["endpoints", "interactivity", "agentic", "mlperf", "vera", "rubin", "nvl72", "results"]
 source: https://www.europesays.com/ai/246663/
 source_anchor: ""

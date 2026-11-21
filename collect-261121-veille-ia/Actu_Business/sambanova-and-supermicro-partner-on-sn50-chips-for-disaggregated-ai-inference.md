@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["inference", "sn50", "supermicro", "sambanova", "disaggregated", "chips", "partner", "chip"]
 source: https://dev.to/delimitter/sambanova-and-supermicro-partner-on-sn50-chips-for-disaggregated-ai-inference-46j9
 source_anchor: ""

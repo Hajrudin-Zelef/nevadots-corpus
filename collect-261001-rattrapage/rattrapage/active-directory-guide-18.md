@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: ["Microsoft"]
-dates: ["2024-01-09", "2029-01-09"]
+dates: ["2024-01-09"]
 keywords: ["attention"]
 source: docs/RAG/collect-261001-rattrapage/active_directory_guide.md
 source_anchor: ""

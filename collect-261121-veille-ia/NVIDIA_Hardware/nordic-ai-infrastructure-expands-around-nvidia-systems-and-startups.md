@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "nordic", "says", "startup", "billion", "post", "said", "sweden"]
 source: https://asiatokenfund.com/nordic-ai-infrastructure-expands-around-nvidia-systems-and-startups/
 source_anchor: ""

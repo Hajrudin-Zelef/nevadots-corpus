@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-29"]
 keywords: ["claude", "government", "anthropic", "agencies", "state", "said", "buyers", "deal"]
 source: https://finance.biggo.com/news/2d2a9339-0e48-4e47-908c-fcbbd6801b7f
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["models", "microsoft", "code", "draft", "conduct", "public", "human", "never"]
 source: https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct
 source_anchor: ""

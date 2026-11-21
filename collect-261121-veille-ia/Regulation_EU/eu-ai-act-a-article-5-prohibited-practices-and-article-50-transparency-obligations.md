@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-02-02"]
 keywords: ["article", "practices", "prohibited", "person", "transparency", "system", "points", "obligations"]
 source: https://docs.modulos.ai/frameworks/eu-ai-act/prohibited-practices-and-transparency
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "fireworks", "extension", "credentials", "access", "marketplace", "data", "attacker"]
 source: https://osintsights.com/fireworks-breach-exposes-ai-keys-leads-to-cursor-data-compromise
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "nvidia", "models", "nemotron", "agents", "also", "nemo", "switchyard"]
 source: https://gigazine.net/gsc_news/en/20260812-nvidia-nemotron-3-5-lightning/
 source_anchor: ""

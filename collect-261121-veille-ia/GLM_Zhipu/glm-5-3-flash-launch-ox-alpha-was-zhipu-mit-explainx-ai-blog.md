@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-28"]
 keywords: ["glm-5", "flash", "alpha", "weights", "launch", "august", "stealth", "update"]
 source: https://www.explainx.ai/blog/glm-5-3-flash-ox-alpha-official-launch-august-2026?ref=hackernoon.com
 source_anchor: ""

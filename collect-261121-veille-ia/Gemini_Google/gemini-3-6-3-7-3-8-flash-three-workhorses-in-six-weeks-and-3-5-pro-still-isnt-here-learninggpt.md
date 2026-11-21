@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-07-21"]
 keywords: ["flash", "gemini", "google", "everyone", "model", "here", "three", "models"]
 source: https://learninggpt.ai/lessons/gemini/gemini-3-6-flash
 source_anchor: ""

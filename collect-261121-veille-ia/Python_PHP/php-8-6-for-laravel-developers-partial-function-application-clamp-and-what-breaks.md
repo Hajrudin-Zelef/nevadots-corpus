@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["function", "limit", "body", "release", "laravel", "partial", "application", "closure"]
 source: https://www.chaudharyusama.com/blog/php-8-6-whats-new-laravel-developers
 source_anchor: ""

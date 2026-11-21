@@ -5,7 +5,7 @@ domain: robotics-kyutai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-02-06"]
 keywords: ["release", "translation", "french-to-english", "research", "kyutai", "language", "source", "model"]
 source: https://www.rangoon.ai/insights/archive-kyutai-hibiki-simultaneous-translation-february-2025/
 source_anchor: ""

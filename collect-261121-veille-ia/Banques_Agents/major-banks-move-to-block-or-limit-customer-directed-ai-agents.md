@@ -5,7 +5,7 @@ domain: banques-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-13"]
 keywords: ["agents", "banking", "agent", "customers", "access", "block", "customer", "banks"]
 source: https://www.hunton.com/insights/legal/major-banks-move-to-block-or-limit-customer-directed-ai-agents
 source_anchor: ""

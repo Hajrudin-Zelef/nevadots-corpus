@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["mlperf", "nvidia", "vera", "rubin", "training", "across", "endpoints", "agentic"]
 source: https://www.techbytes.app/posts/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts/
 source_anchor: ""

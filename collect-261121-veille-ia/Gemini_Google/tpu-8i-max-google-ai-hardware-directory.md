@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["google", "models", "hardware", "package", "bandwidth", "standard", "eighth-generation", "inference"]
 source: https://www.madebyagents.com/hardware/tpu-8i-max
 source_anchor: ""

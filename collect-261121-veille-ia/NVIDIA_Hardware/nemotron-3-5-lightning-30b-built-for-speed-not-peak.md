@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "nvidia", "lightning", "nemotron", "speed", "card", "openrouter", "nvfp4"]
 source: https://www.digitalapplied.com/blog/nvidia-nemotron-3-5-lightning-30b-a3b-efficiency-tier-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: front-matter
 role: reference
 task: pricing
 actors: ["Nvidia", "United States"]
-dates: ["2026-05", "2026-07", "2026-08", "2026-08-26", "2026-09", "2026-09-22", "2026-23-10"]
+dates: ["2026-08-26", "2026-09-22"]
 keywords: ["pricing", "compute", "cyber", "distribution", "ethernet", "inference", "license", "neocloud", "nvidia", "research", "revenue", "rubin"]
 source: docs/RAG/etape6_phaseA_vendors_dc.md
 source_anchor: ""

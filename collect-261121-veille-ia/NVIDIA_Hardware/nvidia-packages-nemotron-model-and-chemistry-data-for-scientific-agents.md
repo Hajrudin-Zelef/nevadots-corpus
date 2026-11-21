@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "model", "nemotron", "chemistry", "post-training", "scientific", "agents", "questions"]
 source: https://www.aiaffairs.com/technology/nvidia-nemotron-science-chemistry-data-post-training/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-06"]
 keywords: ["agent", "specification", "skills", "configuration", "portability", "plugins", "does", "plugin"]
 source: https://www.mifllc.com/ai-software/blog/agent-plugins-portability/
 source_anchor: ""

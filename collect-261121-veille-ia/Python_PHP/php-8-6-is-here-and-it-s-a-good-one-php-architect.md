@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["duration", "php", "here", "stream", "time", "value", "file", "context"]
 source: https://phparch.com/blog/php-86-is-here-and-its-a-good-one
 source_anchor: ""

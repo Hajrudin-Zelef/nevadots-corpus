@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2025-04-30"]
 keywords: ["xiaomi", "model", "mimo", "billion", "trillion", "mimo-v2", "edit", "april"]
 source: ""
 source_anchor: ""

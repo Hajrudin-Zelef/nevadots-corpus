@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2025-10-23"]
 keywords: ["spark", "nvidia", "ollama", "model", "codex", "performance", "gpt-oss", "firmware"]
 source: https://ollama.com/blog/nvidia-spark-performance
 source_anchor: ""

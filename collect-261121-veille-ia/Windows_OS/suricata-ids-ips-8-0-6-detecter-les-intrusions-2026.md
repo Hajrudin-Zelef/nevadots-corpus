@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-07-07"]
 keywords: ["suricata", "juillet", "depuis", "detection", "branche", "security", "correctif", "reseau"]
 source: https://tech-insider.org/fr/suricata-ids-ips-tutoriel-2026/
 source_anchor: ""

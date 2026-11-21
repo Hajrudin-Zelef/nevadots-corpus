@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "fable", "claude", "tokens", "model", "most", "million", "anthropic"]
 source: https://www.sentisight.ai/claude-opus-5-5-vs-fable-5-1/
 source_anchor: ""

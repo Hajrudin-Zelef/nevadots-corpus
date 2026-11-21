@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["gemini", "post-training", "google", "frontier", "googles", "market", "compressed", "enters"]
 source: https://forkast.news/googles-gemini-4-enters-post-training-and-the-three-way-frontier-race-just-compressed/
 source_anchor: ""

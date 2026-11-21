@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["later", "ipad", "generation", "inch", "available", "iphone", "mini", "impact"]
 source: https://seclists.org/fulldisclosure/2026/Nov/25
 source_anchor: ""

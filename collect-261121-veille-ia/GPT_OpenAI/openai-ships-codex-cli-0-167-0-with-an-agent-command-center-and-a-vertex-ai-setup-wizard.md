@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["command", "agent", "center", "session", "setup", "codex", "wizard", "vertex"]
 source: https://dev.to/delimitter/openai-ships-codex-cli-01670-with-an-agent-command-center-and-a-vertex-ai-setup-wizard-4ohb
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["neon", "google", "gemini", "carbon", "task", "artificial", "cost", "analysis"]
 source: ""
 source_anchor: ""

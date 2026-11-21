@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["xiaomi", "mimo", "model", "mimo-v2", "tokens", "index", "every", "retired"]
 source: https://www.secondtalent.com/resources/xiaomi-mimo-models-explained/
 source_anchor: ""

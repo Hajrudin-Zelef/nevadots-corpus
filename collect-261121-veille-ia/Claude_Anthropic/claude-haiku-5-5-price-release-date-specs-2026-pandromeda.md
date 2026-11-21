@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["claude", "haiku", "anthropic", "model", "tokens", "price", "sonnet", "release"]
 source: https://pandromeda.com/ai/claude-haiku-55-explained-price-speed-and-release-date
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["nato", "openai", "cyber", "models", "daybreak", "month", "billion", "tokens"]
 source: https://inoryva.blogspot.com/2026/11/openai-hands-nato-its-daybreak-cyber.html
 source_anchor: ""

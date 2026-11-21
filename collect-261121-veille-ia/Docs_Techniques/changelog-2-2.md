@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-02"]
 keywords: ["crash", "instead", "module", "datetime", "patch", "object", "allocation", "memory"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

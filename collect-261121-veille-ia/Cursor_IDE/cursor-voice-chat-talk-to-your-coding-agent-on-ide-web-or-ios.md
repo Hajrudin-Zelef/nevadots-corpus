@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["agent", "chat", "voice", "cursor", "call", "coding", "talk", "docs"]
 source: https://pondero.ai/coding/guides/cursor-voice-agent-calls-guide/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["grok", "tokens", "xhigh", "litellm", "model", "context", "window", "messages"]
 source: https://models.litellm.ai/compare/grok-4.6-vs-grok-4.7
 source_anchor: ""

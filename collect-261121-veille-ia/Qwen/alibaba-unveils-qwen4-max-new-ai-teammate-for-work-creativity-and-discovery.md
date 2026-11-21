@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4-max", "across", "alibaba", "model", "discovery", "design", "work", "creativity"]
 source: https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-11"]
 keywords: ["security", "onion", "reseau", "detection", "capture", "linux", "siem", "surveillance"]
 source: https://tech-insider.org/fr/security-onion-surveillance-reseau-nsm-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-06-09"]
 keywords: ["docker", "prometheus", "grafana", "version", "monitoring", "tutoriel", "compose", "branche"]
 source: https://tech-insider.org/fr/tutoriel-prometheus-grafana-monitoring-2026/
 source_anchor: ""

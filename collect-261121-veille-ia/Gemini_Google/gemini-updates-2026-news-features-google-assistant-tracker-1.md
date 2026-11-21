@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2023-06-13"]
 keywords: ["gemini", "google", "apps", "note", "help", "release", "post", "says"]
 source: https://keywordseverywhere.com/news/gemini-updates/
 source_anchor: ""

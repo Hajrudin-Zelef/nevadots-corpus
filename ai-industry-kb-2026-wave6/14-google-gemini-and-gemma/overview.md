@@ -5,7 +5,7 @@ domain: google-gemini-and-gemma
 role: deep-dive
 task: actor-profile
 actors: ["Alibaba", "Anthropic", "Cohere", "Google", "Meta", "OpenAI", "xAI"]
-dates: ["2025-05", "2025-12-04", "2026-01-13", "2026-01-15", "2026-02", "2026-02-19", "2026-03-31", "2026-04", "2026-04-02", "2026-04-16", "2026-05-19", "2026-06-03", "2026-06-05", "2026-06-10", "2026-06-30", "2026-08-13", "2026-08-27", "2026-12-31"]
+dates: ["2025-12-04", "2026-01-13", "2026-01-15", "2026-02-19", "2026-03-31", "2026-04-02", "2026-04-16", "2026-05-19", "2026-06-03", "2026-06-05", "2026-06-10", "2026-06-30", "2026-08-13", "2026-08-27"]
 keywords: ["gemini", "agentic", "apache", "astra", "attribution", "benchmark", "claude", "cohere", "consumer", "gemini 3.8", "gpt-6", "grok"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

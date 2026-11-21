@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-11"]
 keywords: ["google", "free", "students", "then", "year", "month", "plan", "offer"]
 source: https://www.studytexter.com/academic-writing/gemini-for-students
 source_anchor: ""

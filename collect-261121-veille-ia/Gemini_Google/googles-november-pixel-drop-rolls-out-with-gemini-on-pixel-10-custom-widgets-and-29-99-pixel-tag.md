@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["pixel", "google", "november", "googles", "gemini", "custom", "drop", "phones"]
 source: https://thetechhacker.com/news/november-2026-pixel-drop/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["added", "remote", "conversation", "click", "improved", "sessions", "orchestrator", "model"]
 source: https://diffharness.com/changes/antigravity-1-5-10
 source_anchor: ""

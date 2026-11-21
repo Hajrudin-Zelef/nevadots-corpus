@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["nvidia", "open", "nemotron", "super", "bolt", "model", "data", "agentic"]
 source: https://techbytes.app/posts/open-from-data-center-to-desktop-nvidia-expands-nemotron-family/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: dotnet-csharp
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["microsoft", "async", "runtime", "native", "types", "union", "class", "server"]
 source: https://www.kunal-chowdhury.com/2026/11/dotnet-11-csharp-15-release-features.html
 source_anchor: ""

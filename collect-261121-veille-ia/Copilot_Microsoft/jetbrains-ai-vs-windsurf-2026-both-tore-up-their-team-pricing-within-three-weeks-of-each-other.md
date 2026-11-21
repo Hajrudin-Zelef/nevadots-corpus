@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["jetbrains", "windsurf", "seat", "team", "pricing", "page", "cognition", "teams"]
 source: https://dev.to/ramdai_bista/jetbrains-ai-vs-windsurf-2026-both-tore-up-their-team-pricing-within-three-weeks-of-each-other-4fnc
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["kernel", "linux", "version", "history", "release", "decisions", "licence", "first"]
 source: https://www.ssdnodes.com/learn/linux-kernel-history-timeline
 source_anchor: ""

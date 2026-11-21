@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["windows", "settings", "build", "insider", "search", "microsoft", "storage", "update"]
 source: https://learn.microsoft.com/en-us/windows-insider/release-notes/beta/preview-build-26320-9876
 source_anchor: ""

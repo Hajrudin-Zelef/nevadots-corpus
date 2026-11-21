@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "model", "meta", "spark", "open", "license", "eesel", "first"]
 source: https://www.eesel.ai/blog/meta-muse-spark-open-review
 source_anchor: ""

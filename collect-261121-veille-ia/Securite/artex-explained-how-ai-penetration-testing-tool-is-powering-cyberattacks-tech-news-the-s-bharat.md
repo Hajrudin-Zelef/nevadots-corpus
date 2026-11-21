@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-08"]
 keywords: ["artex", "framework", "testing", "security", "used", "cyberattacks", "agents", "systems"]
 source: https://thesbharat.com/thesbharat9gmail-com/artex-explained-how-ai-penetration-testing-tool-is-powering-cyberattacks-tech-news/
 source_anchor: ""

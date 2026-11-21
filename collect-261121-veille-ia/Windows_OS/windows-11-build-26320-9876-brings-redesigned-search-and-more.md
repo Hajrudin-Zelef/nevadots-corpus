@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["windows", "settings", "search", "microsoft", "storage", "build", "redesigned", "recognition"]
 source: https://pureinfotech.com/build-26220-9876-windows-11-beta/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["github", "copilot", "xcode", "pull", "weekly", "agent", "views", "across"]
 source: https://blogs.techbytes.app/posts/github-copilot-weekly-releases-november-2/
 source_anchor: ""

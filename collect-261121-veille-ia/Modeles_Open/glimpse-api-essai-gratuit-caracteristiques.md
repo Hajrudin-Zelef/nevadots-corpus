@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["felo", "glimpse", "messages", "tokens", "raisonnement", "modele", "votre", "response"]
 source: https://openapi.felo.ai/models/elorian/glimpse
 source_anchor: ""

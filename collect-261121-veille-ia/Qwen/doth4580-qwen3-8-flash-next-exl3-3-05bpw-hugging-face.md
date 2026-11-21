@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["qwen3", "pack", "model", "flash-next-exl3-3", "qwen", "inference", "gb10", "exl3"]
 source: https://huggingface.co/doth4580/Qwen3.8-Flash-Next-EXL3-3.05bpw
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-09"]
 keywords: ["gpt-5", "terminal-bench", "hard", "claude", "artificial", "analysis", "opus", "leaderboard"]
 source: https://www.benchleader.com/benchmarks/aa_terminalbench_hard
 source_anchor: ""

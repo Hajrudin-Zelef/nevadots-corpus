@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "neon", "google", "carbon", "opus", "hydrogen", "tokens", "input"]
 source: https://llm-stats.com/blog/research/gemini-4-neon-launch
 source_anchor: ""

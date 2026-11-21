@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["agent", "framework", "python", "azure", "agent-framework", "package", "meta", "malicious"]
 source: https://www.endorlabs.com/learn/agent-framework-compromised-software-supply-chain-attack
 source_anchor: ""

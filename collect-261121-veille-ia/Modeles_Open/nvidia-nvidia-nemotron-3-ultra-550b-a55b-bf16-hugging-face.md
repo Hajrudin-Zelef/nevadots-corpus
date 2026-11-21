@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-04"]
 keywords: ["model", "reasoning", "nvidia", "data", "parameters", "agentic", "license", "date"]
 source: https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16
 source_anchor: ""

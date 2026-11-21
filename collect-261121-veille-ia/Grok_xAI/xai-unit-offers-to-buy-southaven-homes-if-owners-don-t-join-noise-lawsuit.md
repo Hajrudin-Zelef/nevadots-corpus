@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["homes", "noise", "lawsuit", "owners", "offers", "southaven", "also", "join"]
 source: https://dailymech.com/articles/xai-southaven-home-buyouts.html
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["model", "enterprise", "policy", "team", "file", "mode", "copilot", "teams"]
 source: https://www.agentpatterns.ai/patterns/agent-design/model-policy-reconciliation/
 source_anchor: ""

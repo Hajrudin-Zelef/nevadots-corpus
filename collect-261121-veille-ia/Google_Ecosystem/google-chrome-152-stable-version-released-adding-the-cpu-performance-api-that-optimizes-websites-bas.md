@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["performance", "chrome", "allows", "google", "stable", "user", "version", "released"]
 source: https://gigazine.net/gsc_news/en/20260826-google-chrome-152/
 source_anchor: ""

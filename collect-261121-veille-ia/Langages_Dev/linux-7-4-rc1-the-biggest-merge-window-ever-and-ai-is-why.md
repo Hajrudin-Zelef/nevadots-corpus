@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["linux", "merge", "window", "kernel", "work", "bugs", "ever", "release"]
 source: https://www.bikrambhujel.com.np/2026/11/linux-74-rc1-biggest-merge-window-ever.html
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "anthropic", "claude", "output", "cache", "changes", "input", "anthropics"]
 source: https://www.digitalapplied.com/blog/claude-opus-5-5-launch-pricing-benchmarks-2026
 source_anchor: ""

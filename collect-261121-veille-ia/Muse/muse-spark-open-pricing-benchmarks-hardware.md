@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "spark", "open", "tokens", "model", "output", "index", "task"]
 source: https://capitalandcompute.net/blog/muse-spark-open-pricing-benchmarks/
 source_anchor: ""

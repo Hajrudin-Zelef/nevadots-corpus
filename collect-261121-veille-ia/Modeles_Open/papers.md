@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-21"]
 keywords: ["video", "models", "aura", "teacher", "perturbations", "papers", "streaming", "avatar"]
 source: https://kyutai.org/papers/
 source_anchor: ""

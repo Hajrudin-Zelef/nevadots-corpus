@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "tokens", "claude", "input", "output", "cache", "prompt", "pricing"]
 source: https://codersera.com/blog/claude-haiku-5-5-complete-guide-2026/
 source_anchor: ""

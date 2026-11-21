@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["google", "inference", "context", "tpu", "data", "confidential", "windows", "blog"]
 source: https://dev.to/delimitter/google-adds-tpu-8tx-and-tpu-8i-max-for-confidential-inference-and-large-context-windows-5c1i
 source_anchor: ""

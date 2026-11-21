@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "same", "mtok", "claude", "tokens", "agentic", "anthropic", "upgrade"]
 source: https://codersera.com/blog/claude-fable-5-1-vs-fable-5-2026/
 source_anchor: ""

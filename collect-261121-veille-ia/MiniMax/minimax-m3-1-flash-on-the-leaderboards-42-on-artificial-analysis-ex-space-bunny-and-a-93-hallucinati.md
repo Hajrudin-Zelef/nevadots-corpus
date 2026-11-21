@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["flash", "minimax", "artificial", "analysis", "openrouter", "space", "bunny", "tokens"]
 source: https://www.terapep.com/blog/minimax-m3-1-flash-leaderboards-artificial-analysis-space-bunny-2026/
 source_anchor: ""

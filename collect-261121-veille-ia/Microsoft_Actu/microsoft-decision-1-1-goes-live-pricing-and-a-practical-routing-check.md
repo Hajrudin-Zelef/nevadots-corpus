@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "model", "input", "microsoft-decision-1", "pricing", "tokens", "decision", "vercel"]
 source: https://promptszone.com/microsoft-decision-1-1-ga-pricing-routing
 source_anchor: ""

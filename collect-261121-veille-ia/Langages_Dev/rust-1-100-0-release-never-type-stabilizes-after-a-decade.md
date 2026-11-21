@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-25"]
 keywords: ["type", "rust", "never", "decade", "release", "years", "after", "stable"]
 source: https://www.linuxcompatible.org/story/rust-11000-release-never-type-stabilizes-after-a-decade/
 source_anchor: ""

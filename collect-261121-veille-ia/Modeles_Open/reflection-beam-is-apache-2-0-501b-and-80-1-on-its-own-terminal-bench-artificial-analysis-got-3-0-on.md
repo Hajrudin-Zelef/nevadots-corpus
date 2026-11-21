@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["reflection", "beam", "open", "index", "model", "muse", "spark", "apache"]
 source: https://www.llmmatchmaker.com/blog/reflection-beam
 source_anchor: ""

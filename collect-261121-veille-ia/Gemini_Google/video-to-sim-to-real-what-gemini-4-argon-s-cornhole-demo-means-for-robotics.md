@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["argon", "video", "cornhole", "robotics", "real", "google", "deepmind", "gemini"]
 source: https://corti.com/video-to-sim-to-real-what-gemini-4-argons-cornhole-demo-means-for-robotics/
 source_anchor: ""

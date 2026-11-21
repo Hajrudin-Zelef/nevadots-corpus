@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-02-15"]
 keywords: ["error", "patch", "list", "typing", "sslcontext", "core", "builtinsa", "status"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

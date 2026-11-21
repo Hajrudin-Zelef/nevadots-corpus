@@ -5,7 +5,7 @@ domain: ai-server-market-figures-2026-research-draft
 role: deep-dive
 task: reference
 actors: ["China", "United States"]
-dates: ["2026-02", "2026-05", "2026-06-15", "2026-07", "2026-07-21", "2026-28-07"]
+dates: ["2026-06-15", "2026-07-21"]
 keywords: ["compute", "dram", "gpu", "hyperscaler", "memory", "nand", "pricing", "rack-scale", "research", "revenue"]
 source: docs/RAG/etape5_trackD_servers.md
 source_anchor: ""

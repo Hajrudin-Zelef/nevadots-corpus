@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "fp64", "rubin", "data", "cores", "core", "simulation", "recommits"]
 source: https://www.indiekings.com/2026/11/nvidia-rubin-hpc-gpu-fp64-sc26.html
 source_anchor: ""

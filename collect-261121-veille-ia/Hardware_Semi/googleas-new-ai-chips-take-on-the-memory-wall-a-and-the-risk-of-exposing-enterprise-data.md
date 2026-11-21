@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-09"]
 keywords: ["memory", "data", "google", "computing", "enterprise", "processing", "bandwidth", "hardware"]
 source: https://www.eweek.com/news/google-tpu-memory-data-security/
 source_anchor: ""

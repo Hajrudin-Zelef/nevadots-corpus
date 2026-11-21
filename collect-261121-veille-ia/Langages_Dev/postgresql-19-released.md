@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "plan", "tables", "query", "advice", "autovacuum", "release", "open"]
 source: https://www.postgresql.org/about/news/postgresql-19-released-3449/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["lfm3-1", "model", "card", "attention", "context", "liquid", "window", "agentic"]
 source: https://benchgen.com/models/liquid-ai/lfm3-1-7b
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: supplementary-research-pass-addendum-september-22-2026
 role: deep-dive
 task: reference
 actors: ["United States"]
-dates: ["2023-10-17", "2024-01-30", "2024-03-21", "2025-09-29", "2026-05", "2026-05-26", "2026-07-02", "2026-07-22", "2026-09", "2026-14-07"]
+dates: ["2023-10-17", "2024-01-30", "2024-03-21", "2025-09-29", "2026-05-26", "2026-07-02", "2026-07-22"]
 keywords: ["ethernet", "pricing"]
 source: docs/RAG/etape6_phaseB_smb_networking.md
 source_anchor: ""

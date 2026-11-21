@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-09-30"]
 keywords: ["pace", "frontier", "crypto", "amodei", "anthropic", "safety", "labsa", "call"]
 source: https://www.galaxy.com/insights/research/dario-amodei-pace-frontier-ai-essay-crypto-ftx-effective-altruism-critique
 source_anchor: ""

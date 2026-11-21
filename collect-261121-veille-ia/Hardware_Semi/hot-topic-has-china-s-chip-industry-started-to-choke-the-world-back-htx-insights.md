@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-22"]
 keywords: ["china", "chip", "revenue", "nvidia", "hong", "kong", "data", "about"]
 source: https://www.htx.com/news/529318/
 source_anchor: ""

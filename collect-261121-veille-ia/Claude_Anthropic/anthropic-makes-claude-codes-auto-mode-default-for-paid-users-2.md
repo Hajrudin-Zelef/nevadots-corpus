@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["mode", "auto", "claude", "users", "default", "permission", "more", "cios"]
 source: https://www.infoworld.com/article/4207959/anthropic-makes-claude-codes-auto-mode-default-for-paid-users.html
 source_anchor: ""

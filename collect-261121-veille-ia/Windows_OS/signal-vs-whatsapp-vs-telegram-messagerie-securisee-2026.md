@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2025-05-06"]
 keywords: ["signal", "whatsapp", "messagerie", "securisee", "selon", "telegram", "olvid", "dollars"]
 source: https://tech-insider.org/fr/signal-whatsapp-telegram-olvid-2026/
 source_anchor: ""

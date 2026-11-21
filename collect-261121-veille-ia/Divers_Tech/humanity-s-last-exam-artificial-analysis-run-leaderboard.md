@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-08-06"]
 keywords: ["claude", "anthropic", "gpt-5", "gemini", "deepseek", "humanity", "last", "exam"]
 source: https://llmbenchmark.ai/benchmarks/aa-hle
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: banques-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-02"]
 keywords: ["keys", "llmjacking", "google", "stolen", "night", "plan", "token", "charges"]
 source: https://www.signalscorps.com/blog/ignore-previous-instructions-llmjacking/
 source_anchor: ""

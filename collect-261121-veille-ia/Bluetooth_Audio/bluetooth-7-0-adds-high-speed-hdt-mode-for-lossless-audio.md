@@ -5,7 +5,7 @@ domain: bluetooth-audio
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-15"]
 keywords: ["bluetooth", "audio", "lossless", "data", "mode", "devices", "support", "aptx"]
 source: https://www.gadgetrymag.com/audio/bluetooth-7-0-adds-high-speed-hdt-mode-for-lossless-audio
 source_anchor: ""

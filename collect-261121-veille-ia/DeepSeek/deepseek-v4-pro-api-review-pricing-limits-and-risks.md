@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-04-24"]
 keywords: ["deepseek", "limits", "million", "flash", "pricing", "token", "output", "peak"]
 source: https://www.layer3labs.io/guides/deepseek-v4-review
 source_anchor: ""

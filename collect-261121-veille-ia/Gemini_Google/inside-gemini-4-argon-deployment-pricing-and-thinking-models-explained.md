@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["argon", "gemini", "thinking", "legal", "models", "software", "finance", "reasoning"]
 source: https://www.devoteam.com/expert-view/gemini-4-argon-explained/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["malicious", "azure", "credentials", "pypi", "python", "environments", "tokens", "releases"]
 source: https://www.hexnode.com/threat-watch/microsoft-agent-framework-pypi-credential-stealer/
 source_anchor: ""

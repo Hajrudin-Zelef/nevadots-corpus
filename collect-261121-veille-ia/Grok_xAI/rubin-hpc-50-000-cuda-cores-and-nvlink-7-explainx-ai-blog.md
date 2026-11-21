@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["rubin", "nvidia", "cores", "cuda", "nvlink", "vera", "data", "blog"]
 source: https://www.explainx.ai/blog/nvidia-rubin-hpc-50000-cuda-cores-nvlink-7-sc26-2026
 source_anchor: ""

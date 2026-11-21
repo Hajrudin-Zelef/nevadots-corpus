@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-16"]
 keywords: ["agent", "openai", "deepseek", "v4-pro", "model", "build", "reasoning", "v4-flash"]
 source: https://alphasignal.ai/news/deepseek-v4-pro-goes-live-and-runs-openai-s-own-coding-agent-8x-cheaper
 source_anchor: ""

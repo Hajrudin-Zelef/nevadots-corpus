@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-31"]
 keywords: ["jules", "google", "november", "read-only", "notice", "after", "said", "still"]
 source: https://enjoy.dev/blog/jules-shutdown-november-11/
 source_anchor: ""

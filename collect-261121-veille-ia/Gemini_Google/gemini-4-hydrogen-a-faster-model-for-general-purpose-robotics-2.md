@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "robotics", "google", "hydrogen", "model", "physical", "benchmark", "antigravity"]
 source: https://tools.techbytes.app/posts/gemini-4-hydrogen-a-faster-model-for-general-purpose-robotics/
 source_anchor: ""

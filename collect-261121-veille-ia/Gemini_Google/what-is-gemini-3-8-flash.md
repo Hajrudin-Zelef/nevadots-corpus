@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "gemini", "model", "tokens", "output", "google", "million", "input"]
 source: https://apidog.com/blog/what-is-gemini-3-8-flash/
 source_anchor: ""

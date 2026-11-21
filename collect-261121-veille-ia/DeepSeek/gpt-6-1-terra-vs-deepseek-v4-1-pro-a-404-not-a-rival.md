@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["terra", "deepseek", "flash", "output", "input", "gpt-6", "model", "price"]
 source: https://www.orcarouter.ai/blog/gpt-6-1-terra-vs-deepseek-v4-1-pro
 source_anchor: ""

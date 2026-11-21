@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-28"]
 keywords: ["final", "report", "draft", "nist", "transition", "post-quantum", "signatures", "cryptography"]
 source: https://www.sitg-consulting.com/post/nist-ir-8547-what-changed-draft-to-final
 source_anchor: ""

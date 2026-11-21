@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-11-18"]
 keywords: ["google", "agents", "remote", "voice", "cloud", "mode", "antigravity", "gemini"]
 source: https://i10x.ai/news/google-antigravity-remote-agents-voice-mode
 source_anchor: ""

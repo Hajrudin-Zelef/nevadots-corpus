@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["beam", "artificial", "effective", "analysis", "index", "token", "model", "a23b"]
 source: https://openrouter.ai/reflection/beam-1.0-501b-a23b
 source_anchor: ""

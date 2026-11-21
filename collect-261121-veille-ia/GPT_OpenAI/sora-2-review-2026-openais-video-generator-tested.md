@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-04-26"]
 keywords: ["sora", "video", "quality", "review", "prompt", "accuracy", "model", "product"]
 source: https://diyai.io/ai-tools/video-generation/reviews/sora-2-review/
 source_anchor: ""

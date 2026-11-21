@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["applies", "august", "obligations", "compliance", "omnibus", "systems", "guide", "changed"]
 source: https://www.surecloud.com/blog-hub/eu-ai-act-compliance-guide-what-applies-now
 source_anchor: ""

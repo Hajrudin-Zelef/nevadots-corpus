@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["href", "label", "docs", "github", "developer", "type", "false", "true"]
 source: https://developer.box.com/guides/box-ai/ai-models/openai-gpt-6-1-terra-model-card
 source_anchor: ""

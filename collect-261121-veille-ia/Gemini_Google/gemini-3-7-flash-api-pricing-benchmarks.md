@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["effective", "used", "routing", "gemini", "flash", "endpoints", "provider", "model"]
 source: https://openrouter.ai/google/gemini-3.7-flash?view=api
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["hydrogen", "gemini", "flash", "argon", "model", "carbon", "game", "google"]
 source: https://aimlapi.com/blog/gemini-4-hydrogen-vs-3-8-flash-vs-argon
 source_anchor: ""

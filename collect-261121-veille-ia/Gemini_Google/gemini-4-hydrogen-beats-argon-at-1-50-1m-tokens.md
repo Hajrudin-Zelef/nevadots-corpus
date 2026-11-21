@@ -5,7 +5,7 @@ domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["gemini", "tokens", "hydrogen", "google", "thinking", "output", "argon", "default"]
 source: https://codebumble.net/insights/gemini-4-hydrogen-agentic-coding-thinking-levels
 source_anchor: ""

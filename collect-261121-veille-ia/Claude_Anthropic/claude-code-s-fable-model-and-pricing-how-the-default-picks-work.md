@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "code", "model", "default", "pricing", "november", "fast"]
 source: https://www.pondero.ai/coding/guides/claude-code-default-model-pricing-guide/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["mimo-v2", "flash", "automation", "tokens", "model", "million", "flagship", "review"]
 source: https://go.tabbit.ai/blog/mimo-v2-6-flash-review
 source_anchor: ""

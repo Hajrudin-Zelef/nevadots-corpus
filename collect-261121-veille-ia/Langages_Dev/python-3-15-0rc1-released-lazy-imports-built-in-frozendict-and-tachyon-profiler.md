@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-01"]
 keywords: ["lazy", "imports", "frozendict", "python", "tachyon", "profiler", "import", "module"]
 source: https://www.linuxcompatible.org/story/python-3150rc1-released-lazy-imports-builtin-frozendict-and-tachyon-profiler/
 source_anchor: ""

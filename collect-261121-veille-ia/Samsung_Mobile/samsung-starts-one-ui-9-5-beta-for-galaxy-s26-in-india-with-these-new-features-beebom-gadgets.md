@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["samsung", "beta", "galaxy", "india", "lock", "update", "features", "also"]
 source: https://gadgets.beebom.com/news/samsung-one-ui-9-5-beta-galaxy-s26-india
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "DeepSeek", "Glasswing", "Google", "Meta", "Microsoft", "MiniMax", "Nvidia", "OpenAI", "Poolside", "United States", "xAI"]
-dates: ["2026-02-19", "2026-09-02", "2026-09-03", "2026-09-09", "2026-09-11", "2026-09-27", "2026-12-31", "2027-02-04"]
+dates: ["2026-02-19", "2026-09-02", "2026-09-03", "2026-09-09", "2026-09-11", "2026-09-27"]
 keywords: ["agent", "agentic", "agents", "agi", "asl", "astra", "attention", "benchmark", "benchmarks", "blackwell", "chatgpt", "claude"]
 source: docs/RAG/collect-261001-ia-llm/ia_modeles_occident.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["prime", "price", "output", "openrouter", "tokens", "glm-5", "input", "million"]
 source: https://enterprisedna.co/directories/models/z-ai-glm-5-3-prime/
 source_anchor: ""

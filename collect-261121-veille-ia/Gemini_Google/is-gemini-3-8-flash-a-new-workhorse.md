@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-05-19"]
 keywords: ["flash", "gemini", "asia", "test", "time", "first", "workhorse", "different"]
 source: https://medium.com/google-developer-experts/is-gemini-3-8-flash-a-new-workhorse-323c9698b34d?source=post_page---post_publication_info--9e2d18f244a0
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["anthropic", "claude", "tokens", "haiku", "puter", "output", "million", "model"]
 source: https://developer.puter.com/ai/anthropic/claude-haiku-5-5/
 source_anchor: ""

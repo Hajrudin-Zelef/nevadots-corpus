@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-09"]
 keywords: ["gpt-5", "terra", "luna", "model", "cost", "input", "bill", "flagship"]
 source: https://apidog.com/blog/gpt-5-6-pricing/
 source_anchor: ""

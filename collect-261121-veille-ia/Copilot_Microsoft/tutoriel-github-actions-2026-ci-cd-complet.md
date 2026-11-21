@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-01-01"]
 keywords: ["github", "actions", "name", "runners", "workflows", "tutoriel", "complet", "workflow"]
 source: https://tech-insider.org/fr/tutoriel-github-actions-ci-cd-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-08-22"]
 keywords: ["sweden", "wallenberg", "sferical", "supercomputer", "advanced", "nvidia", "takes", "wheel"]
 source: https://www.turtlesai.com/en/pages-3125/sweden_takes_the_wheel_of_ai_wallenberg_fires_up_s
 source_anchor: ""

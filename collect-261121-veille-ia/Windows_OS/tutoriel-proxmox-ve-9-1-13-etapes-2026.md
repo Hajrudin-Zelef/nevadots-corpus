@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2025-11-19"]
 keywords: ["proxmox", "version", "linux", "depuis", "open", "publie", "server", "noyau"]
 source: https://tech-insider.org/fr/tutoriel-proxmox-ve-9-installation-hyperviseur-13-etapes-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["safety", "security", "council", "openai", "anthropic", "session", "international", "development"]
 source: https://cryptobriefing.com/openai-anthropic-ceos-un-security-council-ai-safety/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2021-08-23"]
 keywords: ["certificate", "user", "subject", "field", "certificates", "method", "server", "dialup"]
 source: https://docs.fortinet.com/document/fortigate/7.2.9/administration-guide/443323/dialup-ipsec-vpn-with-certificate-authentication
 source_anchor: ""

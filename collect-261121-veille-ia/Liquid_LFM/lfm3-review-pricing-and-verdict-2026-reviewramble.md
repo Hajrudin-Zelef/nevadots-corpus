@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["liquid", "model", "text", "lfm3", "models", "against", "speech", "decision"]
 source: https://www.reviewramble.com/models/lfm3
 source_anchor: ""

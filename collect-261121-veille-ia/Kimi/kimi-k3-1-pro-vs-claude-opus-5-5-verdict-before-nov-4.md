@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["moonshot", "kimi", "opus", "claude", "astra", "input", "model", "analysis"]
 source: https://dev.to/aitecharchive/kimi-k31-pro-vs-claude-opus-55-verdict-before-nov-4-41f3
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-14"]
 keywords: ["router", "config", "cisco", "configuration", "packet", "tracer", "routers", "name"]
 source: https://ipcisco.com/lesson/ssh-configuration-on-packet-tracer/
 source_anchor: ""

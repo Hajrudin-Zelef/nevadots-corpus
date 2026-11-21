@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["gemini", "model", "google", "carbon", "studio", "input", "docs", "tokens"]
 source: https://apidog.com/blog/gemini-4-carbon-api/
 source_anchor: ""

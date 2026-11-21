@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "openrouter", "flash", "tokens", "october", "space", "bunny", "price"]
 source: https://cellcog.ai/blog/minimax-m3-1-flash/
 source_anchor: ""

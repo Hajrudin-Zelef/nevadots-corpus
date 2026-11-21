@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["claude", "model", "opus", "fable", "work", "tokens", "sonnet", "haiku"]
 source: https://www.scaler.com/topics/claude-opus-5-vs-haiku-5-vs-fable/
 source_anchor: ""

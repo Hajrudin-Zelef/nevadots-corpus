@@ -5,7 +5,7 @@ domain: reseau-networking
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2024-10-10"]
 keywords: ["interface", "trace", "func", "line", "pool", "wan1", "edit", "next"]
 source: https://community.fortinet.com/fortigate-3/troubleshooting-tip-internet-is-not-working-with-one-of-the-sd-wan-members-when-ip-pool-is-called-in-the-policy-92950
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["rubin", "infrastructure", "google", "cloud", "nvidia", "vera", "availability", "gpus"]
 source: https://www.intelligenthq.com/google-cloud-plans-up-to-960000-nvidia-rubin-gpus-as-vera-rubin-ai-infrastructure-nears-general-availability/
 source_anchor: ""

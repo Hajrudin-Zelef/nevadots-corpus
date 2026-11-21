@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["model", "alibaba", "cybersecurity", "enhanced", "features", "qwen4-max", "tasks", "launches"]
 source: https://threatcluster.io/cluster/alibaba-launches-qwen4-max-with-enhanced-cybersecurity-featu-6587b8ca
 source_anchor: ""

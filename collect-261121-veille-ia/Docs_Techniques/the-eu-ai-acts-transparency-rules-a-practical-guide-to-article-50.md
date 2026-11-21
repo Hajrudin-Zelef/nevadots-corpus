@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["article", "obligations", "systems", "transparency", "must", "deployers", "providers", "content"]
 source: https://artificialintelligenceact.eu/transparency-rules-article-50/
 source_anchor: ""

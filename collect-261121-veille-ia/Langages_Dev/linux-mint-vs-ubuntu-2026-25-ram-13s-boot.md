@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-01-13"]
 keywords: ["ubuntu", "mint", "linux", "support", "avril", "cinnamon", "cote", "gnome"]
 source: https://tech-insider.org/fr/linux-mint-vs-ubuntu-2026-3/
 source_anchor: ""

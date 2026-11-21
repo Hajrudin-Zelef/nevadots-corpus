@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["liquid", "model", "text", "models", "lfm3", "shared", "agent", "vision"]
 source: https://dev.to/paullovelace/liquid-ais-lfm3-six-2b-open-models-one-shared-brain-and-a-1gb-phone-sized-agent-40co
 source_anchor: ""

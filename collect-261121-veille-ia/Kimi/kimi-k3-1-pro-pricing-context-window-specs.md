@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["models", "kimi-k3", "kimi", "moonshotai", "context", "tokens", "window", "output"]
 source: https://www.aimodel.directory/models/kimi-k3-1-pro
 source_anchor: ""

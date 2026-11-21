@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-02-01"]
 keywords: ["grok", "model", "gpt-5", "work", "across", "knowledge", "agentic", "intelligence"]
 source: https://www.davidborish.com/post/grok-4-6-powers-grok-bot-and-ties-gpt-5-6-sol-at-a-fraction-of-the-cost
 source_anchor: ""

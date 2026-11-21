@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["carbon", "gemini", "google", "model", "developers", "output", "engineering", "building"]
 source: https://pctechmag.com/2026/11/gemini-4-carbon-api-everything-developers-need-to-know-before-building/
 source_anchor: ""

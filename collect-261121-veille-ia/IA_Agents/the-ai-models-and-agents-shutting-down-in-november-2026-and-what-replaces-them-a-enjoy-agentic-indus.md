@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-02"]
 keywords: ["claude", "november", "opus", "fast", "mode", "google", "models", "agents"]
 source: https://enjoy.dev/blog/ai-models-shutting-down-november-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["lazy", "imports", "python", "import", "json", "just", "everything", "module"]
 source: https://dev.to/mursalfk/python-315-just-dropped-heres-everything-that-changed-from-314-36kj
 source_anchor: ""

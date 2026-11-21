@@ -5,7 +5,7 @@ domain: step-6-phase-f3-platform-firmware-hardware-root-of-trust
 role: deep-dive
 task: hardware
 actors: ["AMD", "EU", "Intel", "Microsoft"]
-dates: ["2025-04-02", "2025-09-18", "2025-10-01", "2026-01-06", "2026-06-30", "2026-08-20", "2026-09-22", "2026-12-31"]
+dates: ["2025-04-02", "2025-09-18", "2025-10-01", "2026-01-06", "2026-06-30", "2026-08-20", "2026-09-22"]
 keywords: ["acquisition", "amd", "cyber", "intel", "luna", "memory", "research"]
 source: docs/RAG/etape6_phaseF3_platform_security.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-06"]
 keywords: ["raisonnement", "modele", "claude", "opus", "tokens", "gpt-5", "kimi", "trois"]
 source: https://tech-insider.org/fr/kimi-k3-vs-gpt-5-6-vs-claude-opus-5-2026/
 source_anchor: ""

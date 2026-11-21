@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["apple", "fastframes", "video", "models", "interactive", "fastframes-s", "model", "fastframes-l"]
 source: https://www.vp-land.com/stories/apple-releases-fastframes-video-models-for-interactive-generation-with-frames-in-as-little
 source_anchor: ""

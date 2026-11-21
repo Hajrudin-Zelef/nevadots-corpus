@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["claude", "opus", "fable", "benchmarks", "evaluation", "astra", "openai", "gpt-6"]
 source: https://www.layer3labs.io/guides/claude-opus-5-5-benchmarks
 source_anchor: ""

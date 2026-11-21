@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["epyc", "core", "benchmarks", "server", "bill", "venice", "phoronix", "knockout"]
 source: https://www.beyondimy.com/post/amd-epyc-9006-server-results
 source_anchor: ""

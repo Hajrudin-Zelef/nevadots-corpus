@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["qualcomm", "amazon", "custom", "major", "data", "deal", "center", "chips"]
 source: https://hothardware.com/news/qualcomm-strikes-deal-amazon-custom-ai-data-center-chips
 source_anchor: ""

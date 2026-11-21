@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "work", "model", "code", "install", "download", "hosted", "inference"]
 source: https://www.ai.joaoqueiros.com/blog/kimi-k3-1-pro-official-guide-install-download-api-code
 source_anchor: ""

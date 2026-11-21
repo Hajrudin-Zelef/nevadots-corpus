@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["model", "transcription", "audio", "results", "language", "transcribe", "speech", "encoder"]
 source: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-NVFP4
 source_anchor: ""

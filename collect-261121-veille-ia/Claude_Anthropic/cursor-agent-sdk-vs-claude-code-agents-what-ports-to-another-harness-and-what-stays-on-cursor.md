@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-20"]
 keywords: ["cursor", "agent", "claude", "code", "agents", "anthropic", "team", "model"]
 source: https://stackness.dev/blog/cursor-agent-sdk-vs-claude-code-agents-what-ports-and-what-locks-in
 source_anchor: ""

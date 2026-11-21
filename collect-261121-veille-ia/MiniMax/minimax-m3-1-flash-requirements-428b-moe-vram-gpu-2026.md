@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "memory", "parameters", "official", "requirements", "weights", "about"]
 source: https://www.oflight.co.jp/en/columns/minimax-m3-1-flash-requirements-vram-2026
 source_anchor: ""

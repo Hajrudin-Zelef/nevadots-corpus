@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["openai", "agents", "preview", "bedrock", "service", "amazon", "managed", "models"]
 source: https://dev.to/techaiwire/amazon-bedrock-managed-agents-for-openai-enters-preview-4c9k
 source_anchor: ""

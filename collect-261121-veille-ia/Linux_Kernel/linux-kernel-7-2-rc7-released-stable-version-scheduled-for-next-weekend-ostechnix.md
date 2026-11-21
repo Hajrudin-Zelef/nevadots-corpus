@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-09"]
 keywords: ["kernel", "code", "linux", "release", "fixes", "linus", "stable", "lines"]
 source: https://ostechnix.com/linux-kernel-7-2-rc7-released/
 source_anchor: ""

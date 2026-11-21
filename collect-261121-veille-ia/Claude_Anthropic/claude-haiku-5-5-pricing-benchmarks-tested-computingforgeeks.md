@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "claude", "tokens", "model", "output", "anthropic", "pricing", "benchmarks"]
 source: https://computingforgeeks.com/claude-haiku-5-5-released-features-benchmarks/
 source_anchor: ""

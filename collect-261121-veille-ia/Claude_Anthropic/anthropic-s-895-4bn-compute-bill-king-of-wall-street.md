@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["anthropic", "broadcom", "prospectus", "commitments", "compute", "amazon", "leases", "google"]
 source: https://mastermeigu.com/en/analysis/anthropic-s1a-compute-commitments-2026/
 source_anchor: ""

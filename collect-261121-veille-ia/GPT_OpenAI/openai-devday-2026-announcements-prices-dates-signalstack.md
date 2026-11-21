@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["gpt-6", "openai", "chatgpt", "openaias", "agents", "codex", "enterprise", "devday"]
 source: https://www.signalstack.news/blog/openai-devday-2026-announcements/
 source_anchor: ""

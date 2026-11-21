@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["standards", "openai", "frontier", "post", "self-improvement", "global", "technical", "including"]
 source: https://www.the-ledger.net/events/openai-us-led-global-frontier-ai-standards-rsi
 source_anchor: ""

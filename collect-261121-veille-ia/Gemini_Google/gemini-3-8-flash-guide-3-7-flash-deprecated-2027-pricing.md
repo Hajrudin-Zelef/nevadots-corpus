@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["flash", "gemini-3", "gemini", "google", "model", "deprecated", "october", "guide"]
 source: https://codersera.com/blog/gemini-3-8-flash-complete-guide-2026/
 source_anchor: ""

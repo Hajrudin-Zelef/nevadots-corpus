@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["flux", "video", "multimodal", "model", "image", "access", "black", "forest"]
 source: https://www.digitalapplied.com/blog/flux-3-black-forest-labs-multimodal-launch
 source_anchor: ""

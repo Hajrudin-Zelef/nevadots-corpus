@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["flash", "model", "xiaomi", "mimo-v2", "active", "parameters", "runs", "both"]
 source: https://rits.shanghai.nyu.edu/ai/xiaomi-open-sources-mimo-v2-6-pro-and-flash-plus-its-rl-stack/
 source_anchor: ""

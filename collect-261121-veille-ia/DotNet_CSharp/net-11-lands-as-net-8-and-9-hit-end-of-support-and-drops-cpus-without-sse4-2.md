@@ -5,7 +5,7 @@ domain: dotnet-csharp
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["support", "dotnet", "net", "more", "default", "async", "drops", "cpus"]
 source: https://blog.jorgeturbica.dev/en/net-11-lands-as-net-8-and-9-hit-end-of-support-and-drops-cpus-without-sse4-2
 source_anchor: ""

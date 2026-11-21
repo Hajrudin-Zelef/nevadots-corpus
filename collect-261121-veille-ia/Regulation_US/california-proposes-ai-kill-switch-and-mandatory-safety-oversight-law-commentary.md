@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["california", "safety", "would", "developers", "incidents", "systems", "mandatory", "oversight"]
 source: https://www.lawcommentary.com/articles/california-ai-kill-switch-mandatory-safety-oversight
 source_anchor: ""

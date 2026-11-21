@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["gemini", "reasoning", "google", "hydrogen", "level", "speedup", "context", "window"]
 source: https://af.net/realtime/google-releases-gemini-4-hydrogen-with-2-5x-speedup-over-gemini-3-8-flash/
 source_anchor: ""

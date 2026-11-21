@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-31"]
 keywords: ["anthropic", "system", "agents", "enzyme", "scientific", "claude", "crispr-like", "discovery"]
 source: https://dev.to/976905690/anthropics-claude-agents-discover-crispr-like-enzyme-system-art-1mei
 source_anchor: ""

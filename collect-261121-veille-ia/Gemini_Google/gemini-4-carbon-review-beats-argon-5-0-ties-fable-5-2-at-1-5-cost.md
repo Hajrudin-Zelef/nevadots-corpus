@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["carbon", "argon", "answer", "fable", "google", "gemini", "cost", "prompts"]
 source: https://llmtest.io/blog/gemini-4-carbon-review-2026
 source_anchor: ""

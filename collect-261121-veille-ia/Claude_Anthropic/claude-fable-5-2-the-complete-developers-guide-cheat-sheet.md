@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "anthropic", "output", "tokens", "model", "price", "fast"]
 source: https://medium.com/@rajadurai80/claude-fable-5-2-the-complete-developers-guide-cheat-sheet-5ffbeb68e6a1
 source_anchor: ""

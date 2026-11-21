@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-09"]
 keywords: ["glm-5", "flash", "price", "output", "about", "difference", "three", "intelligence"]
 source: https://apidog.com/blog/glm-5-3-flash-vs-glm-5-3/
 source_anchor: ""

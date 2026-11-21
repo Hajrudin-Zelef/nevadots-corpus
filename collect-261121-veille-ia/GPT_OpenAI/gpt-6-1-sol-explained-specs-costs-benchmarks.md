@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["gpt-6", "openai", "standard", "million", "tokens", "costs", "model", "input"]
 source: https://www.layer3labs.io/guides/gpt-6-1-sol-explained
 source_anchor: ""

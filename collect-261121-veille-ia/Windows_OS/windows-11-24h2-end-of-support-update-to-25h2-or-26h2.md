@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "version", "update", "microsoft", "updates", "october", "support", "home"]
 source: https://noxkeys.com/windows-11-24h2-end-of-support-update-25h2/
 source_anchor: ""

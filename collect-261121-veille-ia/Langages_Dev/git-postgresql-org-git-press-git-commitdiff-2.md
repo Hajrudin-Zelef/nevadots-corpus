@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["postgresql", "release", "fixes", "docs", "git", "beta", "candidate", "several"]
 source: https://git.postgresql.org/gitweb/?p=press.git;a=commitdiff;h=f781f8aa1a38f8e9f0a8d64c7476729a7fcb4856
 source_anchor: ""

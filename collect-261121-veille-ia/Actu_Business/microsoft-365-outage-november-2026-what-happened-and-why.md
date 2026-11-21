@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-15"]
 keywords: ["microsoft", "november", "outage", "exchange", "email", "defect", "teams", "most"]
 source: https://www.ewaycorp.com/blog/microsoft-365-outage-november-2026/
 source_anchor: ""

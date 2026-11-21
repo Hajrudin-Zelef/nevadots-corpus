@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["voice", "grok", "model", "speech-to-speech", "support", "artificial", "analysis", "already"]
 source: https://www.eesel.ai/blog/grok-voice-3
 source_anchor: ""

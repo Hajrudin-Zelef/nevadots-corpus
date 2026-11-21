@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-02"]
 keywords: ["build", "release", "notes", "system", "incremental", "rebuilds", "split", "work"]
 source: https://dev.to/techaiwire/zig-0170-brings-a-split-build-system-and-fast-rebuilds-19cc
 source_anchor: ""

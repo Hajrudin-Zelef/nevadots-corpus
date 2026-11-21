@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["pixel", "google", "review", "upgrade", "excellent", "older", "gemini", "cameras"]
 source: https://www.machinebrief.com/news/google-pixel-11-review-an-excellent-upgrade-if-you-own-an-ol-15no
 source_anchor: ""

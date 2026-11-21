@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "gemini", "model", "cyber", "models", "google", "million", "tokens"]
 source: https://gcn.com/google-ships-gemini-flash-stronger-agentic/21390/
 source_anchor: ""

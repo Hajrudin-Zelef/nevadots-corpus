@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-03-10"]
 keywords: ["model", "organization", "policy", "github", "access", "name", "enterprise", "tokens"]
 source: https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-model-policy-management
 source_anchor: ""

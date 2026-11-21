@@ -5,7 +5,7 @@ domain: openrouter-news
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["openrouter", "model", "routing", "models", "provider", "modelrouter", "market", "stripe"]
 source: https://www.modelrouter.com/catalog/openrouter
 source_anchor: ""

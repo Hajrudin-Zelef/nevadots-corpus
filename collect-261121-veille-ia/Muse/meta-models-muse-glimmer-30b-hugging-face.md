@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-01-04"]
 keywords: ["model", "muse", "glimmer", "encoder", "perception", "reasoning", "local", "agentic"]
 source: https://huggingface.co/meta-models/Muse-Glimmer-30B
 source_anchor: ""

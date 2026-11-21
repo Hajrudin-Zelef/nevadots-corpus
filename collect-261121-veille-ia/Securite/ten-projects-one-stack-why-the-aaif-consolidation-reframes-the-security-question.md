@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["agent", "projects", "security", "aaif", "agents", "foundation", "skills", "question"]
 source: http://dev.to/saaro_net/ten-projects-one-stack-why-the-aaif-consolidation-reframes-the-security-question-60l
 source_anchor: ""

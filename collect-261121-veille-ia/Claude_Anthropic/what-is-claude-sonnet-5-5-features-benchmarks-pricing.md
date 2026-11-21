@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "claude", "opus", "anthropic", "tokens", "model", "work", "effort"]
 source: https://emergent.sh/learn/what-is-claude-sonnet-5-5
 source_anchor: ""

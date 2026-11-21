@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-06"]
 keywords: ["engineer", "deployed", "forward", "anthropic", "software", "frontier", "product", "engineers"]
 source: https://www.sfeir.com/en/what-we-do/forward-deployed-engineers/what-is-a-forward-deployed-engineer/
 source_anchor: ""

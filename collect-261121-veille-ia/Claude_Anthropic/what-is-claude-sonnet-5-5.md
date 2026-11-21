@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["claude", "sonnet", "model", "opus", "output", "september", "costs", "thinking"]
 source: https://apidog.com/blog/what-is-claude-sonnet-5-5/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["h200", "nvidia", "beijing", "hong", "kong", "chips", "export", "first"]
 source: https://www.tftc.io/nvidia-h200-chips-hong-kong-beijing-import-approval
 source_anchor: ""

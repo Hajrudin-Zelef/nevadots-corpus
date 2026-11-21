@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-16"]
 keywords: ["nextcloud", "cloud", "numerique", "souverain", "france", "installer", "souverainete", "etapes"]
 source: https://tech-insider.org/fr/installer-nextcloud-cloud-souverain-13-etapes-2026/
 source_anchor: ""

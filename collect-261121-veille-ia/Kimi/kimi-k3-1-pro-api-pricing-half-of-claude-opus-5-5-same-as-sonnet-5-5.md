@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["tokens", "kimi", "input", "output", "claude", "opus", "moonshot", "sonnet"]
 source: https://dev.to/tokely/kimi-k31-pro-api-pricing-half-of-claude-opus-55-same-as-sonnet-55-fo4
 source_anchor: ""

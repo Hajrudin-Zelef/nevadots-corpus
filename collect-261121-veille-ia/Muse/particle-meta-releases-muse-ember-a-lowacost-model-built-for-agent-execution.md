@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["model", "meta", "muse", "ember", "built", "agent", "tokens", "particle"]
 source: https://particle.news/story/meta-releases-muse-ember-a-lowcost-model-built-for-agent-execution
 source_anchor: ""

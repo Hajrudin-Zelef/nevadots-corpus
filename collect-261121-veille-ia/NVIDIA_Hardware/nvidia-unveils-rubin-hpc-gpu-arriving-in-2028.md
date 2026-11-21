@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "rubin", "says", "siliconangle", "chip", "hardware", "cores", "data"]
 source: https://www.ai-news.media/posts/nvidia-unveils-rubin-hpc-gpu-for-science-agents-due-in-2028
 source_anchor: ""

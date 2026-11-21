@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["software", "meta", "model", "licensee", "service", "derivatives", "including", "shall"]
 source: https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B/tree/main
 source_anchor: ""

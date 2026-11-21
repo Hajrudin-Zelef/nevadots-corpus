@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["october", "postgresql", "release", "november", "year", "major", "september", "beta"]
 source: https://afengblog.com/en/blog/postgresql-19-release-delay-llm-bugs.html
 source_anchor: ""

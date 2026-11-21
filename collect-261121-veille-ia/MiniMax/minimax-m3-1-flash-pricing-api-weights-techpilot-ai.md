@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["minimax", "flash", "free", "tokens", "openrouter", "model", "pricing", "input"]
 source: https://techpilot.ai/tools/minimax-m3-1-flash/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["mistral", "large", "model", "chonk", "trillion-parameter", "european", "models", "just"]
 source: https://ai.octodance.com/mistral-large-4-le-chonk-review-europes-1-trillion-parameter-ai-beast-is-here/
 source_anchor: ""

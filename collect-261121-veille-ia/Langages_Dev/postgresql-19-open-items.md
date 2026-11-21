@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["owner", "commit", "patch", "open", "postgresql", "items", "thread", "lane"]
 source: https://wiki.postgresql.org/wiki/PostgreSQL_19_Open_Items
 source_anchor: ""

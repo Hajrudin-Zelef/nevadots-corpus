@@ -5,7 +5,7 @@ domain: go-json
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-25"]
 keywords: ["patrick", "mclean", "james", "gentoo", "dev-libs", "simdjson", "commit", "arthur"]
 source: https://public-inbox.gentoo.org/gentoo-commits/1792965065.d447bd7eadcef0b5bbd37a865d427fb9ccc48212.sam@gentoo/
 source_anchor: ""

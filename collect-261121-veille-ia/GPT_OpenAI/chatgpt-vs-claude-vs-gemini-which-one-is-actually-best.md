@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["gemini", "chatgpt", "claude", "best", "plan", "each", "three", "most"]
 source: https://multiai.co/blog/chatgpt-vs-claude-vs-gemini
 source_anchor: ""

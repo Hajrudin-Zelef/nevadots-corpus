@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["microsoft", "ver1", "microsoft-decision-1", "standard", "decision", "input", "foundry", "model"]
 source: https://dev.classmethod.jp/en/articles/azure-decision1-1/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2019-11-21"]
 keywords: ["diagnose", "click", "usage", "debug", "high", "list", "script", "memory"]
 source: https://docs.fortinet.com/document/fortigate/7.0.4/administration-guide/702937
 source_anchor: ""

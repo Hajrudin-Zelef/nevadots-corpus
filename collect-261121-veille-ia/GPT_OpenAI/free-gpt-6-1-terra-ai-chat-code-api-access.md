@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["gpt-6", "terra", "openai", "tokens", "reasoning", "chat", "effort", "code"]
 source: https://1min.ai/free-ai-chat-with-gpt-6-1-terra
 source_anchor: ""

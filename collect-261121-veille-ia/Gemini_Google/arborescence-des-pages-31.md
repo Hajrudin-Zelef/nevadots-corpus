@@ -5,7 +5,7 @@ domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-02-12"]
 keywords: ["routing", "protocol", "network", "exchange", "information", "system", "route", "connection"]
 source: https://help.mikrotik.com/docs/spaces/ROS/pages/328220/BGP
 source_anchor: ""

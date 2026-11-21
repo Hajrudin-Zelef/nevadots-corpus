@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-06"]
 keywords: ["gpt-5", "openai", "free", "more", "answers", "users", "week", "focused"]
 source: https://www.insiaitoday.com/news/improving-gpt56-sol-in-chatgptand-expanding-access-to-gpt-56-luna-for-free-users
 source_anchor: ""

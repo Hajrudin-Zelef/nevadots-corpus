@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["openai", "astra", "modele", "gpt-6", "septembre", "critique", "comme", "seuil"]
 source: https://tech-insider.org/fr/gpt-6-astra-openai-acces-restreint-2026/
 source_anchor: ""

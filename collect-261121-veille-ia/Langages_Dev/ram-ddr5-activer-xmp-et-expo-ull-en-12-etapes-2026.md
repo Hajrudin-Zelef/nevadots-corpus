@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-11"]
 keywords: ["expo", "ddr5", "profil", "reglage", "bios", "etapes", "votre", "jamais"]
 source: https://tech-insider.org/fr/ram-ddr5-xmp-expo-ull-2026/
 source_anchor: ""

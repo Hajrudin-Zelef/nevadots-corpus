@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["large", "preview", "mistral", "model", "pricing", "sonnet", "cost", "input"]
 source: https://www.truefoundry.com/blog/mistral-large-4-review-pricing
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["microsoft", "maia", "compute", "landlord", "finance", "financing", "nvidias", "dense"]
 source: https://forkast.news/maia-300-microsoft-builds-the-exit-from-a-compute-landlord-model-it-helped-finance/
 source_anchor: ""

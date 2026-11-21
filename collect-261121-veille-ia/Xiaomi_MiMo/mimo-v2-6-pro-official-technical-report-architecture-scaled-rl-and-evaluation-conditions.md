@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["report", "mimo-v2", "official", "parameters", "training", "audio", "agent", "model"]
 source: https://go.tabbit.ai/model/mimo-v2-6-pro/reviews/xiaomi-mimo-technical-report-architecture-training-and-evaluation-conditions
 source_anchor: ""

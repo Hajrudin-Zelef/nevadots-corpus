@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-04"]
 keywords: ["windows", "microsoft", "office", "support", "updates", "more", "version", "microsoftas"]
 source: https://www.techrepublic.com/article/news-microsoft-end-of-support-2026/
 source_anchor: ""

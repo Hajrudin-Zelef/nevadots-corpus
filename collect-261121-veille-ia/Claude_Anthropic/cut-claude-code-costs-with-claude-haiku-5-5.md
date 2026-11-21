@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["model", "haiku", "claude", "anthropic", "opus", "code", "subagent", "agent"]
 source: https://buildwire.ai/blog/claude-haiku-5-5-subagents/
 source_anchor: ""

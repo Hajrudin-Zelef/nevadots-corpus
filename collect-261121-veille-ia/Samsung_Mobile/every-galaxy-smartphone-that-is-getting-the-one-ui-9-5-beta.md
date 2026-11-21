@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["beta", "samsung", "galaxy", "program", "markets", "health", "latest", "devices"]
 source: https://www.sammobile.com/news/samsung-one-ui-9-5-beta-eligible-galaxy-devices/
 source_anchor: ""

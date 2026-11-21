@@ -5,7 +5,7 @@ domain: step-7-phase-d-proxmox-ve-virtualization-platforms-backup-re
 role: deep-dive
 task: reference
 actors: []
-dates: ["2020-07", "2025-08", "2026-01-12", "2026-04", "2027-01-10"]
+dates: ["2026-01-12"]
 keywords: ["agent", "cost", "license", "pricing", "throughput"]
 source: docs/RAG/etape7_phaseD_proxmox_backup.md
 source_anchor: ""

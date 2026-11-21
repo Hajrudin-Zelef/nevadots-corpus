@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["milliards", "mistral", "deuros", "septembre", "valorisation", "tour", "prix", "grok"]
 source: https://tech-insider.org/fr/grok-4-6-vs-qwen3-8-max-vs-mistral-large-3-2026/
 source_anchor: ""

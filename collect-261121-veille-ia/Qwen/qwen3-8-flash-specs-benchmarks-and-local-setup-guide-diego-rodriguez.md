@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["qwen3", "flash", "flash-next", "anchor", "official", "guide", "apache", "qwen"]
 source: https://www.diego-rodriguez.work/blog/qwen3-2026-open-model-benchmarks-guide
 source_anchor: ""

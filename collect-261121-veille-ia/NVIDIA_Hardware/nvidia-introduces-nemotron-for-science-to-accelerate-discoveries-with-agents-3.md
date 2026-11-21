@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nemotron", "scientific", "nvidia", "agents", "science", "researchers", "open", "models"]
 source: https://www.morningstar.com/news/globe-newswire/9878504/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents
 source_anchor: ""

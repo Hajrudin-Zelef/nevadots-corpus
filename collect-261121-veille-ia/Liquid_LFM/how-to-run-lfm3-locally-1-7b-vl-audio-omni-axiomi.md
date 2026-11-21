@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["model", "lfm3", "text", "ollama", "liquid", "audio", "locally", "lfm3-1"]
 source: https://axiomi.si/guides/run-lfm3-locally
 source_anchor: ""

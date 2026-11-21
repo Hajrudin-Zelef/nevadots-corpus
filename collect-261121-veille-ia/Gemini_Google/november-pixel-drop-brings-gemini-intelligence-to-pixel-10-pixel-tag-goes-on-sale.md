@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["pixel", "november", "gemini", "google", "drop", "intelligence", "android", "phone"]
 source: https://phoneopinions.com/pixel-november-drop-android-17-qpr2-2678/
 source_anchor: ""

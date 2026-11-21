@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["gpt-6", "cost", "terra", "frontier", "model", "effort", "points", "index"]
 source: https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier
 source_anchor: ""

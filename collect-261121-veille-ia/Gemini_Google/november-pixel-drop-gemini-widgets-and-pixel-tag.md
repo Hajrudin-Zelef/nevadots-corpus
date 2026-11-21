@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["pixel", "gemini", "november", "feature", "drop", "google", "widgets", "update"]
 source: https://techjournal.org/november-pixel-drop-features
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["november", "release", "postgresql", "released", "page", "fixed", "security", "cves"]
 source: https://ecorpit.com/postgresql-19-general-availability-19-november-2026-52-cve-update/
 source_anchor: ""

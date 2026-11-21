@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-03"]
 keywords: ["anthropic", "frontier", "residency", "claude", "engineers", "academy", "october", "programme"]
 source: https://www.digitalapplied.com/blog/claude-frontier-academy-fde-residency
 source_anchor: ""

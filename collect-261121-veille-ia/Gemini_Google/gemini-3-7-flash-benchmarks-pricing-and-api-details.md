@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["gemini", "flash", "model", "google", "agent", "knowledge", "coding", "pricing"]
 source: https://appwrite.io/blog/post/gemini-37-flash
 source_anchor: ""

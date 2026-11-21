@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "final", "surprise", "following", "tradition", "test", "classifier", "release"]
 source: https://discuss.python.org/t/python-3-15-following-tradition-lets-have-a-surprise-rc3/109313
 source_anchor: ""

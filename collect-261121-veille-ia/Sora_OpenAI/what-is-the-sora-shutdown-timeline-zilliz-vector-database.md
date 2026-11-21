@@ -5,7 +5,7 @@ domain: sora-openai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-03-24"]
 keywords: ["sora", "shutdown", "openai", "april", "access", "timeline", "users", "content"]
 source: https://zilliz.com/ai-faq/what-is-the-sora-shutdown-timeline
 source_anchor: ""

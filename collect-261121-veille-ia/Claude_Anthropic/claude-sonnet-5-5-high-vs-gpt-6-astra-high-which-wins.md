@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "astra", "high", "gpt-6", "claude", "effort", "tokens", "task"]
 source: https://emergent.sh/learn/claude-sonnet-5-5-high-vs-gpt-6-astra-high
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["rust", "three", "october", "critical", "bugs", "release", "released", "targets"]
 source: https://www.linuxcompatible.org/story/rust-1991-released-three-critical-bugs-fixed-in-record-twoweek-turnaround/
 source_anchor: ""

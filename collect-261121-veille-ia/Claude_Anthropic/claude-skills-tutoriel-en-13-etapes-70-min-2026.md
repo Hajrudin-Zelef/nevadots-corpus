@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-10-16"]
 keywords: ["claude", "skills", "skill", "anthropic", "charge", "chaque", "conversation", "tutoriel"]
 source: https://tech-insider.org/fr/claude-skills-tutoriel-2026/
 source_anchor: ""

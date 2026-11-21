@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["flux", "video", "labs", "model", "black", "forest", "audio", "image"]
 source: https://rits.shanghai.nyu.edu/ai/black-forest-labs-unveils-flux-3-a-multimodal-image-video-audio-and-action-model
 source_anchor: ""

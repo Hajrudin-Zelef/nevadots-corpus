@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["billion", "anthropic", "about", "anthropics", "capacity", "bill", "broadcom", "spacexai"]
 source: https://www.dailycortex.com/who-anthropic-pays-for-compute
 source_anchor: ""

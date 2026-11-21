@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-21"]
 keywords: ["kernel", "linux", "ended", "confirmed", "unsupported", "left", "official", "year"]
 source: https://www.itechtics.com/eol/linux-kernel/
 source_anchor: ""

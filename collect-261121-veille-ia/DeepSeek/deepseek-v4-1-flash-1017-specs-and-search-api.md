@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-25"]
 keywords: ["flash", "flash-1017", "deepseek", "search", "october", "release", "model", "deepseek-flash"]
 source: https://www.superbash.ai/articles/deepseek-v4-1-flash-1017-search-api/
 source_anchor: ""

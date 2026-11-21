@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-07-08"]
 keywords: ["gemini", "grok", "opus", "tokens", "swe-bench", "trois", "google", "juillet"]
 source: https://tech-insider.org/fr/grok-4-5-vs-opus-4-8-vs-gemini-3-1-pro-2026/
 source_anchor: ""

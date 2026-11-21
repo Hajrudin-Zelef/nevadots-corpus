@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["google", "oracle", "cloud", "tpus", "chips", "compute", "says", "deal"]
 source: https://www.asplatx.com/blog/google-tpus-oracle-cloud-infrastructure-2027-ai-compute
 source_anchor: ""

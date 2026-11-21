@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["OpenAI"]
-dates: ["2026-09-27", "2027-03-27"]
+dates: ["2026-09-27"]
 keywords: ["attribution", "diffusion", "funding"]
 source: docs/RAG/collect-261001-ia-llm/ia_grand_dossier.md
 source_anchor: ""

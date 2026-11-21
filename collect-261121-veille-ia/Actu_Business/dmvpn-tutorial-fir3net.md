@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-02"]
 keywords: ["interface", "address", "nhrp", "dmvpn", "router", "shut", "tunnel", "ipsec"]
 source: https://www.fir3net.com/Cisco-Router/dmvpn-tutorial.html
 source_anchor: ""

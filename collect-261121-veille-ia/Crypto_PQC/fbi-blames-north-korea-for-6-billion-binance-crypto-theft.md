@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-29"]
 keywords: ["north", "theft", "binance", "billion", "crypto", "korea", "virtual", "tradertraitor"]
 source: https://securityaffairs.com/202221/apt/fbi-blames-north-korea-for-6-billion-binance-crypto-theft.html
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-16"]
 keywords: ["august", "credits", "copilot", "typescript", "rust", "five", "deadlines", "full"]
 source: https://dev.to/akashdas/five-developer-deadlines-in-august-2026-copilot-credits-rust-198-typescript-7-1pbh
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: step-7-phase-b-containers-orchestration-sandbox-runtimes
 role: deep-dive
 task: reference
 actors: ["AWS", "Google", "Nvidia"]
-dates: ["2025-08-27", "2025-10-02", "2025-12-17", "2026-01-27", "2026-04-22", "2026-04-27", "2026-05-27", "2026-06-02", "2026-09", "2026-11-26", "2026-12", "2026-12-02", "2027-03-27", "2027-07-29", "2027-08-02"]
+dates: ["2025-08-27", "2025-10-02", "2025-12-17", "2026-01-27", "2026-04-22", "2026-04-27", "2026-05-27", "2026-06-02"]
 keywords: ["distribution", "acquisition", "aws", "gpu", "nvidia", "omni", "research"]
 source: docs/RAG/etape7_phaseB_containers.md
 source_anchor: ""

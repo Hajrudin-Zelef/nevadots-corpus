@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["logs", "graylog", "centraliser", "serveur", "securite", "etapes", "open", "source"]
 source: https://tech-insider.org/fr/graylog-centraliser-logs-securite-2026/
 source_anchor: ""

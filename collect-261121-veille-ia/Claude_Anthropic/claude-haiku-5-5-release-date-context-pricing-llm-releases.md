@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-01"]
 keywords: ["context", "claude", "haiku", "release", "date", "pricing", "llm", "releases"]
 source: https://www.llm-releases.com/models/claude-haiku-5-5
 source_anchor: ""

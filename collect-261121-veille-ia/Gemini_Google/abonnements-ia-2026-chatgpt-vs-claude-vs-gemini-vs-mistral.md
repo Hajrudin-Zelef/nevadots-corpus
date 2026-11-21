@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-31"]
 keywords: ["claude", "mois", "mistral", "chatgpt", "google", "prix", "chaque", "gemini"]
 source: https://tech-insider.org/fr/abonnements-chatgpt-claude-gemini-mistral-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-05"]
 keywords: ["veeam", "acronis", "backup", "commvault", "aout", "sauvegarde", "comparatif", "cloud"]
 source: https://tech-insider.org/fr/veeam-vs-acronis-vs-commvault-2026/
 source_anchor: ""

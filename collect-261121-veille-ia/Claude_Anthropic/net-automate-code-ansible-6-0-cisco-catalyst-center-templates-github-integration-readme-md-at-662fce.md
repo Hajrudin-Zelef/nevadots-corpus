@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2022-11-28"]
 keywords: ["template", "github", "composite", "catc", "cisco", "templates", "playbook", "ansible"]
 source: https://github.com/kebaldwi/net-automate/blob/HEAD/CODE/ANSIBLE/6.0-Cisco-Catalyst-Center-Templates-Github-integration/README.md
 source_anchor: ""

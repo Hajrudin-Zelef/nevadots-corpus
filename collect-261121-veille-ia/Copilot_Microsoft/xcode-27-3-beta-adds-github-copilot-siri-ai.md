@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["xcode", "beta", "siri", "github", "copilot", "adds", "apps", "apple"]
 source: https://technogenz.com/xcode-27-3-github-copilot-siri-testing-2026
 source_anchor: ""

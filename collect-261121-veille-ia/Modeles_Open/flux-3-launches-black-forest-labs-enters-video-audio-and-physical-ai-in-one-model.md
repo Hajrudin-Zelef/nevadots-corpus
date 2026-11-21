@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["video", "flux", "model", "audio", "black", "forest", "labs", "clips"]
 source: http://www.techtimes.com/articles/321552/20260725/flux-3-launches-black-forest-labs-enters-video-audio-physical-ai-one-model.htm
 source_anchor: ""

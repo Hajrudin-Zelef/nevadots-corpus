@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["output", "tokens", "neon", "gemini", "input", "standard", "thinking", "costs"]
 source: https://dev.to/hassann/gemini-4-neon-pricing-3-input-15-output-and-what-a-call-really-costs-5g09
 source_anchor: ""

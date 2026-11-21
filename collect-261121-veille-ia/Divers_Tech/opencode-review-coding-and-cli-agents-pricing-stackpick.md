@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["opencode", "coding", "code", "agents", "claude", "agent", "terminal", "background"]
 source: https://stackpick.app/tool/opencode
 source_anchor: ""

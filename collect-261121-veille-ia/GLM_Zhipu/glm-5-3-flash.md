@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["glm-5", "flash", "model", "weights", "vllm", "files", "sglang", "card"]
 source: https://www.anchorterminal.com/tools/glm-5-3-flash
 source_anchor: ""

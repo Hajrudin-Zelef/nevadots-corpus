@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["accounting", "chatgpt", "plugin", "openai", "quickbooks", "xero", "netsuite", "more"]
 source: https://cryptobriefing.com/openai-chatgpt-for-accounting-plugin-launch/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-04"]
 keywords: ["august", "security", "vulnerabilities", "updates", "samsung", "addressing", "google", "patch"]
 source: https://threatcluster.io/cluster/googles-august-pixel-update-is-here-and-ready-to-squash-some-0e4fcf26
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-02-04"]
 keywords: ["capsman", "interface", "wifi", "configuration", "ssid", "connection", "disabled", "name"]
 source: https://forum.mikrotik.com/t/wifi-qcom-capsman-cap-joined-but-no-ssid-broadcast-no-connection-to-capsman-error/268325
 source_anchor: ""

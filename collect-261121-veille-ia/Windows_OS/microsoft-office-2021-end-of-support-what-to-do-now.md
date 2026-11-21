@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["office", "microsoft", "support", "ltsc", "apps", "security", "home", "october"]
 source: https://brytesoft.com/blog/office-2021-end-of-support.html
 source_anchor: ""

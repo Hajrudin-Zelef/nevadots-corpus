@@ -5,7 +5,7 @@ domain: bluetooth-audio
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-03"]
 keywords: ["bluetooth", "encryption", "core", "feature", "isochronous", "data", "overview", "throughput"]
 source: https://www.bluetooth.com/bluetooth-core-7-0-feature-overview/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["voice", "claude", "cursor", "code", "agent", "chat", "agents", "call"]
 source: https://origotech.dev/articles/cursor-voice-chat-claude-code-2-1-319-codex-cli-0-167/
 source_anchor: ""

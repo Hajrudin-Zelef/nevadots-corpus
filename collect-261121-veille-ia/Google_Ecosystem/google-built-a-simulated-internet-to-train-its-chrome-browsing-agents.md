@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-01-28"]
 keywords: ["chrome", "agents", "simulated", "team", "google", "browsing", "internet", "built"]
 source: https://www.aiaffairs.com/technology/google-mirror-dimension-chrome-browsing-agents/
 source_anchor: ""

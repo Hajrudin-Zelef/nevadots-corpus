@@ -5,7 +5,7 @@ domain: mikrotik
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2024-08-01"]
 keywords: ["disabled", "service", "address", "mikrotik", "global", "router", "like", "certificate"]
 source: https://forum.mikrotik.com/t/what-are-the-best-practices-for-securing-a-mikrotik-router-from-external-threats/177761
 source_anchor: ""

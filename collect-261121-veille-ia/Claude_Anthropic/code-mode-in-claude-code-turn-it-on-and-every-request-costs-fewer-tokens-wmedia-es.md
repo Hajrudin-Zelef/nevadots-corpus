@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["code", "mode", "claude", "tokens", "request", "turn", "script", "every"]
 source: https://wmedia.es/en/tips/claude-code-code-mode-turn-on
 source_anchor: ""

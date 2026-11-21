@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["modele", "nvidia", "nemotron", "lightning", "switchyard", "open", "sous", "lance"]
 source: https://tech-insider.org/fr/nvidia-nemotron-3-5-lightning-nemo-switchyard-2026/
 source_anchor: ""

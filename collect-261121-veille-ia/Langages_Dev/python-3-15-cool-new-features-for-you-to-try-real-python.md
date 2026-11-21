@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "json", "lazy", "features", "imports", "youll", "import", "need"]
 source: https://realpython.com/python315-new-features/
 source_anchor: ""

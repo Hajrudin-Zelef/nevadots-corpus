@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["model", "text", "data", "inkling", "mini", "image", "other", "hugging"]
 source: https://huggingface.co/thinkingmachines/Inkling-2-Mini
 source_anchor: ""

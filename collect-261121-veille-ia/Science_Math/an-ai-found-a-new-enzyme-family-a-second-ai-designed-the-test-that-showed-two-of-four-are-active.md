@@ -5,7 +5,7 @@ domain: science-math
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-23"]
 keywords: ["enzymes", "active", "enzyme", "test", "anthropic", "second", "designed", "them"]
 source: https://maccus.fr/en/ai-enzyme-lab-validation/
 source_anchor: ""

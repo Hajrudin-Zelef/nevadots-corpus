@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "output", "index", "tokens", "agent", "task", "about", "intelligence"]
 source: https://tess.im/en/blog/grok-4-7-where-it-lands
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["terra", "gpt-6", "luna", "openai", "price", "writing", "tokens", "index"]
 source: https://www.lindy.ai/blog/gpt-6-1-terra
 source_anchor: ""

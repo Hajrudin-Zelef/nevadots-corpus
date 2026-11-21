@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-06"]
 keywords: ["node", "http", "avril", "runtime", "rapide", "typescript", "natif", "deux"]
 source: https://tech-insider.org/fr/bun-vs-nodejs-2026/
 source_anchor: ""

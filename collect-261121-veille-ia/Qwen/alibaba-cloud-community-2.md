@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-07-30"]
 keywords: ["coding", "qwen3", "harness", "after", "autonomous", "community", "research", "through"]
 source: https://www.alibabacloud.com/blog/qwen3-8-max-a-new-bar-for-coding-and-cowork_603421
 source_anchor: ""

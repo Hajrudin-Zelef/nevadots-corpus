@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "sonnet", "claude", "anthropic", "october", "price", "coding", "artificial"]
 source: https://blog.laozhang.ai/en/posts/claude-haiku-5-5-vs-sonnet-5-5
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["model", "liquid", "lfm3", "text", "models", "about", "lfm3-1", "tokens"]
 source: https://www.eesel.ai/blog/lfm3
 source_anchor: ""

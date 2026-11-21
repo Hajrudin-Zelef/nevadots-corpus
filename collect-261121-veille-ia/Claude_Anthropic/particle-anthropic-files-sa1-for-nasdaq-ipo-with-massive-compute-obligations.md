@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["billion", "nasdaq", "anthropic", "compute", "particle", "files", "sa1", "ipo"]
 source: https://particle.news/story/anthropic-files-s1-for-nasdaq-ipo-with-massive-compute-obligations
 source_anchor: ""

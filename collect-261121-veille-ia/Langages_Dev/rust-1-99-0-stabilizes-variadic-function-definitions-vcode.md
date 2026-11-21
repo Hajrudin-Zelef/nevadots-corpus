@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-01"]
 keywords: ["rust", "functions", "variadic", "stabilizes", "release", "function", "list", "announcement"]
 source: https://vcode.zeleznalady.cz/en/blog/rust-1-99-0-stabilizuje-definice-variadickych-funkci-db2c9073/
 source_anchor: ""

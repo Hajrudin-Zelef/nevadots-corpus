@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["copilot", "jetbrains", "github", "agent", "cloud", "tasks", "environment", "runs"]
 source: https://vinish.dev/github-copilot-jetbrains-air-agent-integration
 source_anchor: ""

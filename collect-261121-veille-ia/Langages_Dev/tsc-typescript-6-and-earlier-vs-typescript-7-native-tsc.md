@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-06"]
 keywords: ["typescript", "microsoft", "tsc", "earlier", "native", "javascript", "tools", "compiler"]
 source: https://assemblyline.org/software/replace/tsc
 source_anchor: ""

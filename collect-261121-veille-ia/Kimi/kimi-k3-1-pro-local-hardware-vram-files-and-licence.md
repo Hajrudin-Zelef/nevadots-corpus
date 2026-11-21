@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["kimi", "model", "none", "hardware", "licence", "internal", "moonshot", "repository"]
 source: https://vdf.ai/blog/kimi-k3-1-pro-local/
 source_anchor: ""

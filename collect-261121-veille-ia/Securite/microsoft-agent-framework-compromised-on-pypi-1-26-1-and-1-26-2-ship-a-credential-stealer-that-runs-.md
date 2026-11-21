@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["agent-framework", "azure", "pypi", "files", "credential", "python", "stealer", "runs"]
 source: https://www.chainguard.dev/unchained/microsoft-agent-framework-compromised-on-pypi-november-2026
 source_anchor: ""

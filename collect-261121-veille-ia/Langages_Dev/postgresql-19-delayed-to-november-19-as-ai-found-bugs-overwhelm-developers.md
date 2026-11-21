@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "november", "bugs", "release", "developers", "more", "september", "delayed"]
 source: https://pbxscience.com/postgresql-19-delayed-to-november-19-as-ai-found-bugs-overwhelm-developers/
 source_anchor: ""

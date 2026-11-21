@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["gpt-6", "tokens", "model", "astra", "input", "code", "million", "output"]
 source: https://flaviocopes.com/gpt-6-1-sol/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: science-math
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-13"]
 keywords: ["smooth", "statement", "sources", "forced", "exact", "three-torus", "unforced", "velocity"]
 source: https://openmath.dev/problems/navier-stokes?version=6
 source_anchor: ""

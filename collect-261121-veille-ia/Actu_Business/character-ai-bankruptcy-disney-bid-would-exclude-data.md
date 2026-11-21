@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-13"]
 keywords: ["bankruptcy", "data", "character", "disney", "licence", "october", "company", "under"]
 source: https://tech-insider.org/character-ai-bankruptcy-user-data-fate-2026/
 source_anchor: ""

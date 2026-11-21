@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["claude", "code", "mode", "patch", "changes", "including", "bash", "fixes"]
 source: https://claudekit.io/en/updates/
 source_anchor: ""

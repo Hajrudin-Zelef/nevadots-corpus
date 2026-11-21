@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-02"]
 keywords: ["marvell", "lumentum", "about", "optical", "billion", "ratio", "fixed", "value"]
 source: https://dev.to/ai_maya_063fc568e157562fd/marvell-is-buying-lumentum-for-115b-what-the-optical-bet-means-for-ai-cluster-power-and-what-a-5chf
 source_anchor: ""

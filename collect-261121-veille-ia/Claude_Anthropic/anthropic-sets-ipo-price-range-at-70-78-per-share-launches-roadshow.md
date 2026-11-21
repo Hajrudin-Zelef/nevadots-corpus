@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["billion", "anthropic", "price", "range", "share", "roadshow", "sets", "launches"]
 source: https://www.tradingview.com/news/dpa_afx:35a5156bd9b2e:0-anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow/
 source_anchor: ""

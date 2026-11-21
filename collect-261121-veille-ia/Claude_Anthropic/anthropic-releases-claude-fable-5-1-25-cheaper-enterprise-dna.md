@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "mythos", "anthropic", "models", "model", "same", "cost"]
 source: https://enterprisedna.co/resources/news/anthropic-claude-fable-5-1-mythos-5-1-enterprise-september-2026/
 source_anchor: ""

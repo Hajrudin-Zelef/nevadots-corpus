@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["opencode", "code", "anomaly", "terminal", "november", "coding", "agent", "files"]
 source: https://stratoai.pro/en/ai-directory/opencode/
 source_anchor: ""

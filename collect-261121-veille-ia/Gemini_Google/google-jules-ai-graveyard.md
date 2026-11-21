@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["jules", "google", "code", "beta", "graveyard", "december", "agent", "would"]
 source: https://www.aigraveyard.org/p/google-jules/
 source_anchor: ""

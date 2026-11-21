@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["model", "reflection", "beam", "tokens", "token", "inference", "think", "reasoning"]
 source: http://dev.to/prabhakar_chaudhary_7afe4/reflection-ais-beam-how-a-501b-moe-model-learns-to-think-in-fewer-tokens-37pm
 source_anchor: ""

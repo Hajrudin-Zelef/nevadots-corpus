@@ -5,7 +5,7 @@ domain: front-matter
 role: reference
 task: reference
 actors: []
-dates: ["2024-10-21", "2026-04", "2026-04-30", "2026-07-06", "2026-09-24", "2026-10-21", "2027-10-21"]
+dates: ["2024-10-21", "2026-04-30", "2026-07-06", "2026-09-24", "2026-10-21"]
 keywords: ["apache", "consumer", "latency"]
 source: docs/RAG/etape8_phaseF_data_messaging.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["gemini", "google", "reasoning", "hydrogen", "flash", "speed", "thinking", "model"]
 source: https://emergent.sh/news/google-gemini-4-hydrogen-2-5x-faster-than
 source_anchor: ""

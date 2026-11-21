@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "about", "large", "model", "weights", "preview", "hugging", "face"]
 source: https://dev.to/hassann/how-to-run-mistral-large-4-locally-4afd
 source_anchor: ""

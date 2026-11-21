@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-02-24"]
 keywords: ["sn50", "intel", "agentic", "chip", "sambanova", "inference", "cloud", "more"]
 source: https://www.vcaonline.com/news/2026022414/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m-/
 source_anchor: ""

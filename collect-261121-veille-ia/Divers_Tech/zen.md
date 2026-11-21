@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["opencode", "responses", "ai-sdk", "openai", "gpt-5", "vous", "moda", "codex"]
 source: https://opencode.ai/docs/fr/zen/
 source_anchor: ""

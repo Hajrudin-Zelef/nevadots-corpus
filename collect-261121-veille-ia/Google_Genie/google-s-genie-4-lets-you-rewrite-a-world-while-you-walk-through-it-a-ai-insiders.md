@@ -5,7 +5,7 @@ domain: google-genie
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["google", "genie", "world", "through", "also", "audio", "models", "deepmind"]
 source: https://talent.aiinsiders.net/article/googles-genie-4-lets-you-rewrite-a-world-while-you-walk
 source_anchor: ""

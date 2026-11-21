@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "large", "model", "preview", "license", "about", "weights", "changed"]
 source: https://medium.com/@ascendrixtech/mistral-large-4s-weights-are-out-what-changed-since-the-preview-the-license-fine-print-and-the-2616f39134f8
 source_anchor: ""

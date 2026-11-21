@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["windows", "beta", "microsoft", "build", "insider", "settings", "preview", "moves"]
 source: https://www.notebookcheck.net/Windows-11-Insider-Preview-Build-26320-9876-moves-Beta-to-26H2.1444773.0.html
 source_anchor: ""

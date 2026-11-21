@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["code", "microsoft", "models", "draft", "development", "bans", "human", "microsofts"]
 source: https://tech-insider.org/microsoft-ai-code-of-conduct-nadella-governance-2026/
 source_anchor: ""

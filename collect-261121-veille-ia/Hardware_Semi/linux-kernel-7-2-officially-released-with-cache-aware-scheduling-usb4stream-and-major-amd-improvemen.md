@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["linux", "scheduling", "kernel", "cache-aware", "usb4stream", "between", "officially", "released"]
 source: https://www.linuxconsultant.org/linux-kernel-7-2-officially-released-with-cache-aware-scheduling-usb4stream-and-major-amd-improvements/
 source_anchor: ""

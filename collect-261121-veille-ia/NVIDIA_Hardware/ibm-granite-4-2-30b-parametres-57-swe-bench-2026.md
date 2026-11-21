@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["granite", "modeles", "swe-bench", "parametres", "agents", "milliards", "modele", "poids"]
 source: https://tech-insider.org/fr/ibm-granite-4-2-modeles-ouverts-entreprise-2026/
 source_anchor: ""

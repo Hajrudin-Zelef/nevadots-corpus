@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["alphagenome", "atlas", "variant", "antigravity", "skill", "google", "agent", "dataset"]
 source: https://explainx.ai/blog/google-antigravity-alphagenome-atlas-skill-genomics-2026
 source_anchor: ""

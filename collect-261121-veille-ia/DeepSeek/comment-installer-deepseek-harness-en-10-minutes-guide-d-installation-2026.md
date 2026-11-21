@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "vous", "harness", "installation", "installer", "vide", "fournisseur", "modele"]
 source: https://www.atlascloud.ai/blog/tips/how-to-install-deepseek-harness
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-30"]
 keywords: ["c-lab", "billion", "hardware", "approximately", "korea", "national", "cluster", "samsung"]
 source: https://www.techtimes.com/articles/322303/20260730/korea-ai-cluster-subcontract-moves-hardware-phase-c-lab-issues-gpu-orders.htm
 source_anchor: ""

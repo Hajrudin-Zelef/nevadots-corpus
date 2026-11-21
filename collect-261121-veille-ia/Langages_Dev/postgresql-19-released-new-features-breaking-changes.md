@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "plan", "advice", "logical", "features", "repack", "table", "without"]
 source: https://tecadmin.net/postgresql-19-released/
 source_anchor: ""

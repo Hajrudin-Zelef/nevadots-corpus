@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4-max", "tokens", "alibaba", "output", "model", "qwen", "thinking", "pricing"]
 source: https://www.thelatentdaily.com/models/qwen4-max/
 source_anchor: ""

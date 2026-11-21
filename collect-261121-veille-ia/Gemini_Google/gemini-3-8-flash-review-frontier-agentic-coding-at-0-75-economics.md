@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "gemini", "output", "tokens", "input", "google", "frontier", "agentic"]
 source: https://codingfleet.com/blog/gemini-38-flash-review/
 source_anchor: ""

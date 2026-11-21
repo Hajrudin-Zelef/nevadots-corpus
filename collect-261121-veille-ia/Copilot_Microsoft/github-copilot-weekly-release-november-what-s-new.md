@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["copilot", "xcode", "jetbrains", "november", "github", "sessions", "weekly", "assistant"]
 source: https://the64th.com/github-copilot-weekly-releases-november-2/
 source_anchor: ""

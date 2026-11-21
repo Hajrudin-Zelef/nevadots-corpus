@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["kling", "text", "image", "real", "test", "rendering", "native", "photoworkout"]
 source: https://photoworkout.com/kling-image-4-test/
 source_anchor: ""

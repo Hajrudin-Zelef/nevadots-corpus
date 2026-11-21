@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["microsoft", "report", "attack", "threat", "actors", "minutes", "attackers", "access"]
 source: https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/
 source_anchor: ""

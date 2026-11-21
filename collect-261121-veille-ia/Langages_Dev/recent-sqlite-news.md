@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-09"]
 keywords: ["release", "version", "sqlite", "patch", "fixes", "bugs", "enhancements", "interface"]
 source: https://www3.sqlite.org/news.html
 source_anchor: ""

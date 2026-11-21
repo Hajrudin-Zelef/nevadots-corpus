@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["equations", "navier-stokes", "velocity", "smooth", "force", "fluid", "equation", "problem"]
 source: http://mathworld.wolfram.com/Navier-StokesEquations.html
 source_anchor: ""

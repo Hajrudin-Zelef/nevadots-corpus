@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["deepseek", "code", "minutes", "runs", "harness", "claude", "model", "opencode"]
 source: https://www.productcompass.pm/p/deepseek-harness-vs-claude-code
 source_anchor: ""

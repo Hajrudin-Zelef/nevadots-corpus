@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["tools", "minimax", "unspecified", "reasoning", "deepseek-v4", "flash-1017", "flash", "shared"]
 source: https://llmlearner.com/compare/minimax-m3-1-flash-preview-vs-deepseek-v4-1-flash-1017
 source_anchor: ""

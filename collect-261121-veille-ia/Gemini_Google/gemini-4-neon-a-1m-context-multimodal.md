@@ -5,7 +5,7 @@ domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gateway", "gemini", "google", "neon", "model", "read", "serverless", "available"]
 source: https://www.llmreference.com/model/gemini-4-neon
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-04-15"]
 keywords: ["deuros", "systemes", "milliards", "benefice", "avril", "asml", "trimestre", "consensus"]
 source: https://tech-insider.org/fr/asml-q1-2026-resultats-8-8-milliards-67-systemes-euv/
 source_anchor: ""

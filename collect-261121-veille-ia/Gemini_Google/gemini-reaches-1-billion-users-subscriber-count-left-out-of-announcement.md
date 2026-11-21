@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["users", "gemini", "google", "billion", "product", "announcement", "million", "about"]
 source: https://www.Techtimes.com/articles/324095/20260812/gemini-reaches-1-billion-users-subscriber-count-left-out-announcement.htm
 source_anchor: ""

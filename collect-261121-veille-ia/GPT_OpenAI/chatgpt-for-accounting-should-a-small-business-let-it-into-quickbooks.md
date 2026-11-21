@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["chatgpt", "accounting", "quickbooks", "plugin", "openai", "invoice", "plugins", "business"]
 source: https://www.spiai.ai/blog/chatgpt-for-accounting-quickbooks-small-business
 source_anchor: ""

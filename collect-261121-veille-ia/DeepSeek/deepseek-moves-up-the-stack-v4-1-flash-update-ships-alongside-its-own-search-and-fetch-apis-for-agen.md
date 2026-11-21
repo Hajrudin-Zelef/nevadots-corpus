@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-01"]
 keywords: ["deepseek", "model", "search", "update", "fetch", "flash", "agents", "apis"]
 source: https://dealroom.co/news/163453-deepseek-moves-up-the-stack-v4-1-flash-update-ships-alongside-its-own-se/
 source_anchor: ""

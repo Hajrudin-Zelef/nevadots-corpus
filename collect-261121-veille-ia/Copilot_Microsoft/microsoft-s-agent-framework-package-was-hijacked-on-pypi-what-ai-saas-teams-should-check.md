@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["agent-framework", "pypi", "microsoft", "package", "versions", "november", "python", "both"]
 source: https://dev.to/somnath_khadanga_2e5c2364/microsofts-agent-framework-package-was-hijacked-on-pypi-what-ai-saas-teams-should-check-1b4e
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["claude", "github", "copilot", "opus", "model", "models", "access", "gpt-5"]
 source: https://www.neoteo.com/en/github-copilot-deprecated-three-models-effective-november-16-2026
 source_anchor: ""

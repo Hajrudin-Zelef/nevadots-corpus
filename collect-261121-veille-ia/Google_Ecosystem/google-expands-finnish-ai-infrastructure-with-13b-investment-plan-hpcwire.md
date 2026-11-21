@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-09"]
 keywords: ["infrastructure", "google", "hamina", "googles", "investment", "finnish", "jobs", "energy"]
 source: https://www.hpcwire.com/off-the-wire/google-expands-finnish-ai-infrastructure-with-e13b-investment-plan/
 source_anchor: ""

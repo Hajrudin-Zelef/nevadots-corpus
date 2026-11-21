@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["product", "stitch", "loop", "agent", "live", "apps", "launch", "video"]
 source: https://whatships.com/videos/stitch-loop/
 source_anchor: ""

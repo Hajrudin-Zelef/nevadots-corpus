@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-28"]
 keywords: ["gpt-6", "openai", "enterprise", "available", "dots", "work", "astra", "codex"]
 source: https://blog.invidelabs.com/openai-devday-2026-announcements/
 source_anchor: ""

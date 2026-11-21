@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["claude", "data", "enterprise", "retention", "anthropic", "fable", "article", "says"]
 source: https://www.claudecentral.com/privacy-security/
 source_anchor: ""

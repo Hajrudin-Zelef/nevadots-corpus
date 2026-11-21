@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["microsoft", "maia", "azure", "chip", "date", "specs", "release", "october"]
 source: https://pandromeda.com/ai/microsoft-maia-300-release-date-specs-and-what-it-means-for-azure
 source_anchor: ""

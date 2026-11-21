@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2025-10-29"]
 keywords: ["gpt-oss-safeguard", "safety", "openai", "ollama", "reasoning", "open", "policies", "roost"]
 source: https://ollama.com/blog/gpt-oss-safeguard
 source_anchor: ""

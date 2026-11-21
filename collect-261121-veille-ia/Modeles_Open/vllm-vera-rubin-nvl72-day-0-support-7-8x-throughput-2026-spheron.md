@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["rubin", "vllm", "nvl72", "vera", "support", "throughput", "agentx", "minimax"]
 source: https://www.spheron.network/blog/vllm-on-vera-rubin-nvl72-day-0-support-and-7-8x-throughput-2/
 source_anchor: ""

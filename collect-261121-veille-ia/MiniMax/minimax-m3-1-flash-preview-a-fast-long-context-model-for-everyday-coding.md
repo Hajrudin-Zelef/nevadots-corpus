@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-09-27"]
 keywords: ["model", "context", "minimax", "coding", "flash-preview", "window", "everyday", "fast"]
 source: https://medium.com/@ryan.cole_35231/minimax-m3-1-flash-preview-a-fast-long-context-model-for-everyday-coding-4492631d5e2a
 source_anchor: ""

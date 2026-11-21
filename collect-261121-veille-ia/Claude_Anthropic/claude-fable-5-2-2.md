@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["supported", "fable", "model", "claude", "endpoint", "bedrock-runtime", "more", "information"]
 source: https://docs.aws.amazon.com/ru_ru/bedrock/latest/userguide/model-card-anthropic-claude-fable-5-2.html
 source_anchor: ""

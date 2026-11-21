@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["nvidia", "rubin", "claims", "says", "news", "vera", "throughput", "nvfp4"]
 source: https://tensorjournal.com/en/news/nvidia-rubin-memory-ai-factory-claims
 source_anchor: ""

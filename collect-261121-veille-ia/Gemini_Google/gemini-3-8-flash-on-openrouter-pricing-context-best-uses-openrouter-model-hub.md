@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["openrouter", "flash", "gemini", "context", "input", "model", "google", "tokens"]
 source: https://www.hunteralphahub.com/openrouter-models/gemini-3-8-flash
 source_anchor: ""

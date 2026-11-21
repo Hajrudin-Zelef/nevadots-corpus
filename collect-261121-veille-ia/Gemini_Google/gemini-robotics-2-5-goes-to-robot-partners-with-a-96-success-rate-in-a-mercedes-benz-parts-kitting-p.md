@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["robotics", "gemini", "partners", "deepmind", "success", "mercedes-benz", "pilot", "post"]
 source: https://humanoidcurrent.com/story/gemini-robotics-2-5-mercedes-kitting-96-percent
 source_anchor: ""

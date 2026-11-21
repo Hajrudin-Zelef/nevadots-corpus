@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-03"]
 keywords: ["prices", "price", "memory", "ddr5", "more", "november", "spot", "times"]
 source: https://capitalandcompute.net/blog/why-are-ram-and-gpu-prices-spiking/
 source_anchor: ""

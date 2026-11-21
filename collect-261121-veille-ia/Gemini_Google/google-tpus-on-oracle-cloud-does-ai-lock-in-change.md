@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["cloud", "google", "oracle", "tpus", "company", "does", "accelerator", "different"]
 source: https://www.techiesjournal.com/google-tpus-oracle-cloud-ai-lock-in/12330/
 source_anchor: ""

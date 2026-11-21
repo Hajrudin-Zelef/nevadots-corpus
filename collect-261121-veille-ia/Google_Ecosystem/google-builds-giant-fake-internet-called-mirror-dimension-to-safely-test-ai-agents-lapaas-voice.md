@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["websites", "agents", "google", "internet", "mirror", "dimension", "security", "environment"]
 source: https://lapaasvoice.com/google-builds-giant-fake-internet-called-mirror-dimension-to-safely-test-ai-agents/
 source_anchor: ""

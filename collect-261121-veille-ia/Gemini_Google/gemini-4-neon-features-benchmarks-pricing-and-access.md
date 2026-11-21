@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["neon", "google", "gemini", "carbon", "hydrogen", "model", "benchmarks", "tokens"]
 source: https://www.datacamp.com/blog/gemini-4-neon
 source_anchor: ""

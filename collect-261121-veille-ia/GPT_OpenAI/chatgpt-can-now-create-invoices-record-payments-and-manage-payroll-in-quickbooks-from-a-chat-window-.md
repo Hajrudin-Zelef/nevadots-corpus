@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["plugin", "chatgpt", "accounting", "quickbooks", "openai", "invoices", "ledger", "xero"]
 source: https://jtstechservices.ca/blog/chatgpt-can-now-write-to-your-books
 source_anchor: ""

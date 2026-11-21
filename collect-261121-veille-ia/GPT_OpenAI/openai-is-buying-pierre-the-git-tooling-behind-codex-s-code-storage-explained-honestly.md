@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["code", "storage", "codex", "openai", "pierre", "features", "already", "product"]
 source: http://dev.to/paullovelace/openai-is-buying-pierre-the-git-tooling-behind-codexs-code-storage-explained-honestly-49l
 source_anchor: ""

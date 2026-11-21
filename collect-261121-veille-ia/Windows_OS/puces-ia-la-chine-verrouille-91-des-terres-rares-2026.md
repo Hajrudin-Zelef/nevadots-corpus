@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2025-04-04"]
 keywords: ["terres", "rares", "chine", "puces", "pekin", "raffinage", "chinois", "depuis"]
 source: https://tech-insider.org/fr/terres-rares-chine-puces-ia-2026/
 source_anchor: ""

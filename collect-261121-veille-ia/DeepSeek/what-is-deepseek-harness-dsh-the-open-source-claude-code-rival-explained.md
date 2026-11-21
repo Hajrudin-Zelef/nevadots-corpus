@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["harness", "deepseek", "model", "agent", "code", "claude", "open-source", "plugin"]
 source: https://apidog.com/blog/what-is-deepseek-harness/
 source_anchor: ""

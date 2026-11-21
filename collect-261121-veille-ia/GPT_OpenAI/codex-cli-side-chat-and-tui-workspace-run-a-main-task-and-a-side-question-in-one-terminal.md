@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["side", "codex", "workspace", "main", "task", "notes", "chat", "tabs"]
 source: https://blog.traversaal.ai/codex-cli-side-chat-and-tui-workspace-run-a-main-task-and-a-side-question-in-one/
 source_anchor: ""

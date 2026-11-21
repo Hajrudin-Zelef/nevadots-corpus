@@ -5,7 +5,7 @@ domain: vision-ia
 role: reference
 task: reference
 actors: ["AWS", "Alibaba", "Ant", "Anthropic", "Cerebras", "China", "DeepSeek", "Google", "Hugging Face", "Moonshot", "Nvidia", "OpenAI"]
-dates: ["2026-03", "2026-12-31", "2027-01-01"]
+dates: []
 keywords: ["research", "agent", "agents", "attention", "bedrock", "benchmark", "chatgpt", "claude", "compute", "context window", "cost", "cost per token"]
 source: docs/RAG/clean_en/vision-ia/openai-presente-gpt-5-6-sol-ultrafast-qui-repond-14-fois-plus-vite.md
 source_anchor: ""

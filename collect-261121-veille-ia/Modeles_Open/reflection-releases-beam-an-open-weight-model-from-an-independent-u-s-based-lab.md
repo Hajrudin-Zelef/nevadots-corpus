@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-30"]
 keywords: ["model", "reflection", "beam", "open", "tokens", "weights", "second", "models"]
 source: https://www.deeplearning.ai/the-batch/nvidia-courts-a-new-partner
 source_anchor: ""

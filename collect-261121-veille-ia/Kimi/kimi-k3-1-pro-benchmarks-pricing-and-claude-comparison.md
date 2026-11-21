@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "claude", "test", "index", "models", "table", "tests", "marathon"]
 source: https://heymark.ai/en/guides/kimi-k3-1-pro-benchmarks-pricing/
 source_anchor: ""

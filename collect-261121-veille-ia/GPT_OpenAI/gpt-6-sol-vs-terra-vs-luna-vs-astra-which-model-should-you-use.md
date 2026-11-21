@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["gpt-6", "terra", "model", "luna", "gpt-5", "page", "work", "openai"]
 source: https://blog.laozhang.ai/en/posts/gpt-6-sol-vs-terra-vs-luna-vs-astra
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-02"]
 keywords: ["claude", "fable", "anthropic", "model", "mythos", "pricing", "opus", "benchmarks"]
 source: https://www.datacamp.com/blog/claude-fable-5-1
 source_anchor: ""

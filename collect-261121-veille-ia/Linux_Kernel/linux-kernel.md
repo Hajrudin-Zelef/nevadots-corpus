@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-18"]
 keywords: ["years", "months", "ended", "year", "linux", "kernel", "ends", "weeks"]
 source: https://endoflife.date/linux
 source_anchor: ""

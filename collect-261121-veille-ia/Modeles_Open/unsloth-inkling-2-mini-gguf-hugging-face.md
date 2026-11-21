@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["model", "text", "data", "unsloth", "image", "other", "layers", "inkling"]
 source: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF
 source_anchor: ""

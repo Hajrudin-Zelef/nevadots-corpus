@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["neon", "gemini", "claude", "carbon", "task", "xhigh", "release", "scores"]
 source: https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["data", "centre", "anthropic", "everwind", "canadian", "billion", "lease", "first"]
 source: https://thetechcapital.com/anthropic-signs-first-canadian-data-centre-lease-with-everwind/
 source_anchor: ""

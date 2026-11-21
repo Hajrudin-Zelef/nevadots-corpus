@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["october", "platforms", "days", "nine", "keys", "calls", "access", "stolen"]
 source: https://www.secure.com/news/black-october-stolen-ai-api-keys
 source_anchor: ""

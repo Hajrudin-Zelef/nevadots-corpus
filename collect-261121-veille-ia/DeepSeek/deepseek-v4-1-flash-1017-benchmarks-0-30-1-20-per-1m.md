@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["index", "reasoning", "artificial", "analysis", "benchmarks", "stated", "deepseek", "results"]
 source: https://www.benchleader.com/models/deepseek-v4-1-flash-1017
 source_anchor: ""

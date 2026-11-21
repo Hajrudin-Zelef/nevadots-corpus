@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["google", "cloud", "speech-to-text", "transcribe", "audio", "price", "alternatives", "batch"]
 source: https://www.assemblyai.com/blog/google-cloud-speech-to-text-alternatives
 source_anchor: ""

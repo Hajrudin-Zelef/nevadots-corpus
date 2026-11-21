@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-01-15"]
 keywords: ["responses", "open", "openai", "language", "code", "models", "model", "back"]
 source: https://www.i-scoop.eu/open-responses/
 source_anchor: ""

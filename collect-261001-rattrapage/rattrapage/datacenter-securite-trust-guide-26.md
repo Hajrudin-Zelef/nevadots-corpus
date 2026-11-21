@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: ["AMD", "AWS", "Anthropic", "CISA", "EU", "Google", "Intel", "Microsoft", "Nvidia", "United States"]
-dates: ["2024-08-13", "2026-06-22", "2026-09-14", "2026-09-17", "2026-09-27", "2027-01-01"]
+dates: ["2024-08-13", "2026-06-22", "2026-09-14", "2026-09-17", "2026-09-27"]
 keywords: ["datacenter", "amd", "asic", "aws", "chiplet", "dsp", "gpu", "intel", "luna", "nvidia"]
 source: docs/RAG/collect-261001-rattrapage/datacenter_securite_trust_guide.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["gpt-6", "neon", "work", "model", "gemini", "test", "professional", "real"]
 source: https://aicompetence.org/gpt-6-2-vs-gemini-4-neon-real-work-test/
 source_anchor: ""

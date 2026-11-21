@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["been", "them", "billion", "score", "just", "nine", "pins", "alphagenome"]
 source: https://medium.com/@banerjeevictor06/someone-just-drew-a-map-with-nine-billion-pins-almost-none-of-them-have-been-visited-yet-05838fc842d9
 source_anchor: ""

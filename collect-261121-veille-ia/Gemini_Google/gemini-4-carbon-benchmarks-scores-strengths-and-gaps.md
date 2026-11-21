@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["carbon", "gemini", "google", "scores", "argon", "claude", "opus", "model"]
 source: https://emergent.sh/learn/gemini-4-carbon-benchmarks
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["nato", "openai", "models", "cyber", "ncia", "allied", "networks", "defence"]
 source: https://defenceagenda.com/nato-openai-cyber-defence-models
 source_anchor: ""

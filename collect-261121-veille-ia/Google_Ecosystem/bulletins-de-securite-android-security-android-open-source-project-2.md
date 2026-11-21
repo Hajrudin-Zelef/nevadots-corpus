@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-01"]
 keywords: ["english", "android", "securite", "portugues", "appareils", "bulletins", "correctifs", "mars"]
 source: https://source.android.com/docs/security/bulletin/asb-overview?authuser=8
 source_anchor: ""

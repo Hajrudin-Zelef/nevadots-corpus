@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["code", "bugs", "postgresql", "october", "features", "human", "them", "review"]
 source: https://dev.to/max_quimby/postgres-19-proves-it-ai-finds-bugs-faster-than-we-fix-them-3d6e
 source_anchor: ""

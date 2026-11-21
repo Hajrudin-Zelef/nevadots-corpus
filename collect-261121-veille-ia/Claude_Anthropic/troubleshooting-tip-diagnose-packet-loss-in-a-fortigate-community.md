@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-07-12"]
 keywords: ["interface", "fortigate", "session", "hardware", "speed", "command", "diagnose", "packet"]
 source: https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-Diagnose-packet-loss-in-a-FortiGate/ta-p/192459
 source_anchor: ""

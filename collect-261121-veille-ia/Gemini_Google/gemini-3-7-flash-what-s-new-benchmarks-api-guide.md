@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["flash", "gemini", "index", "model", "task", "googles", "reasoning", "artificial"]
 source: https://deepinfra.com/blog/gemini-3-7-flash-model-overview-integration-guide
 source_anchor: ""

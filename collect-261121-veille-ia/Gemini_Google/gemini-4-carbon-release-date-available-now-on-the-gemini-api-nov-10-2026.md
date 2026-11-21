@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["gemini", "google", "carbon", "november", "available", "post", "argon", "release"]
 source: https://apidog.com/blog/gemini-4-carbon-release-date/
 source_anchor: ""

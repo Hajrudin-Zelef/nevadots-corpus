@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["model", "codex", "config", "default", "gpt-6", "catalogs", "bedrock", "catalog"]
 source: http://dev.to/piekwerk/codex-0161-flipped-the-default-model-to-gpt-61-sol-if-you-never-set-model-you-already-switched-577b
 source_anchor: ""

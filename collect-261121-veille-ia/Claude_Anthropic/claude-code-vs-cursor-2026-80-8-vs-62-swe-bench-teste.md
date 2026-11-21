@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-02-24"]
 keywords: ["code", "claude", "cursor", "mois", "dollars", "deux", "swe-bench", "milliards"]
 source: https://tech-insider.org/fr/claude-code-vs-cursor-2026/
 source_anchor: ""

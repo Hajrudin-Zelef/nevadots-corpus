@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["loop", "google", "stitch", "product", "security", "labs", "agent", "pull"]
 source: https://web-observer.com/tag/google-labs/
 source_anchor: ""

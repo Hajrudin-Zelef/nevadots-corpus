@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["engineers", "claude", "train", "million", "anthropic", "frontier", "enterprise", "academy"]
 source: https://cryptobriefing.com/anthropic-100-million-claude-frontier-academy/
 source_anchor: ""

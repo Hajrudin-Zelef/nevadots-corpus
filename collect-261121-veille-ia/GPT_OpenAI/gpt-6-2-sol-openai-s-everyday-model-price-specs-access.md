@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["astra", "openai", "model", "gpt-6", "input", "output", "tokens", "everyday"]
 source: https://beta.synexa.ai/models/gpt-6-2-sol
 source_anchor: ""

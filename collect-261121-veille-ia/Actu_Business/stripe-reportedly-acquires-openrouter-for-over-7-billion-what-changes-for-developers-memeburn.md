@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["openrouter", "billion", "stripe", "reported", "routing", "july", "price", "deal"]
 source: https://memeburn.com/stripe-reportedly-acquires-openrouter-for-over-7-billion-what-changes-for-developers/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["gemini", "flash", "google", "box", "dev", "docs", "next", "iteration"]
 source: https://developer.box.com/guides/box-ai/ai-models/google-gemini-3-7-flash-model-card
 source_anchor: ""

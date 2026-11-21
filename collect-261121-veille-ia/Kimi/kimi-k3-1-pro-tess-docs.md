@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["moonshot", "opus", "kimi", "financial", "models", "same", "tools", "model"]
 source: https://docs.tess.im/en/kimi-k3-1-pro
 source_anchor: ""

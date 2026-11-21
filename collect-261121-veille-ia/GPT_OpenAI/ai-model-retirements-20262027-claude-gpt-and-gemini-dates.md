@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["models", "model", "openai", "claude", "dates", "retirement", "gemini", "gemini-2"]
 source: https://tecadmin.net/ai-model-retirements-2026-2027/
 source_anchor: ""

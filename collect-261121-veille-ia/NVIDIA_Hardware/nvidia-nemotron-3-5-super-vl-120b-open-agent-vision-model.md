@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "nvidia", "nemotron", "super", "card", "vision", "says", "open"]
 source: https://evermx.com/case/nemotron-3-5-super-vl
 source_anchor: ""

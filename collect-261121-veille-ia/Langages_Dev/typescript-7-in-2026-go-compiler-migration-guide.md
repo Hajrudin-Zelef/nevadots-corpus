@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "compiler", "migration", "defaults", "guide", "type", "release", "types"]
 source: https://mameara.com/typescript-7-native-compiler-2026/
 source_anchor: ""

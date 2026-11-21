@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["mimo", "flash", "price", "cloud", "cheapest", "input", "standard", "tokens"]
 source: https://broadrouter.com/llm-api-pricing/compare/mimo-v2.6-pro-vs-mimo-v2.6-flash/
 source_anchor: ""

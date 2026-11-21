@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["intelligence", "qwen4", "models", "index", "analysis", "price", "task", "tokens"]
 source: https://artificialanalysis.ai/models/qwen4-max
 source_anchor: ""

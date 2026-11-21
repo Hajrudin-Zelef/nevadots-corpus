@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["mimo-v2", "beats", "score", "xiaomi", "whatmodel", "model", "flash", "test"]
 source: https://whatmodel.sh/model/mimo-v2-6-pro
 source_anchor: ""

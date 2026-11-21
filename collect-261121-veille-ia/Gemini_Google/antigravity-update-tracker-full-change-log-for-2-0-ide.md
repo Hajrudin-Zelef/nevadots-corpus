@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["antigravity", "gemini", "neon", "google", "hydrogen", "fixfixed", "november", "pull"]
 source: https://techpp.app/update-tracker/antigravity-update-tracker
 source_anchor: ""

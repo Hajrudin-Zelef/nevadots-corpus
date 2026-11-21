@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["meta", "muse", "ember", "model", "tokens", "reasoning", "million", "haiku"]
 source: https://www.harelasaf.com/articles/meta-muse-ember-agent-subtask-tier-e4b1
 source_anchor: ""

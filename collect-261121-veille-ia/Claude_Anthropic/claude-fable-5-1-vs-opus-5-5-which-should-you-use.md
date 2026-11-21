@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["fable", "opus", "model", "work", "claude", "effort", "anthropic", "choice"]
 source: https://blog.laozhang.ai/en/posts/claude-fable-5-1-vs-opus-5-5
 source_anchor: ""

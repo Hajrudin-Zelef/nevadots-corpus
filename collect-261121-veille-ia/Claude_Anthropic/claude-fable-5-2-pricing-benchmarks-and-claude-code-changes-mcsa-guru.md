@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "anthropic", "opus", "anthropicas", "code", "mythos", "pricing"]
 source: https://mcsaguru.com/claude-fable-5-2-mythos-5-2-pricing-claude-code
 source_anchor: ""

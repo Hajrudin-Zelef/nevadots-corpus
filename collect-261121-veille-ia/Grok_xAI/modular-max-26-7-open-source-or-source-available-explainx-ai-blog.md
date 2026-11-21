@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["modular", "open", "source", "compiler", "says", "license", "mojo", "blog"]
 source: https://explainx.ai/blog/modular-max-source-available-26-7-graph-compiler-runtime-max-license-claimed-vs-verified-2026
 source_anchor: ""

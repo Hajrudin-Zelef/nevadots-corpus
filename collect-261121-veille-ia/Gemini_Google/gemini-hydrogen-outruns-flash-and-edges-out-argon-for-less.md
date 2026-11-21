@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["hydrogen", "gemini", "google", "flash", "high", "argon", "faster", "intelligence"]
 source: https://www.intelligentliving.co/gemini-hydrogen-outruns-flash-edges/
 source_anchor: ""

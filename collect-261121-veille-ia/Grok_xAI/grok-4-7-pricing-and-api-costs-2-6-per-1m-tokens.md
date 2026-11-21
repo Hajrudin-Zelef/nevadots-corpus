@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["tokens", "grok", "prompt", "output", "input", "rate", "cached", "grok-4"]
 source: https://codersera.com/blog/grok-4-7-pricing-api-costs-2026/
 source_anchor: ""

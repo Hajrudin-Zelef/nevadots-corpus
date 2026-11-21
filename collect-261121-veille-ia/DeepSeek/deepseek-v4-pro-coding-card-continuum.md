@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-19"]
 keywords: ["deepseek", "artificial", "analysis", "deepswe", "chip", "printed", "source", "intelligence"]
 source: https://continuumcode.ai/models/deepseek/deepseek-v4-pro/
 source_anchor: ""

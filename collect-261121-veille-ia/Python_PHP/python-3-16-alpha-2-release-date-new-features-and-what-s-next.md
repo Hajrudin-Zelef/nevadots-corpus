@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-19"]
 keywords: ["python", "alpha", "still", "release", "next", "though", "faster", "build"]
 source: https://www.linuxcompatible.org/story/python-316-alpha-2-release-date-new-features-and-whats-next/
 source_anchor: ""

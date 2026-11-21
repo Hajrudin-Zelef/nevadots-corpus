@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-07-10"]
 keywords: ["qwen3", "unsloth", "penalty", "inference", "thinking", "windows", "linux", "performance"]
 source: https://unsloth.ai/docs/models/qwen3.6#mtp-guide.md
 source_anchor: ""

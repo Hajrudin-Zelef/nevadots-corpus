@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["google", "argon", "gemini", "carbon", "model", "hydrogen", "work", "different"]
 source: https://pandromeda.com/ai/gemini-4-hydrogen-vs-carbon-vs-argon-which-should-you-use
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: reference
 actors: ["Google"]
-dates: ["2026-09-23", "2026-12-01"]
+dates: ["2026-09-23"]
 keywords: ["apache"]
 source: docs/RAG/collect-261001-cisco/certbot-automatiser-le-https-en-13-etapes-2026.md
 source_anchor: ""

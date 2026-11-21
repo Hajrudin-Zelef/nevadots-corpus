@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-04-29"]
 keywords: ["next", "framework", "react", "tutoriel", "vous", "vercel", "full-stack", "etapes"]
 source: https://tech-insider.org/fr/nextjs-16-tutoriel-app-full-stack-13-etapes-2026/
 source_anchor: ""

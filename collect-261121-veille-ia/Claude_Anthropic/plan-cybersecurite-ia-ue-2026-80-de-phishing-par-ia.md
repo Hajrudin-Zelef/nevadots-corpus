@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-07"]
 keywords: ["plan", "europeenne", "commission", "modeles", "phishing", "leurs", "cybersecurite-ia", "juillet"]
 source: https://tech-insider.org/fr/plan-cybersecurite-ia-ue-2026/
 source_anchor: ""

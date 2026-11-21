@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["variant", "google", "deepmind", "disease", "mapped", "before", "happens", "same"]
 source: https://cystems.io/blog/ben-lehner-this-isnt-an-alphafold-moment
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-05"]
 keywords: ["rust", "discord", "vishnevskiy", "build", "native", "early", "client", "electron"]
 source: https://www.shanethegamer.com/news/discord-rebuilding-app-in-rust-290mb-ram/
 source_anchor: ""

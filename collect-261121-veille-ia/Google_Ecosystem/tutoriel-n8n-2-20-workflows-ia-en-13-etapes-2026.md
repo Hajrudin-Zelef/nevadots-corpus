@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-04-16"]
 keywords: ["selon", "code", "jour", "tutoriel", "plateforme", "zapier", "version", "stable"]
 source: https://tech-insider.org/fr/n8n-tutoriel-workflows-agents-ia-13-etapes-2026/
 source_anchor: ""

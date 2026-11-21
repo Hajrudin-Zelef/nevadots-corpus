@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "Google", "Meta", "Microsoft", "OpenAI", "Stripe"]
-dates: ["2025-12-18", "2026-03-21", "2026-12-11"]
+dates: ["2025-12-18", "2026-03-21"]
 keywords: ["agent", "agentic", "agents", "chatgpt", "claude", "copilot", "gemini", "license", "mcp", "model context protocol", "muse"]
 source: docs/RAG/collect-261001-ia-llm/ia_agents_concepts.md
 source_anchor: ""

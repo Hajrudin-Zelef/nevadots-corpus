@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["ollama", "claude", "models", "desktop", "support", "local", "configure", "open"]
 source: https://ollama.com/blog/claude-desktop
 source_anchor: ""

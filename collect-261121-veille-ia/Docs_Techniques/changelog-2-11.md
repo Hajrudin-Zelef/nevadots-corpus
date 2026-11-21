@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2022-03-07"]
 keywords: ["module", "tests", "raise", "patch", "asyncio", "test", "logging", "functions"]
 source: https://docs.python.org/release/3.15.1/whatsnew/changelog.html
 source_anchor: ""

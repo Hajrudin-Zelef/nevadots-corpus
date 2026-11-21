@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["official", "qwen4-max", "qwen3", "sandbase", "list", "output", "production", "cache"]
 source: https://blog.sandbase.ai/qwen4-max-vs-qwen3-8-max-2026/
 source_anchor: ""

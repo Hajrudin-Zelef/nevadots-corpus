@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Alibaba", "Anthropic", "DeepSeek", "Glasswing", "Google", "Meta", "Microsoft", "MiniMax", "Mistral", "Moonshot", "Nvidia", "OpenAI", "United States", "Z.ai", "xAI"]
-dates: ["2026-07-30", "2026-09-27", "2027-02-04"]
+dates: ["2026-07-30", "2026-09-27"]
 keywords: ["agent", "agi", "apache", "astra", "chatgpt", "claude", "cyber", "deepseek", "fable 5", "gemini", "gemini 3.8", "gemini 4"]
 source: docs/RAG/collect-261001-ia-llm/ia_modeles_occident.md
 source_anchor: ""

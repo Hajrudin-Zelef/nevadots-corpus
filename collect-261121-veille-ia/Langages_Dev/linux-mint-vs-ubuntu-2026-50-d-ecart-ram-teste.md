@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-23"]
 keywords: ["linux", "mint", "ubuntu", "avril", "cinnamon", "jusquen", "canonical", "deux"]
 source: https://tech-insider.org/fr/linux-mint-vs-ubuntu-2026/
 source_anchor: ""

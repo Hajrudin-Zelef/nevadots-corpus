@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen3", "qwen", "call", "card", "cache", "november", "omni", "flash"]
 source: https://blog.sandbase.ai/which-qwen-to-call-today-qwen3-8-max-27b-omni-flash-2026/
 source_anchor: ""

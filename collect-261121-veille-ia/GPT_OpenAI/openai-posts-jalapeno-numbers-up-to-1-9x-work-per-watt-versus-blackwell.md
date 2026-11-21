@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["openai", "jalapeno", "nvidia", "chip", "times", "watt", "work", "models"]
 source: https://www.shashi.co/2026/08/openai-posts-jalapeno-numbers-up-to-19x.html
 source_anchor: ""

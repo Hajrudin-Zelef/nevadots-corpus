@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "neon", "google", "model", "carbon", "thinking", "hydrogen", "coding"]
 source: https://www.eesel.ai/blog/gemini-4-neon
 source_anchor: ""

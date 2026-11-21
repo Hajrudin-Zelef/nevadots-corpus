@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "flash", "model", "models", "openrouter", "architecture", "completion", "october"]
 source: https://openrouter.ai/provider/deepseek
 source_anchor: ""

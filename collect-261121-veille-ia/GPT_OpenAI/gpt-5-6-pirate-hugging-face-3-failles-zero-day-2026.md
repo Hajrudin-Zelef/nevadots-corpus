@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-21"]
 keywords: ["modeles", "hugging", "face", "juillet", "gpt-5", "zero-day", "deux", "modele"]
 source: https://tech-insider.org/fr/gpt-5-6-pirate-hugging-face-zero-day-2026/
 source_anchor: ""

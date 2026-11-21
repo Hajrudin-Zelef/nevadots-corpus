@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["codex", "model", "release", "gpt-6", "added", "default", "timeline", "updates"]
 source: https://www.scriptbyai.com/codex-timeline/
 source_anchor: ""

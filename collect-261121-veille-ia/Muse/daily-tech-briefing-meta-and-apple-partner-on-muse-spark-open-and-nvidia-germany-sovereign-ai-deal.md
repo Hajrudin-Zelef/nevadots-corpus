@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["tech", "daily", "briefing", "meta", "apple", "partner", "muse", "spark"]
 source: https://www.thecodew.com/2026/10/daily-tech-briefing-october-16.html
 source_anchor: ""

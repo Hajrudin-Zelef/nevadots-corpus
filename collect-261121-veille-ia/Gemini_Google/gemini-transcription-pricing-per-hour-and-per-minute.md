@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["gemini", "audio", "tokens", "hour", "transcribe", "live", "google", "minute"]
 source: https://costperoutput.com/gemini-transcription-pricing
 source_anchor: ""

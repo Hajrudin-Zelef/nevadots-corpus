@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["astrazeneca", "more", "data", "employees", "tools", "development", "velocia", "assistant"]
 source: https://imagine.ai/research/astrazeneca
 source_anchor: ""

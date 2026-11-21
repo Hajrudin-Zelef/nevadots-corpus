@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "hydrogen", "caching", "guide", "thinking", "says", "values", "google"]
 source: https://blog.traversaal.ai/how-to-migrate-gemini-38-flash-to-gemini-4-hydrogen-sampling-caching-and-thinkin/
 source_anchor: ""

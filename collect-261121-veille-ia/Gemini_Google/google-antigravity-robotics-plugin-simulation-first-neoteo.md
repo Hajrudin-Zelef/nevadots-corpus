@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["google", "robot", "plugin", "skills", "robotics", "simulation", "repository", "antigravity"]
 source: https://www.neoteo.com/en/googles-antigravity-robotics-plugin-lets-developers-start-in-simulation
 source_anchor: ""

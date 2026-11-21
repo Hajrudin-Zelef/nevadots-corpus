@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["anthropic", "openai", "companies", "records", "commission", "investigation", "reported", "only"]
 source: https://blog.pebblous.ai/blog/ftc-openai-anthropic-agent-probe/en/
 source_anchor: ""

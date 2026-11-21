@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["gemini", "robotics", "model", "success", "mercedes", "deepmind", "apollo", "them"]
 source: https://robottesters.com/article-gemini-robotics-2-5-apptronik-mercedes
 source_anchor: ""

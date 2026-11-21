@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["python", "uuid", "alpha", "operations", "uuids", "regular", "faster", "release"]
 source: https://onlinelearningportal.website/python-3-16-alpha-2-regex-uuid/
 source_anchor: ""

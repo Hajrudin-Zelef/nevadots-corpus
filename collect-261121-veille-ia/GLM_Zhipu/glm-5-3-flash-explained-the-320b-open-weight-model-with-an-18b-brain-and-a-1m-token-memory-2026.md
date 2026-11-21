@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["model", "glm-5", "flash", "launch", "open-weight", "only", "context", "attention"]
 source: https://dev.to/aitecharchive/glm-53-flash-explained-the-320b-open-weight-model-with-an-18b-brain-and-a-1m-token-memory-2026-5cbl
 source_anchor: ""

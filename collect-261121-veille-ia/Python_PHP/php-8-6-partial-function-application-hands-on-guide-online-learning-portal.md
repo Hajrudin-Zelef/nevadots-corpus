@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["function", "partial", "arguments", "string", "application", "array", "guide", "placeholders"]
 source: https://onlinelearningportal.website/php-8-6-partial-function-application/
 source_anchor: ""

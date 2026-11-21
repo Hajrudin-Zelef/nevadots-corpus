@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-10"]
 keywords: ["student", "year", "google", "free", "month", "months", "page", "price"]
 source: https://blog.laozhang.ai/en/posts/gemini-discount-guide-2026
 source_anchor: ""

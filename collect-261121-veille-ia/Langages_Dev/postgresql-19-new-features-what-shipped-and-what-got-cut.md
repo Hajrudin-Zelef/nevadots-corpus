@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["postgresql", "repack", "features", "concurrently", "table", "release", "writes", "november"]
 source: https://smartters.in/blog/postgresql-19-new-features
 source_anchor: ""

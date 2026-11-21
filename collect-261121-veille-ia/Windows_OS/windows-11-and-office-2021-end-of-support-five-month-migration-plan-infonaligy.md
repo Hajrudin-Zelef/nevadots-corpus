@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "support", "server", "microsoft", "office", "sharepoint", "migration", "ltsc"]
 source: https://www.infonaligy.com/blog/windows-11-office-2021-end-of-support-migration-plan
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-10-14"]
 keywords: ["memory", "pricing", "organizations", "timing", "asset", "recovery", "hardware", "refresh"]
 source: https://discountcomputerdepot.com/ram-prices-hit-550-q2-2026/
 source_anchor: ""

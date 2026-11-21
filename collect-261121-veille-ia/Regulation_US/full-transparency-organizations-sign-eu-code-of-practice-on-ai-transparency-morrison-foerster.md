@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["code", "practice", "transparency", "organizations", "sign", "companies", "providers", "signatories"]
 source: https://www.mofo.com/resources/insights/260911-full-transparency-organizations-sign-eu-code
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["agents", "claude", "fable", "proof", "teams", "multi-agent", "team", "work"]
 source: https://home.carldmitchell.com/read?id=f7c768a948cd
 source_anchor: ""

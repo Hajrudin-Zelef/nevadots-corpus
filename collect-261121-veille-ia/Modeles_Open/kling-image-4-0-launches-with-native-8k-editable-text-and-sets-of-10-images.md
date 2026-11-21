@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["image", "kling", "images", "native", "model", "text", "picture", "launched"]
 source: https://asiadaily.org/news/19143/
 source_anchor: ""

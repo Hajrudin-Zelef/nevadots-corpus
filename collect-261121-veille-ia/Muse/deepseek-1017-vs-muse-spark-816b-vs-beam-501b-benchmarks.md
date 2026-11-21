@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["beam", "model", "deepseek", "muse", "spark", "open", "tokens", "benchmarks"]
 source: https://regolo.ai/deepseek-1017-vs-muse-spark-816b-vs-beam-501b-benchmarks/
 source_anchor: ""

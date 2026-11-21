@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "model", "input", "task", "tokens", "artificial", "analysis"]
 source: https://www.intelligentliving.co/minimax-flash-model-wins-quiet/
 source_anchor: ""

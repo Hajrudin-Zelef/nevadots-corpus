@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-03-11"]
 keywords: ["model", "nvidia", "reasoning", "license", "open", "chat", "data", "parameters"]
 source: https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4
 source_anchor: ""

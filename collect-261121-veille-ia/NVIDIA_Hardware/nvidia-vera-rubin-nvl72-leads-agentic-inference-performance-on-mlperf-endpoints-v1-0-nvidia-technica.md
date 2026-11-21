@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["interactivity", "endpoints", "nvidia", "vera", "rubin", "nvl72", "mlperf", "results"]
 source: https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/
 source_anchor: ""

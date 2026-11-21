@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-10-06"]
 keywords: ["compression", "openzl", "data", "tools", "framework", "meta", "performance", "dedicated"]
 source: https://gigazine.net/gsc_news/en/20251007-meta-openzl-graph-based-model-compression
 source_anchor: ""

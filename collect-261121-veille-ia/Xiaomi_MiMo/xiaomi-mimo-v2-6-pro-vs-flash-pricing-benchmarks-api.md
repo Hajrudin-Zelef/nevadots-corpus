@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-10-05"]
 keywords: ["flash", "xiaomi", "mimo", "tokens", "input", "model", "output", "coding"]
 source: https://spectrumailab.com/blog/mimo-v2-6-guide-pricing-builds-2026
 source_anchor: ""

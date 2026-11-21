@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2025-11-19"]
 keywords: ["infrastructure", "amazon", "humain", "partnership", "saudi", "services", "global", "customers"]
 source: https://groups.google.com/g/fsadsafasdsadas/c/6RePefY5Mmw/m/V0HwfSZBAgAJ
 source_anchor: ""

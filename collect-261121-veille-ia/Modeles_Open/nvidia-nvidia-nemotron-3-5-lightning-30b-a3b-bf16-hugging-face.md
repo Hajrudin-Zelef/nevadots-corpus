@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "nvidia", "nvidia-nemotron-3", "vllm", "bf16", "h100", "data", "lightning-30b-a3b-bf16"]
 source: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16
 source_anchor: ""

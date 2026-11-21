@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["sambanova", "inference", "current", "model", "infrastructure", "stack", "hardware", "private"]
 source: https://www.aistackcurrent.com/companies/sambanova/
 source_anchor: ""

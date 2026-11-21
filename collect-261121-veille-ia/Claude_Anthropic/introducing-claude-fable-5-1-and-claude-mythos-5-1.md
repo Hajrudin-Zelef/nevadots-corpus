@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-02"]
 keywords: ["fable", "claude", "safeguards", "mythos", "tools", "data", "introducing", "available"]
 source: https://www.anthropic.com/claude-fable-and-mythos-5-1?ref=metacurity.com
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "model", "nemotron", "science", "agents", "open", "models", "dataset"]
 source: https://tml.news/stories/nvidia-nemotron-for-science-agents/
 source_anchor: ""

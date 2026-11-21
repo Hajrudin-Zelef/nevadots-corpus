@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-16"]
 keywords: ["deepseek", "agent", "harness", "plugin", "provider", "model", "deepinfra", "loop"]
 source: https://deepinfra.com/blog/deepseek-harness-review
 source_anchor: ""

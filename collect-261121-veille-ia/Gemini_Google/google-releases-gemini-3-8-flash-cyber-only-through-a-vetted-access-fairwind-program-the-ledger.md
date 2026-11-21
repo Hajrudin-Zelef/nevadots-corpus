@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["google", "cyber", "flash", "model", "program", "gemini", "fairwind", "reported"]
 source: https://www.the-ledger.net/events/google-gemini-flash-cyber-fairwind-program
 source_anchor: ""

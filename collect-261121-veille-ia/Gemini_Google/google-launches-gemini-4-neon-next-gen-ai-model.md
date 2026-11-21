@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "google", "model", "neon", "reasoning", "enterprise", "launches", "next-gen"]
 source: https://emergent.sh/news/google-launches-gemini-4-neon-next-gen-ai
 source_anchor: ""

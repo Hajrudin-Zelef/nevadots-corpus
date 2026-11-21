@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2025-08-07"]
 keywords: ["gpt-6", "gpt-5", "model", "terra", "openai", "deprecations", "luna", "page"]
 source: https://ecorpit.com/gpt-5-o3-retirement-gpt-6-1-sol-terra-luna-cost-comparison/
 source_anchor: ""

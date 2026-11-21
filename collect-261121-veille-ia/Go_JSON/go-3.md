@@ -5,7 +5,7 @@ domain: go-json
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["years", "ended", "months", "supported", "purl", "release", "year", "docker"]
 source: https://endoflife.date/go
 source_anchor: ""

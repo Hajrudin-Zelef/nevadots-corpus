@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-09-17"]
 keywords: ["homes", "spacexsi", "musk", "elon", "residents", "data", "centers", "been"]
 source: https://www.techspot.com/news/114390-elon-musk-spacexsi-offers-buy-hundreds-homes-near.html
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["opus", "claude", "intelligence", "index", "gpt-6", "fable", "artificial", "analysis"]
 source: https://artificialanalysis.ai/articles/claude-opus-5-5
 source_anchor: ""

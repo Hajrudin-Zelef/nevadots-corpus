@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["codex", "releases", "skill", "model", "config", "changelog", "version", "gpt-6"]
 source: https://codexskills.dev/guides/codex-changelog/
 source_anchor: ""

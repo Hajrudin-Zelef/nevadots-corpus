@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-02-10"]
 keywords: ["search", "deepseek", "tool", "model", "audio", "speech", "text", "vendor"]
 source: https://techtimes.com/articles/330789/20261116/deepseek-api-adds-search-ocr-speech-120-second-audio-cap-vendor-bound-chinese-laws.htm
 source_anchor: ""

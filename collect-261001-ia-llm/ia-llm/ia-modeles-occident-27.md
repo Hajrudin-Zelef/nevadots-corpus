@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "Glasswing", "Google", "Meta", "Microsoft", "MiniMax", "Mistral", "Nvidia", "OpenAI", "OpenRouter", "Poolside", "SGLang", "SpaceX", "TensorRT-LLM", "vLLM", "xAI"]
-dates: ["2026-02-09", "2026-05-28", "2026-07-18", "2026-08-31", "2026-09-04", "2026-09-14", "2026-09-27", "2027-02-04"]
+dates: ["2026-02-09", "2026-05-28", "2026-07-18", "2026-08-31", "2026-09-04", "2026-09-14", "2026-09-27"]
 keywords: ["agent", "agents", "apache", "astra", "attention", "blackwell", "chatgpt", "claude", "compute", "consumer", "copilot", "fp8"]
 source: docs/RAG/collect-261001-ia-llm/ia_modeles_occident.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["openrouter", "agent", "model", "qwen4-max", "qwen", "coding", "alibaba", "tool"]
 source: https://codewithnishant.dev/free/qwen4-max-swap-setup/
 source_anchor: ""

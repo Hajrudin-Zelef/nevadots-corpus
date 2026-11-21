@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["runway", "available", "video", "model", "claims", "models", "image", "logged"]
 source: https://getpist.ai/tools/runway
 source_anchor: ""

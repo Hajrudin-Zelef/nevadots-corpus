@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-02"]
 keywords: ["prices", "trendforce", "contract", "dram", "market", "spot", "rising", "memory"]
 source: https://capitaltimes.asia/tech/semiconductors/dram-contract-prices-rise-spot-market-stalls-trendforce/
 source_anchor: ""

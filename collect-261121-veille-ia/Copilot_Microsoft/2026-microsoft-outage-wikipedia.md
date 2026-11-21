@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["microsoft", "outage", "november", "servers", "services", "gateway", "networking", "caused"]
 source: https://en.wikipedia.org/wiki/2026_Microsoft_outage
 source_anchor: ""

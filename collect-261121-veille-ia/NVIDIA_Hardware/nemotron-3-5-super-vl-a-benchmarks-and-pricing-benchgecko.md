@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-14"]
 keywords: ["benchgecko", "nemotron", "super", "benchmarks", "pricing", "nvidia", "tokens", "scores"]
 source: https://benchgecko.ai/model/nemotron-3-5-super-vl
 source_anchor: ""

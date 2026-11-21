@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-15"]
 keywords: ["system", "claude", "enzyme", "crispr-like", "repeats", "anthropic", "laboratory", "agents"]
 source: https://www.techbytes.app/posts/claude-discovers-a-novel-enzyme-system-with-crispr-like-repeats/
 source_anchor: ""

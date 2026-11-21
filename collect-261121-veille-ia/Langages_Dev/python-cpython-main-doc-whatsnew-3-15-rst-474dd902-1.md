@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "changes", "change", "text", "maintainer", "release", "some", "misc"]
 source: ""
 source_anchor: ""

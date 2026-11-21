@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-29"]
 keywords: ["billion", "stolen", "hack", "binance", "ethereum", "assets", "october", "exchange"]
 source: https://en.wikipedia.org/wiki/2026_Binance_hack
 source_anchor: ""

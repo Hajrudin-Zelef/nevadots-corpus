@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["moonshot", "model", "weights", "million", "kimi", "public", "release", "tokens"]
 source: https://dev.to/paullovelace/moonshot-ais-kimi-k31-pro-weights-are-now-open-explained-honestly-372l
 source_anchor: ""

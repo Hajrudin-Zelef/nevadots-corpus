@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["layers", "attention", "ling", "kimi", "delta", "latent", "gated", "flash"]
 source: https://ruben.galvao.co.uk/rabbit-hole/ai/models/ling-3-0-flash/
 source_anchor: ""

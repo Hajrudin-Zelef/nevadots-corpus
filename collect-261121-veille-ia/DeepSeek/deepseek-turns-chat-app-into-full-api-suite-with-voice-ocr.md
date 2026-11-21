@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "chat", "voice", "search", "developers", "suite", "full", "model"]
 source: https://emergent.sh/news/deepseek-turns-chat-app-into-full-api-suite
 source_anchor: ""

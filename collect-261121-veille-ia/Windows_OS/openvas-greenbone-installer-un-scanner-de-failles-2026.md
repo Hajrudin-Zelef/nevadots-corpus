@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-06"]
 keywords: ["openvas", "greenbone", "scanner", "scan", "comme", "vulnerabilites", "tests", "aout"]
 source: https://tech-insider.org/fr/openvas-greenbone-scanner-vulnerabilites-2026/
 source_anchor: ""

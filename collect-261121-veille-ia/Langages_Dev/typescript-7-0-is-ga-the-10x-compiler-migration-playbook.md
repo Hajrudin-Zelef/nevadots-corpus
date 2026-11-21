@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "compiler", "defaults", "code", "migration", "tooling", "playbook", "install"]
 source: https://www.digitalapplied.com/blog/typescript-7-0-ga-native-compiler-migration-playbook-2026
 source_anchor: ""

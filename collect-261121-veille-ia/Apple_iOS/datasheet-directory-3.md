@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-09-27"]
 keywords: ["maximum", "forward", "voltage", "configuration", "datasheet", "diode", "capacitance", "package"]
 source: https://www.datasheet.support/datasheet/huaweienterprises/EDOC1100412483/RESOURCE/AR6700V_L_V600R024C00_SECURITY_CONFIGURATION_BASELINES_MANDATORY_EN.pdf
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "google", "hydrogen", "model", "november", "argon", "card", "does"]
 source: https://aitoolspolice.com/frontier-models/gemini-4-hydrogen/
 source_anchor: ""

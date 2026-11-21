@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["windows", "update", "kb5132061", "microsoft", "install", "settings", "open", "system"]
 source: https://learn.microsoft.com/en-us/answers/questions/6067407/kb5132061-26300-9974-will-not-install-on-window11
 source_anchor: ""

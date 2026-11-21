@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4", "model", "index", "cost", "artificial", "alibabas", "alibaba", "analysis"]
 source: https://technocapture.com/ai-tools-automation/is-qwen4-max-worth-it-better-scores-lower-cost-still-trailing-leaders/
 source_anchor: ""

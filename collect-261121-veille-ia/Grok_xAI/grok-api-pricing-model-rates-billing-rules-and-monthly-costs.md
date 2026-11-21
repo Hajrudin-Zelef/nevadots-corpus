@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok-4", "model", "tokens", "input", "costs", "rates", "grok", "cached"]
 source: https://blog.laozhang.ai/en/posts/xai-grok-api-pricing
 source_anchor: ""

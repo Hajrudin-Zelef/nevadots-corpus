@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["microsoft", "november", "admin", "centre", "confirmed", "openai", "anthropic", "status"]
 source: https://ecorpit.com/microsoft-365-outage-november-2026-ai-agents/
 source_anchor: ""

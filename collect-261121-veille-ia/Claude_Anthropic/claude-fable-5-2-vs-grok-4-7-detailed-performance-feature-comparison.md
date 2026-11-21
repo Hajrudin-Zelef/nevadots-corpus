@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["claude", "tokens", "model", "fable", "grok", "comparison", "performance", "available"]
 source: https://docsbot.ai/models/compare/claude-fable-5-2/grok-4-7
 source_anchor: ""

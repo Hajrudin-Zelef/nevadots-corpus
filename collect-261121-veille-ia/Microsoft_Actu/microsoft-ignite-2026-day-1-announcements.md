@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "copilot", "generally", "available", "agents", "frontier", "spend", "preview"]
 source: https://www.epcgroup.net/insights/microsoft-ignite-2026-day-1-announcements
 source_anchor: ""

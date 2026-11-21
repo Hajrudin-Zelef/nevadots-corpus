@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["windows", "insider", "users", "standard", "notification", "maps", "features", "preboot"]
 source: https://learn.microsoft.com/en-us/windows-insider/release-notes/beta/preview-build-26320-10003
 source_anchor: ""

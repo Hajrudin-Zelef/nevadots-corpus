@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["beam", "reflection", "open-weight", "model", "weights", "artificial", "analysis", "index"]
 source: https://builtbynpcs.com/stories/reflection-beam-501b-open-weight-model-use-cases-costs
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["openai", "daybreak", "nato", "cybersecurity", "work", "ncia", "neoteo", "access"]
 source: https://www.neoteo.com/en/openai-announces-nato-cybersecurity-cooperation-through-ncia
 source_anchor: ""

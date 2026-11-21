@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["gpt-6", "terra", "openai", "models", "tokens", "dollars", "both", "work"]
 source: https://www.lilachbullock.com/gpt-6-1/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-03-05"]
 keywords: ["qwen3", "qwen", "attention", "gated", "model", "hugging", "face", "embedding"]
 source: https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8?local-app=sglang
 source_anchor: ""

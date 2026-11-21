@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["opus", "claude", "page", "output", "model", "price", "tokens", "fable"]
 source: https://dev.to/modelflare_dev/claude-opus-55-specs-price-and-place-in-the-field-3jal
 source_anchor: ""

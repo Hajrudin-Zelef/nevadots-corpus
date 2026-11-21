@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-26"]
 keywords: ["october", "claude", "gemini", "longer", "week", "permission", "coding", "agents"]
 source: https://agent-config.com/this-week/2026-w44/
 source_anchor: ""

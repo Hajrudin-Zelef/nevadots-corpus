@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["confirmed", "october", "demands", "openai", "anthropic", "probe", "reported", "plans"]
 source: https://explainx.ai/blog/ftc-probe-openai-anthropic-ai-safety-2026
 source_anchor: ""

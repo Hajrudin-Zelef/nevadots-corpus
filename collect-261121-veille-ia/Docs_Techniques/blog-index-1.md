@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-26"]
 keywords: ["experimental", "json", "package", "encoding", "october", "september", "developer", "simd"]
 source: https://golang.google.cn/blog/all
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["rust", "type", "value", "never", "system", "memory", "allocator", "released"]
 source: https://ostechnix.com/rust-1-100-0-new-features/
 source_anchor: ""

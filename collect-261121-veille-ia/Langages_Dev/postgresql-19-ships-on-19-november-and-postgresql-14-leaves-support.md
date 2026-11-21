@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "november", "release", "version", "support", "minor", "project", "advice"]
 source: https://dev.to/neticslabs/postgresql-19-ships-on-19-november-and-postgresql-14-leaves-support-4bkg
 source_anchor: ""

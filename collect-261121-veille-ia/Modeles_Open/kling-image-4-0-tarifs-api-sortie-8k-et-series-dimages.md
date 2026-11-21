@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["image", "kling", "images", "souvre", "nouvel", "onglet", "dimages", "novembre"]
 source: https://omniart.studio/blog/models-insights/kling-image-4-0-explained
 source_anchor: ""

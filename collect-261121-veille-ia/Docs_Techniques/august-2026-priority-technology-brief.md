@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-13"]
 keywords: ["august", "update", "security", "supported", "windows", "support", "microsoft", "google"]
 source: https://computer-technologies.com/priority-technology-brief/
 source_anchor: ""

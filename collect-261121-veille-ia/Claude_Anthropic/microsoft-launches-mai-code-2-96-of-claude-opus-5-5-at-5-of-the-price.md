@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "microsoft", "tokens", "coding", "models", "price", "billion", "million"]
 source: https://chainaiwire.com/microsoft-mai-code-2-specs-pricing-benchmarks/
 source_anchor: ""

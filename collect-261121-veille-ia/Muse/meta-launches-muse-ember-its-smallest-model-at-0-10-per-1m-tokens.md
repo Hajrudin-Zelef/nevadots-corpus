@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["muse", "model", "meta", "tokens", "million", "ember", "claude", "launches"]
 source: https://codingislove.com/meta-muse-ember/
 source_anchor: ""

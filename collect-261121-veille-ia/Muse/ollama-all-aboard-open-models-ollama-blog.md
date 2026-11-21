@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-07-09"]
 keywords: ["models", "open", "ollama", "running", "developers", "them", "aboard", "docker"]
 source: https://ollama.com/blog/all-aboard-open-models
 source_anchor: ""

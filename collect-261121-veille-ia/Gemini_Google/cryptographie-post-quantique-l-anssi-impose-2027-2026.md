@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-06-16"]
 keywords: ["post-quantique", "anssi", "cryptographie", "lagence", "securite", "quantum", "dollars", "lanssi"]
 source: https://tech-insider.org/fr/cryptographie-post-quantique-anssi-2027/
 source_anchor: ""

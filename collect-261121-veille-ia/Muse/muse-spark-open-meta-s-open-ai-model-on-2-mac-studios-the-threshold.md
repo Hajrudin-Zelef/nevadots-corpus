@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["meta", "open", "model", "muse", "apple", "spark", "studios", "macs"]
 source: https://thethreshold.media/blog/muse-spark-open-meta-open-weights-mac-studio-2026
 source_anchor: ""

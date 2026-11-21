@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-02-02"]
 keywords: ["point", "article", "points", "harm", "social", "practices", "behaviour", "person"]
 source: https://venvera.com/learn/eu-ai-act/article-5-prohibited-practices
 source_anchor: ""

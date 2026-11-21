@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-30"]
 keywords: ["newsom", "report", "industry", "washington", "safety", "national", "himself", "likely"]
 source: https://www.europesays.com/people/314280/
 source_anchor: ""

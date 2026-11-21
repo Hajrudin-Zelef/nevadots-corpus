@@ -5,7 +5,7 @@ domain: atria-dawn
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-11"]
 keywords: ["preview", "atria", "dawn", "open-weight", "research", "agents", "long-horizon", "free"]
 source: https://www.curatedai.net/tools/atria-dawn-preview.html
 source_anchor: ""

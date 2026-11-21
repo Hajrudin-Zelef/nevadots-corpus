@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["million", "openrouter", "gemini", "carbon", "price", "input", "tokens", "checked"]
 source: https://enterprisedna.co/directories/models/google-gemini-4-carbon
 source_anchor: ""

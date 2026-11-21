@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["cyber", "gpt-6", "openai", "cybersecurity", "daybreak", "announces", "improvement", "users"]
 source: https://gigazine.net/gsc_news/en/20261106-openai-gpt-6-cyber/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-13"]
 keywords: ["maia", "data", "says", "microsoft", "more", "buildout", "compute", "concrete"]
 source: https://share.transistor.fm/s/11314319
 source_anchor: ""

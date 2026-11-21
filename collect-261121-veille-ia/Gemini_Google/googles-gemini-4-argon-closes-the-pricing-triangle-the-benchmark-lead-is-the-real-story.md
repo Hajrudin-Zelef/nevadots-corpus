@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["google", "argon", "pricing", "triangle", "gemini", "closes", "frontier", "million"]
 source: https://forkast.news/googles-gemini-4-argon-closes-the-pricing-triangle-the-benchmark-lead-is-the-real-story/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "code", "extension", "claude", "backdoor", "fake", "cursors", "october"]
 source: https://expel.com/blog/blog-fake-claude-code-extension-cursor-ssh-backdoor/
 source_anchor: ""

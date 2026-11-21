@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-16"]
 keywords: ["model", "framework", "misalignment", "instructions", "summaries", "openai", "disclosure", "reports"]
 source: https://completeaitraining.com/news/openai-launches-framework-for-reporting-model-misalignment/
 source_anchor: ""

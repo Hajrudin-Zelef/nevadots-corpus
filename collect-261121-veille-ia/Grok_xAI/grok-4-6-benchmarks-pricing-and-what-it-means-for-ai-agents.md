@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "model", "benchmarks", "agents", "work", "reasoning", "pricing", "same"]
 source: https://leanware.co/insights/grok-4-6-release-benchmarks-pricing-agents
 source_anchor: ""

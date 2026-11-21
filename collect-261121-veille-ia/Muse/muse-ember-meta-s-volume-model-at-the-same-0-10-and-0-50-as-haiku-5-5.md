@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["meta", "muse", "haiku", "ember", "model", "luna", "same", "wonder"]
 source: https://llm-stats.com/blog/research/muse-ember-launch
 source_anchor: ""

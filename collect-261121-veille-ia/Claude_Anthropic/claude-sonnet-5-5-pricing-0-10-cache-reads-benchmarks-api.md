@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["claude", "sonnet", "opus", "anthropic", "model", "october", "haiku", "cache"]
 source: https://codersera.com/blog/claude-sonnet-5-5-complete-guide-2026/
 source_anchor: ""

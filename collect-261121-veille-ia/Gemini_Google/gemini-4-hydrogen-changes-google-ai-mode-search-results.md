@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["search", "google", "hydrogen", "process", "mode", "query", "questions", "searches"]
 source: https://www.techwyse.com/news/ai-search/gemini-4-hydrogen-google-search-ai-mode-upgrade
 source_anchor: ""

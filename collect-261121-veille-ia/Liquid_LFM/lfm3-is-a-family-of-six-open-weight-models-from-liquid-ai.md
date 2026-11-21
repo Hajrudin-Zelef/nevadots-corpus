@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["liquid", "text", "lfm3", "model", "lfm3-1", "models", "attention", "audio"]
 source: https://www.layer3labs.io/guides/lfm3-explained
 source_anchor: ""

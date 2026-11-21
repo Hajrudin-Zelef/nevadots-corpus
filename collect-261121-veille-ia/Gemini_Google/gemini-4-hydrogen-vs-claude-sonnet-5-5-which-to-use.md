@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "hydrogen", "sonnet", "claude", "google", "every", "leads", "launch"]
 source: https://www.datacamp.com/blog/gemini-4-hydrogen-vs-claude-sonnet-5-5
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-10"]
 keywords: ["palo", "alto", "elorian", "dealroom", "company", "remote", "models", "data"]
 source: https://dealroom.co/companies/elorian/
 source_anchor: ""

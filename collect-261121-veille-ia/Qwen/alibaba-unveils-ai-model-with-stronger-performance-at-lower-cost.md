@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-15"]
 keywords: ["model", "alibaba", "content", "morningstar", "stronger", "lower", "cost", "parameters"]
 source: https://www.morningstar.com/news/dow-jones/202611151552/alibaba-unveils-ai-model-with-stronger-performance-at-lower-cost
 source_anchor: ""

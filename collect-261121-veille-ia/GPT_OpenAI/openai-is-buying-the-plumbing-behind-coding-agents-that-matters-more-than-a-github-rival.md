@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["openai", "code", "pierre", "codex", "github", "says", "remain", "agents"]
 source: https://dev.to/jamilxt/openai-is-buying-the-plumbing-behind-coding-agents-that-matters-more-than-a-github-rival-59eg
 source_anchor: ""

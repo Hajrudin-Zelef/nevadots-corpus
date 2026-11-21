@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["model", "claude", "sonnet", "effort", "access", "code", "provider", "client"]
 source: https://ofox.ai/blog/claude-sonnet-5-5-claude-code-setup/
 source_anchor: ""

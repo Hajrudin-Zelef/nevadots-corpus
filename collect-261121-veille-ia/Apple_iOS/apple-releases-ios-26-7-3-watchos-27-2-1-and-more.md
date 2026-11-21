@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["apple", "watchos", "macos", "across", "security", "ipados", "hardware", "releases"]
 source: https://blogs.techbytes.app/posts/apple-releases-ios-2673-watchos-2721-and-more/
 source_anchor: ""

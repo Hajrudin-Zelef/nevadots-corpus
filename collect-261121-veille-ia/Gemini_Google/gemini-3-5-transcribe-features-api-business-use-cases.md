@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["gemini", "transcribe", "audio", "model", "features", "business", "support", "cases"]
 source: https://aurastagtechnologies.com/blog/gemini-3-5-transcribe-features-api-business-use-cases
 source_anchor: ""

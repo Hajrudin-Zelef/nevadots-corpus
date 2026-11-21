@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["order", "report", "vendor", "frontier", "switch", "contract", "n-9-26", "september"]
 source: https://www.aipolicydesk.com/blog/newsom-eo-n-9-26-ai-kill-switch-vendor-contract-clauses-2026
 source_anchor: ""

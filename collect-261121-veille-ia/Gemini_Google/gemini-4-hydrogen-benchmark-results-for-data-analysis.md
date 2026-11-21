@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "hydrogen", "model", "data", "argon", "questions", "google", "gpt-6"]
 source: https://plotly.com/blog/gemini-4-hydrogen-plotly-data-analytics-bench/
 source_anchor: ""

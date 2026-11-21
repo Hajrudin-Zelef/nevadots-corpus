@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["google", "finland", "power", "data", "nuclear", "centers", "contract", "billion"]
 source: https://www.explainx.ai/blog/google-finland-nuclear-ai-data-center-investment-2026
 source_anchor: ""

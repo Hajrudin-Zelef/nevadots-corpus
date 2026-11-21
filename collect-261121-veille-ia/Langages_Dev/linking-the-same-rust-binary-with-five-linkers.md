@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["rust", "linker", "same", "runs", "files", "mold", "linking", "wild"]
 source: https://www.mehdi.cz/blog/linking-the-same-rust-binary-with-five-linkers
 source_anchor: ""

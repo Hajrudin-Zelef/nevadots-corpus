@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["gemini", "carbon", "artificial", "analysis", "high", "index", "model", "batch"]
 source: https://openrouter.ai/google/gemini-4-carbon-20261110:batch
 source_anchor: ""

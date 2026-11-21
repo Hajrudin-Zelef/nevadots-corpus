@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "reverted", "release", "json", "ships", "sudo", "features", "ubuntu"]
 source: https://computingforgeeks.com/postgresql-19-new-features/
 source_anchor: ""

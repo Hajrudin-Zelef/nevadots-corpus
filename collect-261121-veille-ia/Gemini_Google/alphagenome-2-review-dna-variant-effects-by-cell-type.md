@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["alphagenome", "cell", "model", "type", "variant", "deepmind", "single-cell", "effects"]
 source: https://evermx.com/case/alphagenome-2
 source_anchor: ""

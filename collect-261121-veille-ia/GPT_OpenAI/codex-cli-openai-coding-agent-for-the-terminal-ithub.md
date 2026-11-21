@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-06"]
 keywords: ["codex", "openai", "windows", "install", "agent", "repository", "sandbox", "macos"]
 source: https://www.ithub.directory/ai-coding-assistants/openai-codex
 source_anchor: ""

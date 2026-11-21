@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["claude", "model", "workflow", "codex", "release", "code", "agents", "subagent"]
 source: https://tech-insider.org/codex-cli-0-162-vs-claude-code-2-1-296-2026/
 source_anchor: ""

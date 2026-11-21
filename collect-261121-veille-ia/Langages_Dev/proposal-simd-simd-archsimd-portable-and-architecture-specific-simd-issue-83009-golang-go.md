@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["simd", "archsimd", "equal", "across", "goexperiment", "vectors", "amd64", "architecture-specific"]
 source: https://github.com/golang/go/issues/83009
 source_anchor: ""

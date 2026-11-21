@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["anthropic", "about", "billion", "investors", "price", "year", "priced", "stock"]
 source: ""
 source_anchor: ""

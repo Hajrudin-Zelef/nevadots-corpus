@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["agents", "chrome", "sandbox", "agent", "test", "dimension", "synthetic", "sites"]
 source: https://www.unite.ai/chrome-security-builds-a-synthetic-web-to-test-ai-browsing-agents/
 source_anchor: ""

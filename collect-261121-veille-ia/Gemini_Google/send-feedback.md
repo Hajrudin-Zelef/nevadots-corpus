@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2020-11-20"]
 keywords: ["threshold", "concurrent", "address", "exceeds", "configured", "value", "action", "executed"]
 source: https://docs.fortinet.com/document/fortigate/7.4.3/administration-guide/771644/dos-policy
 source_anchor: ""

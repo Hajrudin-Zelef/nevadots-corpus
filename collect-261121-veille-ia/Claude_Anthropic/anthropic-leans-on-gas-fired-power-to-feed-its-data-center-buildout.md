@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["anthropic", "power", "filing", "company", "natural", "center", "billion", "data"]
 source: https://cryptobriefing.com/anthropic-gas-fired-power-data-centers/
 source_anchor: ""

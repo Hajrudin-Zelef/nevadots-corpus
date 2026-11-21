@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "content", "science", "experiments", "morningstar", "platform", "third-party", "katherine"]
 source: https://www.morningstar.com/news/dow-jones/202611166916/nvidia-launches-ai-platform-for-science-experiments
 source_anchor: ""

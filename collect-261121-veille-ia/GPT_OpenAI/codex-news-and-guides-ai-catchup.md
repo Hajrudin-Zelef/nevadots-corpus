@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["codex", "openai", "gpt-6", "chatgpt", "astra", "cloud", "users", "settings"]
 source: https://aicatchup.com/topic/codex
 source_anchor: ""

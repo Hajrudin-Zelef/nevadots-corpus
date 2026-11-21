@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-29"]
 keywords: ["safety", "amodei", "slowdown", "capability", "coordination", "access", "reviewers", "dario"]
 source: https://tech-insider.org/dario-amodei-ai-slowdown-pacing-frontier-2026/
 source_anchor: ""

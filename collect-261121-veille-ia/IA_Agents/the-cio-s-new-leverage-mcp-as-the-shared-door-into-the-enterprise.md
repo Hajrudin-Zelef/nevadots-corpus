@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["standard", "agentic", "open", "enterprise", "leverage", "reported", "shared", "agent"]
 source: https://futurumgroup.com/insights/the-cios-new-leverage-mcp-as-the-shared-door-into-the-enterprise/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["robot", "gemini", "physical", "google", "video", "argon", "objects", "virtual"]
 source: https://bfdcrew.gd/threads/the-robot-watched-one-video-and-learned-a-new-trick-google-showed-the-unusual-abilities-of-gemini.30832/
 source_anchor: ""

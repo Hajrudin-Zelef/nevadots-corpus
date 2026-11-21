@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "chemistry", "model", "nemotron", "scientific", "dataset", "data", "design"]
 source: https://www.unite.ai/nvidia-launches-nemotron-for-science-and-open-chemistry-dataset/
 source_anchor: ""

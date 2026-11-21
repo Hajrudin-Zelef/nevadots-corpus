@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["data", "power", "center", "about", "centers", "chips", "built", "cost"]
 source: https://ai-magazine.com/ai-data-centers/
 source_anchor: ""

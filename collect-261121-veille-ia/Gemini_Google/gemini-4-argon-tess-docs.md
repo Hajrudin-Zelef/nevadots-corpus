@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["input", "video", "model", "argon", "output", "dollars", "finance", "still"]
 source: https://docs.tess.im/en/gemini-4-argon
 source_anchor: ""

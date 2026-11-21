@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["model", "astra", "gpt-6", "openai", "cheaper", "cost", "work", "just"]
 source: https://dev.to/paullovelace/openai-just-shipped-gpt-62-astra-and-sol-and-the-cheaper-model-is-the-interesting-one-15ln
 source_anchor: ""

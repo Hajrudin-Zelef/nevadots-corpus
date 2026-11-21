@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["gemini", "robotics", "deepmind", "benchmark", "safety", "robots", "asimov-jailbreak", "model"]
 source: https://cryptobriefing.com/google-deepmind-gemini-robotics-2-5-asimov/
 source_anchor: ""

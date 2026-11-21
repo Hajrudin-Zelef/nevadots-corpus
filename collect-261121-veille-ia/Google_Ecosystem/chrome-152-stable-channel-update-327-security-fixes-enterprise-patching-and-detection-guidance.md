@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["chrome", "renderer", "fixes", "stable", "channel", "release", "update", "security"]
 source: https://securityarsenal.com/blog/chrome-152-stable-channel-update-327-security-fixes-enterprise-patching-and-detection-guidance
 source_anchor: ""

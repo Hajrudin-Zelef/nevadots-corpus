@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["copilot", "model", "github", "opus", "evidence", "technical", "models", "claude"]
 source: https://sxf.si/signals/github-copilot-models-retired-november-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["subagent", "haiku", "claude", "code", "explore", "opus", "parallel", "list"]
 source: https://www.aiviolabs.com/en/blog/haiku-5-5-as-a-subagent
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["cnsa", "january", "products", "product", "cnssp", "version", "niap", "vendors"]
 source: https://ecorpit.com/nsa-cnsa-2-0-post-quantum-procurement-2027/
 source_anchor: ""

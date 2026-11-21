@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["windows", "update", "microsoft", "november", "kb5132061", "kb5131096", "home", "slmgr"]
 source: https://yourlocalcomputerguy.co.uk/blog/november-2026-update-problems.html
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "search", "model", "deepseek-flash", "chat", "november", "alongside", "fetch"]
 source: https://lotook.com/articles/deepseek-api-web-search-ocr-voice/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-21"]
 keywords: ["python", "release", "changes", "install", "upgrade", "improvements", "more", "versions"]
 source: https://www.python.org/downloads/release/python-3151/
 source_anchor: ""

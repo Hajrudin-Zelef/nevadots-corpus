@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["jules", "google", "free", "november", "tier", "tasks", "read-only", "shutdown"]
 source: https://efreedirectory.com/jules-shutdown-free-tier/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "changes", "default", "release", "utf-8", "lazy", "imports", "such"]
 source: https://betanews.com/article/python-3-15-release/
 source_anchor: ""

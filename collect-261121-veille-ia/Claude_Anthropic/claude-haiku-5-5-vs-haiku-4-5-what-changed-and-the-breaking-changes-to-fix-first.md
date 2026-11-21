@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "tokens", "model", "claude", "thinking", "messages", "output", "changes"]
 source: https://apidog.com/blog/claude-haiku-5-5-vs-haiku-4-5/
 source_anchor: ""

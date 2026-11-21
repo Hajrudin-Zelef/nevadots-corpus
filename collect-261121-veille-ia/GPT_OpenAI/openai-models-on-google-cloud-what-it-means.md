@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["google", "models", "cloud", "openai", "model", "customers", "means", "gemini"]
 source: https://www.netnerds.com/post/openai-models-are-coming-to-google-cloud-why-rivals-are-now-sharing-a-shelf
 source_anchor: ""

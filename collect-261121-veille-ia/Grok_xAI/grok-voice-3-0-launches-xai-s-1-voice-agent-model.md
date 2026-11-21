@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["voice", "grok", "agent", "model", "audio", "agents", "speech", "calls"]
 source: https://saeedai.com/grok-voice-3-0-launch/
 source_anchor: ""

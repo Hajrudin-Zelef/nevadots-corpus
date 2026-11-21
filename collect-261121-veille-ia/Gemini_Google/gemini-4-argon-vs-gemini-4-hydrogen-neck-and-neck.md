@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["gemini", "hydrogen", "argon", "neck", "category", "high", "benchleader", "tokens"]
 source: https://www.benchleader.com/compare/gemini-4-argon-vs-gemini-4-hydrogen
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-genie
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["genie", "google", "world", "audio", "gemini", "deepmind", "real-time", "model"]
 source: https://www.neuraldaily.news/en/a/google-deepmind-genie-4-world-model
 source_anchor: ""

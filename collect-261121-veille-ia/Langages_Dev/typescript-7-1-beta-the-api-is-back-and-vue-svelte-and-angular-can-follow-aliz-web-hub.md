@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["typescript", "beta", "stable", "svelte", "back", "file", "mapper", "point"]
 source: https://web-hub.aliz.ai/blog/typescript-7-1-beta
 source_anchor: ""

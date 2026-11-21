@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: []
-dates: ["2026-01-01", "2027-01-01"]
+dates: ["2026-01-01"]
 keywords: ["attention"]
 source: docs/RAG/collect-261001-rattrapage/sql_guide.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-04-30"]
 keywords: ["term", "cryptographic", "security", "information", "national", "same", "meaning", "policy"]
 source: https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/?query-11-page=77
 source_anchor: ""

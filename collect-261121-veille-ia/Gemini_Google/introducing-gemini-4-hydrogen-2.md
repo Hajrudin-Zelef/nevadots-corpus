@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["hydrogen", "gemini", "workflows", "introducing", "models", "carbon", "across", "google"]
 source: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?ref=thehype.news
 source_anchor: ""

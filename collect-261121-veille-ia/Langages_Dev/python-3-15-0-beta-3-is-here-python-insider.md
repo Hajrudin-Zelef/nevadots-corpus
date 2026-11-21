@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-04"]
 keywords: ["python", "beta", "release", "changes", "possible", "features", "phase", "type"]
 source: https://blog.python.org/2026/06/python-3150-beta-3/
 source_anchor: ""

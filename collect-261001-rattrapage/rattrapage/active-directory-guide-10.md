@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: ["Microsoft"]
-dates: ["2026-15-10"]
+dates: []
 keywords: ["agent"]
 source: docs/RAG/collect-261001-rattrapage/active_directory_guide.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["terra", "gpt-6", "openai", "output", "reasoning", "effort", "responses", "input"]
 source: https://apidog.com/blog/gpt-6-1-terra-api/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["model", "alibaba", "weights", "preview", "qwen4-max", "qwen", "november", "cloud"]
 source: https://modelfit.io/blog/qwen4-max-preview-cloud-only-no-weights/
 source_anchor: ""

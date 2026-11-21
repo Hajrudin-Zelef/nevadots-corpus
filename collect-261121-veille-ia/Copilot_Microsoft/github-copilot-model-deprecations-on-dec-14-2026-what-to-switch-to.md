@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["github", "copilot", "model", "models", "chat", "click", "claude", "gemini"]
 source: https://dev.to/epifive/github-copilot-model-deprecations-on-dec-14-2026-what-to-switch-to-138b
 source_anchor: ""

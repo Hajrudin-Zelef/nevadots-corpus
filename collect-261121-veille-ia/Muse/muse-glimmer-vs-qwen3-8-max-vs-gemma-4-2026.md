@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["muse", "trois", "modeles", "glimmer", "qwen3", "modele", "gemma", "aout"]
 source: https://tech-insider.org/fr/glimmer-vs-qwen3-8-max-vs-gemma-4-2026/
 source_anchor: ""

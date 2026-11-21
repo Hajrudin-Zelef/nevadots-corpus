@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["lazy", "imports", "python", "frozendict", "utf-8", "default", "encoding", "import"]
 source: https://blog.codercops.com/blog/python-3-15-lazy-imports-frozendict-tachyon-profiler-2026
 source_anchor: ""

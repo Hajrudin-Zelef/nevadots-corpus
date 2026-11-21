@@ -5,7 +5,7 @@ domain: go-json
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["json", "encoding", "years", "utf-8", "struct", "half", "every", "took"]
 source: https://jadmadi.net/posts/go-json-v2-explained/
 source_anchor: ""

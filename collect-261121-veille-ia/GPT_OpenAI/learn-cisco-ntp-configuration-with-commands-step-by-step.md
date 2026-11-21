@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2022-05-29"]
 keywords: ["router", "server", "time", "here", "configuration", "configure", "devices", "cisco"]
 source: https://ipcisco.com/lesson/cisco-ntp-configuration/
 source_anchor: ""

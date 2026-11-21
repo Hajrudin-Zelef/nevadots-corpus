@@ -5,7 +5,7 @@ domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2023-10-05"]
 keywords: ["configure", "opnsense", "github", "role", "settings", "firewalls", "ansible", "ansible-opnsense"]
 source: https://github.com/rosa-luxemburgstiftung-berlin/ansible-opnsense
 source_anchor: ""

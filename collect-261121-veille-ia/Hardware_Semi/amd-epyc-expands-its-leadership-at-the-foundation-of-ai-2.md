@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-09"]
 keywords: ["epyc", "cloud", "processors", "data", "host", "google", "confidential", "accelerators"]
 source: https://www.morningstar.com/news/globe-newswire/9872965/amd-epyc-expands-its-leadership-at-the-foundation-of-ai
 source_anchor: ""

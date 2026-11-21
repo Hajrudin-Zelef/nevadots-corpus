@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["carbon", "gemini", "argon", "game", "carbons", "space", "ability", "visuals"]
 source: https://www.geeky-gadgets.com/gemini-carbon/
 source_anchor: ""

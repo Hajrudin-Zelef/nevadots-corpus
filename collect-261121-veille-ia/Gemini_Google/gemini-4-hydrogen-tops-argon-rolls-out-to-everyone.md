@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "hydrogen", "google", "model", "argon", "tokens", "million", "free"]
 source: https://shiftdelete.net/en/gemini-4-hydrogen
 source_anchor: ""

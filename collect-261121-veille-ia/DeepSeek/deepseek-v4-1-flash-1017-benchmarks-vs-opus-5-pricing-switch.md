@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "flash-1017", "benchmarks", "model", "opus", "flash", "terminal-bench", "deepseek-flash"]
 source: https://www.developersdigest.tech/blog/deepseek-v4-1-flash-1017-release-guide-2026
 source_anchor: ""

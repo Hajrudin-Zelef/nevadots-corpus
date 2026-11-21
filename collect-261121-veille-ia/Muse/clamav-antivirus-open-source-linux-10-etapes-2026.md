@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-07"]
 keywords: ["clamav", "antivirus", "fichiers", "mail", "open", "source", "linux", "cisco"]
 source: https://tech-insider.org/fr/clamav-antivirus-open-source-linux-2026/
 source_anchor: ""

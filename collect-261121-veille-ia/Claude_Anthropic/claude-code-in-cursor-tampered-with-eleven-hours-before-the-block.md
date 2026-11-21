@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-01"]
 keywords: ["cursor", "marketplace", "code", "extension", "stepsecurity", "tampered", "hours", "claude"]
 source: https://senn-tech.com/en/blog/claude-code-cursor-erweiterung-gesperrt
 source_anchor: ""

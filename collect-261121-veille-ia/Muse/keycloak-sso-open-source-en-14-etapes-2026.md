@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-31"]
 keywords: ["keycloak", "version", "vous", "elle", "projet", "etapes", "equipes", "publiee"]
 source: https://tech-insider.org/fr/keycloak-tutoriel-sso-open-source-2026/
 source_anchor: ""

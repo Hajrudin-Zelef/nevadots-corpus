@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-09-18"]
 keywords: ["gemini", "chrome", "page", "google", "side", "open", "auto", "browse"]
 source: https://www.searchmaxxed.com/research/gemini-in-chrome
 source_anchor: ""

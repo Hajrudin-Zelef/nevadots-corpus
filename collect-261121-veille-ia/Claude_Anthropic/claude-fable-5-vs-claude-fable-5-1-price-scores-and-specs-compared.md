@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-09"]
 keywords: ["claude", "fable", "leads", "price", "scores", "tokens", "each", "specs"]
 source: https://enterprisedna.co/directories/models/vs/anthropic-claude-fable-5-vs-anthropic-claude-fable-5-1
 source_anchor: ""

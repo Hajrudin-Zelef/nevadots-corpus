@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "copilot", "microsoft", "flash", "github", "model", "models", "both"]
 source: https://www.datastudios.org/post/microsoft-mai-code-2-github-copilot-code-2-flash-free-plan
 source_anchor: ""

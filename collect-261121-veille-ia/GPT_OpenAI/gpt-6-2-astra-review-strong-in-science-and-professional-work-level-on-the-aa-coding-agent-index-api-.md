@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["astra", "index", "gpt-6", "science", "vals", "model", "openai", "work"]
 source: https://llm-agent.cc/en/blog/gpt-62-astra-science-professional-review-en
 source_anchor: ""

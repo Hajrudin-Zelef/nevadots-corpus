@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-28"]
 keywords: ["mysql", "postgres", "postgresql", "most", "database", "license", "still", "release"]
 source: https://www.bytebase.com/blog/postgres-vs-mysql/?utm_content=257418031&utm_medium=social&utm_source=twitter&hss_channel=tw-2599580401
 source_anchor: ""

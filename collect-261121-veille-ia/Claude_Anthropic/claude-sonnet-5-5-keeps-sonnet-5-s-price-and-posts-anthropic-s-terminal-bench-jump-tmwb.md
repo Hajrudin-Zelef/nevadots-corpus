@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "anthropic", "opus", "datasheet", "model", "claude", "cache", "effort"]
 source: https://www.themakersworkbench.com/ai/claude-sonnet-5-5-keeps-sonnet-5s-price-and-posts-anthropics-terminal-bench-jump
 source_anchor: ""

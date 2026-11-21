@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "pricing", "effort", "cache", "better", "anthropic", "changed"]
 source: https://betterstack.com/community/guides/ai/claude-fable-51/
 source_anchor: ""

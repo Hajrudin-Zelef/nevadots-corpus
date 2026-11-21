@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["intelligence", "glm-5", "flash", "index", "models", "analysis", "task", "tokens"]
 source: https://artificialanalysis.ai/models/glm-5-3-flash/
 source_anchor: ""

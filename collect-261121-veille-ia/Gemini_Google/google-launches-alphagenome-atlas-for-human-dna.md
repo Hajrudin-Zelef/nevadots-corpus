@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-09"]
 keywords: ["alphagenome", "atlas", "human", "google", "non-coding", "launches", "analysis", "mutations"]
 source: https://www.gktoday.in/google-launches-alphagenome-atlas-for-human-dna/
 source_anchor: ""

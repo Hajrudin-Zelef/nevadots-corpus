@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["beta", "release", "postgresql", "snowflake", "notes", "parallel", "autovacuum", "project"]
 source: https://dev.to/amareswer/postgresql-19-whats-actually-shipping-what-got-cut-4b1j
 source_anchor: ""

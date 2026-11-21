@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "model", "weights", "large", "october", "license", "billion", "open-weight"]
 source: https://www.lindy.ai/blog/mistral-large-4
 source_anchor: ""

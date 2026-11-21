@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-03-19"]
 keywords: ["gitlab", "version", "tutoriel", "selon", "pipeline", "minutes", "mois", "vous"]
 source: https://tech-insider.org/fr/tutoriel-gitlab-ci-cd-pipeline-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["codex", "provider", "model", "chats", "providers", "features", "release", "terminal"]
 source: https://draftship.dev/news/openai-codex-0-168-0-adds-model-provider-picker-and
 source_anchor: ""

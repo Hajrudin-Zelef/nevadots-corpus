@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "fable", "tool", "claude", "work", "sonnet", "anthropic", "about"]
 source: https://dev.to/studio1hq/claude-opus-55-what-changed-what-breaks-and-whether-to-switch-3oa5
 source_anchor: ""

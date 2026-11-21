@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["context", "claude", "code", "opus", "tokens", "window", "costs", "cache"]
 source: https://shuriken.sh/guides/claude-code-1m-context-window
 source_anchor: ""

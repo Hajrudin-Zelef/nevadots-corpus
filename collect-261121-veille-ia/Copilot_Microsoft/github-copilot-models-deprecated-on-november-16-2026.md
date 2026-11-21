@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["copilot", "github", "model", "deprecated", "models", "november", "default", "experiences"]
 source: https://forck.live/items/36896-github-copilot-models-deprecated-on-november-16-2026
 source_anchor: ""

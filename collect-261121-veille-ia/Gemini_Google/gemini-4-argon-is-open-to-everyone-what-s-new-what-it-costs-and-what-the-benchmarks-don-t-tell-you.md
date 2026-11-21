@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["argon", "gemini", "tokens", "rate", "costs", "opus", "astra", "open"]
 source: https://dev.to/neuraitool/gemini-4-argon-is-open-to-everyone-whats-new-what-it-costs-and-what-the-benchmarks-dont-tell-3pgn
 source_anchor: ""

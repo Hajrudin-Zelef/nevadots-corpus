@@ -5,7 +5,7 @@ domain: regulation-geopolitics
 role: deep-dive
 task: regulation
 actors: ["California", "United States"]
-dates: ["2026-01", "2026-01-01", "2027-01", "2027-01-01"]
+dates: ["2026-01-01"]
 keywords: ["compute", "incident", "memory", "preemption", "regulation", "research", "training"]
 source: docs/RAG/briefing-ia-2026-en.md
 source_anchor: "#s10-3"

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-02"]
 keywords: ["tuesday", "release", "python", "alpha", "schedule", "wednesday", "final", "beta"]
 source: https://peps.python.org/pep-0790/
 source_anchor: ""

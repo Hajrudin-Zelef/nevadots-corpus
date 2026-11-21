@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-18"]
 keywords: ["life", "kernel", "release", "linux", "supported", "support", "history", "released"]
 source: https://tecadmin.net/software/linux/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["plan", "post-quantum", "draft", "keys", "after", "ecdsa", "migration", "exchange"]
 source: https://ecdsa.com/learn/post-quantum-migration-2026
 source_anchor: ""

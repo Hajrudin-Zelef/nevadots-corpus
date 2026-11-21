@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["model", "microsoft-decision-1", "decision", "against", "same", "different", "better", "trade"]
 source: https://www.orcarouter.ai/blog/microsoft-decision-1-1-vs-microsoft-decision-1
 source_anchor: ""

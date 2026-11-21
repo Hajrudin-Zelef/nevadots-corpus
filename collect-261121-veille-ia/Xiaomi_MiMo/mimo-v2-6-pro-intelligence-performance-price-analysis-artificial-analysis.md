@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["intelligence", "mimo-v2", "models", "index", "analysis", "task", "tokens", "artificial"]
 source: https://artificialanalysis.ai/models/mimo-v2-6-pro
 source_anchor: ""

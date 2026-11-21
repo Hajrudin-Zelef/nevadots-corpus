@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["fastframes", "causal", "video", "frame", "diffusion", "camera", "interactive", "step"]
 source: https://studio.aifilms.ai/blog/fastframes-apple-open-source-real-time-video-diffusion
 source_anchor: ""

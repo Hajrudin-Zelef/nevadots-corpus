@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["nvidia", "vera", "said", "google", "cloud", "rubin", "instances", "next"]
 source: https://blockchain.news/PostAMP?id=google-cloud-nvidia-vera-rubin-a5x-general-availability-next-month
 source_anchor: ""

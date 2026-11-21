@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-12-18"]
 keywords: ["skill", "skills", "agents", "claude", "agent", "context", "file", "code"]
 source: https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
 source_anchor: ""

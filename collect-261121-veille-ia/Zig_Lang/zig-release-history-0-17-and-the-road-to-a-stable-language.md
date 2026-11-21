@@ -5,7 +5,7 @@ domain: zig-lang
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-04-20"]
 keywords: ["stable", "release", "language", "notes", "releases", "since", "october", "zig"]
 source: https://dev-news.anonyfox.com/zig/
 source_anchor: ""

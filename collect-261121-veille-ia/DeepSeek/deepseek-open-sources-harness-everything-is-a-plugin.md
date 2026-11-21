@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "harness", "august", "benchmark", "license", "everything", "plugin", "deepseek-ai"]
 source: https://www.digitalapplied.com/blog/deepseek-harness-open-source-agent-framework-2026
 source_anchor: ""

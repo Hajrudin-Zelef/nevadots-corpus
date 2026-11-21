@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2025-12-15"]
 keywords: ["deepseek-v3", "speciale", "tool-use", "thinking", "models", "pushing", "reasoning", "frontier"]
 source: https://www.deepseek.com/en/news/deepseek-v3-2/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["plugins", "runtime", "deepseek", "harness", "session", "preview", "local", "tools"]
 source: https://www.harness-deepseek.org/
 source_anchor: ""

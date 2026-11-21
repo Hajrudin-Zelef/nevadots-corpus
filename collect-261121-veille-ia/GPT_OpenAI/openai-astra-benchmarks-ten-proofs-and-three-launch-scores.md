@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-01"]
 keywords: ["astra", "openai", "proofs", "about", "published", "problems", "proof", "three"]
 source: https://www.layer3labs.io/guides/openai-astra-benchmarks
 source_anchor: ""

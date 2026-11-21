@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["glm-5", "flash", "model", "coding", "table", "scores", "opus", "about"]
 source: https://www.eesel.ai/blog/glm-5-3-flash-review
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2025-10-22"]
 keywords: ["model", "openai", "summaries", "cases", "reports", "training", "behavior", "misalignment"]
 source: https://betanews.com/article/openai-ai-model-misalignment-reports/
 source_anchor: ""

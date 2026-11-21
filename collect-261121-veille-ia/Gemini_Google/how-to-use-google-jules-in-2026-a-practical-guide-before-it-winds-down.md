@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["jules", "google", "repository", "work", "github", "project", "task", "before"]
 source: https://dev.to/therealmrmumba/how-to-use-google-jules-in-2026-a-practical-guide-before-it-winds-down-4p54
 source_anchor: ""

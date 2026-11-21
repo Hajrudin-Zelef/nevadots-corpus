@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["carbon", "gemini", "google", "model", "tokens", "complex", "engineering", "output"]
 source: https://www.cometapi.com/models/google/gemini-4-carbon/
 source_anchor: ""

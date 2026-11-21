@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["minimax", "flash", "tokens", "deepseek", "october", "model", "input", "output"]
 source: https://www.apex-logic.net/news/minimax-m3-1-flash-api-guide-2026
 source_anchor: ""

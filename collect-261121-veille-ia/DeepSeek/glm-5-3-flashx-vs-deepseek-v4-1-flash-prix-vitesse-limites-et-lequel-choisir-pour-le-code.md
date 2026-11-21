@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["glm-5", "flash", "tokens", "prix", "flashx", "deepseek", "contexte", "vitesse"]
 source: https://apimaster.ai/blog/glm-5-3-flashx-vs-deepseek-v4-1-flash
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-12-02"]
 keywords: ["mistral", "gpt-5", "gemini", "france", "large", "google", "comparatif", "openai"]
 source: https://tech-insider.org/fr/mistral-ai-vs-gpt-5-vs-gemini-3-pro-2026/
 source_anchor: ""

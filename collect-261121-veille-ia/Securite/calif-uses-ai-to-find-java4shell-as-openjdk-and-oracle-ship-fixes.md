@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["openjdk", "calif", "java", "oracle", "java4shell", "uses", "compiler", "flaw"]
 source: https://www.unite.ai/calif-uses-ai-to-find-java4shell-as-openjdk-and-oracle-ship-fixes/
 source_anchor: ""

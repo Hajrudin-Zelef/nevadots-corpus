@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-10-09"]
 keywords: ["donnees", "millions", "dollars", "tutoriel", "vous", "etapes", "auto-heberge", "workflow"]
 source: https://tech-insider.org/fr/tutoriel-n8n-workflow-ia-auto-heberge-13-etapes-2026/
 source_anchor: ""

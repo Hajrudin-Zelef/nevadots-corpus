@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-21"]
 keywords: ["agents", "cursor", "cloud", "agent", "august", "november", "october", "environments"]
 source: https://foxplug.com/changelogs/cursor
 source_anchor: ""

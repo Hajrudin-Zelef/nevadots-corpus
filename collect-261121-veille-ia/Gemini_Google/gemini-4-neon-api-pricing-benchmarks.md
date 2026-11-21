@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["effective", "gemini", "used", "routing", "priority", "neon", "endpoints", "provider"]
 source: https://openrouter.ai/google/gemini-4-neon
 source_anchor: ""

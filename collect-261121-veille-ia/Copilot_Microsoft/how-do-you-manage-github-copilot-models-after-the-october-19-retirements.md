@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["models", "model", "gpt-5", "github", "copilot", "enterprise", "october", "default"]
 source: https://www.hardiai.com/blog/github-copilot-model-retirements-model-policy-api/
 source_anchor: ""

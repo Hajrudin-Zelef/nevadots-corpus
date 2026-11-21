@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-25"]
 keywords: ["crystaldiskinfo", "disque", "tutoriel", "vous", "panne", "avant", "etapes", "sante"]
 source: https://tech-insider.org/fr/crystaldiskinfo-tutoriel-2026/
 source_anchor: ""

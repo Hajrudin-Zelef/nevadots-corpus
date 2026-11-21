@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["flux", "video", "audio", "renderforest", "clip", "clips", "model", "frame"]
 source: https://www.renderforest.com/flux-3
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: governance-regulation
 role: deep-dive
 task: regulation
 actors: ["Alibaba", "Anthropic", "China", "DeepSeek", "EU", "Google", "Meta", "Moonshot", "Nvidia", "OpenAI", "United States", "Z.ai"]
-dates: ["2025-07", "2025-08", "2026-03", "2026-03-19", "2026-04-27", "2026-05-25", "2026-06-08", "2026-06-12", "2026-06-27", "2026-07-17", "2026-08-02", "2026-12-02", "2027-12-02"]
+dates: ["2026-03-19", "2026-04-27", "2026-05-25", "2026-06-08", "2026-06-12", "2026-06-27", "2026-07-17", "2026-08-02"]
 keywords: ["alignment", "benchmark", "consumer", "cost", "cyber", "deepseek", "fable 5", "glm", "gpus", "incident", "ipo", "kill switch"]
 source: docs/RAG/ai-industry-knowledge-base-2026.md
 source_anchor: ""

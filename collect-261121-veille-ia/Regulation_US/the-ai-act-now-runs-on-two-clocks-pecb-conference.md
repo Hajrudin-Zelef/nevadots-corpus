@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-24"]
 keywords: ["august", "systems", "european", "article", "must", "enforcement", "date", "regulation"]
 source: https://conference.pecb.com/the-ai-act-now-runs-on-two-clocks/
 source_anchor: ""

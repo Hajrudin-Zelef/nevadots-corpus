@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "theo", "anthropic", "code", "tokens", "model", "work", "cost"]
 source: https://finance.biggo.com/news/c520454eae11ba88
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: automatisation-infra
 role: reference
 task: reference
 actors: ["Google", "Perplexity"]
-dates: ["2025-08-11", "2027-01-01"]
+dates: ["2025-08-11"]
 keywords: ["mcp", "agent", "agents", "arr", "open source", "perplexity"]
 source: docs/RAG/collect-261001-automatisation-infra/mcp_lsp_protocoles.md
 source_anchor: ""

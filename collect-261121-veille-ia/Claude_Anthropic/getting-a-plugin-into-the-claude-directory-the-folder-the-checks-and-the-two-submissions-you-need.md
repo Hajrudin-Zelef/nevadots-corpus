@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-25"]
 keywords: ["plugin", "claude", "directory", "folder", "server", "submissions", "getting", "checks"]
 source: https://www.aicodex.to/articles/submit-plugin-to-claude-directory
 source_anchor: ""

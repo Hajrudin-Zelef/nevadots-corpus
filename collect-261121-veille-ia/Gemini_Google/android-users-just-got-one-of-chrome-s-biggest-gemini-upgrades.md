@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["gemini", "chrome", "android", "users", "google", "also", "browse", "youre"]
 source: https://www.androidauthority.com/gemini-in-chrome-on-android-3699994/
 source_anchor: ""

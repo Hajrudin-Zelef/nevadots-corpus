@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-03-27"]
 keywords: ["jour", "mise", "android", "version", "source", "alimentation", "audio", "page"]
 source: https://source.android.com/docs/whatsnew/site-updates
 source_anchor: ""

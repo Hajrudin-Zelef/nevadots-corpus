@@ -5,7 +5,7 @@ domain: step-7-phase-c-iac-platform-automation
 role: deep-dive
 task: reference
 actors: ["AWS"]
-dates: ["2023-08", "2023-08-10", "2024-04", "2024-07-29", "2025-01-09", "2025-02", "2025-06-24", "2025-12-09", "2026-03-31", "2026-05-11", "2026-05-14", "2026-06", "2026-08-19", "2026-09", "2027-02-01"]
+dates: ["2023-08-10", "2024-07-29", "2025-01-09", "2025-06-24", "2025-12-09", "2026-03-31", "2026-05-11", "2026-05-14", "2026-08-19"]
 keywords: ["acquisition", "aws", "governance", "license", "memory", "open source", "pricing"]
 source: docs/RAG/etape7_phaseC_iac.md
 source_anchor: ""

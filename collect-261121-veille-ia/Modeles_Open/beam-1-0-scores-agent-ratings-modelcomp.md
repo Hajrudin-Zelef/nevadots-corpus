@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["flash", "gpt-5", "laguna", "muse", "preview", "qwen", "gemini", "longcat"]
 source: https://modelcomp.vercel.app/model/beam/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["claude", "cache", "fable", "model", "mythos", "through", "same", "price"]
 source: https://sparkone.nl/en/blog/claude-fable-5-1-what-changes/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-11"]
 keywords: ["november", "microsoft", "windows", "chrome", "outlook", "exploited", "rated", "code"]
 source: https://ecorpit.com/november-2026-patch-tuesday-outlook-chrome-zero-days/
 source_anchor: ""

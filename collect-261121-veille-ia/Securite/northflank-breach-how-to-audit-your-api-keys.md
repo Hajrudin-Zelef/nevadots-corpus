@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["northflank", "keys", "customers", "first", "breach", "platform", "attacker", "october"]
 source: https://www.trickyworld.in/computer-tricks/cyber-security/northflank-breach-audit-api-keys/
 source_anchor: ""

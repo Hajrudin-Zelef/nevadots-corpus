@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "extension", "malicious", "claude", "code", "sophos", "blog", "distributed"]
 source: ""
 source_anchor: ""

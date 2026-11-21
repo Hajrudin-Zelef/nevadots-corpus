@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-11"]
 keywords: ["model", "dawn", "atria", "shanghai", "agentic", "preview", "shipped", "glm-5"]
 source: https://miraflow.ai/blog/atria-dawn-preview-shanghai-ai-lab-744b-agentic-moe-2026
 source_anchor: ""

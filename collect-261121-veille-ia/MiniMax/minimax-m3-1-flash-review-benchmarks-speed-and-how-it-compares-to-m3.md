@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "october", "tokens", "checked", "against", "model", "output"]
 source: https://omniakey.com/blog/minimax-m3-1-flash-review
 source_anchor: ""

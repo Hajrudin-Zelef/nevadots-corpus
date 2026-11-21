@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["october", "platforms", "keys", "black", "nine", "developer", "calls", "security"]
 source: https://www.mlllm.io/articles/3663-black-october-nine-ai-developer-platforms-disclose-security-incidents-in-one-month/
 source_anchor: ""

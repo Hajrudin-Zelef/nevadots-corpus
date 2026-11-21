@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-04-24"]
 keywords: ["deepseek", "context", "peak", "pricing", "off-peak", "flash", "tokens", "rates"]
 source: https://www.deepseekv4guide.org/guides/v4-pro
 source_anchor: ""

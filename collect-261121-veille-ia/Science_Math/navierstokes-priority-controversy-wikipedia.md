@@ -5,7 +5,7 @@ domain: science-math
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["openai", "navierstokes", "buckmaster", "equations", "statement", "alpoge", "solution", "smooth"]
 source: https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_priority_controversy
 source_anchor: ""

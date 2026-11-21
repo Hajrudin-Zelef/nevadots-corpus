@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-01-09"]
 keywords: ["release", "patch", "sqlite", "bugs", "mostly", "feature", "three", "database"]
 source: https://www.bubelov.com/blog/2026/sqlite/
 source_anchor: ""

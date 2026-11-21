@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["argon", "google", "robot", "does", "gemini", "model", "robotics", "video"]
 source: https://www.eesel.ai/blog/gemini-4-argon-for-robotics?ref=corti.com
 source_anchor: ""

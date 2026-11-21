@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["flash", "gemini", "code", "trois", "google", "grok", "muse", "aout"]
 source: https://tech-insider.org/fr/gemini-3-7-flash-vs-grok-4-6-vs-muse-spark-1-2-2026/
 source_anchor: ""

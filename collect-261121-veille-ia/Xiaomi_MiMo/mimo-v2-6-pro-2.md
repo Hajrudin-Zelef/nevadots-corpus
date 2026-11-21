@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["score", "does", "arena", "mimo-v2", "chat", "context", "models", "model"]
 source: https://freellmarena.com/model/mimo-v2-6-pro
 source_anchor: ""

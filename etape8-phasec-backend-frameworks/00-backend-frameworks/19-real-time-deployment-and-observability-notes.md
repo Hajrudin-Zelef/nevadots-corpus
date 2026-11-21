@@ -5,7 +5,7 @@ domain: step-8-phase-c-backend-frameworks-apis
 role: deep-dive
 task: reference
 actors: ["Lambda"]
-dates: ["2026-11-10", "2026-12-31"]
+dates: ["2026-11-10"]
 keywords: ["agent", "agents", "inference", "mcp", "memory", "throughput"]
 source: docs/RAG/etape8_phaseC_backend_frameworks.md
 source_anchor: ""

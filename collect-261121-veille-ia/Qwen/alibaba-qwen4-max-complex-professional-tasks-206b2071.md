@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["alibaba", "qwen4-max", "model", "november", "preview", "qwen4-max-preview", "token", "through"]
 source: ""
 source_anchor: ""

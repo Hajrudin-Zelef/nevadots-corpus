@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["google", "data", "centre", "finland", "said", "sites", "work", "been"]
 source: https://www.aljazeera.com/amp/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns
 source_anchor: ""

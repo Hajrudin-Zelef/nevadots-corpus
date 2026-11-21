@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["binance", "wallets", "billion", "investigators", "october", "secret", "service", "november"]
 source: https://betanews.com/article/binance-hack-north-korea-fbi-wallets/
 source_anchor: ""

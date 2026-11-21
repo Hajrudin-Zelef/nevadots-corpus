@@ -5,7 +5,7 @@ domain: dotnet-csharp
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["support", "product", "release", "november", "union", "default", "version", "released"]
 source: https://tecadmin.net/dotnet-11-released-whats-new/
 source_anchor: ""

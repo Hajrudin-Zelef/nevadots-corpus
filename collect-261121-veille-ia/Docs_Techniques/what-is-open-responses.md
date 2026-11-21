@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-01-15"]
 keywords: ["response", "responses", "item", "output", "open", "openai", "input", "tools"]
 source: https://dev.to/hassann/what-is-open-responses-gjp
 source_anchor: ""

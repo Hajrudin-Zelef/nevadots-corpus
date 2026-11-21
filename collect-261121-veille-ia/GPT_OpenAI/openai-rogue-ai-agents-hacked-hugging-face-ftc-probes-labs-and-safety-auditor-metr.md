@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["openai", "agents", "hugging", "face", "metr", "safety", "probe", "rogue"]
 source: https://www.techtimes.com/articles/328381/20261002/openai-rogue-ai-agents-hacked-hugging-face-ftc-probes-labs-safety-auditor-metr.htm
 source_anchor: ""

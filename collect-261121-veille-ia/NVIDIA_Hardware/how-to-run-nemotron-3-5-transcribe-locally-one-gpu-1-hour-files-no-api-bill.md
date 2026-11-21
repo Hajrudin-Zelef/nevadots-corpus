@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["vllm", "nvidia", "bf16", "transformers", "python", "model", "nvidia-nemotron-3", "venv"]
 source: https://dev.to/hassann/how-to-run-nemotron-35-transcribe-locally-one-gpu-1-hour-files-no-api-bill-2pf1
 source_anchor: ""

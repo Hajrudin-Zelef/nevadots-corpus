@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["beam", "reflection", "model", "openrouter", "host", "hosts", "request", "wordpress"]
 source: https://mxchat.ai/reflection-beam-pricing-chatbot-test/
 source_anchor: ""

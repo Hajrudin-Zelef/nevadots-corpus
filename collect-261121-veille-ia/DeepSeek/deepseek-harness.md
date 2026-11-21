@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "harness", "agent", "model", "agents", "tool", "sandbox", "plugins"]
 source: https://primo.ai/wiki/DeepSeek_Harness
 source_anchor: ""

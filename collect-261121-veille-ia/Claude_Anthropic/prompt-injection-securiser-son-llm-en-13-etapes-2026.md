@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["code", "prompt", "injection", "aout", "applications", "etapes", "donnees", "publie"]
 source: https://tech-insider.org/fr/securiser-llm-prompt-injection-2026/
 source_anchor: ""

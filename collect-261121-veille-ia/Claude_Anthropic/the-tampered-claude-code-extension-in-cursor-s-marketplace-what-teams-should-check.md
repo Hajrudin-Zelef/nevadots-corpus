@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-14"]
 keywords: ["cursor", "extension", "marketplace", "code", "notice", "tampered", "security", "update"]
 source: https://dev.to/momin_aziz_1/the-tampered-claude-code-extension-in-cursors-marketplace-what-teams-should-check-mn1
 source_anchor: ""

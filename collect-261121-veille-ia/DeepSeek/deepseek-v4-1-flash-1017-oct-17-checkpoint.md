@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["checkpoint", "same", "flash", "deepseek", "flash-1017", "change", "model", "layers"]
 source: https://www.deepseekv4guide.org/guides/deepseek-v4-1-flash-1017
 source_anchor: ""

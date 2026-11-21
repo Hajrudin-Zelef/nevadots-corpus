@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-06-06"]
 keywords: ["express", "version", "node", "rest", "sortie", "support", "selon", "tutoriel"]
 source: https://tech-insider.org/fr/tutoriel-express-js-api-rest-nodejs-2026/
 source_anchor: ""

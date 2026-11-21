@@ -5,7 +5,7 @@ domain: go-json
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["suse", "linux", "enterprise", "cvss", "server", "suse-su-2026", "high", "performance"]
 source: https://lwn.net/Articles/1107390/
 source_anchor: ""

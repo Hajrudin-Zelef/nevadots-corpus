@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["nvidia", "says", "rubin", "vera", "claims", "throughput", "dollar", "context"]
 source: https://tensorjournal.com/en/news/nvidia-vera-rubin-agentic-throughput-claims
 source_anchor: ""

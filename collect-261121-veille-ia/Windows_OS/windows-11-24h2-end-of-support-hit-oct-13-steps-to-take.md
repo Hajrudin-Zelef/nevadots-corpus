@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "update", "microsoft", "support", "security", "updates", "editions", "education"]
 source: https://windows.gadgethacks.com/news/windows-11-24h2-end-of-support-hits-oct-13-steps-to-take/
 source_anchor: ""

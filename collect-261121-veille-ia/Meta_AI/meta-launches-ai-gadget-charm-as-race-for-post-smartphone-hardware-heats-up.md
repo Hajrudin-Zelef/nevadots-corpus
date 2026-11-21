@@ -5,7 +5,7 @@ domain: meta-ai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-23"]
 keywords: ["meta", "glasses", "charm", "smart", "muse", "gadget", "hardware", "device"]
 source: https://goldsea.com/article_details/meta-launches-ai-gadget-charm-as-race-for-post-smartphone-hardware-heats-up
 source_anchor: ""

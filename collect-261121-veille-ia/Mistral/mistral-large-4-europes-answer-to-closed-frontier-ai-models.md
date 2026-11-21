@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["model", "mistral", "models", "large", "closed", "frontier", "such", "europes"]
 source: https://ioplus.nl/en/posts/mistral-large-4-europes-answer-to-closed-frontier-ai-models
 source_anchor: ""

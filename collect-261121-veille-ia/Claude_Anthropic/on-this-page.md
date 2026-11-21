@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2023-10-24"]
 keywords: ["forticlient", "tags", "ztna", "zero-trust", "tagging", "security", "endpoints", "rule"]
 source: https://docs.fortinet.com/document/fortigate/7.4.2/administration-guide/735065/augmenting-vpn-security-with-ztna-tags
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "gb300", "nvl72", "model", "tokens", "qwen3", "flash-next", "agentic"]
 source: https://batchandrelease.com/qwen3-8-flash-next-runs-on-gb300-nvl72-hits-16k-tokens-per
 source_anchor: ""

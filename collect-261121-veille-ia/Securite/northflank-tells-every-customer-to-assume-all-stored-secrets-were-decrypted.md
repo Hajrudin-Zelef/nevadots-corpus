@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["october", "northflank", "variables", "reported", "been", "secrets", "environment", "keys"]
 source: https://www.tech-quire.com/articles/northflank-environment-variables-decrypted-ai-api-keys/
 source_anchor: ""

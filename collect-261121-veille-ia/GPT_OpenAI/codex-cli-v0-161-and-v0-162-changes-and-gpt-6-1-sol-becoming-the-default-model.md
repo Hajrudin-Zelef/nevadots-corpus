@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["daybreak", "model", "codex", "default", "gpt-6", "features", "changes", "configuration"]
 source: https://dev.to/aicoding-guide/codex-cli-v0161-and-v0162-changes-and-gpt-61-sol-becoming-the-default-model-502m
 source_anchor: ""

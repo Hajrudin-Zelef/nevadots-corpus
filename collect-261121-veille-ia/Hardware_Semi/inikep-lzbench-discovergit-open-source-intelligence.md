@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-21"]
 keywords: ["lzbench", "compressors", "compression", "linux", "open", "source", "zstd", "column"]
 source: https://discovergit.app/repo/inikep/lzbench
 source_anchor: ""

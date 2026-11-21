@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["json", "type", "release", "methods", "encoding", "generic", "method", "goroutine"]
 source: https://dev.to/techaiwire/go-127-adds-generic-methods-and-a-faster-encodingjson-4d2h
 source_anchor: ""

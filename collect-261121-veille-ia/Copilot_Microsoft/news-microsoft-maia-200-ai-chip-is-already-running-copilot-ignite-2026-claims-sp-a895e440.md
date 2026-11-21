@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-01-26"]
 keywords: ["microsoft", "maia", "said", "ignite", "copilot", "post", "production", "chip"]
 source: ""
 source_anchor: ""

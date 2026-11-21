@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["claude", "code", "security", "november", "chainalysis", "anthropic", "issue", "user"]
 source: https://www.sans.org/newsletters/newsbites/xxviii-84
 source_anchor: ""

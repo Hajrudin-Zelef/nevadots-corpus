@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "opus", "claude", "model", "anthropic", "task", "work", "costs"]
 source: https://www.lindy.ai/blog/sonnet-5-5-vs-opus-5-5
 source_anchor: ""

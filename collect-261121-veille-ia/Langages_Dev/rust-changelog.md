@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["language", "stabilize", "lint", "rustc", "rust", "miscompilation", "changelog", "allow"]
 source: https://traceary.com/rust
 source_anchor: ""

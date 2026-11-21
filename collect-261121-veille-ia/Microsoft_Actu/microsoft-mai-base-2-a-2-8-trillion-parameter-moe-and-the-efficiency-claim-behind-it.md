@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["microsoft", "model", "mai-base-2", "efficiency", "claim", "pre-training", "mai-base-1", "models"]
 source: https://www.metirai.com/blog/microsoft-mai-base-2-2-8-trillion-moe-pretraining-2026
 source_anchor: ""

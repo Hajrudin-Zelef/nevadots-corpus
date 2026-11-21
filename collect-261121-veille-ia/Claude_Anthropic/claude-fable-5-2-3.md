@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["claude", "fable", "adaptive", "thinking", "data", "tool", "capabilities", "output"]
 source: https://platform.claude.com/docs/en/models/fable-5-2/overview
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["voice", "grok", "model", "audio", "speech-to-speech", "index", "bench", "spacexai"]
 source: https://aipolix.com/en-us/news/xai-grok-voice-3-speech-to-speech-model
 source_anchor: ""

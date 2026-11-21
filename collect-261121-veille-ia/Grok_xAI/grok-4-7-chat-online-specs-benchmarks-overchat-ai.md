@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "claude", "fable", "gpt-5", "benchmarks", "work", "tokens", "models"]
 source: https://overchat.ai/models/grok-4-7
 source_anchor: ""

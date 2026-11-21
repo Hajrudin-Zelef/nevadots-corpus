@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "claude", "tokens", "output", "model", "input", "prompts", "effort"]
 source: https://apidog.com/blog/what-is-claude-haiku-5-5/
 source_anchor: ""

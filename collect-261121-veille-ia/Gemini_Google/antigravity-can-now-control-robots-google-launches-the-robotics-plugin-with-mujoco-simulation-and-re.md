@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["google", "antigravity", "robotics", "plugin", "gemini", "mujoco", "simulation", "control"]
 source: https://digintoai.com/en/articles/antigravity-can-now-control-robots-google-launches-the-robotics-plugin-with-mujo-32c5d79817a4
 source_anchor: ""

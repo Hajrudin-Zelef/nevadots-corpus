@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "spark", "open", "model", "meta", "free", "weights", "context"]
 source: https://techpilot.ai/tools/muse-spark-open/
 source_anchor: ""

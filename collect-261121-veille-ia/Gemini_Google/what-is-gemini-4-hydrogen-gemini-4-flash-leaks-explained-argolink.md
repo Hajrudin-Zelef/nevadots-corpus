@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["gemini", "flash", "hydrogen", "google", "model", "reported", "name", "gemini-3"]
 source: https://argolink.io/en/blog/what-is-gemini-4-hydrogen
 source_anchor: ""

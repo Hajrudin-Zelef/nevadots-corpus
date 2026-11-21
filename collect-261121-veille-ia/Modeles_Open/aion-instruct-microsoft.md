@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-29"]
 keywords: ["microsoft", "azure", "revenue", "aion", "instruct", "cloud", "billion", "platform"]
 source: https://www.ventureatlas.org/product/microsoft-aion-instruct
 source_anchor: ""

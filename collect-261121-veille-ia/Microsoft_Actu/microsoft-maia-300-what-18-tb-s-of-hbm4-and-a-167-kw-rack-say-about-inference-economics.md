@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["maia", "microsoft", "accelerator", "rack", "about", "inference", "leading", "hbm4"]
 source: https://www.metirai.com/blog/microsoft-maia-300-inference-chip-multi-gigawatt-2027-2026
 source_anchor: ""

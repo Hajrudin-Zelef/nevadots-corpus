@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-17"]
 keywords: ["chrome", "google", "version", "browser", "fixes", "changelog", "whats", "versions"]
 source: https://www.askvg.com/google-chrome-150-and-later-versions-changelog/
 source_anchor: ""

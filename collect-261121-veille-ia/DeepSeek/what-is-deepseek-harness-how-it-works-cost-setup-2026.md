@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["harness", "deepseek", "agent", "august", "model", "command", "architecture", "works"]
 source: https://xcloud.host/what-is-deepseek-harness-features-architecture-use-cases/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-06-26"]
 keywords: ["gpt-5", "openai", "terra", "luna", "tiers", "release", "july", "price"]
 source: https://codersera.com/blog/gpt-5-6-release-date-whats-new-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mikrotik
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-02-19"]
 keywords: ["capsman", "wifi", "interface", "name", "disabled", "using", "interfaces", "configuration"]
 source: https://forum.mikrotik.com/t/cannot-see-wifi-with-capsman-solved/182078
 source_anchor: ""

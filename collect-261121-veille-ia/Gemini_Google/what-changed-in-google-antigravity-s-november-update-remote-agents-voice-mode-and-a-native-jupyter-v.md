@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["google", "remote", "antigravity", "work", "agents", "voice", "mode", "november"]
 source: https://dev.to/moruku36/what-changed-in-google-antigravitys-november-update-remote-agents-voice-mode-and-a-native-1ph9
 source_anchor: ""

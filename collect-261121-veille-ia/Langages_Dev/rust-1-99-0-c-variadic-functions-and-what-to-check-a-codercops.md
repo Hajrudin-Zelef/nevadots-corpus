@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-01"]
 keywords: ["rust", "functions", "stable", "unsafe", "leak", "variadic", "code", "each"]
 source: https://blog.codercops.com/blog/rust-1-99-0-c-variadic-functions-upgrade-guide-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["jules", "cloud", "agents", "google", "paradev", "agent", "proprietary", "code"]
 source: https://paradev.com/compare/jules-alternative
 source_anchor: ""

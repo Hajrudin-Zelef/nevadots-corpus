@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["trillion", "tokens", "models", "openrouter", "chinese", "deepseek", "weekly", "model"]
 source: https://asiadaily.org/news/16691/
 source_anchor: ""

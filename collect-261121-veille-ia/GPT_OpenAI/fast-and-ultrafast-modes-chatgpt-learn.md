@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["ultrafast", "gpt-6", "chatgpt", "fast", "codex", "speed", "astra", "model"]
 source: https://learn.chatgpt.com/docs/agent-configuration/speed
 source_anchor: ""

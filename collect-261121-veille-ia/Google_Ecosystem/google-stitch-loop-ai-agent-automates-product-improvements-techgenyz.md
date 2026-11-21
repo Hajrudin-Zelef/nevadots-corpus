@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["google", "stitch", "loop", "product", "security", "developers", "improvements", "issues"]
 source: https://techgenyz.com/google-stitch-loop/
 source_anchor: ""

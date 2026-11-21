@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "open-weight", "open", "kimi", "glm-5", "spark", "model", "beam"]
 source: https://www.faradaymachines.com/us-china-open-weight-race/
 source_anchor: ""

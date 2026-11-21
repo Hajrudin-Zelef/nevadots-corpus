@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-17"]
 keywords: ["display", "driver", "uninstaller", "pilotes", "pilote", "nvidia", "guide", "jour"]
 source: https://tech-insider.org/fr/display-driver-uninstaller-ddu-pilotes-gpu-2026/
 source_anchor: ""

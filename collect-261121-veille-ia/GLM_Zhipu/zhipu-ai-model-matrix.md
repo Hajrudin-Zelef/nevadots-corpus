@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["model", "positioning", "input", "output", "models", "date", "official", "zhipu"]
 source: https://crazyrouter.com/en/models/zhipu
 source_anchor: ""

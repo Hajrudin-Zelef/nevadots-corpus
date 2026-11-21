@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["cursor", "usage", "grok", "premium", "subscription", "models", "real", "spacexsi"]
 source: https://dev.to/zforzain2000/the-x-subscription-vs-cursor-pro-real-cost-math-for-developers-3881
 source_anchor: ""

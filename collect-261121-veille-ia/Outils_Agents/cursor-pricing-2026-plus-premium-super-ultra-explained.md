@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-14"]
 keywords: ["cursor", "premium", "subscription", "grok", "pricing", "models", "october", "super"]
 source: https://codersera.com/blog/cursor-pricing-plans-spacex-grok-2026/
 source_anchor: ""

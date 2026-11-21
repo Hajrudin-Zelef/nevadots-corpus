@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["galaxy", "beta", "samsung", "first", "united", "phone", "programme", "then"]
 source: https://techinkey.com/one-ui-9-5-beta-program-galaxy-s26-how-to-join/
 source_anchor: ""

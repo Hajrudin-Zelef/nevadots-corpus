@@ -5,7 +5,7 @@ domain: huggingface
 role: reference
 task: reference
 actors: ["Hugging Face", "Nvidia", "SGLang", "Z.ai", "vLLM"]
-dates: ["2026-25-06"]
+dates: []
 keywords: ["fp4", "glm", "nvfp4", "nvidia", "agent", "agentic", "attention", "benchmark", "benchmarks", "blackwell", "fp8", "gpu"]
 source: docs/RAG/clean_en/huggingface/nvidia-glm-5-2-nvfp4-hugging-face.md
 source_anchor: ""

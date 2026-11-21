@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["code", "signatories", "providers", "section", "systems", "transparency", "ai-generated", "content"]
 source: https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-31"]
 keywords: ["opus", "model", "claude", "models", "anthropics", "anthropic", "launch", "post"]
 source: https://dive.vladyslavpodoliako.com/chapters/54-claude-opus-5-5/
 source_anchor: ""

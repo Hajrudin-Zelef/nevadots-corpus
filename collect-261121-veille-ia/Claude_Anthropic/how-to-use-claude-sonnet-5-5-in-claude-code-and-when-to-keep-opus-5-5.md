@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "claude", "model", "code", "effort", "opus", "anthropic", "default"]
 source: https://apidog.com/blog/claude-sonnet-5-5-claude-code/
 source_anchor: ""

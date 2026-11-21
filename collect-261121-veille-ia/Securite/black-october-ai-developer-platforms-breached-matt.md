@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-21"]
 keywords: ["october", "platforms", "railway", "breached", "nine", "keys", "black", "developer"]
 source: https://www.matt.security/blog/black-october-ai-developer-platforms
 source_anchor: ""

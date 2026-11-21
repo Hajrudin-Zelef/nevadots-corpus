@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["mistral", "model", "preview", "independent", "october", "open", "weights", "price"]
 source: https://dev.to/akaranjkar08/mistral-large-4-preview-pricing-benchmarks-open-weights-jb9
 source_anchor: ""

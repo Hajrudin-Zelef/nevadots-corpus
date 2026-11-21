@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["alibaba", "qwen4-max", "model", "coding", "models", "task", "claims", "tokens"]
 source: https://www.tradingview.com/news/cryptobriefing:2a230d8c1094b:0-alibaba-unveils-qwen4-max-claims-it-beats-rival-models-on-coding/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-07"]
 keywords: ["claude", "cursor", "models", "usage", "code", "copilot", "grok", "only"]
 source: https://www.aitools-directory.com/blog/cursor-alternatives-2026/
 source_anchor: ""

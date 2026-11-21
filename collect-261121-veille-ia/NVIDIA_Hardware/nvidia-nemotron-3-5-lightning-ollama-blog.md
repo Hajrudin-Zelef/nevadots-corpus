@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["lightning", "nemotron", "model", "ollama", "nvidia", "open", "running", "nemotron-3"]
 source: https://ollama.com/blog/nemotron-3-5-lightning
 source_anchor: ""

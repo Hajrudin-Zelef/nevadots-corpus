@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["opus", "github", "copilot", "model", "claude", "models", "gpt-6", "changelog"]
 source: https://dev.to/zforzain2000/github-copilot-retires-3-models-nov-16-your-migration-checklist-2ml6
 source_anchor: ""

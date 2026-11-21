@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["AWS", "Alibaba", "Anthropic", "Cerebras", "Google", "Groq", "Microsoft", "MiniMax", "Moonshot", "Nvidia", "OpenAI", "OpenRouter", "United States", "Z.ai"]
-dates: ["2026-07-27", "2026-08-02", "2026-09-24", "2026-09-27", "2028-08-02"]
+dates: ["2026-07-27", "2026-08-02", "2026-09-24", "2026-09-27"]
 keywords: ["agent", "agents", "benchmark", "claude", "dram", "embedding", "embeddings", "glm", "gpu", "kimi", "llama", "luna"]
 source: docs/RAG/collect-261001-ia-llm/ia_grand_dossier.md
 source_anchor: ""

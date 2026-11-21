@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["xcode", "copilot", "github", "apple", "assistant", "beta", "coding", "preview"]
 source: https://vinish.dev/github-copilot-xcode-coding-assistant-public-preview
 source_anchor: ""

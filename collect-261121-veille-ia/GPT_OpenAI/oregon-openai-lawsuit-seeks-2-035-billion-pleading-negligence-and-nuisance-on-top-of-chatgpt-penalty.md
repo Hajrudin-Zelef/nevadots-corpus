@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["oregon", "openai", "chatgpt", "state", "billion", "nuisance", "lawsuit", "court"]
 source: https://massarbitration.co/news/oregon-openai-lawsuit-2-billion-chatgpt-kids
 source_anchor: ""

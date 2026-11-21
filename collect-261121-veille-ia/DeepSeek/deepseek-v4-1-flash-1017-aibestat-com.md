@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek-v4", "flash-1017", "version", "deepseek", "tokens", "flash", "scores", "model"]
 source: https://aibestat.com/articles/deepseek-v4-1-flash-1017-coding/
 source_anchor: ""

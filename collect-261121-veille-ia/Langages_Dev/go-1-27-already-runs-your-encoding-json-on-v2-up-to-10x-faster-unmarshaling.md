@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["json", "encoding", "already", "error", "unmarshaling", "faster", "unmarshal", "runs"]
 source: https://blog.jorgeturbica.dev/en/go-1-27-already-runs-your-encoding-json-on-v2-up-to-10x-faster-unmarshaling
 source_anchor: ""

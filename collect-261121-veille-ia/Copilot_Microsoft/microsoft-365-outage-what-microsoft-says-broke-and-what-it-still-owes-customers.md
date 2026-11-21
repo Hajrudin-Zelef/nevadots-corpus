@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["microsoft", "servers", "outage", "says", "incident", "affected", "still", "customers"]
 source: https://datafloq.com/microsoft-365-outage-what-microsoft-says-broke-and-what-it-still-owes-customers/
 source_anchor: ""

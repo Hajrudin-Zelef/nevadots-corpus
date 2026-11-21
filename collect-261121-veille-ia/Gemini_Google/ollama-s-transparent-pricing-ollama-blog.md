@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-31"]
 keywords: ["plan", "pricing", "usage", "monthly", "ollama", "team", "plans", "models"]
 source: https://ollama.com/blog/transparent-pricing
 source_anchor: ""

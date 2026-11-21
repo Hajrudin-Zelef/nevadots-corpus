@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2023-05-11"]
 keywords: ["click", "select", "access", "rule", "ztna", "forticlient", "tags", "endpoint"]
 source: https://docs.fortinet.com/document/fortigate/7.4.1/administration-guide/477578/ztna-ip-mac-based-access-control-example
 source_anchor: ""

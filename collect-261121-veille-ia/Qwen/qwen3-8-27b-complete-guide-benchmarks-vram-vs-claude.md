@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["qwen3", "default", "qwen", "xhigh", "benchmarks", "claude", "model", "august"]
 source: https://codersera.com/blog/qwen-3-8-27b-complete-guide-2026/
 source_anchor: ""

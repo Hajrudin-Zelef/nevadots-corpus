@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-01-02"]
 keywords: ["samsung", "data", "gumi", "center", "plans", "investment", "construction", "servers"]
 source: https://www.thelec.net/news/articleView.html?idxno=15176
 source_anchor: ""

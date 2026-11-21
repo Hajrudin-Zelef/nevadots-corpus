@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-17"]
 keywords: ["elorian", "openrouter", "together", "model", "october", "glimpse", "docs", "page"]
 source: https://www.anchorterminal.com/tools/elorian-glimpse
 source_anchor: ""

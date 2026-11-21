@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["transcribe", "gemini", "litellm", "google", "model", "tokens", "pricing", "context"]
 source: https://models.litellm.ai/models/gemini-3.5-transcribe
 source_anchor: ""

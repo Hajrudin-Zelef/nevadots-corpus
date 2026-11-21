@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-19"]
 keywords: ["stripe", "openrouter", "letter", "token", "deal", "billion", "week", "largest-ever"]
 source: https://explainx.ai/blog/stripe-acquires-openrouter-7-billion-august-2026
 source_anchor: ""

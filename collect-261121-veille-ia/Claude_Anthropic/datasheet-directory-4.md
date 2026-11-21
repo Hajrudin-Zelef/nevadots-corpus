@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-27"]
 keywords: ["knob", "request", "thread", "type", "pppoe", "configuration", "size", "height"]
 source: https://www.huaweienterprises.com/datasheet/huaweienterprises/EDOC1100365096/01_05_PPPOE_CONFIGURATION.pdf
 source_anchor: ""

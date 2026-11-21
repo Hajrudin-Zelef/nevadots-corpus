@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["image", "kling", "detail", "text", "images", "model", "native", "characters"]
 source: https://chengrang.com/tools/en/kling-image-4.html
 source_anchor: ""

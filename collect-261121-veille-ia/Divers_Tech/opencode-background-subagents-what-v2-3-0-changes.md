@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["background", "subagents", "opencode", "verbosity", "session", "release", "parent", "shell"]
 source: https://www.developersdigest.tech/blog/opencode-2-3-background-subagents-quieter-transcripts-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["flash", "cognition", "swe-2", "post", "devin", "table", "models", "speed"]
 source: https://www.pondero.ai/coding/guides/swe-2-flash-devin-pricing-worth-it/
 source_anchor: ""

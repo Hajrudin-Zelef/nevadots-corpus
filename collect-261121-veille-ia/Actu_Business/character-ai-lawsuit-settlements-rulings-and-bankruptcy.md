@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-08"]
 keywords: ["character", "company", "google", "families", "children", "court", "family", "bankruptcy"]
 source: https://virtual-addiction.com/lawsuits/character-ai-lawsuit/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-09-25"]
 keywords: ["postgresql", "beta", "features", "repack", "command", "replication", "release", "table"]
 source: https://www.linuxcompatible.org/story/postgresql-19-beta-4-release-date-new-features-reverts-and-breaking-changes/
 source_anchor: ""

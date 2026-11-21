@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["rubin", "nvidia", "agents", "engineering", "data", "science", "simulation", "analytics"]
 source: https://www.hpcwire.com/bigdatawire/this-just-in/nvidia-announces-rubin-hpc-a-new-gpu-to-accelerate-agents-for-science-engineering-and-analytics/
 source_anchor: ""

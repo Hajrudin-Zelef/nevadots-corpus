@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["alphagenome", "cells", "cell", "matter", "same", "disease", "google", "changes"]
 source: https://ai-insights.sitenova.dev/blog/alphagenome-2-google-deepmind-dna-cell-types-research-explained
 source_anchor: ""

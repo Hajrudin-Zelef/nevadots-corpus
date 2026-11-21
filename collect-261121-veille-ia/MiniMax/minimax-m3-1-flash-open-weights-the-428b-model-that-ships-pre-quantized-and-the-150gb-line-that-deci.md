@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["model", "flash", "minimax", "open", "weights", "ships", "pre-quantized", "line"]
 source: https://www.runaihome.com/blog/minimax-m3-1-flash-local-ai-hardware-guide-2026/
 source_anchor: ""

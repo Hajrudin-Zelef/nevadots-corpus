@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["anthropic", "says", "system", "claude", "found", "enzyme", "agents", "crispr"]
 source: https://dailymech.com/articles/claude-art-enzyme-system-crispr-like-repeats.html
 source_anchor: ""

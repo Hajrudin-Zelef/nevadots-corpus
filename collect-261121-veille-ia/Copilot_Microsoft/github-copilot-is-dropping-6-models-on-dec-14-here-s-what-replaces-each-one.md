@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["model", "copilot", "github", "models", "replacement", "fable", "claude", "haiku"]
 source: https://dev.to/aheadkit/github-copilot-is-dropping-6-models-on-dec-14-heres-what-replaces-each-one-1g8c
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "pricing", "model", "peak", "rate", "deepseek-v4-pro", "input", "august"]
 source: ""
 source_anchor: ""

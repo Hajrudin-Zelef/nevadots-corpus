@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "coding", "spacexai", "index", "upgrade", "opus", "model", "astra"]
 source: https://www.aishiftnews.ca/news/grok-4-7-is-a-same-price-frontier-coding-upgrade-not-proof-it-beats-opus-astra/
 source_anchor: ""

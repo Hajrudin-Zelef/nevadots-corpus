@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["requirements", "codex", "toml", "trace", "exporter", "enterprise", "openai", "base64"]
 source: https://blakecrosley.com/guides/codex
 source_anchor: ""

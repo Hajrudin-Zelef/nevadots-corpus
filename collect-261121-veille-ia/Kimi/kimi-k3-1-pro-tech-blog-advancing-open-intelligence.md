@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["kimi", "coding", "across", "model", "also", "advancing", "open", "intelligence"]
 source: https://www.kimi.com/en/blog/kimi-k3-1-pro?ref=fomoera.com
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["extensions", "navigateur", "chrome", "securiser", "edge", "jour", "cookies", "session"]
 source: https://tech-insider.org/fr/securiser-extensions-navigateur-chrome-edge-firefox-2026/
 source_anchor: ""

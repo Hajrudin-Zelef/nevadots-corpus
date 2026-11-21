@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-03-19"]
 keywords: ["cursor", "plan", "pricing", "models", "code", "change", "editor", "price"]
 source: https://for.you.com/posts/ai-code-editor-pricing-resets-as-cursor-retires-its-20-pro-86bb081f
 source_anchor: ""

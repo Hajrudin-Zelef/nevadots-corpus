@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["terra", "gpt-6", "pricing", "tier", "benchmarks", "models", "openai", "frontier"]
 source: https://www.truefoundry.com/blog/gpt-6-1-terra
 source_anchor: ""

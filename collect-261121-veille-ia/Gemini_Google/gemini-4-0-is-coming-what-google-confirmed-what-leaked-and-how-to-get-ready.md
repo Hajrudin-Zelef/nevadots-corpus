@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-07-21"]
 keywords: ["gemini", "google", "model", "confirmed", "date", "leaked", "launch", "most"]
 source: https://huggingface.co/blog/liliruli/gemini-4-coming-confirmed-leaks-how-to-prepare
 source_anchor: ""

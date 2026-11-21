@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["microsoft", "model", "mai-base-2", "parameters", "data", "trained", "says", "models"]
 source: https://cellcog.ai/blog/microsoft-mai-base-2/
 source_anchor: ""

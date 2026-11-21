@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["vault", "hashicorp", "donnees", "secrets", "configurer", "version", "reste", "licence"]
 source: https://tech-insider.org/fr/configurer-hashicorp-vault-secrets-2026/
 source_anchor: ""

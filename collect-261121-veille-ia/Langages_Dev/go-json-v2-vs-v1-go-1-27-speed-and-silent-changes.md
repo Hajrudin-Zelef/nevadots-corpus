@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-14"]
 keywords: ["json", "same", "encoding", "structs", "implementation", "marshal", "unmarshal", "speed"]
 source: https://blogs.abhipanseriya.dev/blog/go-json-v2-vs-v1-go-1-27
 source_anchor: ""

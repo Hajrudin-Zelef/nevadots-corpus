@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: []
-dates: ["2026-26-09"]
+dates: []
 keywords: []
 source: docs/RAG/collect-261001-rattrapage/windows_server_guide.md
 source_anchor: ""

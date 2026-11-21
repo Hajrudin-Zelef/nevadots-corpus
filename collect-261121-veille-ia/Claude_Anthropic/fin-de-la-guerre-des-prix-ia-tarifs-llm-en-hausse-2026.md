@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-18"]
 keywords: ["septembre", "prix", "dollars", "million", "tokens", "tarifs", "modeles", "hausse"]
 source: https://tech-insider.org/fr/fin-guerre-prix-ia-hausse-tarifs-llm-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["apple", "imessage", "bluetooth", "security", "fixes", "ipad", "devices", "flaws"]
 source: https://brandefense.io/security-news/apple-imessage-bluetooth-security-fixes/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-07-16"]
 keywords: ["tailwind", "nouveau", "version", "selon", "projet", "vous", "etapes", "rebuild"]
 source: https://tech-insider.org/fr/tailwind-css-v4-tutoriel-13-etapes-2026/
 source_anchor: ""

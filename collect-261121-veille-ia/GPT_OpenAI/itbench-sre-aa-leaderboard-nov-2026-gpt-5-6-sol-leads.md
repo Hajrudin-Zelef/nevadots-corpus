@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-09"]
 keywords: ["itbench", "artificial", "analysis", "benchleader", "gpt-5", "result", "leaderboard", "score"]
 source: https://www.benchleader.com/benchmarks/aa_itbench_sre
 source_anchor: ""

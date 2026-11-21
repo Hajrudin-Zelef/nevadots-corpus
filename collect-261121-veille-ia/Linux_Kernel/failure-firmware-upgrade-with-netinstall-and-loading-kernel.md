@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2021-02-05"]
 keywords: ["upgrade", "firmware", "address", "serial", "netinstall", "file", "nand", "boot"]
 source: https://forum.mikrotik.com/t/failure-firmware-upgrade-with-netinstall-and-loading-kernel/159083
 source_anchor: ""

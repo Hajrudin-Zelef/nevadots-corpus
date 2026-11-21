@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["xiaomi", "mimo-v2", "index", "grok", "open-weights", "intelligence", "roughly", "under"]
 source: https://aiweekly.co/alerts/xiaomi-mimo-v26-pro-ties-grok-47-atop-open-weights-index
 source_anchor: ""

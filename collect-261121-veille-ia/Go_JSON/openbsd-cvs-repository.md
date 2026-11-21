@@ -5,7 +5,7 @@ domain: go-json
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-04"]
 keywords: ["rust-lang", "rust", "blog", "lang", "update", "rust-1", "announce", "revision"]
 source: https://cvsweb.openbsd.org/log/ports/lang/rust/rust.port.mk?sort=Revision
 source_anchor: ""

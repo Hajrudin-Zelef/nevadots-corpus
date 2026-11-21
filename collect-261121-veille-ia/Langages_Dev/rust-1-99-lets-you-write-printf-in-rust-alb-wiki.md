@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-01"]
 keywords: ["rust", "layout", "write", "printf", "microsoft", "lets", "variadic", "size"]
 source: https://www.alb-lang.org/wiki/Rust_1.99_Variadics
 source_anchor: ""

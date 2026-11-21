@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["microsoft", "maia", "rack", "bandwidth", "inference", "capacity", "azure", "inside"]
 source: https://dev.to/echakiri/microsofts-maia-300-publishes-rack-numbers-for-its-own-inference-silicon-41mg
 source_anchor: ""

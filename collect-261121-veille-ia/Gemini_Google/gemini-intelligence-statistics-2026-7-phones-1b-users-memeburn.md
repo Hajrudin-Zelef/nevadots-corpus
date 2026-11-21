@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-05-11"]
 keywords: ["gemini", "intelligence", "phones", "google", "android", "googles", "users", "nano"]
 source: https://memeburn.com/gemini-intelligence-statistics-2026/
 source_anchor: ""

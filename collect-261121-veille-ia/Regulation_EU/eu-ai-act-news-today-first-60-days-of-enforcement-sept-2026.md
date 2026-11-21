@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-28"]
 keywords: ["enforcement", "first", "gpai", "news", "since", "office", "transparency", "model"]
 source: https://aiact-navigator.com/blog/eu-ai-act-news-enforcement-first-60-days-2026
 source_anchor: ""

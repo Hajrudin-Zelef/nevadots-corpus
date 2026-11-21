@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "anthropic", "claude", "tokens", "modele", "million", "sortie", "baisse"]
 source: https://tech-insider.org/fr/claude-opus-5-5-anthropic-baisse-prix-2026/
 source_anchor: ""

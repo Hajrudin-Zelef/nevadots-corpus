@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["microsoft", "model", "trillion", "mai-base-2", "pretraining", "parameter", "system", "parameters"]
 source: https://nrb.bg/en/microsoft-challenges-rivals-with-2-8-trillion-parameter-model/
 source_anchor: ""

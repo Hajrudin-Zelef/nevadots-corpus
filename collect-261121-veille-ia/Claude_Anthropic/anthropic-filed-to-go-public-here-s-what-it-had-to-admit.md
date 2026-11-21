@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["anthropic", "company", "filing", "public", "billion", "filed", "here", "written"]
 source: https://lab.worthington.cloud/entries/anthropic-ipo-filing
 source_anchor: ""

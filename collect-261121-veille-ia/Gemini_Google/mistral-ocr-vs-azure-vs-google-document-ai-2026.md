@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["mistral", "document", "google", "azure", "francaise", "trois", "locr", "intelligence"]
 source: https://tech-insider.org/fr/mistral-ocr-vs-azure-vs-google-document-ai-2026/
 source_anchor: ""

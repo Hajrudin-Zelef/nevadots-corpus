@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["prices", "ddr5", "orders", "memory", "even", "open", "canceled", "hardware"]
 source: https://www.makeuseof.com/ddr5-prices-are-climbing-again-and-even-open-orders-are-getting-canceled/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["beam", "reflection", "reasoning", "model", "cloud", "post", "effort", "tokens"]
 source: https://lmstudio.ai/models/beam
 source_anchor: ""

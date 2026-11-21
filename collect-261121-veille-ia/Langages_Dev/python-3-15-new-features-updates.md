@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "lazy", "release", "import", "features", "october", "teams", "imports"]
 source: https://www.codetrade.io/blog/python-3-15/
 source_anchor: ""

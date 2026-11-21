@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "Google", "Mistral", "Nvidia", "OpenAI", "Z.ai"]
-dates: ["2026-09-09", "2026-09-10", "2026-11-21", "2026-12-31", "2027-01-01"]
+dates: ["2026-09-09", "2026-09-10", "2026-11-21"]
 keywords: ["arr", "claude", "fable 5", "gemini", "gemini 3.8", "glm", "gpt-5.6", "gpu", "mistral", "nvidia", "opus 5", "sol"]
 source: docs/RAG/collect-261001-ia-llm/fin-de-la-guerre-des-prix-ia-tarifs-llm-en-hausse-2026.md
 source_anchor: ""

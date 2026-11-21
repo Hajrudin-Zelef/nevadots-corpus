@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["frontier", "california", "report", "standards", "shutdown", "developers", "safety", "oversight"]
 source: https://casrai.org/news/california-ai-safety-report-ivos-shutdown-calcompute-2026
 source_anchor: ""

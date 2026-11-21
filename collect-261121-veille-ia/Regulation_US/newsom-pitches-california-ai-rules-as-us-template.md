@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["image", "california", "rules", "template", "newsom", "pitches", "model", "deep"]
 source: https://www.thedeepview.com/newsletter/newsom-pitches-california-ai-rules-as-us-template
 source_anchor: ""

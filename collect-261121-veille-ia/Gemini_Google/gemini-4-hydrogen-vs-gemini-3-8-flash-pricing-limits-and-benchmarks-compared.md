@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "flash", "hydrogen", "google", "model", "pricing", "agentic", "carbon"]
 source: https://www.datastudios.org/post/gemini-4-hydrogen-vs-gemini-3-8-flash-comparison
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["fireworks", "cursor", "october", "access", "secrets", "says", "incident", "exposed"]
 source: https://www.neoteo.com/en/fireworks-ai-breach-two-incidents-and-the-cursor-link
 source_anchor: ""

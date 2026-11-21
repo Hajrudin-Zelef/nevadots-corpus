@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["release", "path", "matching", "liberica", "summary", "description", "offsets", "javax"]
 source: https://docs.bell-sw.com/liberica-jdk/27b36/general/release-notes/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["aadded", "november", "codex", "afixed", "terminal", "permission", "show", "model"]
 source: https://www.gradually.ai/en/changelogs/codex-cli/
 source_anchor: ""

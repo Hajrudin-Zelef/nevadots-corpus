@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "search", "flash", "complete", "developers", "model", "projects", "tools"]
 source: https://asiadaily.org/news/17934/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["billion", "anthropic", "commitments", "more", "google", "obligations", "revenue", "compute"]
 source: https://cryptobriefing.com/anthropic-ipo-900-billion-compute-commitments/
 source_anchor: ""

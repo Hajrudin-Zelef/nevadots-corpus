@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["qwen3", "flash-next", "model", "architecture", "context", "release", "claude", "opus"]
 source: https://www.datacamp.com/blog/qwen3-8-flash-next
 source_anchor: ""

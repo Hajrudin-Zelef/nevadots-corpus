@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["models", "microsoft", "flash", "seven", "benchmark", "gpt-6", "price", "code"]
 source: https://braindetox.kr/en/posts/microsoft_ignite_2026_mai_seven_models.html
 source_anchor: ""

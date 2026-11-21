@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["fable", "models", "thinking", "anthropic", "gemini", "every", "decision", "only"]
 source: https://dev.to/cuelark/ai-updates-for-developers-nov-9-16-2026-fable-52-gemini-4-carbon-decision-models-and-what-14j1
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["openai", "says", "standards", "done", "safely", "fully", "autonomous", "self-improvement"]
 source: https://www.thinkfacility.com/blog/openai-calls-for-us-led-global-ai-safety-standards/
 source_anchor: ""

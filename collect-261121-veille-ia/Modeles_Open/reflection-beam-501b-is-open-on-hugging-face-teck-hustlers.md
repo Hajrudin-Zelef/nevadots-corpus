@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["beam", "hugging", "face", "open", "reflection", "reflections", "model", "nvfp4"]
 source: https://teckhustlers.com/reflection-beam-501b-open-weight-huggingface/
 source_anchor: ""

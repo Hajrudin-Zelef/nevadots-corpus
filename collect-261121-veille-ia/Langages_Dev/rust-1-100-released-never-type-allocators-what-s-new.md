@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["type", "never", "cargo", "rust", "stable", "allocator", "allocators", "unused"]
 source: https://tecadmin.net/rust-1-100-released-whats-new/
 source_anchor: ""

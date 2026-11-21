@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["type", "never", "result", "nums", "rust", "errors", "infallible", "error"]
 source: https://dev.to/frankchu/rust-1100-3-errors-become-zero-with-the-never-type-4kae
 source_anchor: ""

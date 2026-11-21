@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "extension", "code", "attacker", "says", "anthropic", "claude", "machine"]
 source: https://dev.to/devtalk94/malicious-claude-code-extension-in-cursor-check-your-machine-1b05
 source_anchor: ""

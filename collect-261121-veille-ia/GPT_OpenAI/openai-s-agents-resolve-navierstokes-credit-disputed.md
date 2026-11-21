@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["openai", "navierstokes", "agents", "millennium", "smooth", "disputed", "result", "prize"]
 source: https://evermx.com/case/openai-navier-stokes-millennium-proof
 source_anchor: ""

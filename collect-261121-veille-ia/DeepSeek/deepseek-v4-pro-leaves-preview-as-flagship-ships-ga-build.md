@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["deepseek", "build", "preview", "cent", "model", "flagship", "behind", "weights"]
 source: https://distillation.technology/newsroom/deepseek-v4-pro-leaves-preview
 source_anchor: ""

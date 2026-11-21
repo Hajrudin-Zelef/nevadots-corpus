@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "opus", "claude", "medium", "work", "effort", "half", "price"]
 source: https://blog.laozhang.ai/en/posts/claude-sonnet-5-5-vs-opus-5-5
 source_anchor: ""

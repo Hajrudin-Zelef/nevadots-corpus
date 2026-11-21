@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["hydrogen", "google", "argon", "gemini", "carbon", "model", "costs", "loses"]
 source: https://www.hyperautomationlabs.co/blog/gemini-4-hydrogen-vs-argon-vs-carbon-which-to-use-price
 source_anchor: ""

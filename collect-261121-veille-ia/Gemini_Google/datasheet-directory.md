@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-27"]
 keywords: ["request", "vxlan", "configuration", "commands", "package", "bytes", "september", "power"]
 source: https://www.datasheet.cloud/datasheet/huaweienterprises/EDOC1100420140/01_13_VXLAN_CONFIGURATION_COMMANDS.pdf
 source_anchor: ""

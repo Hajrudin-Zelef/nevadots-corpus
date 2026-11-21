@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["model", "anthropic", "hardware", "standard", "equipment", "preview", "work", "does"]
 source: https://polprog.pl/en/learning/model-hardware-standard-anthropic-mhs-mcp-ai-agents-hardware
 source_anchor: ""

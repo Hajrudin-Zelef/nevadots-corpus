@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["agent", "foundation", "four", "skills", "responses", "projects", "open", "anthropic"]
 source: https://www.digitalapplied.com/blog/agent-skills-open-responses-aaif-portability
 source_anchor: ""

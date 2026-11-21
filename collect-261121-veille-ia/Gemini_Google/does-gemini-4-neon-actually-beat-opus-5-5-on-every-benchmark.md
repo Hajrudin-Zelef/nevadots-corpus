@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["neon", "opus", "gemini", "output", "input", "carbon", "tokens", "claude"]
 source: https://medium.com/@amitsrivastava115/does-gemini-4-neon-actually-beat-opus-5-5-on-every-benchmark-0f86926999de
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["opus", "model", "github", "copilot", "terra", "claude", "three", "models"]
 source: https://www.devdaynotes.com/code/copilot-models-retire-november-16/
 source_anchor: ""

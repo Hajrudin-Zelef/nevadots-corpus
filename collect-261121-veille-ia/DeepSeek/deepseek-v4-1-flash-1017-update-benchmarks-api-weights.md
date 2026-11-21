@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["model", "benchmarks", "flash", "deepseek-v4", "card", "flash-1017", "update", "weights"]
 source: https://braindetox.kr/en/posts/deepseek_v4_1_flash_1017_update_2026.html
 source_anchor: ""

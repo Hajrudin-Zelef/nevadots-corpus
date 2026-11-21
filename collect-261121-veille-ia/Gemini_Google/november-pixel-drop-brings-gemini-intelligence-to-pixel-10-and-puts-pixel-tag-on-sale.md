@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["pixel", "gemini", "november", "drop", "intelligence", "phones", "rambler", "google"]
 source: https://www.androidheadlines.com/2026/11/november-2026-pixel-drop-gemini-intelligence-pixel-10.html
 source_anchor: ""

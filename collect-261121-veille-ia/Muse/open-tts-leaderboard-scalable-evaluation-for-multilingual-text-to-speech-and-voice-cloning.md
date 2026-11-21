@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["models", "leaderboard", "open", "model", "voice", "open-source", "multilingual", "evaluation"]
 source: https://huggingface.co/blog/open-tts-leaderboard
 source_anchor: ""

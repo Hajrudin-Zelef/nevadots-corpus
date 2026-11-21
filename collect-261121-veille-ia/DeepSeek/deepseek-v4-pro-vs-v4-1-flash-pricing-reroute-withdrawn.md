@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["deepseek", "flash", "model", "pricing", "page", "tokens", "reroute", "input"]
 source: https://www.aiagencycalculator.com/deepseek-v4-1-flash-pricing
 source_anchor: ""

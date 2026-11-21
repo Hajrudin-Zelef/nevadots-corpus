@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["claude", "fable", "anthropic", "mythos", "tokens", "remains", "workloads", "million"]
 source: https://www.macobserver.com/news/anthropic-releases-claude-fable-5-1-alongside-limited-access-claude-mythos-5-1/
 source_anchor: ""

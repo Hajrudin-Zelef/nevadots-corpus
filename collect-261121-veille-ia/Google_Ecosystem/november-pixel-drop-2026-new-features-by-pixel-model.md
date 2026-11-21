@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["pixel", "googles", "november", "gemini", "drop", "android", "series", "phones"]
 source: https://trustloud.com/november-pixel-drop-2026/
 source_anchor: ""

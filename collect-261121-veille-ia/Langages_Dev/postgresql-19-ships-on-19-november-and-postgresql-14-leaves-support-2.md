@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "november", "version", "release", "support", "leaves", "project", "minor"]
 source: https://www.veltrix.co.ke/news/postgresql-ships-november-postgresql-leaves-suppor-8a7f
 source_anchor: ""

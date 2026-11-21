@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["november", "report", "gpt-6", "models", "inference", "openai", "astra", "company"]
 source: https://kimkj.com/en/ai-board-en/?mod=document&uid=22086
 source_anchor: ""

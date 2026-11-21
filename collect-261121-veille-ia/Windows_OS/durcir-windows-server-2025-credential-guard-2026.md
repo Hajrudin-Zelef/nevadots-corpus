@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["windows", "server", "credential", "guard", "microsoft", "depuis", "durcir", "defaut"]
 source: https://tech-insider.org/fr/durcir-windows-server-2025-credential-guard-2026/
 source_anchor: ""

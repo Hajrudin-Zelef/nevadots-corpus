@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["text", "lfm3-omni-2b", "omni", "audio", "speech", "llama", "video", "output"]
 source: https://dev.to/alanwest/how-to-run-lfm3-omni-2b-gguf-locally-only-llamacpp-makes-it-talk-back-1fm4
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["claude", "code", "mode", "default", "sandbox", "november", "added", "haiku"]
 source: https://www.havoptic.com/whats-new/claude-code
 source_anchor: ""

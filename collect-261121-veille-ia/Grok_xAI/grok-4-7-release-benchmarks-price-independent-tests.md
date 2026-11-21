@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "price", "days", "model", "september", "release", "post", "xais"]
 source: https://cellcog.ai/blog/grok-4-7-release-date/
 source_anchor: ""

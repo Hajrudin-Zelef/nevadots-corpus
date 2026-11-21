@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["antigravity", "agent", "google", "script", "python", "developer", "turns", "teams"]
 source: https://tml.news/stories/antigravity-dynamic-workflows-python-scripts/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["kimi", "model", "moonshot", "t-class", "open-weight", "tokens", "cyber", "attention"]
 source: https://www.datastudios.org/post/moonshot-ai-kimi-k3-1-pro-open-weight-1m-context-cyber-safeguards
 source_anchor: ""

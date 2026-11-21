@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "luna", "tokens", "gpt-6", "input", "anthropic", "about", "claude"]
 source: https://codingfleet.com/blog/claude-haiku-5-5-vs-gpt-6-luna/
 source_anchor: ""

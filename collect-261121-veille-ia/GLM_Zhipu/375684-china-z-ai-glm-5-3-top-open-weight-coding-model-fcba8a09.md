@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["glm-5", "coding", "model", "more", "tokens", "open", "models", "plan"]
 source: ""
 source_anchor: ""

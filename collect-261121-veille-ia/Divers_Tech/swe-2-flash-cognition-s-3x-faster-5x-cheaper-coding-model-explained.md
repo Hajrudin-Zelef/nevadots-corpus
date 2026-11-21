@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-30"]
 keywords: ["swe-2", "cognition", "flash", "model", "coding", "devin", "work", "tokens"]
 source: http://dev.to/neuraitool/swe-2-flash-cognitions-3x-faster-5x-cheaper-coding-model-explained-2ka9
 source_anchor: ""

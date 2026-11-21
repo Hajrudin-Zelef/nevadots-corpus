@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["copilot", "free", "code", "flash", "github", "pick", "model", "account"]
 source: https://medium.com/@iamsupcat/i-tried-mai-code-2-flash-on-github-copilot-free-on-a-macbook-or-mac-mini-i-couldnt-pick-it-but-520ec3934388
 source_anchor: ""

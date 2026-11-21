@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["astra", "fable", "gpt-6", "claude", "output", "both", "input", "cache"]
 source: https://dev.to/hassann/gpt-62-astra-vs-claude-fable-52-for-coding-agents-price-limits-and-tests-5bp1
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-02"]
 keywords: ["design", "intel", "manufacturing", "models", "circuit", "tools", "process", "placement"]
 source: https://xenospectrum.com/en/intel-14a-pdk-09-design/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["grok", "voice", "speech", "model", "minute", "alias", "call", "pricing"]
 source: ""
 source_anchor: ""

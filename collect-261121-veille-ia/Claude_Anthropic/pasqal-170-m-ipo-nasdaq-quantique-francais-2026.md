@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-05-19"]
 keywords: ["millions", "pasqal", "dollars", "quantique", "deuros", "nasdaq", "selon", "mars"]
 source: https://tech-insider.org/fr/pasqal-170-millions-ipo-nasdaq-quantique-francais-2026/
 source_anchor: ""

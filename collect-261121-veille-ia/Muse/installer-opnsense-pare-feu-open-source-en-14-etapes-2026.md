@@ -5,7 +5,7 @@ domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["opnsense", "pare-feu", "open", "source", "jour", "pfsense", "projet", "version"]
 source: https://tech-insider.org/fr/installer-opnsense-pare-feu-open-source-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "anthropic", "claude", "models", "output", "haiku", "sonnet", "tokens"]
 source: https://www.cosmicjs.com/blog/claude-opus-5-5-vs-opus-5
 source_anchor: ""

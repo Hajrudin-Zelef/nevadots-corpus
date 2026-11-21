@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["scheduler", "cache", "swap", "linux", "data", "kernel", "better", "scheduling"]
 source: https://kernelnewbies.org/Linux_7.2
 source_anchor: ""

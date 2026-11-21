@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-07-01"]
 keywords: ["carbon", "argon", "google", "gemini", "model", "index", "opus", "october"]
 source: https://blog.invidelabs.com/gemini-4-carbon-after-argon/
 source_anchor: ""

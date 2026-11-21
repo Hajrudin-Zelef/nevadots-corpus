@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["beam", "reflection", "model", "tokens", "listed", "output", "provider", "hardware"]
 source: https://aireiter.com/blog/reflection-beam-review-api-pricing
 source_anchor: ""

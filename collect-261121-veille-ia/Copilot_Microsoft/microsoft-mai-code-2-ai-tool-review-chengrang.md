@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["code", "cost", "coding", "flash", "microsoft", "four", "github", "copilot"]
 source: https://chengrang.com/tools/en/mai-code-2.html
 source_anchor: ""

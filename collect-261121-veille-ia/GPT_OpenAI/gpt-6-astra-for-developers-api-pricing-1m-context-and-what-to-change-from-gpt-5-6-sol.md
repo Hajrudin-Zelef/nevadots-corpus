@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["openai", "astra", "model", "gpt-6", "gpt-6-astra", "context", "responses", "text"]
 source: https://apidog.com/blog/gpt-6-astra-api/
 source_anchor: ""

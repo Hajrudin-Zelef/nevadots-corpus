@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["linux", "kernel", "scheduling", "hdmi", "between", "cache-aware", "usb4stream", "development"]
 source: https://www.linuxjournal.com/index%2ephp/content/linux-kernel-72-officially-released-cache-aware-scheduling-usb4stream-and-major-amd
 source_anchor: ""

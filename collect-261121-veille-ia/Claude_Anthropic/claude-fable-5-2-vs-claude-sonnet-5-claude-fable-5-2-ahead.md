@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["claude", "fable", "sonnet", "category", "high", "benchleader", "score", "blended"]
 source: https://www.benchleader.com/compare/claude-fable-5-2-vs-claude-sonnet-5
 source_anchor: ""

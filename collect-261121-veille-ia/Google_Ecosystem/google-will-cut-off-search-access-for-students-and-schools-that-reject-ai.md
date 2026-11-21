@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["google", "schools", "students", "search", "access", "said", "company", "also"]
 source: https://broadbandbreakfast.com/google-will-cut-off-search-access-for-students-and-schools-that-reject-ai/
 source_anchor: ""

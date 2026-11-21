@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["google", "live", "avatar", "video", "gemini", "model", "audio", "latency"]
 source: https://rits.shanghai.nyu.edu/ai/gemini-3-8-live-avatar/
 source_anchor: ""

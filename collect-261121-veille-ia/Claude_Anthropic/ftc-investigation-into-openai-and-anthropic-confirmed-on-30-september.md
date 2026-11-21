@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["openai", "investigation", "anthropic", "companies", "confirmed", "september", "agents", "other"]
 source: https://dig.watch/updates/ftc-investigates-openai-anthropic-ai-labs
 source_anchor: ""

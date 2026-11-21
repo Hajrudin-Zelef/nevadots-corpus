@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-12"]
 keywords: ["says", "drjingle", "report", "claude", "anthropic", "september", "cost", "anthropic-threat-report-september-2026"]
 source: https://github.com/hashclawai/drjingle/blob/HEAD/src/content/articles/en/anthropic-threat-report-september-2026.md
 source_anchor: ""

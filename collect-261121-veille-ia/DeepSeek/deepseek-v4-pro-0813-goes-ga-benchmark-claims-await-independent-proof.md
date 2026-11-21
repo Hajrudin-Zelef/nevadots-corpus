@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["deepseek", "model", "pricing", "release", "benchmark", "percent", "million", "tokens"]
 source: https://www.techtimes.com/articles/324241/20260813/deepseek-v4-pro-0813-goes-ga-benchmark-claims-await-independent-proof.htm
 source_anchor: ""

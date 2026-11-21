@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-06-16"]
 keywords: ["cursor", "usage", "pricing", "auto", "plan", "june", "requests", "request"]
 source: https://zandigital.in/cursor-pricing-changes-dated
 source_anchor: ""

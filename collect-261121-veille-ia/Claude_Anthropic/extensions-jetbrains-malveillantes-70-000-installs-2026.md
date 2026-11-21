@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-16"]
 keywords: ["jetbrains", "extensions", "malveillantes", "stepsecurity", "selon", "juin", "cles", "plugins"]
 source: https://tech-insider.org/fr/jetbrains-extensions-ia-malveillantes-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["google", "cloud", "models", "customers", "openai", "model", "enterprise", "expands"]
 source: https://aipractice.osuslova.pro/en/news/google-cloud-adds-openai-gpt-6-models-to-model-garden
 source_anchor: ""

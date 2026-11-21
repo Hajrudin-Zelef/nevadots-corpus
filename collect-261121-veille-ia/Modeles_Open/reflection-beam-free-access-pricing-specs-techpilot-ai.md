@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-19"]
 keywords: ["beam", "free", "reflection", "model", "weights", "opencode", "apache-2", "open"]
 source: https://techpilot.ai/tools/reflection-beam/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-17"]
 keywords: ["glimpse", "elorian", "visual", "model", "million", "across", "scratch", "space"]
 source: https://nextvector.rhasan.online/article/elorian-releases-glimpse-visual-scratch-space-model
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "model", "real", "models", "does", "output", "tokens", "knowledge"]
 source: https://www.eesel.ai/blog/grok-4-6
 source_anchor: ""

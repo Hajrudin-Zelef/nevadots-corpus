@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["haiku", "sonnet", "claude", "tasks", "million", "code", "test", "tokens"]
 source: https://dev.to/ranthis/claude-haiku-vs-sonnet-55-18x-cheaper-and-just-as-accurate-in-a-three-task-api-test-4d1c
 source_anchor: ""

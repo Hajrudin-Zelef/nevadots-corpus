@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-14"]
 keywords: ["google", "cloud", "vera", "rubin", "bare", "metal", "sc26", "lineup"]
 source: https://syntheticanvil.com/sparks/google-cloud-sc26-a5x-vera-rubin-managed-lustre
 source_anchor: ""

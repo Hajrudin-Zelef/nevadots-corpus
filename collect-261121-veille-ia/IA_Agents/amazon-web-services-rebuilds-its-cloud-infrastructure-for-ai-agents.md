@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-18"]
 keywords: ["agents", "agent", "infrastructure", "memory", "openai", "customer", "runtime", "september"]
 source: https://pro.edgex.exchange/en-US/news/article/aws-reworks-cloud-to-host-ai-agents
 source_anchor: ""

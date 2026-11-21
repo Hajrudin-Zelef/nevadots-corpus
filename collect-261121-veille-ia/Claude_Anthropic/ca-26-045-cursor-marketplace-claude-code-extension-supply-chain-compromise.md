@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["extension", "cursor", "code", "claude", "marketplace", "persistence", "anthropic", "public"]
 source: https://www.deepwatch.com/labs/ca-26-045-cursor-marketplace-claude-code-extension-supply-chain-compromise/
 source_anchor: ""

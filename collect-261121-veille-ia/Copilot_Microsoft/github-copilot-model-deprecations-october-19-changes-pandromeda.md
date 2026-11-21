@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["gpt-5", "model", "october", "github", "copilot", "mini", "gemini", "flash"]
 source: https://pandromeda.com/software/github-copilot-model-deprecations-what-changed-on-october-19
 source_anchor: ""

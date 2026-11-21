@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["bluetooth", "update", "ipad", "pairing", "iphone", "security", "apple", "ipados"]
 source: https://candklab.com/en/blog/ios-27-2-1-security-update/
 source_anchor: ""

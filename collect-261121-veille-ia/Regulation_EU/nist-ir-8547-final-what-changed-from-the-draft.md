@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-11-12"]
 keywords: ["nist", "draft", "final", "after", "under", "systems", "report", "post-quantum"]
 source: https://postquantum.com/security-pqc/nist-ir-8547-final/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["apple", "safari", "tahoe", "ipados", "macos", "ipsec", "sonoma", "sequoia"]
 source: https://apple.underside.be/en/article-correctifs-apple-2661-2662-entreprise-2026
 source_anchor: ""

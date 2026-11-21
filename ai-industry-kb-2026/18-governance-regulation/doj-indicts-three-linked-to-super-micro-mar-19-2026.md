@@ -5,7 +5,7 @@ domain: governance-regulation
 role: deep-dive
 task: regulation
 actors: ["Anthropic", "EU", "Google", "United States"]
-dates: ["2025-08", "2026-07", "2026-08-02", "2026-12-02", "2027-12", "2027-12-02"]
+dates: ["2026-08-02"]
 keywords: ["apache", "claude", "copyright", "disclosure", "fine-tuning", "governance", "open-weight", "research", "training", "watermarking"]
 source: docs/RAG/ai-industry-knowledge-base-2026.md
 source_anchor: ""

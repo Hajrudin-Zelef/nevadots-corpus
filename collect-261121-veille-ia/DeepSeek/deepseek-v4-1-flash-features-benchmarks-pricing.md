@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["flash", "deepseek", "model", "input", "pricing", "features", "benchmarks", "weights"]
 source: https://www.datacamp.com/blog/deepseek-v4-1-flash
 source_anchor: ""

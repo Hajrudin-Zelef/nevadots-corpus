@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-06"]
 keywords: ["agent", "standard", "plugins", "plugin", "about", "skills", "across", "more"]
 source: https://hackernoon.com/what-the-first-ai-plugin-standard-reveals-about-ais-future
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["claude", "anthropic", "opus", "sonnet", "model", "said", "haiku", "company"]
 source: https://ventureherald.com/news/anthropic-launches-claude-5-5
 source_anchor: ""

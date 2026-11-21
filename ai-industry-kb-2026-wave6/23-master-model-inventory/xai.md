@@ -5,7 +5,7 @@ domain: master-model-inventory
 role: deep-dive
 task: reference
 actors: ["Alibaba", "DeepSeek", "Google", "Hugging Face", "MiniMax", "Moonshot", "Nvidia", "OpenRouter", "Unsloth", "Z.ai", "vLLM", "xAI"]
-dates: ["2025-03-13", "2025-04-29", "2026-04-20", "2026-07-27", "2026-07-31", "2026-08-14", "2026-08-26", "2026-09-22", "2026-12-31"]
+dates: ["2025-03-13", "2025-04-29", "2026-04-20", "2026-07-27", "2026-07-31", "2026-08-14", "2026-08-26", "2026-09-22"]
 keywords: ["agents", "apache", "attribution", "benchmark", "benchmarks", "cost", "deepseek", "embedding", "gemini", "gemini 3.8", "gguf", "glm"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["openai", "standards", "said", "frontier", "automated", "research", "self-improvement", "recursive"]
 source: https://www.unite.ai/openai-proposes-us-led-global-technical-standards-for-frontier-ai/
 source_anchor: ""

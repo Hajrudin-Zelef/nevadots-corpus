@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["editing", "video", "generation", "image", "reports", "blogs", "models", "audio"]
 source: https://xiefan-guo.github.io/posts/video-models.html
 source_anchor: ""

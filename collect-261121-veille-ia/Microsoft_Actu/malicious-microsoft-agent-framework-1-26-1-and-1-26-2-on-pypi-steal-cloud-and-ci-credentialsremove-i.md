@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "pypi", "azure", "says", "agent-framework", "after", "tokens", "devops"]
 source: https://infrastack.ai/live/MAL-2026-20101
 source_anchor: ""

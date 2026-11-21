@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-03-01"]
 keywords: ["advisor", "fable", "model", "toolset", "only", "claude", "computer", "opus"]
 source: https://max.nardit.com/articles/claude-fable-5-2-migration-computer-use-advisor-thinking
 source_anchor: ""

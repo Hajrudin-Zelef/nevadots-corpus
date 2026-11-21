@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-01-04"]
 keywords: ["model", "muse", "glimmer", "data", "unsloth", "tool", "agentic", "reasoning"]
 source: https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF
 source_anchor: ""

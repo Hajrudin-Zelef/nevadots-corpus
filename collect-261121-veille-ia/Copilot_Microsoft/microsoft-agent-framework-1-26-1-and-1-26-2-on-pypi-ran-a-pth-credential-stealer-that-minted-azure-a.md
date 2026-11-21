@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["microsoft", "pypi", "azure", "agent-framework", "november", "github", "only", "actions"]
 source: https://corgea.com/research/microsoft-agent-framework-pypi-1-26-1-1-26-2-pth-credential-stealer-november-2026
 source_anchor: ""

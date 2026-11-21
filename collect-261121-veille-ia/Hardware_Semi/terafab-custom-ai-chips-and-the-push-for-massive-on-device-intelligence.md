@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-06"]
 keywords: ["chips", "terafab", "tesla", "custom", "massive", "musk", "push", "on-device"]
 source: https://medium.com/@anancysilver/terafab-custom-ai-chips-and-the-push-for-massive-on-device-intelligence-90eec89bd1d2
 source_anchor: ""

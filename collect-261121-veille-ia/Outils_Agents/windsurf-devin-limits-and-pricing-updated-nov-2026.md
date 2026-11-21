@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["devin", "weekly", "daily", "usage", "windsurf", "quota", "allowance", "published"]
 source: https://getlimitwatch.com/limits/devin
 source_anchor: ""

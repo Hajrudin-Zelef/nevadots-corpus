@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "nemotron", "chemistry", "model", "scientific", "agents", "science", "data"]
 source: https://businessbearings.com/articles/nvidia-ships-nemotron-for-science-with-50-000-question-chemistry-dataset
 source_anchor: ""

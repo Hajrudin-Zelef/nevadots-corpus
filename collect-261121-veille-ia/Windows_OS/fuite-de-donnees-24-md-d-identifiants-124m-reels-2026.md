@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-06-15"]
 keywords: ["donnees", "millions", "identifiants", "fuite", "milliards", "cette", "mots", "passe"]
 source: https://tech-insider.org/fr/fuite-donnees-24-milliards-identifiants-hibp-2026/
 source_anchor: ""

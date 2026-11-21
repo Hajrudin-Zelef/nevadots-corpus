@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["trigger", "northflank", "platforms", "stolen", "keys", "zeabur", "account", "platform"]
 source: https://www.waveo.io/insights/llm-key-theft-ai-developer-platforms-decoded/
 source_anchor: ""

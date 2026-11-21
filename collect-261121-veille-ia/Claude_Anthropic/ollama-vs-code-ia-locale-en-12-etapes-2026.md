@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-16"]
 keywords: ["code", "dollars", "ollama", "millions", "continue", "locale", "selon", "cursor"]
 source: https://tech-insider.org/fr/ollama-vscode-assistant-ia-local-2026/
 source_anchor: ""

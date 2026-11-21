@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["google", "argon", "gemini", "says", "model", "price", "tokens", "ultra"]
 source: https://tsnmedia.org/google-gemini-4-argon-global-release-pricing-access/
 source_anchor: ""

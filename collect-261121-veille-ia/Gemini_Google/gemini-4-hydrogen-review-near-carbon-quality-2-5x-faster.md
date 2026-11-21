@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["hydrogen", "carbon", "gemini", "against", "google", "answer", "terra", "judge"]
 source: https://llmtest.io/blog/gemini-4-hydrogen-review-2026
 source_anchor: ""

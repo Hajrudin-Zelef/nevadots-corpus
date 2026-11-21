@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["apple", "more", "screen", "features", "users", "volume", "home", "useful"]
 source: https://undercodenews.com/ios-27s-best-hidden-features-the-useful-upgrades-apple-didnt-put-in-the-spotlight-video/
 source_anchor: ""

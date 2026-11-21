@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["astra", "openai", "gpt-6", "tokens", "launch", "osworld", "review", "model"]
 source: https://codingfleet.com/blog/gpt-6-astra-review/
 source_anchor: ""

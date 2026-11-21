@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["would", "shutdown", "oversight", "frontier", "independent", "state", "could", "safety"]
 source: https://www.unite.ai/newsom-proposes-mandatory-frontier-ai-oversight-and-shutdown-powers/
 source_anchor: ""

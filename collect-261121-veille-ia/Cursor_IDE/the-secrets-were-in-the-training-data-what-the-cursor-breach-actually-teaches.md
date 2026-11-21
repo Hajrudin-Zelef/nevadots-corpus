@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["cursor", "training", "credentials", "marketplace", "data", "fireworks", "exposed", "secrets"]
 source: https://dev.to/damiano_builds/the-secrets-were-in-the-training-data-what-the-cursor-breach-actually-teaches-363a
 source_anchor: ""

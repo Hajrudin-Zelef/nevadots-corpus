@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["openai", "anthropic", "september", "research", "recursive", "self-improvement", "alignment", "both"]
 source: https://joi.ito.com/memos/rsi/full.html
 source_anchor: ""

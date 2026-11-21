@@ -5,7 +5,7 @@ domain: atria-dawn
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-14"]
 keywords: ["model", "dawn", "atria", "preview", "released", "wasn", "glm-5", "pages"]
 source: https://note.com/ai_driven/n/n5c7a1f8d3331?hl=en
 source_anchor: ""

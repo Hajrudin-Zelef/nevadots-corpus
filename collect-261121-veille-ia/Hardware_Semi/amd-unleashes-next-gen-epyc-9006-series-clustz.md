@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-11"]
 keywords: ["epyc", "server", "cpus", "first", "series", "more", "cores", "processors"]
 source: https://www.clustz.com/event/amd-unleashes-next-gen-epyc-9006-series-processors-elevating-ai-and-enterprise-server-performanc
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-10"]
 keywords: ["crowdstrike", "sentinelone", "falcon", "mitre", "marche", "dollars", "prix", "juin"]
 source: https://tech-insider.org/fr/crowdstrike-vs-sentinelone-2026/
 source_anchor: ""

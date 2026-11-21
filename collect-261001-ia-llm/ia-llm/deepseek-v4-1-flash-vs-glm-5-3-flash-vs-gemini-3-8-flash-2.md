@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "DeepSeek", "Google", "OpenAI", "Z.ai"]
-dates: ["2025-10-15", "2026-07-30", "2026-09-09", "2026-09-10", "2026-12-31"]
+dates: ["2025-10-15", "2026-07-30", "2026-09-09", "2026-09-10"]
 keywords: ["agent", "agents", "benchmark", "benchmarks", "claude", "cyber", "deepseek", "gemini", "gemini 3.8", "glm", "gpt-5.6", "luna"]
 source: docs/RAG/collect-261001-ia-llm/deepseek-v4-1-flash-vs-glm-5-3-flash-vs-gemini-3-8-flash.md
 source_anchor: ""

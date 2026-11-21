@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["authors", "model", "ling-3", "against", "news", "inclusionai", "flash-1019", "m-token"]
 source: https://tensorjournal.com/en/news/inclusionai-ling-flash-mixture-experts-mit
 source_anchor: ""

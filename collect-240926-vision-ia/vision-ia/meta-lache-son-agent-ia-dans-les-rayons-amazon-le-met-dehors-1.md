@@ -5,7 +5,7 @@ domain: vision-ia
 role: reference
 task: reference
 actors: ["AWS", "Alibaba", "Anthropic", "Apple", "China", "DeepSeek", "Google", "Huawei", "Meta", "Microsoft", "OpenAI", "Perplexity", "SpaceX", "United States", "Xiaomi", "xAI"]
-dates: ["2024-06", "2024-06-10", "2025-03-29", "2025-05", "2026-12-21"]
+dates: ["2024-06-10", "2025-03-29"]
 keywords: ["research", "accelerator", "agent", "agents", "astra", "benchmark", "chatgpt", "claude", "compute", "cost", "cyber", "deepseek"]
 source: docs/RAG/clean_en/vision-ia/meta-lache-son-agent-ia-dans-les-rayons-amazon-le-met-dehors.md
 source_anchor: ""

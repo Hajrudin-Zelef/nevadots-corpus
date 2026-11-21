@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-29"]
 keywords: ["intelligence", "federal", "artificial", "america", "order", "super", "terminology", "services"]
 source: https://www.legal500.com/intelligence/united-states/government-public-sector/the-white-house-adopts-super-intelligence-terminology-and-launches-si-powered-americagov
 source_anchor: ""

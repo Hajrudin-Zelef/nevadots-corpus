@@ -5,7 +5,7 @@ domain: regulation-geopolitics
 role: deep-dive
 task: regulation
 actors: ["China", "EU", "United States"]
-dates: ["2026-07-27", "2026-08", "2026-08-02", "2026-12", "2026-12-02", "2027-12", "2027-12-02", "2028-08", "2028-08-02"]
+dates: ["2026-07-27", "2026-08-02"]
 keywords: ["incident", "preemption", "regulation", "training", "watermarking"]
 source: docs/RAG/briefing-ia-2026-en.md
 source_anchor: "#s10"

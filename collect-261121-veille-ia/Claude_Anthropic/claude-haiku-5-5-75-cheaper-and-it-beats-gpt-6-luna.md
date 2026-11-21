@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "sonnet", "anthropic", "claude", "model", "cheaper", "tokens", "roughly"]
 source: https://www.intelligentliving.co/claude-haiku-5-5-75-cheaper/
 source_anchor: ""

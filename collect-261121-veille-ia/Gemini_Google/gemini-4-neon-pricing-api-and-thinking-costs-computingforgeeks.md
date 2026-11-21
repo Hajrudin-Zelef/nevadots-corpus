@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "neon", "vertex", "tokens", "thinking", "pricing", "carbon", "global"]
 source: https://computingforgeeks.com/gemini-4-neon-pricing-api/
 source_anchor: ""

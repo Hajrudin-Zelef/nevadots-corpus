@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-02-16"]
 keywords: ["subagents", "search", "ollama", "claude", "code", "cloud", "research", "model"]
 source: https://ollama.com/blog/web-search-subagents-claude-code
 source_anchor: ""

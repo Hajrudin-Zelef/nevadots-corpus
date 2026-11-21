@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["nemotron", "lightning", "model", "nvidia", "layers", "context", "token", "window"]
 source: https://www.layer3labs.io/guides/nemotron-3-5-lightning-explained
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: edg-compiler
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-16"]
 keywords: ["years", "months", "ended", "unavailable", "ends", "release", "openjdk", "liberica"]
 source: https://endoflife.date/bellsoft-liberica
 source_anchor: ""

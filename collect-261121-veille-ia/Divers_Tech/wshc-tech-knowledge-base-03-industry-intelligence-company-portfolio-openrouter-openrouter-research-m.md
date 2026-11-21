@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["openrouter", "models", "model", "across", "wshc-tech-knowledge-base", "provider", "atallah", "series"]
 source: https://github.com/willshchang/wshc-tech-knowledge-base/blob/HEAD/03_Industry-Intelligence/Company-Portfolio/OpenRouter/openrouter-research.md
 source_anchor: ""

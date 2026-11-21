@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["billion", "nvidia", "about", "revenue", "quarter", "expected", "china", "above"]
 source: https://memeburn.com/nvidia-earnings-without-jensen-huang/
 source_anchor: ""

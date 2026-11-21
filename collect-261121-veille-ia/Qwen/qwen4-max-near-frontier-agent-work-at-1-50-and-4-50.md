@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["alibaba", "qwen4-max", "gpt-6", "last", "exam", "agent", "qwen3", "agents"]
 source: https://llm-stats.com/blog/research/qwen4-max-launch
 source_anchor: ""

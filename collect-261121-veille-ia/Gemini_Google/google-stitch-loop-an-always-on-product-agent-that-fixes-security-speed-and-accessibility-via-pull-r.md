@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["stitch", "google", "product", "loop", "agent", "security", "pull", "teams"]
 source: https://i10x.ai/news/google-stitch-loop-product-agent-github-pull-requests
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["cache", "linux", "embedded", "randomizer", "before", "changes", "support", "parts"]
 source: https://dev.to/raghu_bharadwaj_404e60eb0c/linux-72-is-out-what-embedded-teams-should-test-first-1phe
 source_anchor: ""

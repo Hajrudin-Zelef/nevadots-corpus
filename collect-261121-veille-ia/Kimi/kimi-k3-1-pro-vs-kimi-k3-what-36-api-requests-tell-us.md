@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["kimi", "requests", "test", "task", "tasks", "reason", "model", "passed"]
 source: https://crazyrouter.com/en/blog/kimi-k3-1-pro-vs-kimi-k3-20261026-en
 source_anchor: ""

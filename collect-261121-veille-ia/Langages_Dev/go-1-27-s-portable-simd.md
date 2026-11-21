@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-25"]
 keywords: ["simd", "portable", "some", "tinygo", "code", "models", "read", "back"]
 source: https://golangweekly.com/issues/619
 source_anchor: ""

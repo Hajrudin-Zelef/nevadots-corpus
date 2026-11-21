@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-05-04"]
 keywords: ["memtest86", "memoire", "comme", "avant", "toujours", "test", "etapes", "diagnostic"]
 source: https://tech-insider.org/fr/memtest86-tester-ram-2026/
 source_anchor: ""

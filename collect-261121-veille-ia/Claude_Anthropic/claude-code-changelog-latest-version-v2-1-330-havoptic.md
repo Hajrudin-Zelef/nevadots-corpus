@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["claude", "code", "november", "here", "fixes", "october", "changelog", "long"]
 source: https://www.havoptic.com/tools/claude-code
 source_anchor: ""

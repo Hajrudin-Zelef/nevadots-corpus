@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["search", "deepseek", "page", "chat", "tools", "deepseekas", "searches", "pricing"]
 source: https://mcsaguru.com/deepseek-api-web-search-ocr-tts-asr-pricing
 source_anchor: ""

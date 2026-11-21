@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["microsoft", "model", "foundry", "mai-base-2", "base", "post-training", "pre-training", "weights"]
 source: https://dev.to/neticslabs/microsoft-finishes-a-28-trillion-parameter-base-model-plans-foundry-licensing-4fb9
 source_anchor: ""

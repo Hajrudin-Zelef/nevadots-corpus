@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["muse", "meta", "spark", "claude", "points", "modeles", "fable", "modele"]
 source: https://tech-insider.org/fr/muse-spark-1-3-meta-claude-fable-2026/
 source_anchor: ""

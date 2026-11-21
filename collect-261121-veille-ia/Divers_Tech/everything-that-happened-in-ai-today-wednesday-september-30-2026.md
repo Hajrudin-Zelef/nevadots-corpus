@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-30"]
 keywords: ["model", "anthropic", "wednesday", "september", "openai", "today", "safety", "executive"]
 source: https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026/
 source_anchor: ""

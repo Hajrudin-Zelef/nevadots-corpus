@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["model", "tokens", "tasks", "artificial", "analysis", "performance", "benchmark", "grok"]
 source: https://docsbot.ai/models/grok-4-6
 source_anchor: ""

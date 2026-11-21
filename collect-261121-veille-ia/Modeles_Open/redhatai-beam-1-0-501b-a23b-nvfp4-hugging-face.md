@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-30"]
 keywords: ["beam", "reasoning", "agentic", "hugging", "face", "text", "parameters", "context"]
 source: https://huggingface.co/RedHatAI/Beam-1.0-501B-A23B-NVFP4
 source_anchor: ""

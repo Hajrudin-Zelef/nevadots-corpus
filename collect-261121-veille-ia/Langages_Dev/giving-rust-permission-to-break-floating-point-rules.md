@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-20"]
 keywords: ["algebraic", "values", "rust", "floating-point", "says", "same", "permission", "normal"]
 source: https://www.jijobose.com/blogs/rust-1-98-introduces-algebraic-floating-point-methods/
 source_anchor: ""

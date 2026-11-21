@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["kimi", "more", "model", "moonshot", "visual", "hands-on", "tests", "benchmarks"]
 source: https://www.edenai.co/post/kimi-k3-1-pro-benchmarks-pricing
 source_anchor: ""

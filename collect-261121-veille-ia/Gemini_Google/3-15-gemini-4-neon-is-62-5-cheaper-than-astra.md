@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["neon", "model", "gemini", "google", "carbon", "price", "astra", "input"]
 source: https://dev.to/frankchu/315-gemini-4-neon-is-625-cheaper-than-astra-4a16
 source_anchor: ""

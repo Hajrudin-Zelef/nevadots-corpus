@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["models", "cl30", "best", "llms", "ddr5", "kits", "ddr5-6000", "locally"]
 source: https://saeedai.com/best-ram-running-llms-locally-2027/
 source_anchor: ""

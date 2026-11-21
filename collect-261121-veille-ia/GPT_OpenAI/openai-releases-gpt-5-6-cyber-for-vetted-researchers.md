@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-10"]
 keywords: ["gpt-5", "cyber", "model", "openai", "daybreak", "security", "standard", "cybersecurity"]
 source: https://blog.evolvedigital.ai/openai-launches-gpt-5-6-cyber-the-first-offense-grade-ai-model-built-for-security-professionals/
 source_anchor: ""

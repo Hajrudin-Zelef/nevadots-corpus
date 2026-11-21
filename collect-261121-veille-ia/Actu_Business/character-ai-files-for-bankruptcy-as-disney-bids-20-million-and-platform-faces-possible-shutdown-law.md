@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["character", "disney", "bankruptcy", "million", "platform", "faces", "chatbot", "company"]
 source: https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown
 source_anchor: ""

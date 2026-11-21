@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-31"]
 keywords: ["prix", "gpt-5", "juillet", "baisse", "opus", "million", "tokens", "openai"]
 source: https://tech-insider.org/fr/guerre-des-prix-ia-gpt-5-6-opus-5-2026/
 source_anchor: ""

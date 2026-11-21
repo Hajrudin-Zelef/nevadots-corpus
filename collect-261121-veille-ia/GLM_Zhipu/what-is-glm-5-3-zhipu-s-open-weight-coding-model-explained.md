@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["glm-5", "model", "zhipu", "coding", "launch", "models", "base", "weights"]
 source: https://apidog.com/blog/what-is-glm-5-3/
 source_anchor: ""

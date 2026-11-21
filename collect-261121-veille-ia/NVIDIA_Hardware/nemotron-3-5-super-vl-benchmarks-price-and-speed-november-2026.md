@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["open", "weights", "nemotron", "super", "price", "speed", "november", "tokens"]
 source: https://whoswinningai.com/model/nemotron-3-5-super-vl
 source_anchor: ""

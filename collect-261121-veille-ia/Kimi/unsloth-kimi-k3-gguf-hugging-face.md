@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-07-23"]
 keywords: ["kimi", "attention", "unsloth", "model", "number", "vision", "native", "context"]
 source: https://huggingface.co/unsloth/Kimi-K3-GGUF
 source_anchor: ""

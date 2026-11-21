@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["effort", "fable", "task", "opus", "mythos", "claude", "model", "work"]
 source: https://blog.neticslabs.com/claude-fable-mythos-5-2-effort-tier-cost-per-task/
 source_anchor: ""

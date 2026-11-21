@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["robotics", "gemini", "deepmind", "kitting", "same", "success", "apollo", "safety"]
 source: https://explainx.ai/blog/gemini-robotics-2-5-mercedes-kitting-asimov-jailbreak-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "model", "agent", "coding", "artificial", "benchmark", "analysis", "index"]
 source: https://dev.to/beatapi/grok-47-is-not-chasing-the-benchmark-crown-it-is-chasing-your-default-agent-slot-5h73
 source_anchor: ""

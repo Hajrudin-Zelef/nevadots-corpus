@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-08-01"]
 keywords: ["systems", "obligations", "risk", "transparency", "article", "august", "requirements", "providers"]
 source: https://www.legal500.com/intelligence/european-union/technology/eu-ai-act-article-50
 source_anchor: ""

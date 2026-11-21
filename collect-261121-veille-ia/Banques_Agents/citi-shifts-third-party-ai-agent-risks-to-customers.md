@@ -5,7 +5,7 @@ domain: banques-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["citi", "customers", "access", "agents", "agent", "agreement", "third-party", "account"]
 source: https://www.zeniteq.com/news/citi-shifts-third-party-ai-agent-risks-to-customers-8czoxp
 source_anchor: ""

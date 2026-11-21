@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-06"]
 keywords: ["chatgpt", "gpt-5", "luna", "aout", "openai", "comptes", "trois", "free"]
 source: https://tech-insider.org/fr/chatgpt-gratuit-illimite-gpt-5-6-luna-2026/
 source_anchor: ""

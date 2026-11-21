@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-01"]
 keywords: ["terra", "gpt-6", "openai", "tokens", "model", "input", "output", "agent"]
 source: https://dev.to/alexmercedcoder/ai-weekly-gpt-61-terra-agent-skills-and-anthropics-s-1-16k5
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["liquid", "lfm3-1", "openrouter", "tokens", "price", "million", "checked", "listed"]
 source: https://enterprisedna.co/directories/models/liquid-lfm-3-1-7b
 source_anchor: ""

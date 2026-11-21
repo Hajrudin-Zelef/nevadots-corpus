@@ -5,7 +5,7 @@ domain: edg-compiler
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-30"]
 keywords: ["next", "community", "years", "many", "source", "questions", "front", "project"]
 source: https://edgcpp.org/announcement/
 source_anchor: ""

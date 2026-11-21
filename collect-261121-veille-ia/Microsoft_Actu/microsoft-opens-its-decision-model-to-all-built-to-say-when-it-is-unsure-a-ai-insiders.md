@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "model", "decision", "models", "built", "answers", "foundry", "request"]
 source: https://talent.aiinsiders.net/article/microsoft-opens-its-decision-model-to-all-built-to-say-when
 source_anchor: ""

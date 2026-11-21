@@ -5,7 +5,7 @@ domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["claude", "haiku", "tokens", "effort", "medium", "analysis", "thinking", "cliff"]
 source: https://apineed.com/blog/claude-haiku-5-5-what-is
 source_anchor: ""

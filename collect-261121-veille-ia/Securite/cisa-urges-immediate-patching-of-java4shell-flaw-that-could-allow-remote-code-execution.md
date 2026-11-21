@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["java", "flaw", "keycloak", "cisa", "code", "security", "remote", "execution"]
 source: https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html
 source_anchor: ""

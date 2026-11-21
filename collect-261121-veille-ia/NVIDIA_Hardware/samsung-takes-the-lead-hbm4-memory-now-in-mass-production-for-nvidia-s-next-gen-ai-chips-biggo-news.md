@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-02-12"]
 keywords: ["samsung", "hbm4", "memory", "production", "nvidia", "mass", "gbps", "layer"]
 source: https://biggo.com/news/202602121823_Samsung-HBM4-Mass-Production-NVIDIA-Vera-Rubin
 source_anchor: ""

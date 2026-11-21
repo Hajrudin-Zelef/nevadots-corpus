@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "space", "bunny", "tokens", "free", "model", "openrouter"]
 source: https://www.michaelleung.info/latest-news/minimax-m3-1-flash-space-bunny-tested
 source_anchor: ""

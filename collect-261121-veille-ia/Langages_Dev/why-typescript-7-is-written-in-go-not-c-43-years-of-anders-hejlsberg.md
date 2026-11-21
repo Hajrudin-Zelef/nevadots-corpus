@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "hejlsberg", "code", "pascal", "compiler", "turbo", "program", "javascript"]
 source: http://dev.to/vladut02/why-typescript-7-is-written-in-go-not-c-43-years-of-anders-hejlsberg-ko2
 source_anchor: ""

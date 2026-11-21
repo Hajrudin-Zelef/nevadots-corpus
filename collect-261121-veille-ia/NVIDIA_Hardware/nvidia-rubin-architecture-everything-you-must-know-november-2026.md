@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["rubin", "cloud", "nvidia", "vera", "first", "gpus", "public", "rack"]
 source: https://www.thundercompute.com/blog/nvidia-rubin-architecture
 source_anchor: ""

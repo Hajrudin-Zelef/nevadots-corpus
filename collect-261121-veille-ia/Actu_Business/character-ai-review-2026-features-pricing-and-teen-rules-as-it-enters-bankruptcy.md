@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-12"]
 keywords: ["character", "million", "bankruptcy", "characters", "chat", "users", "still", "according"]
 source: https://the-ai-future.com/reviews/character-ai
 source_anchor: ""

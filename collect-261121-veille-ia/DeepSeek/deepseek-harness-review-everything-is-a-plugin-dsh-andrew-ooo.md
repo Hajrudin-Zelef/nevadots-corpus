@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["plugin", "harness", "deepseek", "agent", "model", "stars", "core", "august"]
 source: https://andrew.ooo/posts/deepseek-harness-everything-is-a-plugin-review/
 source_anchor: ""

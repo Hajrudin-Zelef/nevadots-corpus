@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-03"]
 keywords: ["inference", "sambanova", "supermicro", "sn50", "data", "high-performance", "chips", "delivering"]
 source: https://www.nasdaq.com/press-release/sambanova-sn50-chips-power-supermicros-new-inference-racks-delivering-high
 source_anchor: ""

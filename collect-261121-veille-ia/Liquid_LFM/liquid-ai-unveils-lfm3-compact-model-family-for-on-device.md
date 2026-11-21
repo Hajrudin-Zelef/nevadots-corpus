@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["liquid", "lfm3", "models", "compact", "agent", "data", "on-device", "family"]
 source: https://af.net/?p=125904
 source_anchor: ""

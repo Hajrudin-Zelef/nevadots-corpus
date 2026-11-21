@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["transcription", "audio", "model", "speech", "language", "transcribe", "encoder", "text"]
 source: https://huggingface.co/x-ion-org/NVIDIA-SCRUTIUM-3.5-Transcribe-30B-A4B?library=transformers
 source_anchor: ""

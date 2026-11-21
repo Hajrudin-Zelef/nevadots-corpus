@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["cursor", "grok", "plan", "models", "teams", "pool", "tokens", "flat"]
 source: https://pick-right.com/best/cursor-alternatives/
 source_anchor: ""

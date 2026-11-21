@@ -5,7 +5,7 @@ domain: documents-binaires
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-28"]
 keywords: ["ling-3", "personal", "flash-1019", "model", "agents", "group", "bailing", "tasks"]
 source: https://picx.dev/news/QEbHX6
 source_anchor: ""

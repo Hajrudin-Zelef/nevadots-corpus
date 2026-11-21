@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4-max", "tokens", "input", "qwen", "qwen3", "price", "output", "changed"]
 source: https://apidog.com/blog/qwen-4-max-vs-qwen-3-8/
 source_anchor: ""

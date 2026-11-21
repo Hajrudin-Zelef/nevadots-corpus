@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["cursor", "usage", "team", "premium", "teams", "models", "pool", "plan"]
 source: https://www.toolcolumn.com/learn/cursor-pro-vs-teams-vs-usage-pricing
 source_anchor: ""

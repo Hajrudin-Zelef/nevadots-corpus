@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "spark", "open", "model", "kimi", "meta", "card", "qwen3"]
 source: https://x9m8.com/muse-spark-open-meta-816b-open-weights-license-hardware/
 source_anchor: ""

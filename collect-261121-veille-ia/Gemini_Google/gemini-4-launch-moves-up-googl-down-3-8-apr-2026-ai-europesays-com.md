@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["google", "gemini", "launch", "verge", "model", "early", "post-training", "kavukcuoglu"]
 source: https://www.europesays.com/ai/233589/
 source_anchor: ""

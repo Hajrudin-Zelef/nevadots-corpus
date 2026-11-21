@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["amodei", "evaluators", "anthropic", "frontier", "dario", "model", "pace", "plan"]
 source: https://www.explainx.ai/blog/dario-amodei-pace-the-frontier-embedded-evaluators-2026
 source_anchor: ""

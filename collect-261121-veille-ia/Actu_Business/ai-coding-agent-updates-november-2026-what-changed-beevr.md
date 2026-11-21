@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["november", "claude", "copilot", "models", "model", "enterprise", "october", "gemini"]
 source: https://beevr.ai/blog/ai-coding-agents-november-2026
 source_anchor: ""

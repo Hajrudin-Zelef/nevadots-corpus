@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gpt-6", "astra", "index", "luna", "effort", "task", "terra", "openai"]
 source: https://dervity.com/blog/gpt-6-astra-sol-luna-guide
 source_anchor: ""

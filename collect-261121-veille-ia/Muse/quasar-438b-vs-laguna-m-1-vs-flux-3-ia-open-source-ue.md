@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["quasar", "modele", "trois", "multiverse", "open", "source", "computing", "laguna"]
 source: https://tech-insider.org/fr/quasar-438b-vs-laguna-m1-vs-flux-3-2026/
 source_anchor: ""

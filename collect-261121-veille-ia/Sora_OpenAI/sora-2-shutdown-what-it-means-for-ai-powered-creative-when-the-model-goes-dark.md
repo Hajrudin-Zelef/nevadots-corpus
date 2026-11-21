@@ -5,7 +5,7 @@ domain: sora-openai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["model", "sora", "tool", "goes", "openai", "every", "production", "shutdown"]
 source: https://cape.io/news/when-the-model-goes-dark-what-the-sora-2-shutdown-means-for-ai-powered-creative
 source_anchor: ""

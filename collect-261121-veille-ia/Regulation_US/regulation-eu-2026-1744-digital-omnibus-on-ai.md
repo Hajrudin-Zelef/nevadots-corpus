@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["omnibus", "digital", "article", "systems", "regulation", "high-risk", "august", "under"]
 source: https://www.ey.com/en_gr/technical/tax/tax-alerts/regulation-eu-2026-1744-digital-omnibus-on-ai
 source_anchor: ""

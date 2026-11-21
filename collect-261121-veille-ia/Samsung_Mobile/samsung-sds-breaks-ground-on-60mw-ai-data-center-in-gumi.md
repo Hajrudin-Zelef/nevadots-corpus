@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-02"]
 keywords: ["samsung", "gumi", "center", "billion", "data", "cooling", "trillion", "facility"]
 source: https://cryptobriefing.com/samsung-sds-gumi-ai-data-center-construction/
 source_anchor: ""

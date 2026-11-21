@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["lean", "openai", "proof", "says", "finite", "time", "navier-stokes", "fluids"]
 source: https://ademb10.com/claims/navier-stokes
 source_anchor: ""

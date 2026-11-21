@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["model", "server", "nvidia", "audio", "speaker-labelled", "nemotron", "transcribe", "h100"]
 source: https://dev.to/aifrontierpost/turn-meeting-recordings-into-speaker-labelled-transcripts-with-nvidias-nemotron-35-transcribe-4033
 source_anchor: ""

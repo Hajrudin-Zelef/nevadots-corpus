@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-07"]
 keywords: ["openai", "pierre", "codex", "code", "storage", "developer", "trees", "directly"]
 source: https://blogs.techbytes.app/posts/pierre-bun-astral-tbpn-and-40-more-startups-acquired-by/
 source_anchor: ""

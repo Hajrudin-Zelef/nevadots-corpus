@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-19"]
 keywords: ["mercury", "tokens", "inception", "model", "time", "diffusion", "models", "steps"]
 source: https://dev.to/m_t_ramkrushna/mercury-3-and-the-diffusion-llm-bet-what-1000-tokens-per-second-changes-for-agents-and-what-it-51bl
 source_anchor: ""

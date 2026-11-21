@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["azure", "package", "framework", "agent", "python", "microsoft", "credentials", "environment"]
 source: https://www.thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
 source_anchor: ""

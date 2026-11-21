@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["vera", "rubin", "nvidia", "training", "nvl72", "agentic", "gb300", "benchmark"]
 source: https://emergent.sh/news/nvidia-vera-rubin-nvl72-doubles-gb300-gpu
 source_anchor: ""

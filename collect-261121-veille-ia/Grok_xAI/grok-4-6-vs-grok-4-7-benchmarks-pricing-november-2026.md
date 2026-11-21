@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "only", "vals", "measured", "benchmarks", "coding", "both", "call"]
 source: https://llmbenchmark.ai/compare/grok-4-6-vs-grok-4-7
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["qwen3", "task", "reasoning", "index", "more", "coding", "model", "alibaba"]
 source: https://www.intelligentliving.co/qwen3-8-max-update-smarter/
 source_anchor: ""

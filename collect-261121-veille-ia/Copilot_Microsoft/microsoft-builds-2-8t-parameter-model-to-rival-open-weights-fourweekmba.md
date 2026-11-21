@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["microsoft", "says", "model", "post", "mai-base-2", "training", "data", "weights"]
 source: https://fourweekmba.com/ai-microsoft-builds-2-8t-parameter-model-to-rival-open-weights/
 source_anchor: ""

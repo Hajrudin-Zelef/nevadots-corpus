@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-02"]
 keywords: ["marvell", "lumentum", "deal", "content", "said", "billion", "company", "morningstar"]
 source: https://www.morningstar.com/news/dow-jones/202611024217/marvell-to-buy-lumentum-for-115-billion-in-all-stock-ai-deal-2nd-update
 source_anchor: ""

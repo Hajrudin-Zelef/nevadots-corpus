@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "update", "security", "changes", "supported", "devices", "november", "fixes"]
 source: https://www.techrepublic.com/article/news-windows-11-november-2026-update-features/
 source_anchor: ""

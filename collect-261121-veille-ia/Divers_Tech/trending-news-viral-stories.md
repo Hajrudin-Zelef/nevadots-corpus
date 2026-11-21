@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-14"]
 keywords: ["november", "stories", "news", "viral", "friday", "trending", "strikes", "united"]
 source: https://www.kingston.eu.org/2026/11/ddr5-ram-price-november-2026
 source_anchor: ""

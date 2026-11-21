@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "hydrogen", "artificial", "analysis", "high", "index", "model", "batch"]
 source: https://openrouter.ai/google/gemini-4-hydrogen:batch
 source_anchor: ""

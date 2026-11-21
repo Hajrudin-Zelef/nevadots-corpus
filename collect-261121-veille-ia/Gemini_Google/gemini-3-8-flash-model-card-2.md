@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "model", "gemini", "google", "card", "coding", "knowledge", "models"]
 source: https://www.thequery.in/glossary/gemini-3-8-flash
 source_anchor: ""

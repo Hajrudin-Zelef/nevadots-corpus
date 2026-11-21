@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["muse", "agent", "meta", "balance", "reuters", "conversations", "private", "wrong"]
 source: https://dev.to/paullovelace/metas-ai-agent-muse-is-mixing-up-conversations-and-showing-peoples-private-data-to-the-wrong-1bb7
 source_anchor: ""

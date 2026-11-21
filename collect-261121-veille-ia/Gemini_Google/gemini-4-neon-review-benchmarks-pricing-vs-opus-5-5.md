@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["neon", "gemini", "opus", "pricing", "carbon", "tier", "benchmarks", "hydrogen"]
 source: https://www.alekseialeinikov.com/en/blog/topics/ai/gemini-4-neon-vs-claude-opus-5-5-hydrogen-carbon
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: volet-1-wave-1-research-fiche-en
 role: deep-dive
 task: reference
 actors: ["AWS", "Anthropic", "Google", "Microsoft", "OpenAI"]
-dates: ["2025-05", "2026-02", "2026-02-03", "2026-02-05", "2026-03", "2026-06-30", "2026-07", "2027-02-04"]
+dates: ["2026-02-03", "2026-02-05", "2026-06-30"]
 keywords: ["research", "agent", "agentic", "agents", "bedrock", "benchmark", "benchmarks", "chatgpt", "claude", "cloud agent", "context window", "copilot"]
 source: docs/RAG/Grands titres IA modèlesEN.md
 source_anchor: ""

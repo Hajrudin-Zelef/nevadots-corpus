@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-01-27"]
 keywords: ["price", "skill", "still", "ddr5", "crisis", "discount", "kits", "ddr5-6000"]
 source: https://www.beyondimy.com/post/ram-price-crisis-32gb-ddr5-2026
 source_anchor: ""

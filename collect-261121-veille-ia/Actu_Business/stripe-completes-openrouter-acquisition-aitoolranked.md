@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["openrouter", "stripe", "august", "said", "november", "billion", "times", "same"]
 source: https://aitoolranked.com/news/stripe-completes-openrouter-acquisition
 source_anchor: ""

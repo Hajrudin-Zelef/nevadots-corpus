@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-04-24"]
 keywords: ["model", "deepseek", "preview", "card", "v4-pro", "models", "pricing", "under"]
 source: https://www.truefoundry.com/blog/eepseek-v4-pro
 source_anchor: ""

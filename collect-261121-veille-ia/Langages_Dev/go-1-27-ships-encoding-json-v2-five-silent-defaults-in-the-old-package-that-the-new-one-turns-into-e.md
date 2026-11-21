@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["json", "encoding", "package", "team", "defaults", "figure", "error", "name"]
 source: https://blog.zxce3.net/posts/go-encoding-json-v2-go-1-27-strict-defaults-duplicate-keys-utf8/
 source_anchor: ""

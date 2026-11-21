@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-19"]
 keywords: ["openrouter", "three", "money", "stripe", "model", "models", "chrome", "extension"]
 source: https://medium.com/@techieoverse/how-a-chrome-extension-became-a-7-5-billion-deal-in-three-years-14a09175a84c
 source_anchor: ""

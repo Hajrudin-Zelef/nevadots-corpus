@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["claude", "code", "version", "settings", "release", "stable", "model", "changes"]
 source: https://developertoolkit.ai/en/claude-code/reference/changelog/
 source_anchor: ""

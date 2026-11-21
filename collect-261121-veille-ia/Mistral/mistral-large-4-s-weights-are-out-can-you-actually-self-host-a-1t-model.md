@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["model", "mistral", "official", "card", "token", "context", "large", "preview"]
 source: https://dev.to/tng_thnhnhn_c933ee88b/mistral-large-4s-weights-are-out-can-you-actually-self-host-a-1t-model-1954
 source_anchor: ""

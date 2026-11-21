@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["copilot", "xcode", "github", "agent", "jetbrains", "extension", "code", "just"]
 source: https://dev.to/paullovelace/github-copilot-just-stopped-being-a-vs-code-thing-bn2
 source_anchor: ""

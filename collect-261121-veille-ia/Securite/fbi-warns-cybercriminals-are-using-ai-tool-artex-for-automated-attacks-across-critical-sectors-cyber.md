@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-08"]
 keywords: ["artex", "tool", "security", "automated", "across", "using", "cybercriminals", "attacks"]
 source: https://blog.nationalcybersecuritytrainingacademy.com/fbi-warns-cybercriminals-are-using-ai-tool-artex-for-automated-attacks-across-critical-sectors-cybercrime-infosec/
 source_anchor: ""

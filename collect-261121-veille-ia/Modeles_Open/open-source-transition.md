@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-30"]
 keywords: ["source", "open", "community", "alliance", "same", "development", "user", "public"]
 source: https://edgcpp.org/
 source_anchor: ""

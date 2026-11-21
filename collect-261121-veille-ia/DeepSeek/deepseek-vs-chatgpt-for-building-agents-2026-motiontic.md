@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-01"]
 keywords: ["deepseek", "gpt-6", "openai", "output", "chatgpt", "peak", "weights", "data"]
 source: https://www.motiontic.com/compare/deepseek-vs-chatgpt
 source_anchor: ""

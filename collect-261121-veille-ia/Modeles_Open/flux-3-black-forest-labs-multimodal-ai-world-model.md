@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["flux", "video", "black", "forest", "labs", "model", "image", "audio"]
 source: https://morphic.com/resources/models/flux-3
 source_anchor: ""

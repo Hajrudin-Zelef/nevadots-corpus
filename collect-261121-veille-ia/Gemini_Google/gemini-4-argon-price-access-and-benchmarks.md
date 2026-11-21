@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["google", "gemini", "argon", "price", "input", "claude", "opus", "gpt-6"]
 source: https://dev.to/projedefteri/gemini-4-argon-price-access-and-benchmarks-1g43
 source_anchor: ""

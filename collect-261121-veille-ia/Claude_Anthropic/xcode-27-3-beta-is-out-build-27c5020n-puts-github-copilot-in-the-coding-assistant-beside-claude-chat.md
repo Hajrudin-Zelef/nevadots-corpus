@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["xcode", "touch", "apple", "beta", "macos", "copilot", "november", "github"]
 source: https://macsonly.com/article/2026/xcode-27-3-beta-is-out
 source_anchor: ""

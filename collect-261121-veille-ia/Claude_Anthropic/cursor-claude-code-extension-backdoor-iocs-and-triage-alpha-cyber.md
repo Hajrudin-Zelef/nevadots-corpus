@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "extension", "microsoft", "code", "persistence", "config", "claude", "tunnel"]
 source: https://alpha-cyber.com/cursor-claude-code-extension-ssh-backdoor/
 source_anchor: ""

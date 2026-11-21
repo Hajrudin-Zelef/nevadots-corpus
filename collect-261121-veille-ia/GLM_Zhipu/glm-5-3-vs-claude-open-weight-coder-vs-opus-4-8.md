@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-22"]
 keywords: ["glm-5", "claude", "opus", "base", "same", "model", "launched", "post-training"]
 source: https://kie.ai/blog/glm-5-3-vs-claude
 source_anchor: ""

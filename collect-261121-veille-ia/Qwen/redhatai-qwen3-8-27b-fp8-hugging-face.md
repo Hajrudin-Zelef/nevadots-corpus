@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-03-05"]
 keywords: ["qwen3", "model", "coding", "agentic", "hugging", "face", "tasks", "dimension"]
 source: https://huggingface.co/RedHatAI/Qwen3.8-27B-FP8
 source_anchor: ""

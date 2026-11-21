@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-01-21"]
 keywords: ["check-in", "user", "tags", "trunk", "autoconf", "stephan", "autoconf-to-autosetup", "configure"]
 source: https://www.sqlite.org/src/timeline?bt=version-3.47.0&p=trunk&advm=1&udc=1
 source_anchor: ""

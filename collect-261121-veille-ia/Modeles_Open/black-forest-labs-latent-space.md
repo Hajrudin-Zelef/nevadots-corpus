@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-04"]
 keywords: ["flux", "models", "editing", "diffusion", "black", "forest", "labs", "video"]
 source: https://latent.space/wiki/black-forest-labs-437bc88f/
 source_anchor: ""

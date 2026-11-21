@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "argon", "google", "carbon", "tokens", "price", "november", "model"]
 source: https://emergent.sh/learn/gemini-4-carbon-vs-gemini-4-argon
 source_anchor: ""

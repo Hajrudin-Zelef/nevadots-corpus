@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-24"]
 keywords: ["deepseek", "kimi", "model", "flash", "october", "only", "prices", "list"]
 source: https://blog.laozhang.ai/en/posts/deepseek-v4-1-vs-kimi-k3-1
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-10"]
 keywords: ["tokens", "context", "image", "long", "search", "text", "grok-4", "input"]
 source: https://docs.x.ai/developers/pricing?campaign=voice-3-blog
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["claude", "government", "anthropic", "agencies", "fedramp", "high", "under", "onegov"]
 source: https://dev.to/techaiwire/claude-for-government-reaches-ga-under-fedramp-high-e9d
 source_anchor: ""

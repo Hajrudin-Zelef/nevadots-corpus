@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["muse", "agent", "meta", "said", "user", "september", "users", "would"]
 source: https://en.wikipedia.org/wiki/Muse_(AI_agent)
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["argon", "google", "deepmind", "robot", "gemini", "simulation", "data", "reasoning"]
 source: https://www.brocker.org/google-deepmind-gemini-4-argon-robotics
 source_anchor: ""

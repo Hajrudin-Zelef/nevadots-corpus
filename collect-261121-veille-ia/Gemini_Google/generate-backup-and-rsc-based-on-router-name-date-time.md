@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2016-08-02"]
 keywords: ["backup", "name", "global", "system", "date", "time", "local", "info"]
 source: https://forum.mikrotik.com/t/generate-backup-and-rsc-based-on-router-name-date-time/100356
 source_anchor: ""

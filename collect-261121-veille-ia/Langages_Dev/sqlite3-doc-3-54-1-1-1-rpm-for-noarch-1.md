@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["sqlite", "sqlite3", "index", "opensuse", "version", "documentation", "other", "limit"]
 source: https://rpmfind.net/linux/RPM/opensuse/tumbleweed/noarch/sqlite3-doc-3.54.1-1.1.noarch.html
 source_anchor: ""

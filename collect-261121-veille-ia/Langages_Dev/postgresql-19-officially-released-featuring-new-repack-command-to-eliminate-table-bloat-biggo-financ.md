@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["postgresql", "repack", "command", "table", "advice", "bloat", "changes", "logical"]
 source: https://finance.biggo.com/news/4bb32f7f-e55a-4ba6-9c2e-96ee6adfe06c
 source_anchor: ""

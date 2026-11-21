@@ -5,7 +5,7 @@ domain: sora-openai
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-26"]
 keywords: ["sora", "openai", "export", "help", "page", "video", "down", "shut"]
 source: https://www.layer3labs.io/guides/is-sora-shutting-down
 source_anchor: ""

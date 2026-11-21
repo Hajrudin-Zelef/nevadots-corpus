@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["muse", "meta", "wonder", "models", "tasks", "model", "launch", "frontier"]
 source: https://yourstory.com/ai-story/muse-wonder-meta-ai-race-frontier-models
 source_anchor: ""

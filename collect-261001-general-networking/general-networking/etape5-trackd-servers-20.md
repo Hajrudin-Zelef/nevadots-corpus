@@ -5,7 +5,7 @@ domain: general-networking
 role: reference
 task: reference
 actors: ["AMD", "Google", "Nvidia", "OpenAI", "Samsung", "TSMC"]
-dates: ["2026-05", "2026-28-07"]
+dates: []
 keywords: ["amd", "asic", "backlog", "capex", "compute", "cowos", "dram", "gpu", "hbm", "hbm3", "hbm4", "memory"]
 source: docs/RAG/collect-261001-general-networking/etape5_trackD_servers.md
 source_anchor: ""

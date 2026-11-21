@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["gen-4", "runway", "video", "camera", "motion", "clip", "controls", "worth"]
 source: https://www.flowjam.com/blog/runway-gen-4-review-2026
 source_anchor: ""

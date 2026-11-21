@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["chatgpt", "work", "gpt-6", "codex", "update", "astra", "learn", "ultrafast"]
 source: https://learn.chatgpt.com/docs/whats-new
 source_anchor: ""

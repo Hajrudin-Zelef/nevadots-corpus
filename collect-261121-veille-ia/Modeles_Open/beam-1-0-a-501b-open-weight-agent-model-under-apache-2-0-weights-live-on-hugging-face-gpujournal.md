@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["beam", "model", "apache", "weights", "hugging", "face", "agent", "live"]
 source: https://gpujournal.ai/story/reflection-beam-501b-open-weights
 source_anchor: ""

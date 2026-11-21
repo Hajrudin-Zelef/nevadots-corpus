@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-12"]
 keywords: ["essay", "says", "amodei", "anthropic", "frontiera", "altman", "musk", "companies"]
 source: https://rits.shanghai.nyu.edu/ai/amodei-calls-to-pace-the-frontier-altman-and-musk-agree/
 source_anchor: ""

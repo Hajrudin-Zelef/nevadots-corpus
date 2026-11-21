@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "large", "model", "attention", "selects", "models", "also", "experts"]
 source: https://huggingface.co/blog/mistral-large4
 source_anchor: ""

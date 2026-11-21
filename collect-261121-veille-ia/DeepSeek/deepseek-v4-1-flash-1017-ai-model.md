@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "model", "flash-1017", "flash", "context", "input", "update", "shorter"]
 source: https://www.openstats.ai/models/deepseek-v4-1-flash-1017
 source_anchor: ""

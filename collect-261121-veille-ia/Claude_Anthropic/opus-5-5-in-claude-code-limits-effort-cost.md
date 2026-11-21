@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "claude", "default", "effort", "model", "code", "cache", "limits"]
 source: https://www.buildthisnow.com/blog/guide/mechanics/claude-opus-5-5-in-claude-code
 source_anchor: ""

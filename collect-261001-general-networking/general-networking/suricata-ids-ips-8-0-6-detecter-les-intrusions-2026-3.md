@@ -5,7 +5,7 @@ domain: general-networking
 role: reference
 task: reference
 actors: []
-dates: ["2026-30-08"]
+dates: []
 keywords: ["agent", "open source"]
 source: docs/RAG/collect-261001-general-networking/suricata-ids-ips-8-0-6-detecter-les-intrusions-2026.md
 source_anchor: ""

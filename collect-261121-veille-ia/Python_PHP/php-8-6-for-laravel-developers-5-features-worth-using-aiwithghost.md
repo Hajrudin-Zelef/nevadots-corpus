@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["laravel", "clamp", "features", "function", "value", "developers", "worth", "using"]
 source: http://aiwithghost.com/news/news-php-86-for-laravel-developers-5-features-worth-using/
 source_anchor: ""

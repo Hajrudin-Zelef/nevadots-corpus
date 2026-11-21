@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["metr", "model", "acceleration", "estimate", "harness", "unlikely", "automate", "improvement"]
 source: https://joi.ito.com/memos/rsi/full.html
 source_anchor: ""

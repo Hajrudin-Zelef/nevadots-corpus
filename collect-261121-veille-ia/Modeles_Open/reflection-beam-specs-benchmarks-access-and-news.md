@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["beam", "reflection", "model", "parameters", "reasoning", "billion", "benchmarks", "open-weight"]
 source: https://reflectionbeam.com/
 source_anchor: ""

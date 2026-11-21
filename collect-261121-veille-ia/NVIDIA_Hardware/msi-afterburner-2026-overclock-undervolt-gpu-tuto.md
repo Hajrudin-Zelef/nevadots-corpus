@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2025-09-29"]
 keywords: ["afterburner", "beta", "build", "votre", "carte", "surveillance", "selon", "courbe"]
 source: https://tech-insider.org/fr/msi-afterburner-overclock-undervolt-gpu-2026/
 source_anchor: ""

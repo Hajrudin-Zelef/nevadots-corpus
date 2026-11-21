@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["cell", "alphagenome", "model", "same", "explained", "condition", "type", "does"]
 source: https://virtualservicess.com/alphagenome-2-explained-how-ai-reads-your-dna-cell-by-cell-and-what-it-still-cant-do/
 source_anchor: ""

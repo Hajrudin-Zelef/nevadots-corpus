@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "claude", "anthropic", "first", "effort", "thinking", "agent", "credible"]
 source: https://llm-stats.com/blog/research/claude-haiku-5-5-launch
 source_anchor: ""

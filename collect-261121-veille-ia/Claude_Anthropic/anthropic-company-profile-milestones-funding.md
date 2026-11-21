@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["claude", "anthropic", "september", "company", "october", "research", "amazon", "said"]
 source: https://www.ventureatlas.org/company/anthropic
 source_anchor: ""

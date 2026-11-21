@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "claude", "tokens", "million", "pricing", "anthropic", "model", "verification"]
 source: https://www.layer3labs.io/comparisons/claude-opus-5-5-vs-claude-opus-5
 source_anchor: ""

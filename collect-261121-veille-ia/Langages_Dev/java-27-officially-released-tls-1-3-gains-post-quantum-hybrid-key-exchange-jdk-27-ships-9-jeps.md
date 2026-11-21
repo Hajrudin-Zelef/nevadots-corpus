@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["preview", "hybrid", "final", "default", "exchange", "jeps", "java", "post-quantum"]
 source: https://pbxscience.com/java-27-officially-released-tls-1-3-gains-post-quantum-hybrid-key-exchange-jdk-27-ships-9-jeps/
 source_anchor: ""

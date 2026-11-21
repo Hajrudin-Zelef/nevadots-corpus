@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-05"]
 keywords: ["questions", "nist", "cryptography", "agencies", "suppliers", "good", "vendor", "cisa"]
 source: https://www.quantumdefenceevent.com/insights/questions-to-ask-suppliers-about-pqc/
 source_anchor: ""

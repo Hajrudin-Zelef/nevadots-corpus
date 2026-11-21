@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-30"]
 keywords: ["beam", "reflection", "model", "index", "open", "about", "weights", "scored"]
 source: https://www.at-pulse.com/stories/3054/
 source_anchor: ""

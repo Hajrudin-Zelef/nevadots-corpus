@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["claude", "government", "anthropic", "discount", "state", "federal", "agreement", "agencies"]
 source: https://www.unite.ai/gsa-expands-anthropic-onegov-agreement-with-40-claude-discount/
 source_anchor: ""

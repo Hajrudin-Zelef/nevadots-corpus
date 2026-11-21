@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-07"]
 keywords: ["json", "go-json", "encoding", "sonic", "amd64", "arm64", "about", "bytedance"]
 source: https://blogs.abhipanseriya.dev/compare/golang-json-v2-vs-sonic-vs-go-json
 source_anchor: ""

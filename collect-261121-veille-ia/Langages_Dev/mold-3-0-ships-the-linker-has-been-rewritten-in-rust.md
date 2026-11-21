@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-06"]
 keywords: ["rust", "mold", "linker", "rewrite", "project", "developers", "systems", "files"]
 source: https://freedium-mirror.cfd/https://medium.com/@thyzmile24/mold-3-0-ships-the-linker-has-been-rewritten-in-rust-7478f5574a84
 source_anchor: ""

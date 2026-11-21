@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["gemini", "google", "post-training", "september", "kavukcuoglu", "explainx", "ship", "earlier"]
 source: https://www.explainx.ai/blog/google-gemini-4-fast-track-koray-kavukcuoglu-post-training-2026
 source_anchor: ""

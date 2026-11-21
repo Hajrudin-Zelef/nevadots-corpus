@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["openai", "jalapeno", "times", "nvidia", "latency", "tests", "chip", "versus"]
 source: https://forklog.com/en/openai-says-jalapeno-outperforms-nvidia-blackwell-in-tests/
 source_anchor: ""

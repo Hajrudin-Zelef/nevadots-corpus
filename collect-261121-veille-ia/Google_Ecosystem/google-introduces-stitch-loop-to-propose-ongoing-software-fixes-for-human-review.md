@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["google", "loop", "product", "stitch", "ongoing", "review", "code", "software"]
 source: https://superpowerdaily.com/posts/google-introduces-stitch-loop-to-propose-ongoing-software-fixes-for-human-review
 source_anchor: ""

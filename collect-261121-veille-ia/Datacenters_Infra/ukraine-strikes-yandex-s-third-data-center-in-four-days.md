@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-15"]
 keywords: ["data", "center", "october", "sasovo", "yandex", "vladimir", "yandexs", "kaluga"]
 source: https://tech-insider.org/ukraine-strikes-yandex-third-data-center-4-days-2026/
 source_anchor: ""

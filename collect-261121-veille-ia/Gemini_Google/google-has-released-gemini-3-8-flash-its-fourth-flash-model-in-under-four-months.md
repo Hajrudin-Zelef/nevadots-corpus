@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "flash", "task", "intelligence", "model", "reasoning", "google", "index"]
 source: https://artificialanalysis.ai/articles/gemini-3-8-flash
 source_anchor: ""

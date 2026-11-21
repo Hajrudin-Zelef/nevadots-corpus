@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["claude", "sonnet", "performance", "opus", "cost", "faster", "gpt-6", "model"]
 source: https://gigazine.net/gsc_news/en/20260929-claude-sonnet-5-5/
 source_anchor: ""

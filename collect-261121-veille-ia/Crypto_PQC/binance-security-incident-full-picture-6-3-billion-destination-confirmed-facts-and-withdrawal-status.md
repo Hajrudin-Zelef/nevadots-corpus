@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-29"]
 keywords: ["billion", "binance", "approximately", "incident", "security", "withdrawal", "been", "full"]
 source: https://www.odaily.news/en/post/5213683
 source_anchor: ""

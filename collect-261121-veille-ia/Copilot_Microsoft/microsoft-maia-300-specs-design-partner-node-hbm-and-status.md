@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["microsoft", "maia", "chip", "memory", "owner", "node", "azure", "partner"]
 source: https://customsiliconlist.com/microsoft-maia-300/
 source_anchor: ""

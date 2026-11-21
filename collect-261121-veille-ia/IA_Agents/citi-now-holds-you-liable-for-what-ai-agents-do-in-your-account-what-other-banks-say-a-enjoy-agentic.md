@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["citi", "agent", "agents", "other", "online", "third-party", "account", "actions"]
 source: https://enjoy.dev/blog/bank-of-america-ai-agents-password/
 source_anchor: ""

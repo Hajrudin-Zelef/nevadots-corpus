@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["bluetooth", "audio", "mbps", "wireless", "quality", "lossless", "could", "hi-res"]
 source: https://mobile.androidauthority.com/bluetooth-hdt-one-big-problem-3733124/
 source_anchor: ""

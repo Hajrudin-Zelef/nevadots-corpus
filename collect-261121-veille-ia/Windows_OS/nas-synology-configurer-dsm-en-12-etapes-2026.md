@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["synology", "disques", "systeme", "sauvegarde", "donnees", "configurer", "cloud", "baies"]
 source: https://tech-insider.org/fr/nas-synology-dsm-configuration-2026/
 source_anchor: ""

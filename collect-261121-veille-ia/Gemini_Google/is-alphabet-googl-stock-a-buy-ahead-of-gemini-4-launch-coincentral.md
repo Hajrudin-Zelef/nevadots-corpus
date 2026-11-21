@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["gemini", "google", "kavukcuoglu", "launch", "model", "said", "stock", "since"]
 source: https://coincentral.com/is-alphabet-googl-stock-a-buy-ahead-of-gemini-4-launch/
 source_anchor: ""

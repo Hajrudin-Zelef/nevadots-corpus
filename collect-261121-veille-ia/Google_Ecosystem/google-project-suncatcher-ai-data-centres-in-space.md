@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["computing", "project", "satellites", "googles", "data", "google", "suncatcher", "space"]
 source: https://www.geekqu.com/google-project-suncatcher-ai-data-centres-in-space/
 source_anchor: ""

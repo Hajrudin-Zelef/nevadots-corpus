@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-31"]
 keywords: ["billion", "hardware", "supply", "about", "power", "chain", "race", "memory"]
 source: https://medium.com/@rameezramzan/ai-hardware-supply-chain-2026ai-hardware-supply-chain-2026-hbm4-cowos-power-and-the-global-race-0470a92a56e4
 source_anchor: ""

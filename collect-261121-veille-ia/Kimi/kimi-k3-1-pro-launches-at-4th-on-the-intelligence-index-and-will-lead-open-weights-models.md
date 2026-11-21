@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["kimi", "intelligence", "index", "weights", "model", "open", "task", "release"]
 source: https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks?ref=implicator.ai
 source_anchor: ""

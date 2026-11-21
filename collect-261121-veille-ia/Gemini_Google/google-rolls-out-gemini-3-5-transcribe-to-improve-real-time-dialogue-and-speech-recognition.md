@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["gemini", "google", "transcribe", "model", "speech", "improve", "dialogue", "recognition"]
 source: https://www.androidauthority.com/google-introduces-gemini-audio-3703443/
 source_anchor: ""

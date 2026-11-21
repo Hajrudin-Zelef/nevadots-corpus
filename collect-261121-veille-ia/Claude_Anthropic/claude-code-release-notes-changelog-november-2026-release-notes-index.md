@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2025-11-24"]
 keywords: ["claude", "code", "release", "mode", "sessions", "longer", "notes", "json"]
 source: https://releases.sh/anthropic/claude-code
 source_anchor: ""

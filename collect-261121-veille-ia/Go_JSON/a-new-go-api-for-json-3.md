@@ -5,7 +5,7 @@ domain: go-json
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["json", "encoding", "default", "packages", "object", "data", "users", "unmarshaling"]
 source: https://www.gocrazy.dev/learn/a-new-go-api-for-json/
 source_anchor: ""

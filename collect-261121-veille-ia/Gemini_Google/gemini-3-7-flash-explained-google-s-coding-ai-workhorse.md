@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["google", "gemini", "flash", "model", "coding", "workhorse", "line", "rate"]
 source: https://www.layer3labs.io/guides/gemini-3-7-flash-explained
 source_anchor: ""

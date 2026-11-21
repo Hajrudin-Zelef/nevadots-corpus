@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-02"]
 keywords: ["samsung", "gumi", "construction", "data", "centre", "begins", "story", "province"]
 source: https://www.wheresthe.ai/d/kr-samsung-sds-begins-construction-of-60mw-ai-data-centre-in-2026-11/
 source_anchor: ""

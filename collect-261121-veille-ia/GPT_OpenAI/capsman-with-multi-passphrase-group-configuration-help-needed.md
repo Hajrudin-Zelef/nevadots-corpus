@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-01-19"]
 keywords: ["name", "interface", "disabled", "capsman", "wifi", "mode", "vlan-id", "channel"]
 source: https://forum.mikrotik.com/t/capsman-with-multi-passphrase-group-configuration-help-needed/268261
 source_anchor: ""

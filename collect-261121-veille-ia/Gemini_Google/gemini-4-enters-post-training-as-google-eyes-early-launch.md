@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["gemini", "google", "model", "post-training", "early", "launch", "announced", "said"]
 source: https://diyai.io/news/gemini-4-post-training-early-launch/
 source_anchor: ""

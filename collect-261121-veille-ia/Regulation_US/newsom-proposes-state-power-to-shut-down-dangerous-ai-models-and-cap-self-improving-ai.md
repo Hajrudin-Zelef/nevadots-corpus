@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["state", "newsom", "would", "release", "power", "down", "models", "proposes"]
 source: https://www.thinkfacility.com/blog/newsom-california-ai-safety-report-shutdown-powers/
 source_anchor: ""

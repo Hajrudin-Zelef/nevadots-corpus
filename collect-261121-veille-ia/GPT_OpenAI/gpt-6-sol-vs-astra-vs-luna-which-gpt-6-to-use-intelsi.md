@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-05"]
 keywords: ["gpt-6", "openai", "astra", "model", "input", "luna", "october", "tokens"]
 source: https://intelsi.si/guides/gpt-6-astra-vs-sol-vs-luna
 source_anchor: ""

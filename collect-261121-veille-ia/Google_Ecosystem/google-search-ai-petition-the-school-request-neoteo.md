@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["search", "google", "petition", "schools", "school", "reported", "features", "request"]
 source: https://www.neoteo.com/en/google-workers-seek-ai-free-search-for-schools
 source_anchor: ""

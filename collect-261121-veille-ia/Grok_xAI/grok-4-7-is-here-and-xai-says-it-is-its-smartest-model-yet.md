@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "model", "work", "says", "tasks", "longer", "more", "coding"]
 source: https://yourstory.com/ai-story/grok-4-7-xai-smartest-model-coding-work
 source_anchor: ""

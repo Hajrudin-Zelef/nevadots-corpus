@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["openrouter", "stripe", "billion", "through", "model", "token", "owns", "numbers"]
 source: https://test.productwatch.io/stories/stripe-owns-openrouter-now-the-token-numbers-explain-the-7-5-billion
 source_anchor: ""

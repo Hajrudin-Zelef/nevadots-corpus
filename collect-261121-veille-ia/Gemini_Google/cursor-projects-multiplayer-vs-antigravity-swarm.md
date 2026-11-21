@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["cursor", "agents", "projects", "project", "docs", "multiplayer", "antigravity", "swarm"]
 source: https://dev.to/aitecharchive/cursor-projects-multiplayer-vs-antigravity-swarm-5bcl
 source_anchor: ""

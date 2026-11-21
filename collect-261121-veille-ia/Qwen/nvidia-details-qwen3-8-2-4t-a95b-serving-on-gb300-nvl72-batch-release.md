@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "model", "qwen3", "serving", "gb300", "nvl72", "t-a95b", "reasoning"]
 source: https://batchandrelease.com/nvidia-details-qwen3-8-2-4t-a95b-serving-on-gb300-nvl72
 source_anchor: ""

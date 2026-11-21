@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["samsung", "controls", "beta", "users", "program", "more", "camera", "begins"]
 source: https://news.samsung.com/global/samsung-begins-one-ui-9-5-beta-program
 source_anchor: ""

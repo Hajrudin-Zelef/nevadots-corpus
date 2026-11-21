@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-15"]
 keywords: ["qwen4-max", "alibaba", "output", "alibabas", "code", "tokens", "qwen", "model"]
 source: https://foundermag.co/launches/qwen4-max/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["openai", "pierre", "code", "post", "codex", "computer", "company", "closing"]
 source: https://expertbeacon.com/openai-pierre-computer-acquisition/
 source_anchor: ""

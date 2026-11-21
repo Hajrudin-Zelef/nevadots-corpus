@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-03"]
 keywords: ["plugin", "harness", "cordis", "repository", "install", "path", "pnpm", "deepseek"]
 source: https://www.sitepoint.com/deepseek-harness-developer-preview/
 source_anchor: ""

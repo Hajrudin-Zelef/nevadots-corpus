@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-05-13"]
 keywords: ["gophish", "phishing", "campagne", "simuler", "bien", "open", "source", "mesurer"]
 source: https://tech-insider.org/fr/gophish-simuler-campagne-phishing-2026/
 source_anchor: ""

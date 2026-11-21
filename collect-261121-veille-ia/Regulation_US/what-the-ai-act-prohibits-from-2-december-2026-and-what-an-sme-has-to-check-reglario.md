@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-02-02"]
 keywords: ["systems", "article", "february", "december", "point", "person", "prohibits", "check"]
 source: https://reglario.com/en/articles/what-the-ai-act-prohibits-from-2-december-2026/
 source_anchor: ""

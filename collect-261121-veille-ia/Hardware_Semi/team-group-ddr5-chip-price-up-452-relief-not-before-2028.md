@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["price", "team", "fortune", "chip", "group", "ddr5", "contract", "october"]
 source: https://tech-insider.org/team-group-ddr5-chip-price-452-percent-shortage-2028-2026/
 source_anchor: ""

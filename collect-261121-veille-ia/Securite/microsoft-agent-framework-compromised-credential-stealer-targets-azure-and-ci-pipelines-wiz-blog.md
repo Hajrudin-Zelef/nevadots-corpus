@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["azure", "microsoft", "stealer", "agent-framework", "credential", "package", "agent", "compromised"]
 source: https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi
 source_anchor: ""

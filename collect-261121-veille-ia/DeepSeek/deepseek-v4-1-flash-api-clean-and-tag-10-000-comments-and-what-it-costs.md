@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["comments", "model", "deepseek", "cost", "chinese", "costs", "flash", "calls"]
 source: http://dev.to/everyinfrahq/deepseek-v41-flash-api-clean-and-tag-10000-comments-and-what-it-costs-4kho
 source_anchor: ""

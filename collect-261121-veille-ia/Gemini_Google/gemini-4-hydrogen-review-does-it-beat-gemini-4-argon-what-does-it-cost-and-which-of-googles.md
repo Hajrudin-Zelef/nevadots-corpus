@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "hydrogen", "googles", "argon", "does", "index", "high", "cost"]
 source: https://medium.com/@mcthkayaa/gemini-4-hydrogen-review-does-it-beat-gemini-4-argon-what-does-it-cost-and-which-of-googles-0d8130262774
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-10-29"]
 keywords: ["check-in", "user", "tags", "trunk", "stephan", "sqlite", "database", "broken-lock-defense-1"]
 source: https://www.sqlite.org/src/timeline?bt=version-3.47.0&p=trunk&advm=1&udc=1
 source_anchor: ""

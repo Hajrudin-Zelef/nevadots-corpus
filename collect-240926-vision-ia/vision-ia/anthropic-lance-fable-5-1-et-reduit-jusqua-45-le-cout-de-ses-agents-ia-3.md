@@ -5,7 +5,7 @@ domain: vision-ia
 role: reference
 task: reference
 actors: ["Anthropic", "China", "DeepSeek", "Google", "Meta", "Nvidia", "OpenAI", "Z.ai"]
-dates: ["2028-12-31"]
+dates: []
 keywords: ["research", "agent", "agentic", "agents", "chatgpt", "claude", "cost", "deepseek", "exploit", "gemini", "gemini 4", "glm"]
 source: docs/RAG/clean_en/vision-ia/anthropic-lance-fable-5-1-et-reduit-jusqua-45-le-cout-de-ses-agents-ia.md
 source_anchor: ""

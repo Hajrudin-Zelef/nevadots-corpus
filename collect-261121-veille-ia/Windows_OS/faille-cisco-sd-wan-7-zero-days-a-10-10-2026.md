@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-07-07"]
 keywords: ["cisco", "sd-wan", "manager", "faille", "deux", "cvss", "zero-days", "sept"]
 source: https://tech-insider.org/fr/faille-cisco-sd-wan-2026/
 source_anchor: ""

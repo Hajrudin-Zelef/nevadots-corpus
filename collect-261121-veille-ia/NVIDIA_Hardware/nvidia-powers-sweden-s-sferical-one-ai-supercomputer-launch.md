@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "sferical", "sweden", "supercomputer", "shared", "launch", "wallenberg", "compute"]
 source: https://www.nationpress.com/sciencetech/nvidia-powers-sweden-sferical-one-launch
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: ["AMD", "Intel", "Microsoft"]
-dates: ["2023-10-10", "2024-10-08", "2025-10-14", "2025-11-11", "2026-09-27", "2026-10-13", "2026-11-10", "2027-10-12"]
+dates: ["2023-10-10", "2024-10-08", "2025-10-14", "2025-11-11", "2026-09-27", "2026-10-13", "2026-11-10"]
 keywords: ["amd", "intel", "sandbox"]
 source: docs/RAG/collect-261001-rattrapage/win11_guide.md
 source_anchor: ""

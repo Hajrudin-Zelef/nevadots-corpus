@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["rust-v0", "codex", "openai", "november", "here", "october", "changelog", "default"]
 source: https://www.havoptic.com/tools/openai-codex
 source_anchor: ""

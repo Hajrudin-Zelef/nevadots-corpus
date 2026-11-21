@@ -5,7 +5,7 @@ domain: banques-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["agent", "bank", "terms", "wrong", "before", "agents", "connect", "tool"]
 source: https://offgridstudio.app/blog/ai-agent-bank-account-liability
 source_anchor: ""

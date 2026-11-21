@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "microsoft", "models", "coding", "model", "gpt-6", "performance", "flash"]
 source: https://edgeconsultancykw.com/microsoft-mai-seven-models-code-2-cyber-2-flash-ignite-2026/
 source_anchor: ""

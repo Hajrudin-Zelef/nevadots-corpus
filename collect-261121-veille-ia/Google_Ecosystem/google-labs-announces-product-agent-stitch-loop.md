@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["stitch", "google", "loop", "agent", "product", "labs", "users", "live"]
 source: https://jetstream.blog/en/google-labs-stitch-loop/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-02"]
 keywords: ["build", "system", "grammar", "removed", "release", "syntax", "changes", "notes"]
 source: https://www.9100.ink/en/blog/zig-017/
 source_anchor: ""

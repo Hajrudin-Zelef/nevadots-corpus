@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2016-10-04"]
 keywords: ["pixel", "october", "years", "months", "least", "august", "google", "february"]
 source: https://en.wikipedia.org/wiki/Google_Pixel
 source_anchor: ""

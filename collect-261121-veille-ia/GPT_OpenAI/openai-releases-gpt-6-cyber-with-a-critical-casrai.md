@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["openai", "cyber", "gpt-6", "access", "model", "critical", "research", "register"]
 source: https://casrai.org/news/openai-gpt-6-cyber-critical-cybersecurity-rating
 source_anchor: ""

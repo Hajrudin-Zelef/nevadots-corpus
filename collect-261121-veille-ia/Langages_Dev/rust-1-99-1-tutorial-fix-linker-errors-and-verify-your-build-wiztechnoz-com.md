@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["rust", "compiler", "toolchain", "build", "project", "update", "version", "stable"]
 source: https://wiztechnoz.com/blog/rust-1991-tutorial-fix-linker-errors-and-verify-your-build
 source_anchor: ""

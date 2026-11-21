@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["android", "security", "october", "bulletin", "beta", "pixel", "patch", "release"]
 source: https://www.digitbin.com/android-update-tracker/
 source_anchor: ""

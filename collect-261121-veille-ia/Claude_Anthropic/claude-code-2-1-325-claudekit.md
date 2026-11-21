@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["claude", "commands", "sandbox", "sandboxed", "without", "code", "permission", "them"]
 source: https://claudekit.io/en/updates/claude-code-2-1-325/
 source_anchor: ""

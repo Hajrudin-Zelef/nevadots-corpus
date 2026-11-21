@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["java", "calif", "november", "java4shell", "openjdk", "oracle", "found", "runtime"]
 source: https://www.datatheorem.com/blog/java4shell-cve-2026-114938-java-base64-api-security/
 source_anchor: ""

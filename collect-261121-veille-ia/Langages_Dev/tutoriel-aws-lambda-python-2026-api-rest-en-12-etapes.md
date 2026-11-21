@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-10"]
 keywords: ["lambda", "python", "tutoriel", "version", "rest", "vous", "etapes", "role"]
 source: https://tech-insider.org/fr/tutoriel-aws-lambda-python-api-rest-serverless-2026/
 source_anchor: ""

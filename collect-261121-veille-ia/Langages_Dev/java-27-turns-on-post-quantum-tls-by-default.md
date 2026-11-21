@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["hybrid", "default", "handshake", "exchange", "ml-kem", "classical", "peers", "post-quantum"]
 source: https://dev.to/neticslabs/java-27-turns-on-post-quantum-tls-by-default-2ccc
 source_anchor: ""

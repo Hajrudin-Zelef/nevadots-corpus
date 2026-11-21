@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-09-25"]
 keywords: ["muse", "meta", "glasses", "agent", "connect", "charm", "also", "work"]
 source: https://www.therundown.ai/news/meta-muse-connect-2026-charm-ai-glasses
 source_anchor: ""

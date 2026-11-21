@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "kimi", "claude", "coding", "moonshot", "anthropic", "model", "weights"]
 source: https://www.datacamp.com/blog/kimi-k3-1-pro-vs-claude-opus-5-5
 source_anchor: ""

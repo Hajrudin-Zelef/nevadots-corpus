@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["claude", "codex", "code", "gpt-6", "benchmarks", "default", "want", "released"]
 source: https://openchamber.dev/blog/codex-vs-claude-code/
 source_anchor: ""

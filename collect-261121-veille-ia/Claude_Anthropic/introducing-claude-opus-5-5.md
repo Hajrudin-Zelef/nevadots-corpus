@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-31"]
 keywords: ["opus", "claude", "less", "work", "also", "model", "most", "introducing"]
 source: https://www.anthropic.com/claude-opus-5-5?_bhlid=353d7de6d6dd055676aa5af73933b58b73002280
 source_anchor: ""

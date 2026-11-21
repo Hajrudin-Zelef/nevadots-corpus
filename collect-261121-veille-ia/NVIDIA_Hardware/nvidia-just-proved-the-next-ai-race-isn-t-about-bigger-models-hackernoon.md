@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "step", "nvidia", "nemotron", "lightning", "parameters", "models", "token"]
 source: https://hackernoon.com/nvidia-just-proved-the-next-ai-race-isnt-about-bigger-models
 source_anchor: ""

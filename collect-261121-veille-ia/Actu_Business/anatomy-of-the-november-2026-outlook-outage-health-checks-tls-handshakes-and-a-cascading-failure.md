@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-14"]
 keywords: ["microsoft", "outlook", "health", "network", "november", "checks", "outage", "online"]
 source: https://dev.to/furqank729/anatomy-of-the-november-2026-outlook-outage-health-checks-tls-handshakes-and-a-cascading-failure-39n8
 source_anchor: ""

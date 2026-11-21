@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["genie", "google", "world", "project", "worlds", "model", "ultra", "subscribers"]
 source: https://i10x.ai/news/genie-4-project-genie-google-ai-ultra-available
 source_anchor: ""

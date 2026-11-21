@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["supported", "model", "service", "grok", "standard", "bedrock-mantle", "endpoint", "tier"]
 source: https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-xai-grok-4-6.html
 source_anchor: ""

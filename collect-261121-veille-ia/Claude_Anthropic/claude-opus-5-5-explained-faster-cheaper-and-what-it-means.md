@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "claude", "anthropic", "tokens", "percent", "faster", "million", "output"]
 source: https://applescoop.org/story/claude-opus-5-5-explained-features-pricing-what-changes
 source_anchor: ""

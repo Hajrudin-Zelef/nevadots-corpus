@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["sequence", "recognition", "discovery", "claude", "search", "upstream", "versus", "does"]
 source: https://daikikumakura.github.io/writing/ai-enzyme-discovery-evidence-en.html
 source_anchor: ""

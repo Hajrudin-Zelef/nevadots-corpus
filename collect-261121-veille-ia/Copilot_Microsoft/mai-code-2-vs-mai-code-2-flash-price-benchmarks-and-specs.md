@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "flash", "tokens", "microsoft", "better", "each", "price", "input"]
 source: https://vandatateam.com/ai-model-benchmarks/compare/mai-code-2-vs-mai-code-2-flash
 source_anchor: ""

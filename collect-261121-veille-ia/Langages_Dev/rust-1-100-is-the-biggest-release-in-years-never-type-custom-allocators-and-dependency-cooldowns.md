@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["type", "layout", "rust", "never", "allocator", "release", "dependency", "result"]
 source: https://dev.to/chenyuan20509/rust-1100-is-the-biggest-release-in-years-never-type-custom-allocators-and-dependency-cooldowns-2on2
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["agent", "shared", "context", "team", "cursor", "agents", "every", "rules"]
 source: http://dev.to/piekwerk/cursor-projects-goes-multiplayer-5-rules-for-the-shared-agent-context-your-whole-team-inherits-16o8
 source_anchor: ""

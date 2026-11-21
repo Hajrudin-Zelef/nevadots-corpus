@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-11"]
 keywords: ["mathematics", "problems", "navier-stokes", "clay", "institute", "announcement", "millennium", "these"]
 source: https://www.claymath.org/news/navier-stokes-announcement/
 source_anchor: ""

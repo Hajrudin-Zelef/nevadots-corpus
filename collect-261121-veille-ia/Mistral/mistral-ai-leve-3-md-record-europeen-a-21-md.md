@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["mistral", "deuros", "milliards", "levee", "cette", "modeles", "septembre", "montant"]
 source: https://tech-insider.org/fr/mistral-ai-leve-3-milliards-euros-2026/
 source_anchor: ""

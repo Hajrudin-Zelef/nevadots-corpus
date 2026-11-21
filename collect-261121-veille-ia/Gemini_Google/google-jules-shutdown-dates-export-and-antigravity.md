@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["jules", "google", "antigravity", "export", "source", "agent", "shutdown", "coding"]
 source: https://www.codesprintconsulting.com/blog/google-jules-shutdown
 source_anchor: ""

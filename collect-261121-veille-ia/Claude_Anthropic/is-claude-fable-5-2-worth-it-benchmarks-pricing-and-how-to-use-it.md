@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "high", "model", "effort", "xhigh", "tokens", "coding"]
 source: https://trtc.io/blog/details/anthropic-fable-5-2
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["typescript", "beta", "import", "source", "compiler", "imports", "webassembly", "stable"]
 source: https://www.diego-rodriguez.work/blog/typescript-7-1-beta-2026-migration-guide
 source_anchor: ""

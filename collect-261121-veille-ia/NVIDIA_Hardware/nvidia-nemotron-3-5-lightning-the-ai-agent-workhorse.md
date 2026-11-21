@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "lightning", "nemotron", "agent", "reasoning", "nvidia", "execution", "should"]
 source: https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/
 source_anchor: ""

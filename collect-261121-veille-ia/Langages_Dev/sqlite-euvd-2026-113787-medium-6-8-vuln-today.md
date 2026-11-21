@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["sqlite", "untrusted", "collate", "database", "view", "depth", "recursion", "process"]
 source: https://vuln.today/euvd/EUVD-2026-113787
 source_anchor: ""

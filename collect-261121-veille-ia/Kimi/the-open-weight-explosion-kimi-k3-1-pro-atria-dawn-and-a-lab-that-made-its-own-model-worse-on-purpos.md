@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-24"]
 keywords: ["model", "moonshot", "open-weight", "kimi", "atria", "dawn", "weights", "cyber"]
 source: http://dev.to/976905690/the-open-weight-explosion-kimi-k31-pro-atria-dawn-and-a-lab-that-made-its-own-model-worse-on-4jho
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "gpt-6", "claude", "cost", "task", "effort", "coding", "benchmarks"]
 source: https://www.datacamp.com/blog/gpt-6-2-sol-vs-claude-opus-5-5
 source_anchor: ""

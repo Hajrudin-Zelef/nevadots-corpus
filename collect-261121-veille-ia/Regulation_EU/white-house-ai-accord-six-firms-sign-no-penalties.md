@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-29"]
 keywords: ["accord", "internal", "white", "house", "pledge", "companies", "controls", "sign"]
 source: https://tech-insider.org/trump-white-house-ai-accord-super-intelligence-2026/
 source_anchor: ""

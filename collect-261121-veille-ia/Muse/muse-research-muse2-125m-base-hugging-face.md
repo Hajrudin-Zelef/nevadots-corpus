@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["model", "import", "text", "tokens", "torch", "tokenizer", "muse", "muse2forcausallm"]
 source: https://huggingface.co/Muse-research/Muse2-125M-Base
 source_anchor: ""

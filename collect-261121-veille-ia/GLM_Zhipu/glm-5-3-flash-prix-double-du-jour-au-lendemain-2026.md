@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["glm-5", "flash", "tokens", "septembre", "prix", "modeles", "double", "tarifs"]
 source: https://tech-insider.org/fr/glm-5-3-flash-prix-double-2026/
 source_anchor: ""

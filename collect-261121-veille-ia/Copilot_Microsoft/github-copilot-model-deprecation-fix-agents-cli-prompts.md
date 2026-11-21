@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["github", "opus", "claude", "copilot", "model", "terra", "gpt-6", "gpt-5"]
 source: https://www.toolbit.ai/blog/copilot-model-deprecation-fix-pinned-agents
 source_anchor: ""

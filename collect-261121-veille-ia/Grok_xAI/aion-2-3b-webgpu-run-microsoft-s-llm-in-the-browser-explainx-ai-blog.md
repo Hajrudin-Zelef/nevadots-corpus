@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["microsoft", "aion", "model", "webgpu", "onnx", "card", "browser", "chat"]
 source: https://www.explainx.ai/blog/microsoft-aion-instruct-2-3b-onnx-webgpu-browser-november-2026
 source_anchor: ""

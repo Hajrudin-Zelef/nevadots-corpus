@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["argon", "google", "gemini", "robot", "policy", "video", "mujoco", "contact"]
 source: https://www.aimastery.page/news/gemini-4-argon-robot-control
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["sferical", "gpus", "nvl72", "nvidia", "memory", "blackwell", "ultra", "single"]
 source: https://www.techtimes.com:443/articles/329133/20261016/sferical-one-goes-live-swedish-industry-coalition-shares-1152-blackwell-ultra-gpus.htm
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "sentinel", "matters", "values", "should", "example", "data", "encoding"]
 source: https://www.clcoding.com/2026/10/python-315-released-new-features-every.html
 source_anchor: ""

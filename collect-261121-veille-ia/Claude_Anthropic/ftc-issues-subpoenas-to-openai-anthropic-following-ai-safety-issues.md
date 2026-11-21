@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["openai", "anthropic", "safety", "issues", "models", "government", "both", "companies"]
 source: https://www.techtimes.com/articles/329146/20261016/ftc-issues-subpoenas-openai-anthropic-following-ai-safety-issues.htm
 source_anchor: ""

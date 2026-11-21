@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["deepseek", "flash", "model", "parameters", "pricing", "during", "input", "context"]
 source: https://blog.invidelabs.com/deepseek-v4-1-flash/
 source_anchor: ""

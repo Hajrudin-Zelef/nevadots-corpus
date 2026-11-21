@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-03-10"]
 keywords: ["enterprise", "github", "name", "policy", "model", "apps", "endpoint", "controls"]
 source: https://docs.github.com/en/enterprise-cloud@latest/rest/enterprise-admin/ai-controls
 source_anchor: ""

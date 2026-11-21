@@ -5,7 +5,7 @@ domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["gemini", "gateway", "hydrogen", "cursorbench", "task", "tokens", "cursor", "google"]
 source: https://www.llmreference.com/model/gemini-4-hydrogen
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["sqlite3", "sqlite", "result", "disqlite3", "version", "extension", "table", "added"]
 source: https://www.yunqa.de/delphi/products/sqlite3/history
 source_anchor: ""

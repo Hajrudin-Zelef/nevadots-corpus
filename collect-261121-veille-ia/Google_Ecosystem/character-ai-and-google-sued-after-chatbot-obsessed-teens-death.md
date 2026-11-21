@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2024-02-28"]
 keywords: ["death", "character", "after", "google", "teens", "sued", "chatbot-obsessed", "lawsuit"]
 source: https://www.futures.rs/en/puls/character-ai-and-google-sued-after-chatbot-obsessed-teen-s-death/
 source_anchor: ""

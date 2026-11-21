@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["model", "qwen3", "qwen", "flash-next", "models", "alibaba", "launch", "only"]
 source: https://www.lindy.ai/blog/qwen-3-8
 source_anchor: ""

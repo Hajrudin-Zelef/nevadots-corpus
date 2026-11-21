@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-04-21"]
 keywords: ["beta", "review", "gpt-6", "tool", "public", "model", "compaction", "changelog"]
 source: https://developers.openai.com/api/docs/changelog?change=you-can-now-choose-which-service-tiers-projects-can-use-in-p
 source_anchor: ""

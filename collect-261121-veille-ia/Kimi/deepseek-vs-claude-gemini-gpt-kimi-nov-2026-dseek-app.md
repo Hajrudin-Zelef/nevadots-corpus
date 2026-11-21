@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["deepseek", "claude", "artificial", "analysis", "gemini", "index", "kimi", "tokens"]
 source: https://dseek.app/guides/deepseek-vs-claude-gemini-gpt
 source_anchor: ""

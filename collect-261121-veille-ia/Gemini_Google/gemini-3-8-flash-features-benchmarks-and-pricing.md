@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "gemini", "model", "google", "models", "coding", "effort", "features"]
 source: https://www.datacamp.com/blog/gemini-3-8-flash-cyber
 source_anchor: ""

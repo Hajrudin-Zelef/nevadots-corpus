@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["windows", "microsoft", "november", "hotpatch", "office", "devices", "applications", "update"]
 source: https://pbxscience.com/microsoft-confirms-november-windows-11-hotpatch-can-stop-office-and-other-apps-from-launching/
 source_anchor: ""

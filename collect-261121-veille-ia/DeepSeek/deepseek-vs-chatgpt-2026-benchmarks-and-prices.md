@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-07-31"]
 keywords: ["deepseek", "gpt-6", "chatgpt", "models", "free", "model", "astra", "reasoning"]
 source: https://freakyjolly.com/deepseek-vs-chatgpt/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-05"]
 keywords: ["pixel", "phone", "november", "update", "search", "drop", "system", "check"]
 source: https://mobilegadgetnews.com/explained/november-2026-pixel-drop/
 source_anchor: ""

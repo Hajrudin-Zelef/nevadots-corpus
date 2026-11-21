@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["china", "billion", "nvidia", "revenue", "quarter", "margin", "hopper", "licensed"]
 source: https://www.ainvest.com/news/nvidia-china-halt-removes-2-revenue-lifts-gross-margin-risk-moved-518-billion-commitment-book-2611/
 source_anchor: ""

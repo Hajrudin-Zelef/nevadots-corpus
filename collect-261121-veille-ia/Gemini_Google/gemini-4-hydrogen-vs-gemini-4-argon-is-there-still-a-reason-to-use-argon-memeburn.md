@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["gemini", "argon", "hydrogen", "tokens", "default", "high", "model", "artificial"]
 source: https://memeburn.com/gemini-4-hydrogen-vs-gemini-4-argon/
 source_anchor: ""

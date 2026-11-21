@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-23"]
 keywords: ["claude", "anthropic", "plugins", "inside", "connectors", "consulting", "marketplace", "agents"]
 source: https://www.skool.com/@dark-horse-1123?g=the-ai-advantage
 source_anchor: ""

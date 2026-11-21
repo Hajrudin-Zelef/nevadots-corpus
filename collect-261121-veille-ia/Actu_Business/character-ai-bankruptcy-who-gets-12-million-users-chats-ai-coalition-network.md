@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-12"]
 keywords: ["character", "million", "bankruptcy", "users", "company", "disney", "sale", "october"]
 source: https://ai-coalition.net/blog/character-ai-bankruptcy-user-chat-data
 source_anchor: ""

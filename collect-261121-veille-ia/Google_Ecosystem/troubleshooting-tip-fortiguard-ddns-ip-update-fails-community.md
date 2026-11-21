@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-12-11"]
 keywords: ["ddns", "fortiguard", "diagnose", "update", "domain", "debug", "fortigate", "interface"]
 source: https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-FortiGuard-DDNS-IP-update-fails/ta-p/198179
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "anthropic", "built", "verified", "says", "hours", "post", "hypervisor"]
 source: https://explainx.ai/blog/top-20-things-built-with-claude-fable-5-2-matt-shumer-anthropic-mollick-2026
 source_anchor: ""

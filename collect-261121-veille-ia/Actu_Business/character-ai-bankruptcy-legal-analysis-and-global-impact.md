@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-12"]
 keywords: ["character", "legal", "company", "case", "bankruptcy", "october", "million", "licence"]
 source: https://aviperera.com/character-ai-bankruptcy/
 source_anchor: ""

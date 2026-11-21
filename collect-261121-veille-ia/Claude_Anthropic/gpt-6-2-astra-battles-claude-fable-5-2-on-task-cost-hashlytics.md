@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["fable", "astra", "task", "index", "vals", "cost", "effort", "minutes"]
 source: https://hashlytics.io/gpt-6-2-astra-battles-claude-fable-5-2-on-task-cost/
 source_anchor: ""

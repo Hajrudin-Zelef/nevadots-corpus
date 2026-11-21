@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["glimpse", "elorian", "astra", "says", "gpt-6", "against", "million", "nvidia"]
 source: ""
 source_anchor: ""

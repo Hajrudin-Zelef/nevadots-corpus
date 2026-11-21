@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["haiku", "effort", "anthropic", "medium", "tools", "osworld", "context", "output"]
 source: https://lucenta.ai/blog/claude-haiku-5-5-first-credible-haiku-agent
 source_anchor: ""

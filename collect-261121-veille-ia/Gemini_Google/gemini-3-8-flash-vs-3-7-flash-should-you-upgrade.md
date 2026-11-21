@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["flash", "gemini", "score", "should", "benchmark", "work", "upgrade", "token"]
 source: https://www.fullstack.com/blog/gemini-3-8-flash-vs-3-7-flash-should-you-upgrade
 source_anchor: ""

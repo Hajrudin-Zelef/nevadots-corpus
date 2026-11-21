@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-08-17"]
 keywords: ["apple", "security", "kernel", "webkit", "tahoe", "macos", "release", "flaws"]
 source: https://www.gikiewicz.com/apple-rushes-out-ios-26-6-1-and-macos-tahoe-26-6-2-to-patch
 source_anchor: ""

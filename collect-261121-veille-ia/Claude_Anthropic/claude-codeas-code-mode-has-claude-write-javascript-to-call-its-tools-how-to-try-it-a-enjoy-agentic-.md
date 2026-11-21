@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["claude", "code", "mode", "call", "codeas", "javascript", "november", "tools"]
 source: https://enjoy.dev/blog/claude-code-code-mode/
 source_anchor: ""

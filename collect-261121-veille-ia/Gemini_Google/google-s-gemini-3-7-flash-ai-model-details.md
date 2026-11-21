@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["model", "benchmark", "gemini", "tokens", "tasks", "flash", "google", "reasoning"]
 source: https://docsbot.ai/models/gemini-3-7-flash
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["nvidia", "china", "chips", "h200", "about", "hong", "kong", "beijing"]
 source: https://stockanalysis.com/news/nvidia-h200-chips-pile-up-hong-kong/
 source_anchor: ""

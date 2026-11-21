@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: []
-dates: ["2026-09-26", "2026-09-27", "2027-09-26"]
+dates: ["2026-09-26", "2026-09-27"]
 keywords: ["license"]
 source: docs/RAG/collect-261001-rattrapage/huawei_licences_tac_guide.md
 source_anchor: ""

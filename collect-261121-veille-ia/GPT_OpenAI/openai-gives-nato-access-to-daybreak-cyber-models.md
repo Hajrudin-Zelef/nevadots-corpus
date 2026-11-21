@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["openai", "access", "natos", "models", "nato", "daybreak", "tokens", "announcement"]
 source: https://www.zeniteq.com/news/openai-gives-nato-access-to-daybreak-cyber-models-yyu30x
 source_anchor: ""

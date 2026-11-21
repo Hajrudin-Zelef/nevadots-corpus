@@ -5,7 +5,7 @@ domain: atria-dawn
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["preview", "atria", "dawn", "model", "atomic", "chat", "card", "license"]
 source: https://atomic.chat/models/atria-dawn-preview
 source_anchor: ""

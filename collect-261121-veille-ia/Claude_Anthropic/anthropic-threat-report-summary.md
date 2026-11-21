@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["claude", "threat", "used", "anthropic", "report", "cases", "these", "actors"]
 source: https://medium.com/@kevin.mcnam/anthropic-threat-report-751699b00542
 source_anchor: ""

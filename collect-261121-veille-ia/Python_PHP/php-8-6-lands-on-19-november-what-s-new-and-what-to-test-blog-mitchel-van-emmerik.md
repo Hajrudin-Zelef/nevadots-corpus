@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["session", "function", "november", "readonly", "cookie", "through", "error", "clamp"]
 source: https://www.vanemmerik.net/blog/php-8-6-whats-new/en/
 source_anchor: ""

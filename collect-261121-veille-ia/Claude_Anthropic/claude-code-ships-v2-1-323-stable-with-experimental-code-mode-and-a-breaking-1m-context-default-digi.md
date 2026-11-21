@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["code", "claude", "mode", "experimental", "context", "settings", "official", "managed"]
 source: https://digintoai.com/en/articles/claude-code-ships-v2-1-323-stable-with-experimental-code-mode-and-a-breaking-1m-3385f9ddb4a4
 source_anchor: ""

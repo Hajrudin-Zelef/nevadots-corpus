@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["clamp", "time", "readonly", "function", "duration", "features", "class", "released"]
 source: https://tecadmin.net/php-8-6-released-whats-new/
 source_anchor: ""

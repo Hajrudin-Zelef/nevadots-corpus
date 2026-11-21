@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["apple", "fastframes-s", "paper", "model", "card", "repo", "clip", "b200"]
 source: https://blog.authon.dev/apple-fastframes-s-run-locally-mac
 source_anchor: ""

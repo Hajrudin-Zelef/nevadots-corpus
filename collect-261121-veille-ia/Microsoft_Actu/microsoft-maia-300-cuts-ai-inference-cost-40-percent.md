@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["microsoft", "maia", "azure", "inference", "cost", "nvidia", "chip", "memory"]
 source: https://techfastforward.com/articles/microsoft-maia-300-cuts-ai-inference-cost-40-percent
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-01-15"]
 keywords: ["tailwind", "bootstrap", "classes", "composants", "comparatif", "marche", "definitif", "semantiques"]
 source: https://tech-insider.org/fr/tailwind-css-vs-bootstrap-2026/
 source_anchor: ""

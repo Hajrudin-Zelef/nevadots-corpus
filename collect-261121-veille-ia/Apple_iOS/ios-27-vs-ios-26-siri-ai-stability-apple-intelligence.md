@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["apple", "iphone", "siri", "apples", "faster", "more", "ios", "runs"]
 source: https://vucense.com/tech-reviews/industry-business/ios-27-vs-ios-26-changes-features-2026/
 source_anchor: ""

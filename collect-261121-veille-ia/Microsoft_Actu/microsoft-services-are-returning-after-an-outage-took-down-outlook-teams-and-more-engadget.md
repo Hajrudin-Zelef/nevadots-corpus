@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["microsoft", "services", "outage", "said", "took", "outlook", "some", "down"]
 source: https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/
 source_anchor: ""

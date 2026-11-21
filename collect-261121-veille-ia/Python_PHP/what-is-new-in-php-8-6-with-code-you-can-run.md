@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-31"]
 keywords: ["class", "constant", "const", "clamp", "time", "code", "argument", "readonly"]
 source: https://sdp.im/blog/what-is-new-in-php-86-with-code-you-can-run
 source_anchor: ""

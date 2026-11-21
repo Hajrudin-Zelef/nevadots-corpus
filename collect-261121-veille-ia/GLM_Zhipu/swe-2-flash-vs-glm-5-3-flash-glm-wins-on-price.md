@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["flash", "cognition", "swe-2", "price", "wins", "weights", "glm", "models"]
 source: http://dev.to/shaam_ai/swe-2-flash-vs-glm-53-flash-glm-wins-on-price-3l8i
 source_anchor: ""

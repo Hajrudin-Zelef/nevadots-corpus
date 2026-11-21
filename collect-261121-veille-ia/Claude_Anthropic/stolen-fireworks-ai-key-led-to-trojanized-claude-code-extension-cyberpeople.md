@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "extension", "fireworks", "code", "trojanized", "claude", "attacker", "access"]
 source: https://cyberpeople.tech/blog/stolen-fireworks-ai-key-trojanized-claude-code-cursor
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["qualcomm", "amazon", "billion", "silicon", "inference", "warrant", "filing", "custom"]
 source: https://www.jonpeddie.com/news/amazon-bets-60-billion-on-qualcomm/
 source_anchor: ""

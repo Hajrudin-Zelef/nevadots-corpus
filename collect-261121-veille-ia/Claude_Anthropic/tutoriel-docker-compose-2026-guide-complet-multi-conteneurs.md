@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-17"]
 keywords: ["docker", "compose", "version", "guide", "sortie", "tutoriel", "vous", "chaque"]
 source: https://tech-insider.org/fr/tutoriel-docker-compose-application-multi-conteneurs-2026/
 source_anchor: ""

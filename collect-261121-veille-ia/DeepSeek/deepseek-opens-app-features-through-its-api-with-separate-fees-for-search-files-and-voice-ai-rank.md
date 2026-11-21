@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["search", "deepseek", "tools", "model", "through", "features", "developers", "built-in"]
 source: https://airanks.app/news/deepseek-app-api-tools-pricing-1113
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-20"]
 keywords: ["voice", "grok", "speech-to-speech", "index", "artificial", "analysis", "model", "gpt-live-1"]
 source: https://explainx.ai/blog/grok-voice-3-0-speech-to-speech-86-9-index-starlink-70-percent-2026
 source_anchor: ""

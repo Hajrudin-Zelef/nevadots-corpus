@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["price", "gpt-6", "claude", "text", "openai", "sonnet", "tokens", "arena"]
 source: https://vandatateam.com/ai-model-benchmarks/compare/claude-sonnet-5-5-vs-gpt-6-sol
 source_anchor: ""

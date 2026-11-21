@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "opus", "claude", "model", "anthropic", "tokens", "second", "used"]
 source: ""
 source_anchor: ""

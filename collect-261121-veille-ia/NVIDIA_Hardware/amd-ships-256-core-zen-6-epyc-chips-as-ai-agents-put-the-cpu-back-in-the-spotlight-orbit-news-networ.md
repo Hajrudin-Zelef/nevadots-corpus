@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["chips", "epyc", "agents", "server", "processors", "cloud", "core", "ships"]
 source: https://onnxews.com/story/amd-6th-gen-epyc-zen-6-shipping-2026
 source_anchor: ""

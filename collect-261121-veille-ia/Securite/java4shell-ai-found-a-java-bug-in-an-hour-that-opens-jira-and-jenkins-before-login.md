@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["java", "java4shell", "calif", "november", "oracle", "before", "login", "jenkins"]
 source: https://mean.ceo/tpost/java4shell
 source_anchor: ""

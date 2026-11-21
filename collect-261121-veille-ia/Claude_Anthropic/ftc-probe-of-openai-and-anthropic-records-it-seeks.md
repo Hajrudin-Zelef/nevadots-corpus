@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["openai", "anthropic", "metr", "reported", "axios", "companies", "documents", "probe"]
 source: https://tech-insider.org/ftc-investigates-openai-anthropic-ai-agents-2026/
 source_anchor: ""

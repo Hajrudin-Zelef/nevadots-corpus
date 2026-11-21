@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["equations", "fluid", "coffee", "navier-stokes", "problem", "proved", "outside", "time"]
 source: https://dev.scienceabc.com/pure-sciences/navier-stokes-openai-singularity-what-was-proved-what-is-open
 source_anchor: ""

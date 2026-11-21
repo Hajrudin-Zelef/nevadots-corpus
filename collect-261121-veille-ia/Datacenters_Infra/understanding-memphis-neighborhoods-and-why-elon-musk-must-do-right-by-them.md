@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["black", "memphis", "people", "orlando", "ocoee", "white", "residents", "homes"]
 source: https://williamspivey.substack.com/p/understanding-memphis-neighborhoods
 source_anchor: ""

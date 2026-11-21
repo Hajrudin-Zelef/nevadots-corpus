@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["argon", "robot", "model", "gemini", "physics", "code", "simulation", "google"]
 source: http://www.techtimes.com/articles/329416/20261023/gemini-4-argon-writes-physics-simulation-code-human-video-teaches-apollo-humanoid-cornhole.htm
 source_anchor: ""

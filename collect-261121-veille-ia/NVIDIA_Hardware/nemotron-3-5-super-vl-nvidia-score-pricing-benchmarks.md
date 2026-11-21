@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-21"]
 keywords: ["nemotron", "super", "score", "nvidia", "million", "benchmarks", "price", "context"]
 source: https://agentbreaking.com/models/nvidia--nemotron-3.5-super-vl
 source_anchor: ""

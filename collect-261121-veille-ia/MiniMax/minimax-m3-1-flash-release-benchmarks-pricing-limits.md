@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["minimax", "flash", "tokens", "artificial", "analysis", "model", "independent", "pricing"]
 source: https://kie.ai/blog/minimax-m3-1-flash-deep-dive
 source_anchor: ""

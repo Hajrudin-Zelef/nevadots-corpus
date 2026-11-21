@@ -5,7 +5,7 @@ domain: unifi-ubiquiti
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["output", "supported", "gemini", "tokens", "argon", "model", "input", "thinking"]
 source: https://www.aistackcurrent.com/models/gemini-4-argon/
 source_anchor: ""

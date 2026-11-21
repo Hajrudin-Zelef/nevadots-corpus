@@ -5,7 +5,7 @@ domain: governance-regulation
 role: deep-dive
 task: regulation
 actors: ["AWS", "Anthropic", "China", "EU", "Meta", "Nvidia", "United States"]
-dates: ["2025-08", "2025-12", "2026-03-19", "2026-04-27", "2026-05", "2026-07-17", "2026-07-23", "2026-08", "2026-08-02", "2027-12-02"]
+dates: ["2026-03-19", "2026-04-27", "2026-07-17", "2026-07-23", "2026-08-02"]
 keywords: ["governance", "regulation", "acquisition", "agent", "apache", "claude", "consumer", "disclosure", "energy", "export controls", "fable 5", "incident"]
 source: docs/RAG/ai-industry-knowledge-base-2026.md
 source_anchor: ""

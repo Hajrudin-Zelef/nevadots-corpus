@@ -5,7 +5,7 @@ domain: pricing-and-the-benchmark-landscape
 role: deep-dive
 task: pricing
 actors: ["Anthropic", "DeepSeek", "Google", "Meta", "Mistral", "OpenAI", "OpenRouter", "Z.ai"]
-dates: ["2026-08-29", "2026-12-31"]
+dates: ["2026-08-29"]
 keywords: ["agentic", "agents", "astra", "benchmark", "benchmarks", "claude", "cost", "deepseek", "fable 5", "gemini", "glm", "gpt-5.6"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

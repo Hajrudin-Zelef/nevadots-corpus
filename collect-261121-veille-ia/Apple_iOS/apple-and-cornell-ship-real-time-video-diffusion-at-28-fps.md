@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["video", "diffusion", "latency", "real-time", "apple", "cornell", "single", "frame"]
 source: https://emergent.sh/news/apple-cornell-ship-real-time-video-diffusion
 source_anchor: ""

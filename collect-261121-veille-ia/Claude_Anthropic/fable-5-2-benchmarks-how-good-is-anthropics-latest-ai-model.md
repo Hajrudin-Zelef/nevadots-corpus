@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "model", "anthropics", "claude", "agentic", "tokens", "coding", "research"]
 source: https://emergent.sh/learn/fable-5-2-benchmarks
 source_anchor: ""

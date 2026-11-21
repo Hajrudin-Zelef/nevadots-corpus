@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["terra", "gpt-6", "openai", "model", "computer", "price", "october", "says"]
 source: https://explainx.ai/blog/gpt-6-1-terra-launch-1-5-dollar-pricing-computer-use-benchmarks-2026
 source_anchor: ""

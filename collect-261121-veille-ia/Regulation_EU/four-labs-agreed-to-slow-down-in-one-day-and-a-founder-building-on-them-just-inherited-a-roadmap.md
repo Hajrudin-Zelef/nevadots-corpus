@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-12"]
 keywords: ["roadmap", "labs", "would", "four", "frontier", "agreed", "slow", "founder"]
 source: https://medium.com/startup-insider-edge/four-labs-agreed-to-slow-down-in-one-day-and-a-founder-building-on-them-just-inherited-a-roadmap-6d75e4fab559
 source_anchor: ""

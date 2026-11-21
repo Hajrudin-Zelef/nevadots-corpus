@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["commission", "systems", "european", "cyber-attack", "said", "been", "attack", "regnier"]
 source: https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/
 source_anchor: ""

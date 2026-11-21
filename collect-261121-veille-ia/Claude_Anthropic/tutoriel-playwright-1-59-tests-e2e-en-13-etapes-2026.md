@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-27"]
 keywords: ["playwright", "tests", "test", "cypress", "selon", "testdino", "selenium", "tutoriel"]
 source: https://tech-insider.org/fr/playwright-tutoriel-tests-e2e-13-etapes-2026/
 source_anchor: ""

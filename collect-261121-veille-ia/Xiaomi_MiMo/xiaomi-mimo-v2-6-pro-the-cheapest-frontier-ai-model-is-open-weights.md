@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["mimo", "index", "model", "xiaomi", "artificial", "xiaomis", "family", "cheapest"]
 source: https://www.intelligentliving.co/xiaomi-mimo-v2-6-pro-cheapest-frontier/
 source_anchor: ""

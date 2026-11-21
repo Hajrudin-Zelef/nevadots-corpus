@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2023-06-01"]
 keywords: ["fable", "claude", "model", "cache", "anthropic", "output", "thinking", "messages"]
 source: http://dev.to/hopbase/claude-fable-51-api-1m-context-025m-cache-reads-and-migrating-from-fable-5-318g
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-18"]
 keywords: ["nginx", "faille", "rift", "cvss", "version", "critiques", "serveur", "divulgation"]
 source: https://tech-insider.org/fr/nginx-rift-cve-2026-42945/
 source_anchor: ""

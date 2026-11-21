@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["autopilot", "copilot", "microsoft", "agent", "ignite", "work", "does", "frontier"]
 source: https://explainx.ai/blog/microsoft-copilot-autopilot-m365-frontier-rollout-november-2026
 source_anchor: ""

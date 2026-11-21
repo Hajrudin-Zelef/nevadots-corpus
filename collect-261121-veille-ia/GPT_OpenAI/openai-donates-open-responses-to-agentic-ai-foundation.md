@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["open", "responses", "foundation", "openai", "projects", "agentic", "four", "hosted"]
 source: https://wyde.org/articles/openai-donates-open-responses-llm-api-spec-to-agentic-ai-foundation
 source_anchor: ""

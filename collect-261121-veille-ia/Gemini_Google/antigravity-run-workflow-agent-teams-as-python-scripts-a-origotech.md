@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["antigravity", "agent", "copilot", "python", "script", "github", "workflows", "run-workflow"]
 source: https://origotech.dev/articles/antigravity-dynamic-workflows-run-workflow-copilot-model-deprecations-codex-0-169/
 source_anchor: ""

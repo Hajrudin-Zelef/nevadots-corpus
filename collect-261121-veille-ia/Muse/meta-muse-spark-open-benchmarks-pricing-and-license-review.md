@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "meta", "muse", "spark", "open", "hugging", "face", "license"]
 source: https://heshamsaad.com/en/meta-muse-spark-open/
 source_anchor: ""

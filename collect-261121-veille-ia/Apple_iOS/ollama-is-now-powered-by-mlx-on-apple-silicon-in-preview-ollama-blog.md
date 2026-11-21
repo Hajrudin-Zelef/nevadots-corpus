@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-03-30"]
 keywords: ["ollama", "apple", "silicon", "model", "powered", "nvfp4", "models", "preview"]
 source: https://ollama.com/blog/mlx
 source_anchor: ""

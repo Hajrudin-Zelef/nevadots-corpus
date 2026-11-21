@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["whisper", "gemini", "transcribe", "deepgram", "audio", "model", "google", "benchmark"]
 source: https://metawhisp.com/blog/gemini-3-5-transcribe-vs-deepgram-whisper/
 source_anchor: ""

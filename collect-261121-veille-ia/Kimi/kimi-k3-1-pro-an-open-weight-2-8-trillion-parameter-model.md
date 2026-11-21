@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["model", "kimi", "gpt-6", "open-weight", "trillion-parameter", "token", "training", "layers"]
 source: https://medium.com/@leucopsis/kimi-k3-1-pro-an-open-weight-2-8-trillion-parameter-model-bae4e67ad5bd
 source_anchor: ""

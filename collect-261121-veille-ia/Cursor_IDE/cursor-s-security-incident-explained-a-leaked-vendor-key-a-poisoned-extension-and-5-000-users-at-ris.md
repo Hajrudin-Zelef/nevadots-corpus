@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["cursor", "extension", "code", "attacker", "exposed", "users", "marketplace", "credentials"]
 source: https://dev.to/tin_thnhbnh_6d6c9102d/cursors-security-incident-explained-a-leaked-vendor-key-a-poisoned-extension-and-5000-users-47h4
 source_anchor: ""

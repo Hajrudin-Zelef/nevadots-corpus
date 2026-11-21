@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-30"]
 keywords: ["northflank", "october", "incident", "secrets", "qovery", "security", "happened", "rotate"]
 source: https://www.qovery.com/blog/northflank-security-incident-secrets-own-cloud
 source_anchor: ""

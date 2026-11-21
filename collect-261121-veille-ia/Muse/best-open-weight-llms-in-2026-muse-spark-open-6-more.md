@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "spark", "open", "meta", "model", "open-weight", "licence", "flash"]
 source: https://www.edenai.co/post/best-open-weight-llms
 source_anchor: ""

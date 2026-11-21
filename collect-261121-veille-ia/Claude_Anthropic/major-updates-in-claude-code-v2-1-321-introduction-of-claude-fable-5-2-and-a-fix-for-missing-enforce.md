@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["claude", "fable", "changes", "settings", "deny", "rules", "code", "security"]
 source: https://dev.classmethod.jp/en/articles/20261110-cc-updates-v2-1-321/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["runway", "character", "more", "model", "cost", "against", "camera", "aleph"]
 source: https://everydayaituts.com/ai-video-tools/runway-review
 source_anchor: ""

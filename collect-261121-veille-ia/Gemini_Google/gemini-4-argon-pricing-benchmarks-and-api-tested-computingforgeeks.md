@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["gemini", "argon", "tokens", "output", "thinking", "pricing", "google", "model"]
 source: https://computingforgeeks.com/gemini-4-argon-released-features-benchmarks/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["bluetooth", "pairing", "watchos", "later", "macos", "ipad", "ipados", "apple"]
 source: https://beyondmachines.net/event_details/apple-patches-bluetooth-pairing-and-imessage-flaws-across-ios-macos-watchos-and-visionos-5-e-e-u-f/gD2P6Ple2L
 source_anchor: ""

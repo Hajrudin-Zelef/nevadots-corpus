@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["model", "decision", "microsoft", "microsoft-decision-1", "score", "vendor", "openrouter", "index"]
 source: https://modelsystem.one/models/microsoft-decision-1-1/
 source_anchor: ""

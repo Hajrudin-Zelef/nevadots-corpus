@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-25"]
 keywords: ["fable", "claude", "mythos", "anthropic", "same", "model", "verification", "program"]
 source: https://www.explainx.ai/blog/claude-fable-5-1-mythos-5-1-launch-benchmarks-pricing-2026
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["duration", "server", "function", "stream", "event", "type", "them", "context"]
 source: https://les-tilleuls.coop/en/blog/whats-new-in-php-8-6
 source_anchor: ""

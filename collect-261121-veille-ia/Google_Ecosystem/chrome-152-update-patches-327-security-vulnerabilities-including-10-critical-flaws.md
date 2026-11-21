@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["chrome", "exploited", "update", "critical", "cwe-416", "flaws", "google", "security"]
 source: https://securityonline.info/chrome-152-security-update/
 source_anchor: ""

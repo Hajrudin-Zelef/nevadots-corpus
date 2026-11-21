@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-05-28"]
 keywords: ["ollama", "openjarvis", "jarvis", "personal", "install", "local-first", "available", "model"]
 source: https://ollama.com/blog/openjarvis
 source_anchor: ""

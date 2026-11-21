@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["gpt-6", "astra", "openai", "model", "tokens", "output", "released", "september"]
 source: https://emergent.sh/learn/what-is-gpt-6-astra
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["glm-5", "coding", "model", "more", "tokens", "models", "plan", "open-weights"]
 source: https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model
 source_anchor: ""

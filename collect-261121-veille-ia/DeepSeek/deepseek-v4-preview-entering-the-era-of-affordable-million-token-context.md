@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-07-24"]
 keywords: ["context", "deepseek-v4", "models", "deepseek", "preview", "deepseek-v4-pro", "deepseek-v4-flash", "mode"]
 source: https://www.deepseek.com/en/news/v4-preview/
 source_anchor: ""

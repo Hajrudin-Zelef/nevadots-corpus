@@ -5,7 +5,7 @@ domain: step-7-phase-a-server-operating-systems-linux-os-layer
 role: deep-dive
 task: reference
 actors: ["Oracle"]
-dates: ["2019-05-07", "2022-05-18", "2024-05-31", "2024-06", "2024-06-30", "2025-05", "2025-05-13", "2025-05-20", "2025-07", "2025-11", "2026-06", "2027-05-31", "2029-05-31", "2029-06-30", "2030-05-31", "2032-05-31", "2033-05-31", "2035-05-31", "2036-05-31", "2039-05-31"]
+dates: ["2019-05-07", "2022-05-18", "2024-05-31", "2024-06-30", "2025-05-13", "2025-05-20"]
 keywords: ["cost", "gpu", "hyperscaler", "open source", "packaging", "pricing"]
 source: docs/RAG/etape7_phaseA_os.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "release", "macos", "interpreter", "type", "idle", "features", "changes"]
 source: https://www.python.org/downloads/release/python-3150/
 source_anchor: ""

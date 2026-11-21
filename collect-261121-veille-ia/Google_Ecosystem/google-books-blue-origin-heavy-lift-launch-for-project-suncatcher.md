@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["google", "launch", "blue", "origin", "project", "heavy-lift", "suncatcher", "books"]
 source: https://pivotnews.ai/five/google-books-blue-origin-heavy-lift-launch-for-project
 source_anchor: ""

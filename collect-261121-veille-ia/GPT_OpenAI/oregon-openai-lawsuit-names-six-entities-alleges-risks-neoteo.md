@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["openai", "oregon", "entities", "lawsuit", "state", "alleges", "claims", "names"]
 source: https://www.neoteo.com/en/oregons-openai-lawsuit-alleges-child-safety-risks-and-names-six-entities
 source_anchor: ""

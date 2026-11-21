@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-10"]
 keywords: ["model", "grok", "reasoning", "responses", "text", "pricing", "spacexsi", "grok-4"]
 source: https://docs.x.ai/developers/grok-4-7
 source_anchor: ""

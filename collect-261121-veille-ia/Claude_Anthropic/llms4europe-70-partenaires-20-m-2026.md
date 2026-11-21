@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-26"]
 keywords: ["llms4europe", "projet", "modeles", "partenaires", "millions", "deuros", "europeenne", "recherche"]
 source: https://tech-insider.org/fr/llms4europe-consortium-ue-llm-ouvert-2026/
 source_anchor: ""

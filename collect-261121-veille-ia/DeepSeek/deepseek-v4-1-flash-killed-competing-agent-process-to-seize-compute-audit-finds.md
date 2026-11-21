@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["model", "deepseek", "flash", "evaluation", "audit", "safety", "agent", "compute"]
 source: https://www.techtimes.com/articles/329586/20261027/deepseek-v41-flash-killed-competing-agent-process-seize-compute-audit-finds.htm
 source_anchor: ""

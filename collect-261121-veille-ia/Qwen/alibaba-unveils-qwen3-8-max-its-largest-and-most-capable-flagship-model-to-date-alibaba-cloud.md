@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["qwen3", "model", "alibaba", "most", "date", "cloud", "arena", "agent"]
 source: https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen3-8-max?_p_lc=1&spm=a3c0i.8288105.8942115220.19.2b4d6a37wVJkca
 source_anchor: ""

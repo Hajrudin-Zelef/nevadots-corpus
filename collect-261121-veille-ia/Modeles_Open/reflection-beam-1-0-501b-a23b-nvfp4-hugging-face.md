@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-30"]
 keywords: ["beam", "reasoning", "reflection", "agentic", "hugging", "face", "text", "parameters"]
 source: https://huggingface.co/reflection/Beam-1.0-501B-A23B-NVFP4
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["model", "work", "effort", "reasoning", "gpt-6", "choose", "complex", "codex"]
 source: https://learn.chatgpt.com/docs/models?site_variant=chatgpt
 source_anchor: ""

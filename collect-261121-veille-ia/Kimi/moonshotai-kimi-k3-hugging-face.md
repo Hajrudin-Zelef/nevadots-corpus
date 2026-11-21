@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-07-23"]
 keywords: ["kimi", "attention", "model", "number", "native", "context", "knowledge", "experts"]
 source: https://huggingface.co/moonshotai/Kimi-K3
 source_anchor: ""

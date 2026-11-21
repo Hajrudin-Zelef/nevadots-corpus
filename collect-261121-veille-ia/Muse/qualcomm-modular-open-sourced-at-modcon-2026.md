@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-17"]
 keywords: ["modular", "qualcomm", "modcon", "platform", "open-sourced", "software", "nvidia", "just"]
 source: https://www.servethehome.com/qualcomm-modular-amd-open-sourced-at-modcon-2026/
 source_anchor: ""

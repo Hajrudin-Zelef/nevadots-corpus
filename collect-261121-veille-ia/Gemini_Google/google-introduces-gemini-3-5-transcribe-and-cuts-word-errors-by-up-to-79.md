@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["audio", "gemini", "model", "google", "transcribe", "live", "transcription", "through"]
 source: https://www.zeniteq.com/google-introduces-gemini-3-5-transcribe-and-cuts-word-errors-by-up-to-79-2grcad
 source_anchor: ""

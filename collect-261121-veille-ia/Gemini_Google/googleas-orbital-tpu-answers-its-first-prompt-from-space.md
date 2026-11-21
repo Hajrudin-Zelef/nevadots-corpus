@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["satellite", "orbit", "google", "space", "first", "launch", "orbital", "team"]
 source: https://rits.shanghai.nyu.edu/ai/googles-orbital-tpu-answers-its-first-prompt-from-space/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "october", "updates", "microsoft", "update", "version", "same", "upgrade"]
 source: https://www.notebookcheck.net/Windows-11-24H2-support-ends-October-13-How-to-check-and-upgrade.1420997.0.html
 source_anchor: ""

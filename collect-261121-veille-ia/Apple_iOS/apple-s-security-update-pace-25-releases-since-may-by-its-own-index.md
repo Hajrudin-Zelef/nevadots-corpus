@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-05-11"]
 keywords: ["apple", "macos", "index", "releases", "security", "ipados", "update", "apples"]
 source: https://www.macobserver.com/news/apple-security-update-pace-25-releases-since-may-own-index/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["grok", "premium", "cursor", "subscription", "access", "tier", "bundles", "under"]
 source: https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/
 source_anchor: ""

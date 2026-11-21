@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["gemini", "flash", "flash-lite", "google", "model", "models", "date", "preview"]
 source: https://www.thinkfacility.com/blog/gemini-models-explained-flash-flash-lite-pro/
 source_anchor: ""

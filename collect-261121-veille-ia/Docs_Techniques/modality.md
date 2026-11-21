@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["price", "output", "unknown", "openrouter", "google", "tags", "input", "same"]
 source: https://app.aimodeloverview.com/models/openrouter/google%2Fgemini-3.8-flash
 source_anchor: ""

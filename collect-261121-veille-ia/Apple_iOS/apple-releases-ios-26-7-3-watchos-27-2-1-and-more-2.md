@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["apple", "watchos", "macos", "releases", "updates", "security", "ipados", "visionos"]
 source: https://www.gadgetrymag.com/phones/apple-releases-ios-26-7-3-watchos-27-2-1-and-more
 source_anchor: ""

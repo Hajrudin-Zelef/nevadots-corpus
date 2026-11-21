@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["print", "fare", "lazy", "import", "pandas", "config", "python", "frozendict"]
 source: https://codecut.ai/python-3-15-features-data-scientists/
 source_anchor: ""

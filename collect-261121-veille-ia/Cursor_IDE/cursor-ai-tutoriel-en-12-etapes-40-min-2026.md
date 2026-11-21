@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2025-10-29"]
 keywords: ["cursor", "code", "milliards", "lediteur", "dollars", "selon", "juin", "version"]
 source: https://tech-insider.org/fr/cursor-tutoriel-12-etapes-2026/
 source_anchor: ""

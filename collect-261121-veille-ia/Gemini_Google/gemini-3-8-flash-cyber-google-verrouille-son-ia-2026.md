@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "cyber", "gemini", "google", "modele", "deux", "modeles", "meme"]
 source: https://tech-insider.org/fr/gemini-3-8-flash-cyber-google-verrouille-ia-2026/
 source_anchor: ""

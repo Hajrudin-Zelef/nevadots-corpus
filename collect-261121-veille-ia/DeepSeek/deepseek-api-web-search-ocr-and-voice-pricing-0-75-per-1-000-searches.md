@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "search", "tool", "searches", "text", "model", "pricing", "page"]
 source: https://www.datastudios.org/post/deepseek-api-web-search-ocr-voice-0-75-per-1000-searches
 source_anchor: ""

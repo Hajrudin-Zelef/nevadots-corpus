@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["claude", "government", "anthropic", "said", "state", "discount", "company", "agencies"]
 source: https://www.aiaffairs.com/corporate/anthropic-gsa-claude-40-percent-government-discount/
 source_anchor: ""

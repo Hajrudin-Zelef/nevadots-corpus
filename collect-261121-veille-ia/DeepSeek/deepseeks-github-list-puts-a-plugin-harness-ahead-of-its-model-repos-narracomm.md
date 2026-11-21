@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2025-08-28"]
 keywords: ["under", "stars", "updated", "about", "harness", "deepseek", "repos", "attention"]
 source: https://www.narracomm.com/deepseeks-github-list-puts-a-plugin-harness-ahead-of-its-model-repos/
 source_anchor: ""

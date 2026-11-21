@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["class", "duration", "function", "override", "november", "clamp", "readonly", "property"]
 source: https://laravel-news.com/php-8-6
 source_anchor: ""

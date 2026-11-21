@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["gemini", "argon", "google", "simulation", "model", "robotics", "control", "physical"]
 source: https://www.techbytes.app/posts/google-releases-gemini-4-argon-for-robotics-control-simulation-and/
 source_anchor: ""

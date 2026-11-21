@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-06-04"]
 keywords: ["marche", "trimestre", "cartes", "nvidia", "millions", "graphiques", "selon", "parts"]
 source: https://tech-insider.org/fr/nvidia-amd-parts-marche-gpu-2026/
 source_anchor: ""

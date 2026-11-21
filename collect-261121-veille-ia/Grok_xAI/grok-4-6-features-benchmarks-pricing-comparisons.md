@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-02-01"]
 keywords: ["grok", "spacexai", "reasoning", "model", "pricing", "tokens", "training", "tasks"]
 source: https://www.datacamp.com/blog/grok-4-6
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "Google", "OpenAI"]
-dates: ["2025-02-02", "2026-09-27", "2027-12-02"]
+dates: ["2025-02-02", "2026-09-27"]
 keywords: ["agent", "chatgpt", "claude", "embedding", "gpu", "reranker", "valuation"]
 source: docs/RAG/collect-261001-ia-llm/ia_grand_dossier.md
 source_anchor: ""

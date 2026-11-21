@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-02"]
 keywords: ["ling", "flash", "artificial", "analysis", "index", "provider", "model", "pricing"]
 source: https://openrouter.ai/inclusionai/ling-3.1-flash
 source_anchor: ""

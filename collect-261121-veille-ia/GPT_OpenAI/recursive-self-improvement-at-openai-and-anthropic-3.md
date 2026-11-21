@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["openai", "self-improvement", "october", "monitors", "incident", "internal", "frontier", "model"]
 source: https://joi.ito.com/memos/rsi/full.html
 source_anchor: ""

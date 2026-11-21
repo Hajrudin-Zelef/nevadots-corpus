@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["gemini", "neon", "gpt-6", "category", "high", "quality", "benchleader", "ahead"]
 source: https://www.benchleader.com/compare/gemini-4-neon-vs-gpt-6-2-sol
 source_anchor: ""

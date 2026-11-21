@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-11-30"]
 keywords: ["neon", "tokens", "million", "gemini", "carbon", "claude", "pricing", "cost"]
 source: https://www.mindstudio.ai/blog/gemini-4-neon-pricing-benchmarks
 source_anchor: ""

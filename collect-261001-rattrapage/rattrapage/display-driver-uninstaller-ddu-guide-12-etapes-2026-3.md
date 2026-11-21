@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: ["AMD", "Intel", "Microsoft", "Nvidia"]
-dates: ["2026-12-06"]
+dates: []
 keywords: ["amd", "arr", "gpu", "intel", "nvidia"]
 source: docs/RAG/collect-261001-rattrapage/display-driver-uninstaller-ddu-guide-12-etapes-2026.md
 source_anchor: ""

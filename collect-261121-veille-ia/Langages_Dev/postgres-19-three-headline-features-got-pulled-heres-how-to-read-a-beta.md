@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["beta", "read", "release", "revert", "postgres", "three", "features", "feature"]
 source: https://medium.com/@tl77/postgres-19-three-headline-features-got-pulled-heres-how-to-read-a-beta-47db399432a9
 source_anchor: ""

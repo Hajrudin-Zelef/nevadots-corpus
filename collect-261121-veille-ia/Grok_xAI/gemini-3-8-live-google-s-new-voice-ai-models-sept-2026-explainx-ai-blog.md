@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-15"]
 keywords: ["voice", "gemini", "live", "google", "models", "extended", "thinking", "background"]
 source: https://www.explainx.ai/blog/google-gemini-3-8-live-extended-thinking-2026
 source_anchor: ""

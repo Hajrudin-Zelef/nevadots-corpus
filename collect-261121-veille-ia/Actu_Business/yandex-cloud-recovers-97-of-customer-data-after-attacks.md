@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-08"]
 keywords: ["yandex", "data", "cloud", "after", "attacks", "customer", "backup", "recovers"]
 source: https://osegi.com/en/yandex-cloud-recovers-97-percent-customer-data
 source_anchor: ""

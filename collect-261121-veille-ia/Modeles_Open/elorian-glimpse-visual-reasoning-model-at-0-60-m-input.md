@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["elorian", "glimpse", "model", "visual", "reasoning", "gpt-6", "input", "astra"]
 source: https://evermx.com/case/elorian-glimpse
 source_anchor: ""

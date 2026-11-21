@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-03"]
 keywords: ["sambanova", "inference", "supermicro", "sn50", "chips", "data", "high-performance", "gpus"]
 source: https://sambanova.ai/press/sambanova-and-supermicro-partnership?hs_amp=true
 source_anchor: ""

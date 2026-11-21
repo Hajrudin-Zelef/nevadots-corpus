@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["ddr4", "price", "spot", "prices", "ddr5", "october", "chip", "september"]
 source: https://pcserverandparts.com/news/when-will-ram-prices-go-down-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["microsoft", "model", "mai-base-2", "base", "post-training", "trillion", "parameters", "training"]
 source: https://www.layer3labs.io/guides/mai-base-2-explained
 source_anchor: ""

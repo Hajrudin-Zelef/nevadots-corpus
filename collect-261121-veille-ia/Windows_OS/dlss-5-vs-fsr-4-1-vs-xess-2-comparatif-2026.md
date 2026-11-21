@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["dlss", "nvidia", "generation", "xess", "trois", "rendu", "cette", "comparatif"]
 source: https://tech-insider.org/fr/dlss-5-vs-fsr-4-1-vs-xess-2-2026/
 source_anchor: ""

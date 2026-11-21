@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-12"]
 keywords: ["amodei", "actually", "pace", "models", "anthropic", "frontier", "dario", "must"]
 source: https://cyberpeace.org/resources/blogs/we-must-pace-the-frontier-what-dario-amodei-actually-proposed-and-why
 source_anchor: ""

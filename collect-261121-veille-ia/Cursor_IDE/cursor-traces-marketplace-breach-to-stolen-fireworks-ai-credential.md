@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "extension", "marketplace", "code", "malicious", "stolen", "fireworks", "anthropics"]
 source: https://gcn.com/cursor-traces-marketplace-breach-stolen-fireworks/23390/
 source_anchor: ""

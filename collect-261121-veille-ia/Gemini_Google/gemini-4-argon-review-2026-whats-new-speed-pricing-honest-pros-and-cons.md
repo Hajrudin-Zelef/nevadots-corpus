@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["argon", "gemini", "google", "model", "long", "speed", "output", "tokens"]
 source: https://medium.com/google-developer-experts/gemini-4-argon-review-2026-whats-new-speed-pricing-honest-pros-and-cons-a6d3e7590997
 source_anchor: ""

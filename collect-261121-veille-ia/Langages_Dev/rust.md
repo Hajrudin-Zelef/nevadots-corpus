@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["months", "ended", "years", "year", "weeks", "rust", "memory", "safety"]
 source: https://endoflife.date/rust
 source_anchor: ""

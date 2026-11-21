@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["pixel", "google", "august", "camera", "same", "cortex", "series", "charging"]
 source: https://en.wikipedia.org/wiki/Pixel_11
 source_anchor: ""

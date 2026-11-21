@@ -5,7 +5,7 @@ domain: atria-dawn
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-17"]
 keywords: ["model", "version", "official", "full", "context", "tokens", "shanghai", "atria"]
 source: https://xenospectrum.com/en/atria-dawn-full-release-context/
 source_anchor: ""

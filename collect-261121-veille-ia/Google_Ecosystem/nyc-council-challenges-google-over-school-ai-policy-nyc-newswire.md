@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["google", "council", "schools", "york", "city", "search", "menin", "students"]
 source: https://nycnewswire.com/news/nyc-council-challenges-google-over-school-ai-policy
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["laravel", "function", "upgrade", "check", "guide", "version", "release", "composer"]
 source: https://blog.shakiltech.com/upgrade-laravel-php-8-6/
 source_anchor: ""

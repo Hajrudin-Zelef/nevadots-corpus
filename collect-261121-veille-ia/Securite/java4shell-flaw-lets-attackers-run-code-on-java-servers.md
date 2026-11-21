@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["java", "openjdk", "code", "flaw", "reported", "java4shell", "oracle", "update"]
 source: https://www.thefivenines.com/security/java4shell-flaw-lets-attackers-run-code-on-java-servers
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["video", "generation", "future", "model", "google", "source", "expect", "launches"]
 source: https://medium.com/@kaleemullahyounas123/the-future-of-ai-video-generation-what-i-expect-in-2027-based-on-six-launches-in-two-days-23083993153f
 source_anchor: ""

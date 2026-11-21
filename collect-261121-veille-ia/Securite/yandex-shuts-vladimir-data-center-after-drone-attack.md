@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-11"]
 keywords: ["yandex", "data", "center", "cloud", "attack", "reuters", "ukrainian", "october"]
 source: https://dev.to/techaiwire/yandex-shuts-vladimir-data-center-after-drone-attack-1d7
 source_anchor: ""

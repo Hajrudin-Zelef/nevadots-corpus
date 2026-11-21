@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2018-07-25"]
 keywords: ["diag", "debug", "disable", "enable", "fwf60d", "state", "listen", "sockflag"]
 source: http://blog.51sec.org/2018/08/fortinet-firewall-fortigate-cli.html
 source_anchor: ""

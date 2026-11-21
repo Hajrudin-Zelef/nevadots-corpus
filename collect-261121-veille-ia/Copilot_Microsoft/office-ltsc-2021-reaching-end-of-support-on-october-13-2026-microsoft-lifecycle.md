@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["office", "ltsc", "support", "microsoft", "october", "reaching", "end", "lifecycle"]
 source: https://learn.microsoft.com/en-us/lifecycle/announcements/office-ltsc-2021-end-of-support
 source_anchor: ""

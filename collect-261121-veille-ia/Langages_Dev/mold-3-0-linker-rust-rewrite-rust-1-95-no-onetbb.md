@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["mold", "linker", "rust", "same", "rewrite", "version", "linux", "default"]
 source: https://techaiwire.com/articles/mold-3-0-rust-rewrite-drop-in-linker/
 source_anchor: ""

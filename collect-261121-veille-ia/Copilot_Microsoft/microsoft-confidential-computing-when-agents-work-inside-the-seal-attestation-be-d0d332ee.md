@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["microsoft", "november", "computing", "data", "seal", "inside", "microsofts", "three"]
 source: ""
 source_anchor: ""

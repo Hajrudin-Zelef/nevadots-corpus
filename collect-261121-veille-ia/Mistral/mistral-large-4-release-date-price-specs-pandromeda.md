@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["mistral", "large", "date", "model", "release", "october", "preview", "window"]
 source: https://pandromeda.com/ai/mistral-large-4-release-date-price-and-specs-explained
 source_anchor: ""

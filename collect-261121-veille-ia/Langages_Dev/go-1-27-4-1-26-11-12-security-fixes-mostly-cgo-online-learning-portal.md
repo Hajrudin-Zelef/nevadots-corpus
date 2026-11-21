@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["http", "code", "build", "toolchain", "security", "fixes", "flags", "arbitrary"]
 source: https://onlinelearningportal.website/go-1-27-4-security-release-cgo/
 source_anchor: ""

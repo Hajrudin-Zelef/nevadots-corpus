@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["adds", "august", "agent", "plugins", "ombharatiya", "sonnet", "skills", "licensing"]
 source: https://github.com/ombharatiya/ai-system-design-guide/pull/33
 source_anchor: ""

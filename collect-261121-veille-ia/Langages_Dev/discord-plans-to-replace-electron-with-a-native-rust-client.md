@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["native", "electron", "desktop", "rust", "discord", "client", "mobile", "interface"]
 source: https://www.web2generators.com/blog/discord-plans-to-replace-electron-with-a-native-rust-client/
 source_anchor: ""

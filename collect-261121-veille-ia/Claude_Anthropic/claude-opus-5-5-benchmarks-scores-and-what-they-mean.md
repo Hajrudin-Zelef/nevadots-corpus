@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["opus", "anthropic", "claude", "scores", "agentic", "benchmarks", "benchmark", "model"]
 source: https://emergent.sh/learn/claude-opus-5-5-benchmarks
 source_anchor: ""

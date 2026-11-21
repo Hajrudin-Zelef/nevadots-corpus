@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-21"]
 keywords: ["claude", "code", "codex", "july", "import", "default", "chatgpt", "model"]
 source: https://hashnode.com/blog/codex-vs-claude-code-2026
 source_anchor: ""

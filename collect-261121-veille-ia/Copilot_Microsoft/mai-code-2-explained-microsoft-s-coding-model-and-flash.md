@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["code", "microsoft", "flash", "model", "coding", "work", "github", "copilot"]
 source: https://www.layer3labs.io/guides/mai-code-2-explained
 source_anchor: ""

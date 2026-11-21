@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["tiff", "disclosure", "august", "galaxy", "samsung", "release", "flaw", "advisory"]
 source: https://deafnews.it/en/news/vulnerabilities/galaxy-s25-rce-tiff-flaw-patched-in-july-disclosure-arrives-in-august
 source_anchor: ""

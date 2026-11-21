@@ -5,7 +5,7 @@ domain: dotnet-csharp
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["core", "types", "union", "microsoft", "runtime", "version", "support", "closed"]
 source: https://vinish.dev/dotnet-11-released-csharp-15-union-types
 source_anchor: ""

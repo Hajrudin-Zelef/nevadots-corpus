@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["grok", "index", "xhigh", "high", "scores", "intelligence", "work", "tasks"]
 source: https://artificialanalysis.ai/articles/benchmarking-grok-4-7
 source_anchor: ""

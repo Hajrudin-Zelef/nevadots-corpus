@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "nemotron", "science", "litmusbench", "sc26", "open", "scientific", "agents"]
 source: https://dailymech.com/articles/nvidia-unveils-nemotron-for-science-and-litmusbench-v0-2-at-sc26-to-power.html
 source_anchor: ""

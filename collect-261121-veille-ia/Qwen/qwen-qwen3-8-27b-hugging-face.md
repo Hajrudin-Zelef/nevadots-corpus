@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-03-05"]
 keywords: ["qwen3", "model", "qwen", "coding", "agentic", "hugging", "face", "tasks"]
 source: https://huggingface.co/Qwen/Qwen3.8-27B?inference_provider=novita
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-22"]
 keywords: ["mmlu", "modeles", "langues", "francais", "modele", "premiere", "bruxelles", "juillet"]
 source: https://tech-insider.org/fr/eu-mmlu-benchmark-ia-europeen-16-langues-2026/
 source_anchor: ""

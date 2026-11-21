@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-30"]
 keywords: ["mistral", "licence", "model", "text", "large", "open-weight", "does", "rests"]
 source: https://medium.com/@mcthkayaa/mistral-large-4-review-what-the-open-weight-licence-allows-what-it-costs-and-where-it-stands-7dc69bee8146
 source_anchor: ""

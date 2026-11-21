@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2022-05-19"]
 keywords: ["cors", "request", "fortigate", "proxy", "captive", "authentication", "client", "saml"]
 source: https://docs.fortinet.com/document/fortigate/7.0.13/administration-guide/143852/cors-protocol-in-explicit-web-proxy-when-using-session-based-cookie-enabled-and-captive-portal-enabled-saml-authentication
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "version", "support", "home", "updates", "release", "check", "deadline"]
 source: https://www.majorgeeks.com/content/page/windows_11_24h2_home_pro_end_support_october_2026.html
 source_anchor: ""

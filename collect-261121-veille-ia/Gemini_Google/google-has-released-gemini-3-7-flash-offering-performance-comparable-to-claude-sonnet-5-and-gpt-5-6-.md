@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["flash", "gemini", "price", "google", "released", "performance", "gpt-5", "terra"]
 source: https://gigazine.net/gsc_news/en/20260814-google-gemini-3-7-flash/
 source_anchor: ""

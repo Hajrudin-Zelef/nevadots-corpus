@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["nist", "algorithm", "security", "support", "cannot", "standards", "federal", "systems"]
 source: https://www.futurex.com/blog/nist-nsa-pqc-timelines-crypto-agility
 source_anchor: ""

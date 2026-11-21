@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["devin", "here", "november", "october", "release", "notes", "review", "chat"]
 source: https://www.havoptic.com/tools/devin
 source_anchor: ""

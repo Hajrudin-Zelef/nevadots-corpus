@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-06-17"]
 keywords: ["cyberchef", "decoder", "donnees", "gchq", "etapes", "projet", "base64", "script"]
 source: https://tech-insider.org/fr/cyberchef-decoder-donnees-tutoriel-2026/
 source_anchor: ""

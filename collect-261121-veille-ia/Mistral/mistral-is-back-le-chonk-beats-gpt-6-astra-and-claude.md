@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["mistral", "large", "model", "cyber", "astra", "open-weight", "claude", "gpt-6"]
 source: https://apidog.com/blog/mistral-large-4/
 source_anchor: ""

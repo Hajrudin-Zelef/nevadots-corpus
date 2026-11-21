@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-17"]
 keywords: ["model", "beam", "data", "reflection", "question", "open-weight", "questions", "every"]
 source: https://plotly.com/blog/reflection-beam-1-0-plotly-data-analytics-bench/
 source_anchor: ""

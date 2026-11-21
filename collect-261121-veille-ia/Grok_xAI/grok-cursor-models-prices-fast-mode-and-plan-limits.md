@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-18"]
 keywords: ["grok", "cursor", "fast", "pool", "models", "plan", "spacexsi", "prices"]
 source: https://grokmag.com/grok-build/cursor/
 source_anchor: ""

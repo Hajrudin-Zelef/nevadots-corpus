@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["maia", "microsoft", "memory", "chip", "tokens", "more", "megawatt", "power"]
 source: https://memeburn.com/microsoft-maia-300-chip-bets-on-power-and-memory-not-speed/
 source_anchor: ""

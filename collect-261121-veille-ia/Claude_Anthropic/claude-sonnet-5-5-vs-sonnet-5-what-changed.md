@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["sonnet", "claude", "tool", "anthropic", "read", "thinking", "agent", "model"]
 source: https://www.cosmicjs.com/blog/claude-sonnet-5-5-vs-sonnet-5
 source_anchor: ""

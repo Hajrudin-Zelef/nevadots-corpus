@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-06"]
 keywords: ["flux", "model", "audio", "sound", "image", "frame", "video", "first"]
 source: https://help.artlist.io/hc/en-us/articles/38170367122589-Flux-3-FLUX-3
 source_anchor: ""

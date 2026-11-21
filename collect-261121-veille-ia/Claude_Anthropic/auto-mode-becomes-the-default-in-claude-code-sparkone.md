@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["claude", "mode", "percent", "auto", "default", "code", "classifier", "tool"]
 source: https://sparkone.nl/en/blog/claude-code-auto-mode-default/
 source_anchor: ""

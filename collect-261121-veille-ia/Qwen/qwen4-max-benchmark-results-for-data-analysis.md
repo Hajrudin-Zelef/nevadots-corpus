@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["model", "qwen4", "data", "questions", "alibaba", "qwen", "analysis", "analytics"]
 source: https://plotly.com/blog/qwen4-max-plotly-data-analytics-bench/
 source_anchor: ""

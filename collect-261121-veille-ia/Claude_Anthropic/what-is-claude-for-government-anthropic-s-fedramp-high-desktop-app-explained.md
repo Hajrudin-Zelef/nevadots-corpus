@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["claude", "government", "anthropic", "page", "desktop", "says", "anthropics", "public"]
 source: https://digitalmatters.me/artificial-intelligence-ai/what-is-claude-for-government/
 source_anchor: ""

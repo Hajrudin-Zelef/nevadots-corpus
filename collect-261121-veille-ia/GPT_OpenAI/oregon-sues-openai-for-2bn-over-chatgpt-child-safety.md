@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["oregon", "openai", "chatgpt", "safety", "company", "state", "sues", "child"]
 source: https://dig.watch/updates/oregon-sues-openai-chatgpt-child-safety-risks
 source_anchor: ""

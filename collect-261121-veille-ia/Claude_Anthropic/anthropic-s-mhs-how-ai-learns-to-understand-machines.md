@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["anthropic", "does", "model", "standard", "without", "agent", "understand", "device"]
 source: https://igromi.com/en/blog/anthropic-mhs-ai-understand-machines
 source_anchor: ""

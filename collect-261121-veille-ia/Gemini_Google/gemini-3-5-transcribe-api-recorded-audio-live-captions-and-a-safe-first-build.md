@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["recorded", "live", "audio", "captions", "transcribe", "model", "first", "gemini-3"]
 source: https://blog.laozhang.ai/en/posts/gemini-3-5-transcribe-api
 source_anchor: ""

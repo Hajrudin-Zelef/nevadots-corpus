@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["grok", "work", "model", "same", "switch", "effort", "according", "tasks"]
 source: https://www.fullstack.com/blog/grok-4-7-vs-grok-4-6-what-changed-and-when-to-switch
 source_anchor: ""

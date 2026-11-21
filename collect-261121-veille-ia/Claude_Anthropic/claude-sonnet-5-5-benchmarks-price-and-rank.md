@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["models", "benchmarks", "anthropic", "number", "result", "model", "claude", "sonnet"]
 source: https://spezia.ai/models/claude-sonnet-5.5
 source_anchor: ""

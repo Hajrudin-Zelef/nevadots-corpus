@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-02"]
 keywords: ["development", "dhabi", "company", "best", "business", "infrastructure", "partner", "software"]
 source: https://www.tomsher.com/best-ai-development-company-abu-dhabi
 source_anchor: ""

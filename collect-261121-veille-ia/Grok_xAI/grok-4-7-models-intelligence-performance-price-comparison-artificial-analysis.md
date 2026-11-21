@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["intelligence", "grok", "models", "index", "xhigh", "tokens", "price", "analysis"]
 source: https://artificialanalysis.ai/models/grok-4-7?ref=edgewisely.com
 source_anchor: ""

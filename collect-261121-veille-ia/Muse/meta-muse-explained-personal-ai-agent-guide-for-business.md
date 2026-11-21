@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["muse", "meta", "agent", "machine", "guide", "personal", "business", "spark"]
 source: https://www.halmob.de/blog/meta-muse-personal-ai-agent-guide
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["output", "gemini", "thinking", "tokens", "carbon", "python", "api", "tutorial"]
 source: https://apihop.ai/en/blog/how-to-use-gemini-4-carbon
 source_anchor: ""

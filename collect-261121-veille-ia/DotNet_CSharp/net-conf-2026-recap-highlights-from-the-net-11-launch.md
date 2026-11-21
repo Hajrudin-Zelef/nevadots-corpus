@@ -5,7 +5,7 @@ domain: dotnet-csharp
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["support", "november", "runtime", "microsoft", "net", "conf", "recap", "launch"]
 source: https://Ironsoftware.com/news/industry-news/net-conf-2026-recap/
 source_anchor: ""

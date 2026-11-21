@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["public", "offering", "anthropic", "initial", "claude", "closing", "shares", "class"]
 source: ""
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-29"]
 keywords: ["intelligence", "accord", "super", "controls", "order", "white", "house", "president"]
 source: https://general.legal/blog/white-house-accord-on-super-intelligence-a-guide-for-ai-companies
 source_anchor: ""

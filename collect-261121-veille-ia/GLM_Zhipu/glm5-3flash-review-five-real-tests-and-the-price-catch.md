@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-09"]
 keywords: ["flash", "glm5", "token", "five", "output", "model", "tests", "weights"]
 source: https://kingy.ai/blog/glm-5-3-flash-review-tests-pricing/
 source_anchor: ""

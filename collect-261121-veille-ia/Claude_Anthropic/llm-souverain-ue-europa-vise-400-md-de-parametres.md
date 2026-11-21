@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-16"]
 keywords: ["modele", "europa", "modeles", "europeenne", "parametres", "commission", "institutional", "consortium"]
 source: https://tech-insider.org/fr/llm-souverain-europa-openeurollm-2026/
 source_anchor: ""

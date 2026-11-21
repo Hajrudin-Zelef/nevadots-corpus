@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["gemini", "flash", "google", "tokens", "points", "million", "output", "model"]
 source: https://memeburn.com/gemini-3-7-flash-review-pricing-benchmarks-2026/
 source_anchor: ""

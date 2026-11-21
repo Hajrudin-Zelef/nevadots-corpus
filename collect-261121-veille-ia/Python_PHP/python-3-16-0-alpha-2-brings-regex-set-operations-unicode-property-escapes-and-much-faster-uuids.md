@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["python", "faster", "alpha", "code", "regex", "unicode", "asyncio", "operations"]
 source: https://vinish.dev/python-3-16-0-alpha-2-released
 source_anchor: ""

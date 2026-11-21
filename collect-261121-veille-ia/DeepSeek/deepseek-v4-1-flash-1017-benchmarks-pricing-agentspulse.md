@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["flash", "deepseek", "model", "pricing", "september", "same", "deepseeks", "deepseek-flash"]
 source: https://agentspulse.github.io/tutorials/deepseek-v4-1-flash-1017/
 source_anchor: ""

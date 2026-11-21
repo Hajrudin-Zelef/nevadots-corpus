@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-03-15"]
 keywords: ["certbot", "certificat", "jours", "certificats", "votre", "lets", "encrypt", "sans"]
 source: https://tech-insider.org/fr/certbot-automatiser-https-2026/
 source_anchor: ""

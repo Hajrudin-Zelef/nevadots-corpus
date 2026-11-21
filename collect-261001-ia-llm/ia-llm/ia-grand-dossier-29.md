@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["AWS", "Anthropic", "Cohere", "DeepSeek", "Glasswing", "Google", "Groq", "Microsoft", "Mistral", "OpenAI", "Oracle", "United States", "vLLM", "xAI"]
-dates: ["2026-06-17", "2026-09-01", "2026-09-03", "2026-09-10", "2026-09-15", "2026-09-24", "2026-11-21", "2026-12-11"]
+dates: ["2026-06-17", "2026-09-01", "2026-09-03", "2026-09-10", "2026-09-15", "2026-09-24", "2026-11-21"]
 keywords: ["agent", "agents", "apache", "astra", "aws", "bedrock", "chatgpt", "claude", "cohere", "copilot", "deepseek", "distribution"]
 source: docs/RAG/collect-261001-ia-llm/ia_grand_dossier.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["discord", "native", "rust", "ground-up", "rebuild", "aims", "slash", "gigabytes"]
 source: https://hothardware.com/news/discords-ground-up-rebuild-aims-to-slash-ram-from-gigabytes-to-megabytes
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["lfm2", "liquid", "lfm3-1", "lfm3", "benchmark", "rows", "tokens", "published"]
 source: https://www.layer3labs.io/comparisons/lfm3-vs-lfm25
 source_anchor: ""

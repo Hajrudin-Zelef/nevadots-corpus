@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-06-06"]
 keywords: ["plex", "jellyfin", "pass", "open", "source", "gratuit", "metadonnees", "fonctionnalites"]
 source: https://tech-insider.org/fr/jellyfin-vs-plex-2026/
 source_anchor: ""

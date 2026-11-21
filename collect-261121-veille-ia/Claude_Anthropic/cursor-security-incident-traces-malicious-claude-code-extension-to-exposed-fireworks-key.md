@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["cursor", "exposed", "fireworks", "extension", "code", "traces", "marketplace", "security"]
 source: https://securityonline.info/cursor-security-incident-fireworks-claude-code/
 source_anchor: ""

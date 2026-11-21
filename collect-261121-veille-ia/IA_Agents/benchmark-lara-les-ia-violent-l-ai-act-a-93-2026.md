@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-05-27"]
 keywords: ["benchmark", "lara", "modeles", "entre", "aithos", "conformite", "douze", "scenarios"]
 source: https://tech-insider.org/fr/benchmark-lara-ia-conformite-ai-act-2026/
 source_anchor: ""

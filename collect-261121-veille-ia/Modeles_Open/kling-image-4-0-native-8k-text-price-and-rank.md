@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["image", "kling", "text", "model", "images", "product", "long", "native"]
 source: https://thehype.news/kling-image-4-0/
 source_anchor: ""

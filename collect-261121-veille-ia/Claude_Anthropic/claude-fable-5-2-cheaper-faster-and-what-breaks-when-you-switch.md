@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "anthropic", "claude", "opus", "output", "effort", "model", "faster"]
 source: https://www.tldl.io/blog/claude-fable-5-2-launch
 source_anchor: ""

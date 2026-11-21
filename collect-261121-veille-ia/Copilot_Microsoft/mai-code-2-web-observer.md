@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "copilot", "github", "models", "model", "flash", "input", "promotional"]
 source: https://web-observer.com/tag/mai-code-2/
 source_anchor: ""

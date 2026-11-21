@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["astra", "gpt-6", "pricing", "openai", "model", "more", "gpt-5", "cache"]
 source: https://www.truefoundry.com/blog/gpt-6-astra
 source_anchor: ""

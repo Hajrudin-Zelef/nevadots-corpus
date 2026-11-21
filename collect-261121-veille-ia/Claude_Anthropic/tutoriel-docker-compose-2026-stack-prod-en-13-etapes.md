@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-03"]
 keywords: ["docker", "compose", "tutoriel", "stack", "comme", "etapes", "avril", "vous"]
 source: https://tech-insider.org/fr/docker-compose-tutoriel-stack-production-13-etapes-2026/
 source_anchor: ""

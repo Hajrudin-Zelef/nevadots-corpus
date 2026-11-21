@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["intelligence", "minimax-m3", "flash", "models", "index", "analysis", "tokens", "task"]
 source: https://artificialanalysis.ai/models/minimax-m3-1-flash/
 source_anchor: ""

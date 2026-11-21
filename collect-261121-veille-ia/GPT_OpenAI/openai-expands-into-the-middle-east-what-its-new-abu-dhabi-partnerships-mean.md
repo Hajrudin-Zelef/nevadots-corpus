@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-02"]
 keywords: ["openai", "dhabi", "government", "agreements", "partnerships", "major", "systems", "mean"]
 source: http://eproductempire.blogspot.com/2026/11/openai-expands-into-middle-east-what.html
 source_anchor: ""

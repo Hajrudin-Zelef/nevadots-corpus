@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-11-03"]
 keywords: ["ollama", "mimo-v2", "typingmind", "model", "context", "computer", "download", "size"]
 source: https://www.typingmind.com/self-hosted-ai/ollama/mimo-v2.6
 source_anchor: ""

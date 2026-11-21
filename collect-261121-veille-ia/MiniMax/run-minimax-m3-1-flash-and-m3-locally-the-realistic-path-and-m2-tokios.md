@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["flash", "minimax", "community", "gguf", "model", "tokios", "minimax-m3", "connector"]
 source: https://docs.tokios.com/models/minimax
 source_anchor: ""

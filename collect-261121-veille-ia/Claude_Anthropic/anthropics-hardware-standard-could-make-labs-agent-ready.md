@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["standard", "agent", "hardware", "liquid", "make", "physical", "work", "different"]
 source: https://spaisee.com/article/the-lab-is-becoming-an-operating-system-for-ai-agents
 source_anchor: ""

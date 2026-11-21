@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["anthropic", "claude", "agents", "enzyme", "system", "function", "found", "search"]
 source: https://www.explainx.ai/blog/claude-discovers-novel-enzyme-system-art-crispr-like-repeats-2026
 source_anchor: ""

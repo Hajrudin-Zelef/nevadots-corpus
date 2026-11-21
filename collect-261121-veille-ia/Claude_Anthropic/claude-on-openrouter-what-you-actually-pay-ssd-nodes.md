@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["anthropic", "openrouter", "opus", "output", "cache", "input", "endpoints", "price"]
 source: https://www.ssdnodes.com/learn/claude-on-openrouter-what-you-pay
 source_anchor: ""

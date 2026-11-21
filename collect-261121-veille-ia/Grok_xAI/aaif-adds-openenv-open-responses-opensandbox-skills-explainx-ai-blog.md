@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["open", "skills", "agent", "agents", "responses", "openenv", "aaif", "opensandbox"]
 source: https://explainx.ai/blog/aaif-10-projects-openenv-open-responses-opensandbox-agent-skills-agntcon-2026
 source_anchor: ""

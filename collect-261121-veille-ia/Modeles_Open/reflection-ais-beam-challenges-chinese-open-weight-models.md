@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["reflection", "beam", "models", "compute", "model", "nvidia", "worth", "open-weight"]
 source: https://aimagazine.com/news/reflection-ais-beam-challenges-chinese-open-weight-models
 source_anchor: ""

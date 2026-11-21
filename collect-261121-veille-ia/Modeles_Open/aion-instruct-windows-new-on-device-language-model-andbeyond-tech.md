@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["windows", "microsoft", "aion", "instruct", "november", "microsofts", "language", "model"]
 source: https://www.andbeyond.tech/aion-instruct-windows/
 source_anchor: ""

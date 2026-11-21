@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["cursor", "claude", "pool", "weekly", "models", "grok", "code", "usage"]
 source: https://leanopstech.com/blog/claude-code-vs-cursor-pricing-limits/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["argon", "gemini", "google", "model", "text", "tokens", "output", "specs"]
 source: https://emergent.sh/learn/what-is-gemini-4-argon
 source_anchor: ""

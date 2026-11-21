@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "open", "muse", "meta", "spark", "weights", "kubernetes", "bf16"]
 source: https://www.qovery.com/blog/self-host-800b-parameter-open-model-kubernetes-own-cloud
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2025-10-23"]
 keywords: ["drones", "lazarus", "groupe", "plusieurs", "fabricants", "coree", "nord", "cette"]
 source: https://tech-insider.org/fr/lazarus-coree-nord-drones-europeens-2026/
 source_anchor: ""

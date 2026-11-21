@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-09"]
 keywords: ["fixes", "kernel", "hardening", "stable", "driver", "linux", "security", "window"]
 source: https://www.linuxcompatible.org/story/linux-kernel-72rc7-released-security-hardening-and-x86-fixes-ahead-of-stable/
 source_anchor: ""

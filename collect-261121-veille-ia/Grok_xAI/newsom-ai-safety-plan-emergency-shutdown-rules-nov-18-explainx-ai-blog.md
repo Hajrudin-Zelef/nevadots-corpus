@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["shutdown", "california", "safety", "newsom", "risk", "rules", "emergency", "catastrophic"]
 source: https://www.explainx.ai/blog/newsom-california-ai-safety-framework-november-2026
 source_anchor: ""

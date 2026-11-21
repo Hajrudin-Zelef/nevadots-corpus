@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-01"]
 keywords: ["gpt-6", "terra", "input", "model", "output", "how", "astra", "openai"]
 source: https://dev.to/weiyi/gpt-61-terra-explained-pricing-how-to-use-it-and-how-it-compares-to-claude-opus-55-1b8
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["collector", "java", "serial", "services", "changes", "available", "small", "garbage"]
 source: https://dzone.com/articles/jdk-g1-garbage-collector
 source_anchor: ""

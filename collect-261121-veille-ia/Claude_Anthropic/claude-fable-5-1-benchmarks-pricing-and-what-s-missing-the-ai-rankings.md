@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "opus", "anthropic", "price", "agentic", "mtok", "knowledge"]
 source: https://theairankings.com/anthropic/claude-fable-5-1/
 source_anchor: ""

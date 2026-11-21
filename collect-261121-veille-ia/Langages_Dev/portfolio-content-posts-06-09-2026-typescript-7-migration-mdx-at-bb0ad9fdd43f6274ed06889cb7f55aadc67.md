@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "portfolio", "typescript-7-migration", "compiler", "minutes", "team", "more", "went"]
 source: https://github.com/hamzabargaz/portfolio/blob/HEAD/content/posts/06-09-2026-typescript-7-migration.mdx
 source_anchor: ""

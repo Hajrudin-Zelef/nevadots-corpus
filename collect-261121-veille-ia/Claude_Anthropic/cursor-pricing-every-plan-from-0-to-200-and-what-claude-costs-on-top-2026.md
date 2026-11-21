@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["cursor", "grok", "models", "usage", "plan", "price", "claude", "month"]
 source: https://fastero.com/blog/cursor-pricing
 source_anchor: ""

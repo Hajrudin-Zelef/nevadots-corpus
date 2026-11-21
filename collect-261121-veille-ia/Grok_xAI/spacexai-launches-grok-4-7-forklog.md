@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "spacexai", "model", "tokens", "agent", "tasks", "scored", "launches"]
 source: https://forklog.com/en/spacexai-launches-grok-4-7/
 source_anchor: ""

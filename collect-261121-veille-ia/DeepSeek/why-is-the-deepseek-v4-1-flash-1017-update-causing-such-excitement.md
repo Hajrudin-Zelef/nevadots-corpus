@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["deepseek", "model", "update", "deepswe", "flash", "bench", "version", "tests"]
 source: https://www.gptunnel.ru/en/blog/deepseek-v4-1-flash-1017
 source_anchor: ""

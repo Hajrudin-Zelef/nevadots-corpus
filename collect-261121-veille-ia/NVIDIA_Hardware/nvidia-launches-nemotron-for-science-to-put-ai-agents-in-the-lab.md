@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["science", "agents", "nemotron", "model", "nvidia", "nvidias", "chemistry", "open"]
 source: https://cryptobriefing.com/nvidia-nemotron-for-science-ai-agents/
 source_anchor: ""

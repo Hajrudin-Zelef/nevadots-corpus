@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["pixel", "google", "phones", "gemini", "watch", "november", "newer", "drop"]
 source: https://www.gadgetrymag.com/phones/google-begins-rolling-out-november-pixel-drop-to-pixel-phones
 source_anchor: ""

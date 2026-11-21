@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["anthropic", "billion", "valuation", "trillion", "company", "public", "nvidia", "would"]
 source: https://www.tftc.io/anthropic-2-trillion-ipo-valuation-s1-sec-filing
 source_anchor: ""

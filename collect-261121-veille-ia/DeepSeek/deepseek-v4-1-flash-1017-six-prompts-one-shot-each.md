@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-07"]
 keywords: ["flash", "price", "deepseek", "tokens", "prompts", "claude", "gemini", "gpt-6"]
 source: https://hypeorcode.com/models/deepseek-v4-1-flash-1017/
 source_anchor: ""

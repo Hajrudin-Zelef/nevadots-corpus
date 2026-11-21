@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "compiler", "type", "faster", "everything", "runs", "next", "linter"]
 source: https://godek.dev/blog/typescript-7-faster-linter-not-yet
 source_anchor: ""

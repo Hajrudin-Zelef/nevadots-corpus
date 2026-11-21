@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "google", "gemini", "model", "coding", "three", "reasoning", "workhorse"]
 source: https://local-ai-zone.github.io/blog/Gemini_3.8_Flash_Technical_Breakdown.html
 source_anchor: ""

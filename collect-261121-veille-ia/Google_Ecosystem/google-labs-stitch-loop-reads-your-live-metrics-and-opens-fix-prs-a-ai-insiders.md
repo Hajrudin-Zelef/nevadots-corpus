@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["google", "loop", "stitch", "agent", "pull", "labs", "product", "opens"]
 source: https://talent.aiinsiders.net/article/google-labs-stitch-loop-reads-your-live-metrics-and-opens
 source_anchor: ""

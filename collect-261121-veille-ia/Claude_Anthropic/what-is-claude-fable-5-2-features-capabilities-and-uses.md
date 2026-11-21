@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "claude", "model", "anthropic", "agent", "features", "reasoning", "task"]
 source: https://emergent.sh/learn/what-is-claude-fable-5-2
 source_anchor: ""

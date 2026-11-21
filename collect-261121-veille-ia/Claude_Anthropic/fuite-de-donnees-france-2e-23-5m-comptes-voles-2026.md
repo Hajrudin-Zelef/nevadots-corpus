@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-06-07"]
 keywords: ["millions", "donnees", "france", "comptes", "fuite", "trimestre", "premier", "seul"]
 source: https://tech-insider.org/fr/fuite-donnees-france-2e-pays-pirate-2026/
 source_anchor: ""

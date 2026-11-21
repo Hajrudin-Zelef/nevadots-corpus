@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["tokens", "glm-5", "flashx", "input", "output", "context", "speed", "pricing"]
 source: https://www.tensorfeed.ai/models/glm-5-3-flashx
 source_anchor: ""

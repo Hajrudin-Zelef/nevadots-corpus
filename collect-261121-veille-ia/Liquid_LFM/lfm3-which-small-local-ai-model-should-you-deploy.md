@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["model", "output", "text", "lfm3", "small", "input", "needs", "need"]
 source: https://www.digitalapplied.com/blog/lfm3-small-local-models-deployment-guide
 source_anchor: ""

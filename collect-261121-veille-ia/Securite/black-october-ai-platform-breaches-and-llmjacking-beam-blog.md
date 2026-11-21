@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-09"]
 keywords: ["opencode", "access", "keys", "october", "vendor", "railway", "says", "stored"]
 source: https://agentbeam.com/blog/black-october-wiz-ai-developer-platforms-llmjacking-stolen-keys
 source_anchor: ""

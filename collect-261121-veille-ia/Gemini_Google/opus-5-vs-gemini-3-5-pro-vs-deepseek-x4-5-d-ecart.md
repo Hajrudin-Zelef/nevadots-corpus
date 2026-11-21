@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-14"]
 keywords: ["opus", "tokens", "claude", "deepseek", "gemini", "trois", "modeles", "million"]
 source: https://tech-insider.org/fr/opus-5-vs-gemini-3-5-pro-vs-deepseek-2026/
 source_anchor: ""

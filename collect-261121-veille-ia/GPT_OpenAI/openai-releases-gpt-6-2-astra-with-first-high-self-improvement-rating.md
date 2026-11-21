@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["astra", "gpt-6", "openai", "high", "first", "self-improvement", "model", "tokens"]
 source: https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/
 source_anchor: ""

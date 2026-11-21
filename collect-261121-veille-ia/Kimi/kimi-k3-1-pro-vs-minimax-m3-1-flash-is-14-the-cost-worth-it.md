@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["flash", "kimi", "minimax", "model", "same", "october", "cost", "moonshot"]
 source: https://blog.laozhang.ai/en/posts/kimi-k3-1-pro-vs-minimax-m3-1-flash
 source_anchor: ""

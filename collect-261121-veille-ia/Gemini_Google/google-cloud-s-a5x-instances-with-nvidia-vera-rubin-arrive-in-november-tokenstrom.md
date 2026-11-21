@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-21"]
 keywords: ["nvidia", "google", "cloud", "rubin", "confidential", "vera", "instances", "according"]
 source: https://tokenstrom.com/posts/google-cloud-s-a5x-instances-with-nvidia-vera-rubin-arrive-in-november/
 source_anchor: ""

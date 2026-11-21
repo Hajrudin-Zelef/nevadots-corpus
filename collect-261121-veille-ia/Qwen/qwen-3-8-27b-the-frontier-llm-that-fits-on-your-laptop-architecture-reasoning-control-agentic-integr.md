@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["qwen", "reasoning", "architecture", "cloud", "frontier", "agentic", "integration", "linear"]
 source: https://dev.to/monuminu/qwen-38-27b-the-frontier-llm-that-fits-on-your-laptop-architecture-reasoning-control-agentic-47kg
 source_anchor: ""

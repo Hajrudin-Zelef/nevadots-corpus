@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["mythos", "anthropic", "claude", "modele", "septembre", "europeenne", "enisa", "comme"]
 source: https://tech-insider.org/fr/mythos-5-enisa-ia-cyber-anthropic-2026/
 source_anchor: ""

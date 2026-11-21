@@ -5,7 +5,7 @@ domain: agents-mcp
 role: deep-dive
 task: agents
 actors: ["AWS", "Anthropic", "Apple", "CISA", "DeepSeek", "Google", "Microsoft", "Moonshot", "Nvidia", "OpenAI", "StepFun", "xAI"]
-dates: ["2025-03-26", "2025-04", "2025-06-18", "2025-11-25", "2026-03", "2026-04-16", "2026-05", "2026-06-02", "2026-06-08", "2026-06-10", "2026-07-01", "2026-07-28", "2026-08-26", "2026-09-08", "2026-09-10", "2026-09-11", "2026-09-20", "2026-09-21", "2028-07-28"]
+dates: ["2025-03-26", "2025-06-18", "2025-11-25", "2026-04-16", "2026-06-02", "2026-06-08", "2026-06-10", "2026-07-01", "2026-07-28", "2026-08-26", "2026-09-08", "2026-09-10", "2026-09-11", "2026-09-20", "2026-09-21"]
 keywords: ["agent", "agentic", "agents", "apache", "aws", "bedrock", "benchmarks", "chatgpt", "claude", "containment", "copilot", "deepseek"]
 source: docs/RAG/ai-industry-knowledge-base-2026.md
 source_anchor: ""

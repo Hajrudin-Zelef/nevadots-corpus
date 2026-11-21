@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["image", "models", "grok", "model", "search", "latest", "modelname", "reasoning"]
 source: https://docs.x.ai/developers/models?cluster=us-east-1
 source_anchor: ""

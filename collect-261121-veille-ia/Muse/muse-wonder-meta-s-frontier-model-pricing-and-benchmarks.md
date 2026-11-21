@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["muse", "wonder", "meta", "model", "full", "tokens", "models", "million"]
 source: https://www.lindy.ai/blog/muse-wonder
 source_anchor: ""

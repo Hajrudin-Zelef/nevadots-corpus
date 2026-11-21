@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gpt-6", "flagship", "astra", "more", "points", "tier", "capability", "cost"]
 source: https://chengrang.com/tools/en/gpt-6-2-sol.html
 source_anchor: ""

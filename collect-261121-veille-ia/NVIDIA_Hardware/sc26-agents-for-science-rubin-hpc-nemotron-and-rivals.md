@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["science", "nvidia", "november", "nemotron", "rubin", "model", "agents", "sc26"]
 source: https://thefrontierwire.com/articles/sc26-agents-for-science-rubin-hpc-nemotron/
 source_anchor: ""

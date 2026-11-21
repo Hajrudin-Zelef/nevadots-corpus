@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-09"]
 keywords: ["google", "billion", "data", "finland", "center", "work", "investment", "sites"]
 source: https://cryptobriefing.com/google-finland-data-center-investment/
 source_anchor: ""

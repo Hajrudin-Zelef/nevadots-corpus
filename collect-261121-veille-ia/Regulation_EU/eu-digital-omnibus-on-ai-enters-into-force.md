@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-24"]
 keywords: ["systems", "omnibus", "obligations", "force", "certain", "organisations", "high-risk", "many"]
 source: https://www.legal500.com/intelligence/european-union/technology/eu-digital-omnibus-on-ai-enters-into-force
 source_anchor: ""

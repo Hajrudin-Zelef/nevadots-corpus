@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2017-11-15"]
 keywords: ["fedramp", "high", "moderate", "class", "services", "authorization", "anthropic", "post"]
 source: https://www.antm.ai/articles/fedramp-high-vs-moderate-how-to-read-ai-vendor-government-claim
 source_anchor: ""

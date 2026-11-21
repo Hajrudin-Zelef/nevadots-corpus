@@ -5,7 +5,7 @@ domain: go-json
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["type", "json", "generic", "language", "updates", "methods", "behavior", "event"]
 source: https://www.staffcoder.com/blog/go-language-updates-generic-methods-json
 source_anchor: ""

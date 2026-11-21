@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["claude", "fable", "anthropic", "opus", "tool", "thinking", "every", "model"]
 source: https://ai.xmc.tw/en/models/claude-fable-5-2
 source_anchor: ""

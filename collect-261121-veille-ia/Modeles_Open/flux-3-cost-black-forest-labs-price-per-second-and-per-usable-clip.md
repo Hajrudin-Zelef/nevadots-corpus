@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["flux", "usable", "cost", "draft", "video", "black", "forest", "labs"]
 source: https://www.costperclip.com/flux-3-cost
 source_anchor: ""

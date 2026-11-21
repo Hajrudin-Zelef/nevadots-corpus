@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["china", "call", "nvidia", "november", "hopper", "outlook", "kress", "licensed"]
 source: https://explainx.ai/blog/nvidia-q3-fy27-zero-china-data-center-outlook-hopper-halt-november-2026
 source_anchor: ""

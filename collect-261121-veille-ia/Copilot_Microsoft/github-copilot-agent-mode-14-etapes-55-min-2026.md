@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-04-27"]
 keywords: ["github", "copilot", "mode", "lagent", "code", "agent", "etapes", "projet"]
 source: https://tech-insider.org/fr/github-copilot-agent-mode-2026/
 source_anchor: ""

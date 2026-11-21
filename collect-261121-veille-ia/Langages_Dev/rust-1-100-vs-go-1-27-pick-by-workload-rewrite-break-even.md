@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-19"]
 keywords: ["rust", "release", "collector", "every", "pick", "memory", "discords", "workload"]
 source: https://tech-insider.org/rust-vs-go-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "model", "price", "tokens", "base", "september", "context", "larger"]
 source: https://codersera.com/blog/grok-4-7-vs-grok-4-6-2026/
 source_anchor: ""

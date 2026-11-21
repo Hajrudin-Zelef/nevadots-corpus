@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["chemistry", "nvidia", "nemotron", "litmusbench", "science", "dataset", "data", "nemo"]
 source: https://explainx.ai/blog/nvidia-nemotron-for-science-litmusbench-chemistry-agents-november-2026
 source_anchor: ""

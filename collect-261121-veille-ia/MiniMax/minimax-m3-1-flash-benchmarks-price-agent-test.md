@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["minimax", "flash", "model", "agent", "same", "openrouter", "free", "october"]
 source: https://atomicagent.io/blog/minimax-m3-1-flash/
 source_anchor: ""

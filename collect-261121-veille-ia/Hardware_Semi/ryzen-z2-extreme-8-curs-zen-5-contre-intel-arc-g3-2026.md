@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-30"]
 keywords: ["extreme", "ryzen", "curs", "portables", "contre", "rdna", "intel", "jusqua"]
 source: https://tech-insider.org/fr/ryzen-z2-extreme-console-portable-2026/
 source_anchor: ""

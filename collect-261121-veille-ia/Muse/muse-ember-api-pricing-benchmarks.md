@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["muse", "ember", "artificial", "analysis", "index", "provider", "model", "routing"]
 source: https://openrouter.ai/meta/muse-ember-20261109:nitro
 source_anchor: ""

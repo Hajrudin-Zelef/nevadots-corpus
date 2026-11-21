@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-31"]
 keywords: ["memory", "dram", "quarter", "prices", "ramageddon", "servers", "trendforce", "supply"]
 source: https://www.cognativ.com/blog/ramageddon-memory-shortage/
 source_anchor: ""

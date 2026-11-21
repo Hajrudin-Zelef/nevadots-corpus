@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "model", "open", "spark", "license", "hardware", "meta", "parameters"]
 source: https://codersera.com/blog/muse-spark-open-complete-guide-2026/
 source_anchor: ""

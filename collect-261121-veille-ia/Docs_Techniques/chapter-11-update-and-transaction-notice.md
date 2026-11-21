@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["procedures", "bidding", "sale", "notice", "transaction", "assets", "bankruptcy", "order"]
 source: https://blog.character.ai/chapter-11-update-and-transaction-notice/
 source_anchor: ""

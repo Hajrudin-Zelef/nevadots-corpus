@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-09-30"]
 keywords: ["agents", "amodei", "safety", "openai", "systems", "altman", "anthropic", "across"]
 source: https://www.galaxy.com/insights/research/ai-agent-growth-altman-amodei-safety-governance
 source_anchor: ""

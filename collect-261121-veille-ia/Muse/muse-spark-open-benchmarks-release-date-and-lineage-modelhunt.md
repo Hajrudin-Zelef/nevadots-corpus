@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["muse", "spark", "open", "scores", "score", "index", "artificial", "analysis"]
 source: https://modelhunt.ai/model/musesparkopen/
 source_anchor: ""

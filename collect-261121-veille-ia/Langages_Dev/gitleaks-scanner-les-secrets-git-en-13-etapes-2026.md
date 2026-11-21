@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-03-21"]
 keywords: ["secrets", "code", "gitleaks", "github", "source", "scanner", "depot", "scan"]
 source: https://tech-insider.org/fr/gitleaks-scanner-secrets-git-2026/
 source_anchor: ""

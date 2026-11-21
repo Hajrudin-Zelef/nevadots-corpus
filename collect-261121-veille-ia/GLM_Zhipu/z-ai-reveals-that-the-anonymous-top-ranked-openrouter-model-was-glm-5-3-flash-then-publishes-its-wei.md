@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["model", "glm-5", "card", "flash", "august", "weights", "openrouter", "bloomberg"]
 source: https://www.the-ledger.net/events/glm-5-3-flash-stealth-launch-open-weights
 source_anchor: ""

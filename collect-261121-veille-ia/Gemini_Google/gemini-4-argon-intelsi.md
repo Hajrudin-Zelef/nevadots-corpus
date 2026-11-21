@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["gemini", "argon", "google", "tokens", "ultra", "price", "model", "cyber"]
 source: https://intelsi.si/models/gemini-4-argon
 source_anchor: ""

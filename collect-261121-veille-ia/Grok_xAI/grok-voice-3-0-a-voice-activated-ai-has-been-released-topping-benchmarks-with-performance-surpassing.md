@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["voice", "grok", "speech", "model", "models", "spacexai", "performance", "time"]
 source: http://gigazine.net/gsc_news/en/20261015-grok-voice-3/
 source_anchor: ""

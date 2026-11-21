@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["google", "gemini", "argon", "output", "vertex", "tokens", "pricing", "october"]
 source: https://codersera.com/blog/gemini-4-argon-complete-guide-2026/
 source_anchor: ""

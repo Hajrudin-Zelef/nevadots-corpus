@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "copilot", "models", "flash", "model", "github", "changelog", "docs"]
 source: https://s5labs.io/resources/insights/github-copilot-mai-code-2-local-harness-sdk-2/
 source_anchor: ""

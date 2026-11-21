@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "anthropic", "opus", "mythos", "most", "price", "model", "claude"]
 source: https://robfalconer.com/blog/claude-fable-mythos-5-2/
 source_anchor: ""

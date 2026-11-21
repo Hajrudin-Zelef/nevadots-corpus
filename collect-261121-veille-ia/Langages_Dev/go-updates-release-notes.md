@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-11"]
 keywords: ["issue", "spec", "files", "execution", "arbitrary", "directories", "updates", "security"]
 source: https://releasebot.io/updates/google/golang
 source_anchor: ""

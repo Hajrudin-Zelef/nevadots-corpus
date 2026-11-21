@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["centres", "donnees", "couts", "construction", "dollars", "morgan", "stanley", "milliards"]
 source: https://cryptelio.cc/news/morgan-stanley-projects-us-data-center-costs-to-reach-49-billion-per-gigawatt
 source_anchor: ""

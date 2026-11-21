@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-05-01"]
 keywords: ["rust", "rustup", "team", "version", "programming", "language", "everyone", "build"]
 source: https://www.devreads.fyi/source/rust/
 source_anchor: ""

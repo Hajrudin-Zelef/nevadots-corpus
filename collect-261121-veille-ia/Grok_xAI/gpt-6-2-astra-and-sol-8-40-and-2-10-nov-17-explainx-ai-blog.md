@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gpt-6", "astra", "openai", "cost", "november", "launch", "pricing", "explainx"]
 source: https://explainx.ai/blog/openai-gpt-6-2-astra-sol-launch-pricing-benchmarks-november-2026
 source_anchor: ""

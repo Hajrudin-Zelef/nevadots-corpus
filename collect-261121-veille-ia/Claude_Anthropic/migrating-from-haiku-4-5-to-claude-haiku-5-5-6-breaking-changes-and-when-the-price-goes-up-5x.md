@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-07"]
 keywords: ["thinking", "haiku", "effort", "tokens", "output", "type", "disabled", "claude"]
 source: https://dev.to/persimmoq/migrating-from-haiku-45-to-claude-haiku-55-6-breaking-changes-and-when-the-price-goes-up-5x-1m65
 source_anchor: ""

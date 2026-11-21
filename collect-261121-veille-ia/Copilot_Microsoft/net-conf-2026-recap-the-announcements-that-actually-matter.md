@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["more", "conf", "code", "announcements", "release", "recap", "actually", "matter"]
 source: https://www.igniscor.com/post/net-conf-2026
 source_anchor: ""

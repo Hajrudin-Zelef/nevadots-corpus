@@ -5,7 +5,7 @@ domain: rattrapage
 role: reference
 task: reference
 actors: ["Microsoft"]
-dates: ["2025-11-11", "2026-10-13", "2029-01-09", "2031-10-14", "2034-10-10"]
+dates: ["2025-11-11", "2026-10-13"]
 keywords: []
 source: docs/RAG/collect-261001-rattrapage/maintenance_windows_guide.md
 source_anchor: ""

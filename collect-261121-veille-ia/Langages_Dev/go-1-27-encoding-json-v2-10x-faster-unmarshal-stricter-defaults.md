@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-04"]
 keywords: ["json", "error", "options", "behavior", "encoding", "jsontext", "func", "opts"]
 source: https://www.neoteric.no/blog/go-1-27-encoding-json-v2-migration
 source_anchor: ""

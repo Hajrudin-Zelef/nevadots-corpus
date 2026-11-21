@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["image", "kling", "text", "generation", "images", "native", "creators", "visual"]
 source: https://familyhealthtribune.com/stories/kling-ai-launches-kling-image-40-with-photographic-realism-and-native-8k-generation,55208
 source_anchor: ""

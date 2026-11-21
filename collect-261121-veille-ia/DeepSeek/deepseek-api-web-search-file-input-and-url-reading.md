@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "search", "chat", "reading", "file", "input", "model", "switches"]
 source: https://www.systemdesign.academy/explained/deepseek-application-apis
 source_anchor: ""

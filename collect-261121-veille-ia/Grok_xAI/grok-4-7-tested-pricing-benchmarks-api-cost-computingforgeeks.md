@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-25"]
 keywords: ["grok", "openrouter", "tokens", "reasoning", "cost", "model", "price", "pricing"]
 source: https://computingforgeeks.com/grok-4-7-tested/
 source_anchor: ""

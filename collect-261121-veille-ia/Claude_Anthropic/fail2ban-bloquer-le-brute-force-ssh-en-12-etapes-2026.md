@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2024-04-25"]
 keywords: ["fail2ban", "serveur", "bloquer", "connexion", "secondes", "sans", "journaux", "reste"]
 source: https://tech-insider.org/fr/fail2ban-tutoriel-bloquer-brute-force-ssh-2026/
 source_anchor: ""

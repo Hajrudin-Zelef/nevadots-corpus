@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Hugging Face", "Nvidia", "OpenAI", "TensorRT-LLM", "vLLM"]
-dates: ["2026-17-02"]
+dates: []
 keywords: ["attention", "blackwell", "decode", "gpu", "inference", "license", "nvidia", "parameters", "tensorrt", "tensorrt-llm", "training", "vllm"]
 source: docs/RAG/collect-261001-ia-llm/nvidia-nvidia-nemotron-parse-v1-2-hugging-face.md
 source_anchor: ""

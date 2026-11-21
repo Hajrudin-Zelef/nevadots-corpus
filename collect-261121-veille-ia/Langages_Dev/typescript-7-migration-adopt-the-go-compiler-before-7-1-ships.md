@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-08"]
 keywords: ["typescript", "microsoft", "compiler", "migration", "only", "adopt", "first", "ships"]
 source: https://loopyazilim.net/blog/typescript-7-migration-before-7-1
 source_anchor: ""

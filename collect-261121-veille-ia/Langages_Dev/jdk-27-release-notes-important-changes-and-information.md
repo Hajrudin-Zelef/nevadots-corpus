@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["java", "specification", "release", "compatibility", "notes", "information", "changes", "preview"]
 source: https://www.oracle.com/java/technologies/javase/27-relnote-issues.html
 source_anchor: ""

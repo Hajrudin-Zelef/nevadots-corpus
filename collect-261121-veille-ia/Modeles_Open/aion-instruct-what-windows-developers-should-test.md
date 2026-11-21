@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-13"]
 keywords: ["windows", "aion", "package", "developers", "instruct", "input", "output", "microsofts"]
 source: https://dailytech.ai/aion-instruct-windows-migration/
 source_anchor: ""

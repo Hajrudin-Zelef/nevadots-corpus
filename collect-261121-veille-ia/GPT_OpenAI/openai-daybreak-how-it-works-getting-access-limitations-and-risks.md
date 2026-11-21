@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-02-05"]
 keywords: ["daybreak", "access", "openai", "models", "security", "program", "cybersecurity", "cyber"]
 source: https://checkmarx.com/learn/appsec-vendors/openai-daybreak-how-it-works-getting-access-limitations-and-risks/
 source_anchor: ""

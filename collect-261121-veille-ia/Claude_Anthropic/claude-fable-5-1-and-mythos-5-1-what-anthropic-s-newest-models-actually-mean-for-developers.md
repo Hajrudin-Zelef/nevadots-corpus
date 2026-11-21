@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-02"]
 keywords: ["fable", "mythos", "anthropic", "safeguards", "claude", "benchmark", "model", "agentic"]
 source: https://dev.to/oussama_errafif/claude-fable-51-and-mythos-51-what-anthropics-newest-models-actually-mean-for-developers-1caf
 source_anchor: ""

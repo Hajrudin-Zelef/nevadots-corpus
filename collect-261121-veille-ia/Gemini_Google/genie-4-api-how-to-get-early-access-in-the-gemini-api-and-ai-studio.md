@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["genie", "google", "gemini", "access", "project", "early", "studio", "deepmind"]
 source: https://dev.to/hassann/genie-4-api-how-to-get-early-access-in-the-gemini-api-and-ai-studio-21p2
 source_anchor: ""

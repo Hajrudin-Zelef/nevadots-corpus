@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-23"]
 keywords: ["video", "audio", "flux", "model", "flow", "image", "multimodal", "matching"]
 source: https://huggingface.co/blog/ResterChed/flux-3
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-09-19"]
 keywords: ["runway", "gen-4", "video", "features", "prompt", "workflow", "pricing", "review"]
 source: https://www.toolnova-ai.com/2026/07/runway-ai-review.html
 source_anchor: ""

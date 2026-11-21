@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "gemini", "same", "model", "google", "price", "upgrade", "input"]
 source: https://www.layer3labs.io/comparisons/gemini-3-8-flash-vs-gemini-3-7-flash
 source_anchor: ""

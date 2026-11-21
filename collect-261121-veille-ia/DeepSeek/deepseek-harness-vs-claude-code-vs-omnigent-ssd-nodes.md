@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-18"]
 keywords: ["deepseek", "harness", "claude", "code", "profile", "omnigent", "plugin", "pnpm"]
 source: https://www.ssdnodes.com/learn/dsh-vs-claude-code-vs-omnigent
 source_anchor: ""

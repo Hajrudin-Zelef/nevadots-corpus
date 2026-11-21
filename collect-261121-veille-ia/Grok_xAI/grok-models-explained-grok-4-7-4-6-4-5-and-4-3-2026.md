@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "model", "models", "tokens", "build", "coding", "fast", "reasoning"]
 source: https://www.ai-toolbox.co/grok-models/grok-models-explained-2026
 source_anchor: ""

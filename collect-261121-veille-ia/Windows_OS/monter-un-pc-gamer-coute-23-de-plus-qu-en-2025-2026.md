@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-06-30"]
 keywords: ["gamer", "prix", "monter", "carte", "coute", "memoire", "graphique", "question"]
 source: https://tech-insider.org/fr/monter-pc-gamer-cout-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["google", "data", "november", "system", "built", "announced", "today", "single"]
 source: https://dev.to/paullovelace/googles-tpu-8tx-and-8i-max-announced-today-november-9-2026-5d2e
 source_anchor: ""

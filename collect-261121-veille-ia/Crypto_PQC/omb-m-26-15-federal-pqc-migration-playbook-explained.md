@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-25"]
 keywords: ["migration", "systems", "must", "m-26-15", "federal", "days", "agency", "phase"]
 source: https://postquantum.com/security-pqc/omb-m-26-15-pqc-migration/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-15"]
 keywords: ["data", "postgresql", "open-source", "architecture", "platform", "operational", "types", "stackscape"]
 source: https://stackscape.org/en/p/postgresql/
 source_anchor: ""

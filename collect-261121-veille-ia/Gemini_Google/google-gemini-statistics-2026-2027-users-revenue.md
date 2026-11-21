@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["users", "gemini", "million", "call", "billion", "monthly", "alphabet", "google"]
 source: https://axis-intelligence.com/google-gemini-statistics/
 source_anchor: ""

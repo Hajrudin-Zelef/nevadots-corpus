@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-01-15"]
 keywords: ["codex", "ollama", "openai", "models", "gpt-oss", "blog", "using", "install"]
 source: https://ollama.com/blog/codex
 source_anchor: ""

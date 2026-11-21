@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["wireshark", "reseau", "trafic", "sous", "etapes", "sans", "apres", "capture"]
 source: https://tech-insider.org/fr/wireshark-analyser-trafic-reseau-2026/
 source_anchor: ""

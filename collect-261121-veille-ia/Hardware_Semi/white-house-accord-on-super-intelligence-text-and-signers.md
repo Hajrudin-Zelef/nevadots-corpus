@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-15"]
 keywords: ["white", "house", "accord", "president", "super", "intelligence", "companies", "signed"]
 source: https://superintelligencelicensing.com/guides/white-house-accord-on-super-intelligence
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["nist", "final", "after", "draft", "bits", "deprecated", "quantum-vulnerable", "algorithm"]
 source: https://medium.com/quantum-sentinel/nist-ir-8547-is-final-what-changed-quantum-sentinel-3ec8c0835ad7
 source_anchor: ""

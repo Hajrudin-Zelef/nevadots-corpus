@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["mode", "claude", "code", "auto", "default", "permission", "sessions", "start"]
 source: https://www.ssdnodes.com/learn/claude-code-auto-mode-permissions
 source_anchor: ""

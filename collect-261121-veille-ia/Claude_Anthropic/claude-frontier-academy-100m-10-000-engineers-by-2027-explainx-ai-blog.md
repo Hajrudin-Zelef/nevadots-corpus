@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["claude", "engineer", "frontier", "anthropic", "deployed", "engineers", "residency", "role"]
 source: https://www.explainx.ai/blog/claude-frontier-academy-100m-10000-engineers-2026
 source_anchor: ""

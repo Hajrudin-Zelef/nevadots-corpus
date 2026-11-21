@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["rubin", "vera", "nvidia", "nvl72", "production", "rack", "full", "racks"]
 source: https://www.insidedeeptech.com/nvidia-vera-rubin-nvl72-full-guide/
 source_anchor: ""

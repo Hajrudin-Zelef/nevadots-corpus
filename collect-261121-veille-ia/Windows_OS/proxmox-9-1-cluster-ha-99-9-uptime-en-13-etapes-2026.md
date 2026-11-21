@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-04-17"]
 keywords: ["proxmox", "cluster", "etapes", "version", "comme", "linux", "vmware", "broadcom"]
 source: https://tech-insider.org/fr/proxmox-tutoriel-cluster-ha-13-etapes-2026/
 source_anchor: ""

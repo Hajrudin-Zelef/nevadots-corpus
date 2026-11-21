@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["deepseek", "plugin", "agent", "runtime", "trajectory", "harness", "tool", "production"]
 source: https://luby.co/blog/deepseek-harness-inside-the-open-source-agent-runtime/
 source_anchor: ""

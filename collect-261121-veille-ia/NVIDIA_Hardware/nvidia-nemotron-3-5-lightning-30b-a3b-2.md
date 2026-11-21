@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["model", "nvidia", "nemotron-3", "stage", "parameters", "languages", "coding", "lightning-30b-a3b-nvfp4"]
 source: https://build.nvidia.com/nvidia/nemotron-3.5-lightning-30b-a3b/modelcard
 source_anchor: ""

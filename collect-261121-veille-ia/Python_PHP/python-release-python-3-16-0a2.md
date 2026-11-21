@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["python", "release", "sigstore", "source", "alpha", "more", "faster", "macos"]
 source: https://www.python.org/downloads/release/python-3160a2/
 source_anchor: ""

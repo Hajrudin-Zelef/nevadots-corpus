@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["stitch", "loop", "google", "code", "agent", "always-on", "review", "rewrites"]
 source: https://emergent.sh/news/google-stitch-loop-always-agent-rewrites-code
 source_anchor: ""

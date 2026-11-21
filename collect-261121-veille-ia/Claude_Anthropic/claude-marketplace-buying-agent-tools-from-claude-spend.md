@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["claude", "marketplace", "anthropic", "agent", "spend", "portion", "committed", "buying"]
 source: https://www.digitalapplied.com/blog/claude-marketplace-committed-spend-agent-software
 source_anchor: ""

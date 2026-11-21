@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["august", "model", "dated", "week", "release", "entries", "nine", "dates"]
 source: https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker
 source_anchor: ""

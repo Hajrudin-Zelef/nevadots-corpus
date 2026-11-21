@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["python", "october", "here", "available", "june", "announcement", "september", "august"]
 source: https://discuss.python.org/tag/release/6
 source_anchor: ""

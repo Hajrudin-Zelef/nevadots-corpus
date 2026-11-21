@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-04-17"]
 keywords: ["campus", "permit", "state", "sept", "data", "center", "permits", "record"]
 source: https://everydatacenter.com/monarch-compute-campus.html
 source_anchor: ""

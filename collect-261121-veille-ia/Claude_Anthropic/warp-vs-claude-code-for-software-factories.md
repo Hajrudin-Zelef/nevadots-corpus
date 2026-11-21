@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-07"]
 keywords: ["claude", "code", "warp", "factory", "routines", "factories", "runs", "anthropic"]
 source: https://www.warp.dev/articles/warp-vs-claude-code-software-factory
 source_anchor: ""

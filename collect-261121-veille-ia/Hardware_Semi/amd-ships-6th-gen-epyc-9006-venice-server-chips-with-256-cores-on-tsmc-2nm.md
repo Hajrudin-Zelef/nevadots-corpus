@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["epyc", "socket", "performance", "server", "venice", "cores", "november", "core"]
 source: https://www.tech-quire.com/articles/amd-epyc-9006-venice-256-core-launch/
 source_anchor: ""

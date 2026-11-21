@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-15"]
 keywords: ["linux", "fixes", "kernel", "release", "large", "also", "torvalds", "released"]
 source: https://commandlinux.com/news/linux-7-4-rc3-released-with-large-iomap-calling-convention-change-and-smb-client-fixes/
 source_anchor: ""

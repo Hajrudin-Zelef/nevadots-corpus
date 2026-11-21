@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["kimi", "moonshot", "model", "same", "tokens", "post-training", "scores", "input"]
 source: https://dev.to/hassann/what-is-kimi-k31-pro-4lb
 source_anchor: ""

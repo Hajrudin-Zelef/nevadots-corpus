@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-09-16"]
 keywords: ["mistral", "mozilla", "small", "firefox", "smart", "window", "milliards", "parametres"]
 source: https://tech-insider.org/fr/firefox-mistral-small-4-smart-window-2026/
 source_anchor: ""

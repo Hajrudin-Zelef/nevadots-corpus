@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["nvidia", "inception", "diffusion", "startup", "models", "advanced", "talks", "inceptions"]
 source: https://techfundingnews.com/report-nvidia-in-advanced-talks-to-acquire-stanford-led-diffusion-ai-startup-inception-for-500m/
 source_anchor: ""

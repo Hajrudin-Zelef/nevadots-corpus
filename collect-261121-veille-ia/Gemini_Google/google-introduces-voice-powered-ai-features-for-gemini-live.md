@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-27"]
 keywords: ["gemini", "google", "live", "users", "features", "tasks", "more", "voice"]
 source: https://www.dawan.africa/news/google-introduces-voice-powered-ai-features-for-gemini-live
 source_anchor: ""

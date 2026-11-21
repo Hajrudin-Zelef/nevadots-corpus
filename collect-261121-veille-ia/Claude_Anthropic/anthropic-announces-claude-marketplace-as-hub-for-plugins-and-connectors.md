@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-25"]
 keywords: ["anthropic", "claude", "marketplace", "developers", "connectors", "portal", "plugins", "tools"]
 source: https://cryptobriefing.com/claude-plugin-mcp-connector-submission-portal/
 source_anchor: ""

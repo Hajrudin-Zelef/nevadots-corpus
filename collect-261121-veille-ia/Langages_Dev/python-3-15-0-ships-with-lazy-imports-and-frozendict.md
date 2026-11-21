@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "release", "imports", "code", "lazy", "frozendict", "default", "linux"]
 source: https://dev.to/techaiwire/python-3150-ships-with-lazy-imports-and-frozendict-18c6
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["openai", "model", "training", "risk", "audits", "sandboxing", "traffic", "monitoring"]
 source: https://battletown.com/news/openai-adds-audits-sandboxing-and-traffic-monitoring-to-its-ai-risk-framework
 source_anchor: ""

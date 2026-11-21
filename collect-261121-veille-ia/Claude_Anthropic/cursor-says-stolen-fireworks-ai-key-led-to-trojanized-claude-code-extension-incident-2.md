@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["cursor", "extension", "used", "code", "access", "fireworks", "credentials", "said"]
 source: https://www.thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html
 source_anchor: ""

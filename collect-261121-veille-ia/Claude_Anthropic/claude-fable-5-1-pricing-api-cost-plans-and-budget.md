@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "pricing", "input", "rates", "plans", "tokens", "anthropics"]
 source: https://www.layer3labs.io/guides/claude-fable-5-1-pricing
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "flash", "microsoft", "standard", "pricing", "models", "cost", "input"]
 source: https://xenospectrum.com/en/microsoft-mai-code-2-pricing/
 source_anchor: ""

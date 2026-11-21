@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "opus", "claude", "model", "anthropic", "launch", "verdict", "costs"]
 source: https://www.eesel.ai/blog/claude-sonnet-5-5-review
 source_anchor: ""

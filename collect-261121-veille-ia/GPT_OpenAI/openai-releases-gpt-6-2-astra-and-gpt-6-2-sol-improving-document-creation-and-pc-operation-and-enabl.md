@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["gpt-6", "astra", "openai", "tasks", "operation", "models", "performance", "creation"]
 source: https://gigazine.net/gsc_news/en/20261118-openai-gpt-6-2-astra-sol/
 source_anchor: ""

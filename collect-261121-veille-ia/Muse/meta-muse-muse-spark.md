@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["muse", "meta", "model", "wonder", "pricing", "spark", "tokens", "secondary"]
 source: https://www.smbagentatlas.com/agents/meta-muse/
 source_anchor: ""

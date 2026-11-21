@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-13"]
 keywords: ["ling-3", "inclusionai", "card", "ming-3", "sglang", "tool", "flash-1019", "weights"]
 source: https://www.anchorterminal.com/tools/ling-3-1-flash-1019
 source_anchor: ""

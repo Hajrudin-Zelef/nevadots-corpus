@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["muse", "meta", "ember", "model", "price", "tokens", "agent", "floor"]
 source: https://aragonresearch.com/meta-muse-ember-sets-a-new-agent-price-floor/
 source_anchor: ""

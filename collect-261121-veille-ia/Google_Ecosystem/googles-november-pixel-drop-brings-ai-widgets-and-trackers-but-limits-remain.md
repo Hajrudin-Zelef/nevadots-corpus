@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["pixel", "november", "drop", "widgets", "gemini", "google", "googles", "features"]
 source: https://tldrdailynews.com/news/technology/technology/googles-november-pixel-drop-brings-ai-widgets-and-trackers-but-limits-remain-ohozza3tl
 source_anchor: ""

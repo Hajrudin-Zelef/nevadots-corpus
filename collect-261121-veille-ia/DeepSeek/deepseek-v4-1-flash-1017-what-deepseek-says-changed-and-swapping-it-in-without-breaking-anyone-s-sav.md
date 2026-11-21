@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["flash", "deepseek", "model", "catalog", "tools", "saved", "cloud", "says"]
 source: https://dev.to/purpledoubled/deepseek-v41-flash-1017-what-deepseek-says-changed-and-swapping-it-in-without-breaking-anyones-18ci
 source_anchor: ""

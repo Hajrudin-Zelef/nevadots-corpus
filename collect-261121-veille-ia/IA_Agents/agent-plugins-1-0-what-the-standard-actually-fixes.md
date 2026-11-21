@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-06"]
 keywords: ["agent", "plugins", "plugin", "standard", "specification", "github", "json", "trust"]
 source: https://www.digitalapplied.com/blog/agent-plugins-1-0-open-standard-portable-ai-skills
 source_anchor: ""

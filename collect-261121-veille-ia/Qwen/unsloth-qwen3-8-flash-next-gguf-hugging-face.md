@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-03-05"]
 keywords: ["gated", "qwen3", "attention", "number", "unsloth", "dimension", "residual", "embedding"]
 source: https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF
 source_anchor: ""

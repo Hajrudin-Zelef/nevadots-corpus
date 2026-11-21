@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-16"]
 keywords: ["openai", "september", "summaries", "framework", "model", "published", "gpt-5", "misalignment"]
 source: https://www.rockcybermusings.com/p/weekly-musings-top-10-ai-security-20260911-20260917?utm_source=substack&utm_medium=email&utm_content=share&action=share
 source_anchor: ""

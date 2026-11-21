@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-05-31"]
 keywords: ["netdevops", "validation", "compliance", "full", "cisco", "automation", "python", "drift"]
 source: https://github.com/cyprientemateu/python-netmiko-devnet-cisco-automation-lab
 source_anchor: ""

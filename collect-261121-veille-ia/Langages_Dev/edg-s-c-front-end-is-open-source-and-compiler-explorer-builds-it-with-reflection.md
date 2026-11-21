@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["reflection", "members", "source", "says", "string", "front", "compiler", "define"]
 source: https://wrocpp.github.io/posts/edg-front-end-open-source/
 source_anchor: ""

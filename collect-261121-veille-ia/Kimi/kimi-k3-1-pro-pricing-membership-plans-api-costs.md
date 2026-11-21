@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-24"]
 keywords: ["included", "kimi", "mtok", "membership", "pricing", "highspeed", "code", "agent"]
 source: https://www.kimi.ai/resources/kimi-k3-1-pro-pricing
 source_anchor: ""

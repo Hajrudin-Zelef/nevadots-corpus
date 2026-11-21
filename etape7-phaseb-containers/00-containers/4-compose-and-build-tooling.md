@@ -5,7 +5,7 @@ domain: step-7-phase-b-containers-orchestration-sandbox-runtimes
 role: deep-dive
 task: reference
 actors: ["AWS"]
-dates: ["2025-08", "2025-12-17", "2026-01-27", "2026-04-22", "2026-06-02", "2026-06-23", "2026-07-30", "2026-09", "2026-09-22", "2026-10-27", "2027-02-28", "2027-06-28", "2027-08-02", "2028-08-02"]
+dates: ["2025-12-17", "2026-01-27", "2026-04-22", "2026-06-02", "2026-06-23", "2026-07-30", "2026-09-22", "2026-10-27"]
 keywords: ["accelerator", "agent", "aws", "gpu", "mcp", "research"]
 source: docs/RAG/etape7_phaseB_containers.md
 source_anchor: ""

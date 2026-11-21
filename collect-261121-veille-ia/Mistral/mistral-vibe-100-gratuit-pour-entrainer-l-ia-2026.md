@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-08-24"]
 keywords: ["mistral", "vibe", "modeles", "gratuit", "depuis", "code", "chat", "entrainer"]
 source: https://tech-insider.org/fr/mistral-vibe-gratuit-entrainement-ia-donnees-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: general-networking
 role: reference
 task: reference
 actors: ["AWS", "Anthropic", "Google", "Microsoft", "OpenAI"]
-dates: ["2025-05", "2026-02", "2026-02-03", "2026-02-05", "2026-03", "2026-06-30", "2026-07", "2026-09", "2026-09-22", "2027-02-04"]
+dates: ["2026-02-03", "2026-02-05", "2026-06-30", "2026-09-22"]
 keywords: ["agent", "agentic", "agents", "bedrock", "benchmark", "benchmarks", "chatgpt", "claude", "cloud agent", "context window", "copilot", "cybersecurity"]
 source: docs/RAG/collect-261001-general-networking/Grands titres IA modèlesEN.md
 source_anchor: ""

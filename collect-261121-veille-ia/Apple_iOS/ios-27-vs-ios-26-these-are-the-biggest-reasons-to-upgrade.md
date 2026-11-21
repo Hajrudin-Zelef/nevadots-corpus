@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["siri", "intelligence", "features", "apple", "faster", "performance", "ios", "security"]
 source: https://www.macworld.com/article/3162639/ios-27-vs-ios-26.html
 source_anchor: ""

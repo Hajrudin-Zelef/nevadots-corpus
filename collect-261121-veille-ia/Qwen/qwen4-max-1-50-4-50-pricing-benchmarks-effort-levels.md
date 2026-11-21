@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["qwen4-max", "xhigh", "effort", "alibaba", "tokens", "input", "thinking", "output"]
 source: https://lucenta.ai/blog/qwen4-max-launch
 source_anchor: ""

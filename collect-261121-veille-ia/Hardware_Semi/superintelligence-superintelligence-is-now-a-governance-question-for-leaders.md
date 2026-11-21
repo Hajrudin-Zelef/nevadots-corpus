@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-20"]
 keywords: ["leaders", "take", "superintelligence", "should", "white", "frontier", "voluntary", "house"]
 source: https://joineta.org/topics/superintelligence
 source_anchor: ""

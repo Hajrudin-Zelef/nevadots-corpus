@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-03-30"]
 keywords: ["axios", "supply", "chain", "email", "protected", "lattaque", "mars", "versions"]
 source: https://tech-insider.org/fr/attaque-supply-chain-axios-npm-coree-du-nord-rat-2026/
 source_anchor: ""

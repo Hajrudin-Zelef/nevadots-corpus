@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["devin", "model", "session", "stalled", "streams", "longer", "adds", "retry"]
 source: https://devincentral.com/continuity/cli/2026-w47
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["flash", "deepseek", "card", "minimax", "model", "october", "same", "tokens"]
 source: https://chatoss.ai/blog/minimax-m3-1-flash-vs-deepseek-v4-1-flash-1017
 source_anchor: ""

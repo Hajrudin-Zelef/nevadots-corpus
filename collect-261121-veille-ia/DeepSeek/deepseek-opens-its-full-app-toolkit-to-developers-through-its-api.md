@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "developers", "search", "safety", "checks", "builders", "through", "voice"]
 source: https://cryptobriefing.com/deepseek-opens-app-features-developers-api/
 source_anchor: ""

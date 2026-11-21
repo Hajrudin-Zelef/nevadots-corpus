@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["navierstokes", "fluide", "probleme", "equations", "prix", "millenaire", "mouvement", "singularite"]
 source: https://openai.com/fr-FR/index/navier-stokes-solution/
 source_anchor: ""

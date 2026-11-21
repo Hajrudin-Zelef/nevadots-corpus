@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["binance", "withdrawals", "networks", "usdt", "usdc", "assets", "billion", "exchange"]
 source: https://coinsnews.com/binance-restores-15-networks-after-63b-hack-while-outflows-surge-to-58b
 source_anchor: ""

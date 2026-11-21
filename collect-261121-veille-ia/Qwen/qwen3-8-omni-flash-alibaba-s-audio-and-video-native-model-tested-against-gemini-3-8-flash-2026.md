@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-09-18"]
 keywords: ["audio", "qwen3", "video", "model", "flash", "omni-flash", "gemini", "alibaba"]
 source: https://contracollective.com/blog/qwen3-8-omni-flash-vs-gemini-3-8-flash-2026
 source_anchor: ""

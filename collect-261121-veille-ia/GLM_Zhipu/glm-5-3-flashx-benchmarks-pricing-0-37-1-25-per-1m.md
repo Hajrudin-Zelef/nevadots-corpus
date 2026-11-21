@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-11-20"]
 keywords: ["flashx", "benchmarks", "gamebench", "results", "benchleader", "tokens", "index", "model"]
 source: https://www.benchleader.com/models/glm-5-3-flashx
 source_anchor: ""

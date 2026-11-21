@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-25"]
 keywords: ["kuma", "simd", "type", "them", "methods", "generic", "method", "interface"]
 source: https://github.com/tamnd/kuma/blob/HEAD/docs/01-research-2026.md
 source_anchor: ""

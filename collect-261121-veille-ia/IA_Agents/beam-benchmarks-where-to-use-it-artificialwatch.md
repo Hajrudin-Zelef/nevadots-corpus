@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["beam", "reflection", "beam-1", "b-a23b", "model", "artificialwatch", "opencode", "october"]
 source: https://artificialwatch.com/model/reflection-beam
 source_anchor: ""

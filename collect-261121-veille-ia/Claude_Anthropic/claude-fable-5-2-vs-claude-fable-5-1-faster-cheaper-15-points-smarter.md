@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "input", "output", "effort", "cheaper", "points", "anthropic"]
 source: https://codingfleet.com/blog/claude-fable-5-2-vs-fable-5-1/
 source_anchor: ""

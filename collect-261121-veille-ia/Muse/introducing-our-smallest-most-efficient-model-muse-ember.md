@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["muse", "ember", "cost", "best", "task", "haiku", "result", "claude"]
 source: https://research.meta.ai/blog/muse-ember?ref=thenewway.ai
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["opus", "copilot", "models", "github", "model", "claude", "gpt-5", "terra"]
 source: https://emergent.sh/news/github-copilot-drops-opus-4-8-opus-5-gpt-5-6
 source_anchor: ""

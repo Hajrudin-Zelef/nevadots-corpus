@@ -5,7 +5,7 @@ domain: atria-dawn
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-31"]
 keywords: ["atria-dawn", "preview", "release", "llmtr", "stable", "open", "same", "model"]
 source: https://llmtr.com/en/blog/atria-dawn-vs-atria-dawn-preview
 source_anchor: ""

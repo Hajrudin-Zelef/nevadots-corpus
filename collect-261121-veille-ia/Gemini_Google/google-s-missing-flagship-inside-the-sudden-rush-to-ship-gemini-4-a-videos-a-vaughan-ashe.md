@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-05-19"]
 keywords: ["google", "flagship", "gemini", "september", "missing", "ship", "chief", "script"]
 source: https://www.vaughanashe.ai/videos/googles-missing-flagship-inside-the-sudden-rush-to-ship-gemini-4
 source_anchor: ""

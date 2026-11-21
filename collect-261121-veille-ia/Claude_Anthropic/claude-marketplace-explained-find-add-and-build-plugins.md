@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["claude", "marketplace", "partner", "connectors", "plugins", "anthropic", "plugin", "customize"]
 source: https://www.toolbit.ai/blog/claude-marketplace-explained
 source_anchor: ""

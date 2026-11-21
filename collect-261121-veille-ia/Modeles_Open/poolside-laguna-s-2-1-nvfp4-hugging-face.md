@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-21"]
 keywords: ["attention", "nvfp4", "layers", "window", "laguna", "total", "model", "parameters"]
 source: https://huggingface.co/poolside/Laguna-S-2.1-NVFP4
 source_anchor: ""

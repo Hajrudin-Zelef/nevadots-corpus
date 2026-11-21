@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["under", "apple", "airtag", "price", "list", "iphone", "gifts", "streaming"]
 source: https://trendytechtribe.com/picks/best-tech-gifts-under-100
 source_anchor: ""

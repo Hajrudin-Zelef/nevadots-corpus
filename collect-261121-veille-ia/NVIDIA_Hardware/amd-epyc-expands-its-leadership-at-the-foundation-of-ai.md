@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["epyc", "cloud", "data", "host", "processors", "foundation", "google", "accelerators"]
 source: https://ir.amd.com/news-events/press-releases/detail/1304/amd-epyc-expands-its-leadership-at-the-foundation-of-ai
 source_anchor: ""

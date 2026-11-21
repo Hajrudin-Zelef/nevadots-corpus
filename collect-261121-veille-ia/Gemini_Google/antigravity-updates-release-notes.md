@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["gemini", "source", "releasebot", "antigravity", "adds", "fixes", "date", "parsed"]
 source: https://releasebot.io/updates/google/antigravity
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-24"]
 keywords: ["avatar", "live", "google", "gemini", "video", "exchange", "says", "speech"]
 source: https://www.aiaffairs.com/technology/google-deepmind-gemini-3-8-live-avatar-enterprise/
 source_anchor: ""

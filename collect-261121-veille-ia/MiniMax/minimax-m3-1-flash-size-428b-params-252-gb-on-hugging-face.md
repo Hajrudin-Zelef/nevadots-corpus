@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-25"]
 keywords: ["minimax", "flash", "model", "parameters", "experts", "token", "hugging", "face"]
 source: https://blog.laozhang.ai/en/posts/minimax-m3-1-flash-size
 source_anchor: ""

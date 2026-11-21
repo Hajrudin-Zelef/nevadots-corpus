@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["claude", "anthropic", "government", "agencies", "seat", "beta", "fees", "usage"]
 source: https://www.aiaffairs.com/corporate/anthropic-claude-for-government-general-availability-seat-fees/
 source_anchor: ""

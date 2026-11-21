@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "hydrogen", "artificial", "analysis", "score", "scores", "index", "google"]
 source: https://modelhunt.ai/model/gemini4hydrogen/
 source_anchor: ""

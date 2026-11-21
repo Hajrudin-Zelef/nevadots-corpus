@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["meta", "wonder", "model", "muse", "full", "models", "frontier", "version"]
 source: https://dev.to/paullovelace/metas-muse-wonder-is-a-real-frontier-model-now-but-the-best-version-isnt-on-the-api-1c67
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: cisco
 role: reference
 task: reference
 actors: ["Microsoft"]
-dates: ["2026-09-06", "2026-12-06"]
+dates: ["2026-09-06"]
 keywords: ["valuation"]
 source: docs/RAG/collect-261001-cisco/extensions-navigateur-securiser-chrome-edge-en-12-etapes.md
 source_anchor: ""

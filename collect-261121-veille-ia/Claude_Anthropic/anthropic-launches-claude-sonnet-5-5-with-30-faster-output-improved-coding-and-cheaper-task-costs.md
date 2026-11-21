@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["sonnet", "claude", "anthropic", "model", "coding", "faster", "also", "output"]
 source: https://www.moneycontrol.com/technology/anthropic-launches-claude-sonnet-5-5-with-30-faster-output-improved-coding-and-cheaper-task-costs-article-14040925.html/amp
 source_anchor: ""

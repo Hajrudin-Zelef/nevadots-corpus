@@ -5,7 +5,7 @@ domain: apple-ios
 role: reference
 task: article
 actors: ["Apple"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["iphone", "apple", "security", "notes", "fixed", "version", "later", "none"]
 source: https://mihata.jp/en/column/iphone-ios-vulnerability-updates
 source_anchor: ""

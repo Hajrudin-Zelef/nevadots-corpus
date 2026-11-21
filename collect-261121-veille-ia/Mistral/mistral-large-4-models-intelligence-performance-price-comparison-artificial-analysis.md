@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "intelligence", "large", "models", "index", "analysis", "high", "tokens"]
 source: https://artificialanalysis.ai/models/mistral-large-4
 source_anchor: ""

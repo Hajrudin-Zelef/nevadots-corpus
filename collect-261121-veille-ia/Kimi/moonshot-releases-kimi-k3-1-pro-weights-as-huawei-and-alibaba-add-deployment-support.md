@@ -5,7 +5,7 @@ domain: huawei
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-24"]
 keywords: ["model", "kimi", "moonshot", "weights", "through", "release", "training", "november"]
 source: https://asiadaily.org/news/17790/
 source_anchor: ""

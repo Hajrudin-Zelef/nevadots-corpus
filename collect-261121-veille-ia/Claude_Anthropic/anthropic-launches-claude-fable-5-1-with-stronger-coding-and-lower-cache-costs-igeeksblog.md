@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "anthropic", "model", "work", "users", "coding", "cache"]
 source: https://www.igeeksblog.com/anthropic-claude-fable-5-1/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-10"]
 keywords: ["intel", "design", "process", "october", "foundry", "billion", "chip", "customer"]
 source: https://floridatechnologynews.com/intels-14a-process-design-kit-is-coming-in-october/
 source_anchor: ""

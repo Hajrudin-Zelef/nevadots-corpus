@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["arena", "agent", "model", "tool", "changes", "beam", "a23b", "text"]
 source: https://www.llmap.ai/models/reflection-beam-1-0-501b-a23b
 source_anchor: ""

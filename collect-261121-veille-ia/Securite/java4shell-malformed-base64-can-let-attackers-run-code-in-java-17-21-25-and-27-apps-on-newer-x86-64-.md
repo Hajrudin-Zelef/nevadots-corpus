@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["java", "before", "keycloak", "exploit", "calif", "code", "login", "jenkins"]
 source: https://infrastack.ai/live/TECH-202611-nqwi4f
 source_anchor: ""

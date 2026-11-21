@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["gemini", "robotics", "google", "robots", "tasks", "deepmind", "model", "announces"]
 source: https://gigazine.net/gsc_news/en/20261111-gemini-robotics-2-5/
 source_anchor: ""

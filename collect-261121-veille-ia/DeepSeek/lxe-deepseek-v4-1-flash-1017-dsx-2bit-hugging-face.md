@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["engram", "model", "decode", "shards", "unsloth", "deepseek-v4", "same", "build"]
 source: https://huggingface.co/lxe/DeepSeek-V4.1-Flash-1017-dsx-2bit
 source_anchor: ""

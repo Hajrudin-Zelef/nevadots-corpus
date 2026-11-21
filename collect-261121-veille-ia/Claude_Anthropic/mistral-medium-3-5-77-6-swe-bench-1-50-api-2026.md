@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-29"]
 keywords: ["mistral", "medium", "modele", "dense", "milliards", "avril", "parametres", "fiche"]
 source: https://tech-insider.org/fr/mistral-medium-3-5-vibe-le-chat-work-mode-avril-2026/
 source_anchor: ""

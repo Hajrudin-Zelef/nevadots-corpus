@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-06-24"]
 keywords: ["openai", "jalapeno", "inference", "chip", "data", "venturebeat", "custom", "broadcom"]
 source: https://www.layer3labs.io/guides/openai-jalapeno-explained
 source_anchor: ""

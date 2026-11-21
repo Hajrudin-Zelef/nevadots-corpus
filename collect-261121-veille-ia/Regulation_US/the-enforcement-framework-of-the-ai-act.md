@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-02"]
 keywords: ["office", "systems", "enforcement", "gpai", "models", "providers", "information", "rfis"]
 source: https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-16"]
 keywords: ["swap", "kernel", "release", "stable", "linux", "series", "embedded", "devices"]
 source: http://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-linux-72-nears-release-swap-io-rework-52e0
 source_anchor: ""

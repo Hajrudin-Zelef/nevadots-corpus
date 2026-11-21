@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["chonk", "mistrals", "model", "gpt-6", "open", "models", "claude", "opus"]
 source: https://sillysingularity.ai/?p=4595
 source_anchor: ""

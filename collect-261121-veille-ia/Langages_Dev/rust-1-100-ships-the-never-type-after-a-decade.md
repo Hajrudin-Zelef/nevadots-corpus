@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["type", "rust", "never", "after", "fallback", "cargo", "change", "build"]
 source: https://www.fosslinux.com/163936/rust-1-100-never-type-stabilized.htm
 source_anchor: ""

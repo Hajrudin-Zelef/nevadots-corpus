@@ -5,7 +5,7 @@ domain: samsung-mobile
 role: reference
 task: article
 actors: ["Samsung"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["beta", "samsung", "galaxy", "first", "india", "owners", "poland", "countries"]
 source: https://www.sammobile.com/news/samsung-broke-8-year-habit-one-ui-9-5-beta/
 source_anchor: ""

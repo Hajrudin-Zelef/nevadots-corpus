@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-01"]
 keywords: ["cursor", "extension", "code", "marketplace", "says", "anthropic", "persistent", "reports"]
 source: https://techwatch.info/articles/claude-code-extension-cursor-marketplace-ssh-backdoor-cyber
 source_anchor: ""

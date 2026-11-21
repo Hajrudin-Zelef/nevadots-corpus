@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "nemotron", "super", "multimodal", "enterprise", "architecture", "inference", "model"]
 source: https://www.narenvadapalli.com/blog/nvidia-nemotron-3-5-super-vl-specialized-multimodal-agents/
 source_anchor: ""

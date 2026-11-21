@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2024-11-25"]
 keywords: ["serveur", "claude", "code", "outils", "donnees", "tutoriel", "tickets", "comme"]
 source: https://tech-insider.org/fr/serveur-mcp-claude-code-2026/
 source_anchor: ""

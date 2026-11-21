@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-31"]
 keywords: ["deepseek", "trois", "modeles", "haiku", "modele", "claude", "gpt-5", "luna"]
 source: https://tech-insider.org/fr/deepseek-v4-flash-vs-claude-haiku-4-5-vs-gpt-5-6-luna-2026/
 source_anchor: ""

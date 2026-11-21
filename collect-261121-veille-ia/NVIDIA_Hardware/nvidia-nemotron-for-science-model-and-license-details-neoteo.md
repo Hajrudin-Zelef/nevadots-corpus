@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "license", "model", "nemotron", "scientific", "dataset", "science", "details"]
 source: https://www.neoteo.com/en/nvidia-introduced-nemotron-for-science-with-model-and-data-details?locale=en
 source_anchor: ""

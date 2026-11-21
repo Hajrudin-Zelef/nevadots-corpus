@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-01-10"]
 keywords: ["python", "websockets", "version", "websocket", "aout", "tutoriel", "vous", "environnement"]
 source: https://tech-insider.org/fr/tutoriel-websocket-python-chat-temps-reel-2026/
 source_anchor: ""

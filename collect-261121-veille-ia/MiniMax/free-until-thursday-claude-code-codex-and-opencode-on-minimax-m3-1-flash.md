@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["flash", "free", "minimax", "claude", "ollama", "until", "code", "input"]
 source: https://medium.com/@r3dtuxedo/free-until-thursday-claude-code-codex-and-opencode-on-minimax-m3-1-flash-41292135b0da
 source_anchor: ""

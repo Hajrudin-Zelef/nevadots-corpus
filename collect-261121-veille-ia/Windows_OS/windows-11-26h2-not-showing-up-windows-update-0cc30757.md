@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["windows", "update", "version", "check", "page", "microsofts", "offer", "updates"]
 source: ""
 source_anchor: ""

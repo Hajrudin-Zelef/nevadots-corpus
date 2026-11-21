@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["mistral", "gpt-5", "claude", "large", "tokens", "aout", "modeles", "sonnet"]
 source: https://tech-insider.org/fr/mistral-large-3-vs-gpt-5-6-vs-claude-2026/
 source_anchor: ""

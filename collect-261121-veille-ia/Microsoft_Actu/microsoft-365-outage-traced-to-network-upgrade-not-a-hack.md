@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["microsoft", "said", "network", "email", "outage", "upgrade", "reported", "traffic"]
 source: https://shiftdelete.net/en/microsoft-365-outage
 source_anchor: ""

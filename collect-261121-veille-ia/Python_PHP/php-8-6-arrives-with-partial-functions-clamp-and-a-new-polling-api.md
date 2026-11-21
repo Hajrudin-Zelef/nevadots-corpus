@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["partial", "functions", "clamp", "polling", "function", "november", "arrives", "same"]
 source: https://pasqualepillitteri.it/en/news/35126/php-8-6-arrives-with-partial-functions-clamp
 source_anchor: ""

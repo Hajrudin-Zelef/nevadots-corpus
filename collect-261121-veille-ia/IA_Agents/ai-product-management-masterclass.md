@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["model", "agents", "atria", "dawn", "preview", "product", "agent", "code"]
 source: https://www.institutepm.com/knowledge-hub/atria-dawn-preview-for-product-managers
 source_anchor: ""

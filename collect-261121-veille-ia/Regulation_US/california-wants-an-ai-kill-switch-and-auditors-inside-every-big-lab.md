@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["california", "report", "governor", "state", "vira", "office", "every", "broadcasting"]
 source: https://virabroadcasting.substack.com/p/california-wants-an-ai-kill-switch
 source_anchor: ""

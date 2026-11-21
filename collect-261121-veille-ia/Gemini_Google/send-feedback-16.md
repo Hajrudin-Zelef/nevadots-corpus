@@ -5,7 +5,7 @@ domain: fortinet
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2023-10-28"]
 keywords: ["server", "sdns", "filter", "fortiguard", "license", "check", "fortigate", "service"]
 source: https://docs.Fortinet.com/document/fortigate/7.4.5/administration-guide/150448
 source_anchor: ""

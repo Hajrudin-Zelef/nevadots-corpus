@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["meta", "muse", "agent", "newsroom", "people", "secure", "sentinel", "model"]
 source: https://www.taskade.com/blog/history-of-meta-muse
 source_anchor: ""

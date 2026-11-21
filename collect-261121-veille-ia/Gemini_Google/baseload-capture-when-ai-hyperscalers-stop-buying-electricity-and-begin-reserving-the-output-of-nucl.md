@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-09"]
 keywords: ["electricity", "nuclear", "google", "power", "plant", "fortum", "plants", "decades"]
 source: https://stefanus.ai/baseload-capture-when-ai-hyperscalers-stop-buying-electricity-and-begin-reserving-the-output-of-nuclear-plants-for-decades/
 source_anchor: ""

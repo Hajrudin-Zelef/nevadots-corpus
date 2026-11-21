@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["fable", "claude", "november", "code", "model", "versions", "changelog", "through"]
 source: https://claudexia.tech/blog/claude-code-novoe-v-noyabre-2026
 source_anchor: ""

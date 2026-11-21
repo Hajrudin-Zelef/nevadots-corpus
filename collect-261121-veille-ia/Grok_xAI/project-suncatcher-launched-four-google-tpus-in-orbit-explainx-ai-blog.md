@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["google", "tpus", "orbit", "four", "suncatcher", "october", "project", "launched"]
 source: https://www.explainx.ai/blog/google-project-suncatcher-tpu-satellite-transporter-18-2026
 source_anchor: ""

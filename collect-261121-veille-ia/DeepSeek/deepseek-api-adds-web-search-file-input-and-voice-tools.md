@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "search", "input", "file", "tools", "model", "voice", "safety"]
 source: https://routerplus.com/news/deepseek-api-app-features-search-ocr-tts
 source_anchor: ""

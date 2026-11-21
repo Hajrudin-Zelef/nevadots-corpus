@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["elorian", "glimpse", "model", "image", "text", "code", "vision", "reasoning"]
 source: https://blog.beerandcode.com.br/en/news/elorian-glimpse
 source_anchor: ""

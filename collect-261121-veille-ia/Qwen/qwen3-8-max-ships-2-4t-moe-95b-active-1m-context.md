@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-03"]
 keywords: ["qwen3", "release", "qwen", "model", "context", "post", "alibaba", "text"]
 source: https://www.digitalapplied.com/blog/qwen3-8-max-full-release-benchmarks-open-weights
 source_anchor: ""

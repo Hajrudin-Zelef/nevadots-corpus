@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["google", "chrome", "security", "posture", "report", "card", "releases", "period"]
 source: https://www.secpod.com/learn/security-research/google-security-posture-report-card-q3-2026
 source_anchor: ""

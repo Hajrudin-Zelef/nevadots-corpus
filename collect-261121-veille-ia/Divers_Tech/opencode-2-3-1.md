@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["background", "code", "instead", "compaction", "opencode", "still", "timeout", "session"]
 source: https://diffharness.com/changes/opencode-v2-3-1
 source_anchor: ""

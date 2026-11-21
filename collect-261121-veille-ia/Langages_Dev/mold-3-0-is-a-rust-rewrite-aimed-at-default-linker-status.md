@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["linker", "mold", "rust", "default", "rewrite", "output", "version", "project"]
 source: https://betanews.com/article/mold-3-rust-rewrite-linker/
 source_anchor: ""

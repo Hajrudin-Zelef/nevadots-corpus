@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["november", "model", "models", "hugging", "face", "under", "open-weight", "published"]
 source: https://deyronlabs.com/en/topics/open-weight/
 source_anchor: ""

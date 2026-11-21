@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["gemini", "robotics", "success", "model", "deepmind", "parts", "lines", "task"]
 source: https://aiincontext.com/articles/apollo-2-humanoids-sort-mercedes-parts-at-96-in-deepmind-test
 source_anchor: ""

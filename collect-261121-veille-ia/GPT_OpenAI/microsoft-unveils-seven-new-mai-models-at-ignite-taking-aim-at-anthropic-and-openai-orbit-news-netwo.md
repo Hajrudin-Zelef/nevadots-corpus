@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["microsoft", "models", "code", "openai", "flash", "anthropic", "model", "ignite"]
 source: https://onnxews.com/story/microsoft-ignite-seven-mai-models
 source_anchor: ""

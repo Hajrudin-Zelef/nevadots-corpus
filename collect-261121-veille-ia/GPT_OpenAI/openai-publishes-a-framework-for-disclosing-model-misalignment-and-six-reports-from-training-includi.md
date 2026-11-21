@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-16"]
 keywords: ["openai", "model", "framework", "misalignment", "reports", "training", "models", "instructions"]
 source: https://www.the-ledger.net/events/openai-misalignment-reporting-framework-six-reports
 source_anchor: ""

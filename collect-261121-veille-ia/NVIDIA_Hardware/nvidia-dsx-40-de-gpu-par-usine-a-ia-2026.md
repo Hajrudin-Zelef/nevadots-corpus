@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-05-31"]
 keywords: ["nvidia", "usine", "plateforme", "tokens", "artificielle", "partenaires", "conception", "reseau"]
 source: https://tech-insider.org/fr/nvidia-dsx-usine-ia-rubin-juin-2026/
 source_anchor: ""

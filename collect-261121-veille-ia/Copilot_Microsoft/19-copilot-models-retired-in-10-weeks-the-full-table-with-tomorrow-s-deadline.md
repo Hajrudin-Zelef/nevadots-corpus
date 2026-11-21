@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-19"]
 keywords: ["opus", "replacement", "claude", "gemini", "gpt-6", "model", "named", "flash"]
 source: https://dev.to/aheadkit/19-copilot-models-retired-in-10-weeks-the-full-table-with-tomorrows-deadline-h5l
 source_anchor: ""

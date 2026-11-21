@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-04-29"]
 keywords: ["mongodb", "atlas", "node", "tutoriel", "avril", "driver", "projet", "vous"]
 source: https://tech-insider.org/fr/mongodb-atlas-tutoriel-nodejs-13-etapes-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["google", "gemini", "cloud", "argon", "fall", "model", "introducing", "agent"]
 source: https://twimlai.com/articles/googles-been-cooking-busy-fall-gemini-cloud
 source_anchor: ""

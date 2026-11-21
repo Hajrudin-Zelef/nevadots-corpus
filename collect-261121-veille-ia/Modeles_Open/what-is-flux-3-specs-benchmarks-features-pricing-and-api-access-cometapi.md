@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-04"]
 keywords: ["flux", "video", "model", "black", "forest", "labs", "audio", "image"]
 source: https://www.cometapi.com/what-is-flux-3/
 source_anchor: ""

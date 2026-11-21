@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["claude", "data", "whiteboards", "sheets", "interactive", "more", "work", "connectors"]
 source: https://blogs.techbytes.app/posts/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive/
 source_anchor: ""

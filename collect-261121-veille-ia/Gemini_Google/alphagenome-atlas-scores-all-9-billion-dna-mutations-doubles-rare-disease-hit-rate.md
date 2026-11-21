@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-08"]
 keywords: ["alphagenome", "atlas", "model", "billion", "deepmind", "human", "genome", "more"]
 source: https://www.techtimes.com/articles/327056/20260909/alphagenome-atlas-scores-all-9-billion-dna-mutations-doubles-rare-disease-hit-rate.htm
 source_anchor: ""

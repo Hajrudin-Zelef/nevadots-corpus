@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["default", "preview", "compact", "object", "headers", "java", "small", "collector"]
 source: https://blog.codercops.com/blog/java-27-g1-default-compact-headers-upgrade-guide-2026
 source_anchor: ""

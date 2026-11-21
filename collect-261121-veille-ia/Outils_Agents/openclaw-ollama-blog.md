@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-02-01"]
 keywords: ["openclaw", "ollama", "models", "model", "gpt-oss", "coding", "launch", "tasks"]
 source: https://ollama.com/blog/openclaw
 source_anchor: ""

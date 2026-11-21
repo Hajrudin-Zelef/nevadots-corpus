@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-15"]
 keywords: ["pfsense", "opnsense", "netgate", "deux", "mbps", "contre", "jour", "aout"]
 source: https://tech-insider.org/fr/pfsense-vs-opnsense-2026/
 source_anchor: ""

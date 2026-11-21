@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-15"]
 keywords: ["nvidia", "license", "model", "nemotron", "super", "active", "tokens", "open-weight"]
 source: https://www.faradaymachines.com/models/nemotron-3-5-super-vl/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["model", "kimi", "ripple-65b", "each", "three", "tencent", "license", "weights"]
 source: https://medium.com/@abhinav.dobhal/kimi-k3-1-pro-ripple-65b-and-tencent-hy4-what-each-open-weight-release-actually-gives-you-d6dc1e9c583f
 source_anchor: ""

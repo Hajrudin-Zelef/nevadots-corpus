@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["capture", "model", "rows", "august", "updated", "intelligence", "vision", "snapshot"]
 source: https://observatory.srmdn.com/observatory/models/gemini-3-7-flash/
 source_anchor: ""

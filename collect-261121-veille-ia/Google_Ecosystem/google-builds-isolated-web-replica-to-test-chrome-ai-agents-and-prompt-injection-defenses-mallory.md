@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-19"]
 keywords: ["agents", "chrome", "google", "isolated", "test", "prompt-injection", "builds", "replica"]
 source: https://mallory.ai/stories/01a1f4fc-1ccb-71d0-a847-5a624004be02
 source_anchor: ""

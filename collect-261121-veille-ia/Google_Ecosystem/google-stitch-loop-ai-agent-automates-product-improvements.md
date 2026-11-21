@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["google", "stitch", "product", "loop", "security", "developers", "agent", "improvements"]
 source: https://obnews.co/Index/flowNewsDetail/id/18445310.html
 source_anchor: ""

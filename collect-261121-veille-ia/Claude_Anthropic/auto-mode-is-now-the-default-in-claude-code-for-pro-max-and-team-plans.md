@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-17"]
 keywords: ["auto", "mode", "claude", "code", "anthropic", "default", "plans", "prompt"]
 source: https://simonwillison.net/2026/Aug/8/auto-mode/
 source_anchor: ""

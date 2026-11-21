@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-07-18"]
 keywords: ["juillet", "turla", "france", "russe", "groupe", "cyberattaque", "individus", "entites"]
 source: https://tech-insider.org/fr/cyberattaque-russe-turla-france-2026/
 source_anchor: ""

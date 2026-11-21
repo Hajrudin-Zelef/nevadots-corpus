@@ -5,7 +5,7 @@ domain: pricing-and-the-benchmark-landscape
 role: deep-dive
 task: pricing
 actors: ["Alibaba", "Anthropic", "ByteDance", "China", "Cohere", "DeepSeek", "Glasswing", "Google", "Meta", "MiniMax", "Moonshot", "Nvidia", "OpenAI", "OpenRouter", "Poolside", "StepFun", "Z.ai", "xAI"]
-dates: ["2026-02-19", "2026-04-23", "2026-06-24", "2026-07-09", "2026-07-16", "2026-07-21", "2026-08-11", "2026-08-12", "2026-08-18", "2026-08-21", "2026-08-26", "2026-09", "2026-09-01", "2026-09-02", "2026-09-03", "2026-09-04", "2026-09-07", "2026-09-10", "2026-09-21", "2026-11-21", "2026-12-31"]
+dates: ["2026-02-19", "2026-04-23", "2026-06-24", "2026-07-09", "2026-07-16", "2026-07-21", "2026-08-11", "2026-08-12", "2026-08-18", "2026-08-21", "2026-08-26", "2026-09-01", "2026-09-02", "2026-09-03", "2026-09-04", "2026-09-07", "2026-09-10", "2026-09-21", "2026-11-21"]
 keywords: ["benchmark", "pricing", "agent", "astra", "claude", "cohere", "cost", "deepseek", "fable 5", "gemini", "glm", "gpt-5.6"]
 source: docs/RAG/ai-industry-knowledge-base-2026-wave6.md
 source_anchor: ""

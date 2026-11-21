@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-09-14"]
 keywords: ["code", "microsoft", "still", "should", "document", "model", "draft", "development"]
 source: ""
 source_anchor: ""

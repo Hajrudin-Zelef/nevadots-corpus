@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-19"]
 keywords: ["linux", "kernel", "support", "strncpy", "scheduling", "mongodb", "driver", "cache-aware"]
 source: https://www.linuxcompatible.org/story/linux-kernel-72rc4-drops-cacheaware-scheduling-mongodb-speedups-and-the-end-of-strncpy/
 source_anchor: ""

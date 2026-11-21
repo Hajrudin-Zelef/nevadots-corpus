@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["agents", "team", "shared", "projects", "cursor", "work", "context", "multiplayer"]
 source: https://dev.to/yehechuhai/cursor-projects-goes-multiplayer-your-whole-team-and-all-its-agents-in-one-shared-workspace-141b
 source_anchor: ""

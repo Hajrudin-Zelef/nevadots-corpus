@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2025-04-14"]
 keywords: ["kitchen", "deepseek", "search", "model", "server", "order", "protocol", "chat-demo"]
 source: https://www.thakicloud.com/tech-blog/en/llmops/deepseek-app-stack/
 source_anchor: ""

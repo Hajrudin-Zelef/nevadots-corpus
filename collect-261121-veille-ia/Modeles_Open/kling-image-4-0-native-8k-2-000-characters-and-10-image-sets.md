@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["image", "kling", "images", "reference", "input", "video", "product", "post"]
 source: https://dev.to/yiming_gao_93e639ef74a2f3/kling-image-40-native-8k-2000-characters-and-10-image-sets-467f
 source_anchor: ""

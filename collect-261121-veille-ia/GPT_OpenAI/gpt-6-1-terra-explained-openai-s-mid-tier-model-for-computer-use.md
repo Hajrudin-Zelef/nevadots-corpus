@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["terra", "openai", "gpt-6", "tasks", "work", "model", "computer", "astra"]
 source: https://dev.to/neuraitool/gpt-61-terra-explained-openais-mid-tier-model-for-computer-use-4dmf
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-13"]
 keywords: ["dollars", "contrat", "cloud", "akamai", "anthropic", "trimestre", "milliard", "anthropic-akamai"]
 source: https://tech-insider.org/fr/anthropic-akamai-1-8-milliards-cloud-edge-ia-2026/
 source_anchor: ""

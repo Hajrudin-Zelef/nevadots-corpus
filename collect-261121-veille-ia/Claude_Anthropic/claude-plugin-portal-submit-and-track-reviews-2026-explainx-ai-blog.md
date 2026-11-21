@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-26"]
 keywords: ["claude", "plugin", "portal", "submit", "submission", "anthropic", "review", "usage"]
 source: https://www.explainx.ai/blog/claude-plugin-developer-portal-submit-track-usage-2026
 source_anchor: ""

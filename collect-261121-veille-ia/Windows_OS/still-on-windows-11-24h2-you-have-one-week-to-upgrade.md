@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["windows", "support", "still", "upgrade", "updates", "editions", "version", "october"]
 source: https://www.pcworld.com/article/3255008/still-on-windows-11-24h2-you-have-one-week-to-upgrade.html
 source_anchor: ""

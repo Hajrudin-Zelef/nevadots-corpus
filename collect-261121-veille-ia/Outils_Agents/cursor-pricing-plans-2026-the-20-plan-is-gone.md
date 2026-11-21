@@ -5,7 +5,7 @@ domain: outils-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-18"]
 keywords: ["grok", "models", "plan", "cursor", "usage", "month", "price", "pricing"]
 source: https://devtoolsreview.com/pricing/cursor-pricing/
 source_anchor: ""

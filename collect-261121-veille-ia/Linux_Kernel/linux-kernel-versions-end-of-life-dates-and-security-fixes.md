@@ -5,7 +5,7 @@ domain: linux-kernel
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["ended", "release", "safe", "branch", "records", "page", "reads", "none"]
 source: https://www.whattopatch.com/platform/linux-kernel
 source_anchor: ""

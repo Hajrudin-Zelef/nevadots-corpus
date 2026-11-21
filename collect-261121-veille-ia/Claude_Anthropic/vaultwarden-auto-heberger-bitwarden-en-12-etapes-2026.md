@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-22"]
 keywords: ["vaultwarden", "bitwarden", "auto-heberger", "passe", "serveur", "etapes", "version", "aout"]
 source: https://tech-insider.org/fr/vaultwarden-auto-heberger-bitwarden-2026/
 source_anchor: ""

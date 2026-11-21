@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["model", "qwen3", "alibaba", "weights", "t-a95b", "max-tier", "heads", "tokens"]
 source: https://rits.shanghai.nyu.edu/ai/qwen3-8-2-4t-a95b-alibaba-open-weights-its-max-tier-flagship/
 source_anchor: ""

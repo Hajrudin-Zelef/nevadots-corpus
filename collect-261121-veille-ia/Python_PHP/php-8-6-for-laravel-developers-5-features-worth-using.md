@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["laravel", "features", "value", "closure", "php", "developers", "worth", "using"]
 source: https://vuink.com/post/oybt-d-dfunxvygrpu-d-dpbz/php-8-6-laravel-features
 source_anchor: ""

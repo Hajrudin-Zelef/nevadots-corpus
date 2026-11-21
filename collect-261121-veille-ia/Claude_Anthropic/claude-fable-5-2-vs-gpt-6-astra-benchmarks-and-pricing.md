@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "astra", "claude", "gpt-6", "anthropic", "work", "openai", "model"]
 source: https://www.datacamp.com/blog/claude-fable-5-2-vs-gpt-6-astra
 source_anchor: ""

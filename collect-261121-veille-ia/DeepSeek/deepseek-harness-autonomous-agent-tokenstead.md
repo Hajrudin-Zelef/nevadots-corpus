@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["harness", "deepseek", "agent", "plugin", "plugins", "github", "models", "autonomous"]
 source: https://www.tokenstead.ai/autonomous-agents/deepseek-harness
 source_anchor: ""

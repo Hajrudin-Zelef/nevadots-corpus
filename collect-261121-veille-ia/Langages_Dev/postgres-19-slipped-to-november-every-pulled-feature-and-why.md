@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["november", "beta", "feature", "features", "reverted", "october", "release", "commit"]
 source: https://devops-daily.com/posts/postgres-19-delay-pulled-features
 source_anchor: ""

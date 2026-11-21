@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["cloud", "repository", "product", "archived", "down", "open-source", "notice", "continues"]
 source: https://sota.cc/guides/ai-product-changes-2026/
 source_anchor: ""

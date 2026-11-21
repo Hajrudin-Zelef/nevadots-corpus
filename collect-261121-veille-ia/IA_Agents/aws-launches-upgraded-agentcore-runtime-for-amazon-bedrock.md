@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-12"]
 keywords: ["amazon", "runtime", "update", "agentcore", "agents", "bedrock", "session", "memory"]
 source: https://insideweb3.news/article/aws-launches-upgraded-agentcore-runtime-for-amazon-bedrock
 source_anchor: ""

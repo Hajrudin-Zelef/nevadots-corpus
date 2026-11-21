@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "anthropic", "opus", "price", "model", "agentic", "published"]
 source: https://www.widelai.com/blog/claude-fable-5-1-vs-fable-5-vs-opus-5
 source_anchor: ""

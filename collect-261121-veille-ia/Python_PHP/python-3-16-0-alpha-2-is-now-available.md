@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["python", "alpha", "release", "available", "development", "version", "testing", "early"]
 source: https://www.dev3.tech/news/python-3-16-0-alpha-2-is-now-available
 source_anchor: ""

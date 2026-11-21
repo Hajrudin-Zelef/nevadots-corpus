@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-06-16"]
 keywords: ["mistral", "million", "lassistant", "fonctionnaires", "juin", "mois", "bercy", "fonction"]
 source: https://tech-insider.org/fr/mistral-ai-assistant-fonction-publique-2026/
 source_anchor: ""

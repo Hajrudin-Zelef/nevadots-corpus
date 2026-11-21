@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["neon", "opus", "tokens", "output", "million", "claude", "input", "gemini"]
 source: https://medium.com/data-science-in-your-pocket/gemini-4-neon-beats-claude-opus-5-5-8a2cc714d68f
 source_anchor: ""

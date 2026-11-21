@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["security", "code", "exploited", "linker", "http", "build", "could", "flags"]
 source: https://securityonline.info/go-security-fixes-1-27-4/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-07-09"]
 keywords: ["gpt5", "terra", "luna", "model", "reasoning", "guide", "cost", "models"]
 source: https://aitoolsdevpro.com/ai-tools/gpt-5-6-guide/
 source_anchor: ""

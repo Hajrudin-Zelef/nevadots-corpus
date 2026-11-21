@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["postgresql", "data", "postgres", "community", "plan", "open", "source", "maintenance"]
 source: https://www.prnewswire.com/news-releases/edb-announces-general-availability-of-postgresql-19-for-sovereign-ai-data-systems-celebrating-30-years-of-community-innovation-302945001.html
 source_anchor: ""

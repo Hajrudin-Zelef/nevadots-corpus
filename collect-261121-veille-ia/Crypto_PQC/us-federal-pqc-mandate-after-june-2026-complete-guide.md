@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["june", "federal", "systems", "migration", "complete", "framework", "mandate", "governance"]
 source: https://postquantum.com/post-quantum/us-federal-pqc-mandate-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-01"]
 keywords: ["prefill", "native", "engram", "memory", "omlx", "model", "context", "cache"]
 source: https://huggingface.co/apetersson/DeepSeek-V4.1-Flash-1017-Abliterated-MLX?local-app=mlx-lm
 source_anchor: ""

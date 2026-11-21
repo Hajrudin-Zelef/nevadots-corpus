@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["intelligence", "models", "gemini", "carbon", "index", "tokens", "price", "analysis"]
 source: https://artificialanalysis.ai/models/gemini-4-carbon
 source_anchor: ""

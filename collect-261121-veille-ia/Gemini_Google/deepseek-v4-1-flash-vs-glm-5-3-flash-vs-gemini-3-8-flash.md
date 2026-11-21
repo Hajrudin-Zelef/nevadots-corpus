@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["flash", "glm-5", "gemini", "deepseek", "modele", "modeles", "zhipu", "prix"]
 source: https://tech-insider.org/fr/deepseek-v4-1-flash-vs-glm-5-3-flash-vs-gemini-3-8-flash-2026/
 source_anchor: ""

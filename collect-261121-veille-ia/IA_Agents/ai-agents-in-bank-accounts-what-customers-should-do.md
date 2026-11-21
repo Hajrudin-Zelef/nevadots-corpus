@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-08-20"]
 keywords: ["agents", "bank", "banks", "reported", "axios", "customer", "customers", "accounts"]
 source: https://www.getastra.com/blog/security-advisory/ai-agents-in-bank-accounts/
 source_anchor: ""

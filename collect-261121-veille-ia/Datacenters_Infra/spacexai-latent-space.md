@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2024-05-26"]
 keywords: ["grok", "spacexai", "colossus", "anthropic", "nvidia", "infrastructure", "cursor", "model"]
 source: https://latent.space/wiki/spacexai-c077decc/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: github-workflows-network-ci-yml-sketch
 role: deep-dive
 task: reference
 actors: []
-dates: ["2028-03", "2028-04-01"]
+dates: []
 keywords: ["apache", "license", "open source"]
 source: docs/RAG/etape6_phaseE2_ansible_nornir_terraform.md
 source_anchor: ""

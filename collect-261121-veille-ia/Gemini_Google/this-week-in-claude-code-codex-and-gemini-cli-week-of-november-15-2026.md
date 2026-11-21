@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-15"]
 keywords: ["claude", "code", "week", "mode", "fixes", "four", "permission", "codex"]
 source: https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-15-2026-4pmm
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["grok", "model", "more", "reasoning", "pricing", "benchmark", "coding", "tokens"]
 source: https://betterstack.com/community/guides/ai/xai-grok-46/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "microsoft", "gpt-6", "model", "claude", "current", "benchmarks", "copilot"]
 source: https://vandatateam.com/ai-model-benchmarks/mai-code-2
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["model", "liquid", "text", "models", "lfm3", "lfm3-1", "layers", "context"]
 source: https://www.aighten.com/en/blog/liquid-ai-lfm3-open-weight-edge-models-benchmarks
 source_anchor: ""

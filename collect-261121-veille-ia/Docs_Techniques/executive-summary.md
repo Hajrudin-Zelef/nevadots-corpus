@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-17"]
 keywords: ["evaluation", "models", "deepseek", "path", "fonts", "extension", "uprightfont", "flash"]
 source: https://arxiv.org/html/2610.35671v1
 source_anchor: ""

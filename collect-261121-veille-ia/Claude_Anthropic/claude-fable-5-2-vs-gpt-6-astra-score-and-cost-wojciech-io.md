@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["fable", "claude", "astra", "gpt-6", "input", "anthropic", "index", "task"]
 source: https://wojciech.io/insights/claude-fable-5-2-vs-gpt-6-astra/
 source_anchor: ""

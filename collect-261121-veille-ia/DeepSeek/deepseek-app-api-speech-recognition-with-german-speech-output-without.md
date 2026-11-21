@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["speech", "deepseek", "recognition", "output", "german", "search", "file", "endpoints"]
 source: https://senn-tech.com/en/blog/deepseek-app-api-asr-tts-ocr-check
 source_anchor: ""

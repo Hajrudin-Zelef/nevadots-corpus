@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-23"]
 keywords: ["anthropic", "claude", "marketplace", "connectors", "plugins", "partners", "agents", "products"]
 source: https://aiweekly.co/alerts/anthropic-opens-claude-marketplace-with-2000-integrations
 source_anchor: ""

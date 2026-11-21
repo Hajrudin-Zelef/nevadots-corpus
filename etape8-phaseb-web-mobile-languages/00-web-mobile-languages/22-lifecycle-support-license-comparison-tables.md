@@ -5,7 +5,7 @@ domain: step-8-phase-b-web-mobile-languages-runtimes-and-toolchains
 role: deep-dive
 task: licenses
 actors: ["Apple"]
-dates: ["2025-10-07", "2025-10-16", "2025-11-20", "2025-12-25", "2026-07-23", "2026-09-10", "2026-09-11", "2026-09-22", "2026-10", "2027-04-30", "2028-04-30"]
+dates: ["2025-10-07", "2025-10-16", "2025-11-20", "2025-12-25", "2026-07-23", "2026-09-10", "2026-09-11", "2026-09-22"]
 keywords: ["license", "acquisition", "alignment", "apache", "benchmark", "inference", "licenses"]
 source: docs/RAG/etape8_phaseB_web_mobile_languages.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-04-30"]
 keywords: ["openai", "astra", "safety", "model", "request", "says", "gpt-6", "tasks"]
 source: https://blog.invidelabs.com/gpt-6-astra-api-safety-stops/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-14"]
 keywords: ["claude", "code", "model", "context", "session", "default", "third-party", "models"]
 source: https://aiaffer.com/2026/11/claude-code-2-1-323-context-compression-fix-2026/
 source_anchor: ""

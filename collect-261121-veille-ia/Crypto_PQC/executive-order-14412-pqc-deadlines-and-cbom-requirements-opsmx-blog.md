@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-05"]
 keywords: ["order", "cbom", "migration", "executive", "december", "cryptographic", "deadlines", "federal"]
 source: https://www.opsmx.com/blog/executive-order-14412-pqc-deadlines-and-cbom-requirements/
 source_anchor: ""

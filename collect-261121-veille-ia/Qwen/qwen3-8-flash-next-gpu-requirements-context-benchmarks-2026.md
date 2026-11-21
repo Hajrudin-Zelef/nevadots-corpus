@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-10-22"]
 keywords: ["qwen3", "model", "flash-next", "context", "embedding", "parameters", "n-gram", "qwen"]
 source: https://akash.network/the-bid/qwen3-8-flash-next-architecture-gpu-requirements/
 source_anchor: ""

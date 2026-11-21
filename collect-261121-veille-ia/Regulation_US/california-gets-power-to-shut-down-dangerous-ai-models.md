@@ -5,7 +5,7 @@ domain: regulation-us
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["state", "models", "framework", "california", "safety", "power", "authority", "dangerous"]
 source: https://emergent.sh/news/california-gets-power-shut-down-dangerous-ai
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["models", "openai", "cyber", "nato", "said", "security", "cybersecurity", "comments"]
 source: https://www.thehindubusinessline.com/news/world/nato-uses-up-to-300-billion-tokens-monthly-in-openai-cybersecurity-partnership/article71714594.ece
 source_anchor: ""

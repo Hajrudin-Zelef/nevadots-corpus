@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["models", "decision", "microsoft", "sqwish", "model", "more", "typesafe", "data"]
 source: https://emergent.sh/news/decision-models-surge-microsoft-sqwish-push
 source_anchor: ""

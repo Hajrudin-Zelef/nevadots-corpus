@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-08"]
 keywords: ["windows", "search", "build", "microsoft", "users", "beta", "channel", "moves"]
 source: https://windowsreport.com/build-26320-9876-moves-the-beta-channel-to-windows-11-26h2-with-revamped-windows-search-other-new-features/
 source_anchor: ""

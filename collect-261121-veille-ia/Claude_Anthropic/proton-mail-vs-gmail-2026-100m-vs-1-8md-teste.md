@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-28"]
 keywords: ["proton", "mail", "gmail", "donnees", "marche", "europeen", "courrier", "electronique"]
 source: https://tech-insider.org/fr/proton-mail-vs-gmail-2026/
 source_anchor: ""

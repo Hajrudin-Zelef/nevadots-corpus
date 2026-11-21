@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["effective", "routing", "used", "gemini", "priority", "hydrogen", "endpoints", "provider"]
 source: https://openrouter.ai/google/gemini-4-hydrogen/
 source_anchor: ""

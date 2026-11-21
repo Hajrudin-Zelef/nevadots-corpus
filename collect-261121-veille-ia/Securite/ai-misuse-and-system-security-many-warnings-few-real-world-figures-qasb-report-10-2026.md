@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-01"]
 keywords: ["observed", "evidence", "cyber", "enisa", "warnings", "threat", "without", "misuse"]
 source: https://www.qasb.ai/en/reports/2026-10-ki-sicherheit
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["chatgpt", "linux", "official", "desktop", "browser", "install", "openai", "codex"]
 source: https://www.layer3labs.io/guides/chatgpt-on-linux
 source_anchor: ""

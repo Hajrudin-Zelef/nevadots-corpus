@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["glimpse", "elorian", "model", "visual", "astra", "gpt-6", "reasoning", "elorians"]
 source: https://foundermag.co/launches/elorian-glimpse/
 source_anchor: ""

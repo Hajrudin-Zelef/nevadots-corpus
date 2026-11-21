@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-09"]
 keywords: ["glm-5", "flash", "benchmark", "terminal-bench", "leads", "gpt-5", "model", "gemini"]
 source: https://www.edenai.co/post/glm-5-3-flash-benchmark-vs-gemini-deepseek-gpt-5-6
 source_anchor: ""

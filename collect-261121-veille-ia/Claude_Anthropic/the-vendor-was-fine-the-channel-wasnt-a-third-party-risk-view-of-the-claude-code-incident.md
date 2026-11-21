@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["extension", "code", "cursor", "marketplace", "claude", "vendor", "channel", "anthropic"]
 source: https://panorays.com/blog/cursor-marketplace-supply-chain-attack/
 source_anchor: ""

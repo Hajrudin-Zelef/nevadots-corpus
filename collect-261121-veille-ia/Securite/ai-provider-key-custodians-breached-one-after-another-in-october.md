@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["provider", "fireworks", "keys", "variables", "says", "opencode", "console", "litellm"]
 source: https://www.optimuslabs.io/research/briefings/ai-provider-key-custodians-breached-oct-2026
 source_anchor: ""

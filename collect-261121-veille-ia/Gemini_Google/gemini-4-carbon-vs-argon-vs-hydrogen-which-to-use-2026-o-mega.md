@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-15"]
 keywords: ["argon", "model", "gemini", "hydrogen", "google", "carbon", "three", "price"]
 source: https://o-mega.ai/articles/gemini-4-carbon-vs-argon-vs-hydrogen-which-to-use-2026
 source_anchor: ""

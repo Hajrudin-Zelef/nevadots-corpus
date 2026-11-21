@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["terra", "fable", "gpt-6", "claude", "index", "october", "artificial", "analysis"]
 source: https://alphacorp.ai/blog/gpt-6-1-terra-vs-claude-fable-5-1-benchmarks-pricing-and-which-is-better
 source_anchor: ""

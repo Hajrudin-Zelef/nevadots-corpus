@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["mercury", "diffusion", "inception", "after", "december", "november", "vercel", "before"]
 source: https://explainx.ai/blog/inception-mercury-api-shutdown-december-2026-migration
 source_anchor: ""

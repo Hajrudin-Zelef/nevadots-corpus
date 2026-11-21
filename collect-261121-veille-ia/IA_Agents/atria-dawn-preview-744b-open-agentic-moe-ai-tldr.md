@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-11"]
 keywords: ["model", "dawn", "preview", "atria", "agentic", "published", "card", "open"]
 source: https://ai-tldr.dev/models/atria-dawn-preview/
 source_anchor: ""

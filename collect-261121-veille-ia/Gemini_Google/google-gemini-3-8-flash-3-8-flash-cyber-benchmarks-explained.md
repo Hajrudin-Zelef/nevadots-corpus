@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["flash", "google", "opus", "gemini", "cyber", "coding", "table", "behind"]
 source: https://www.vellum.ai/blog/gemini-3-8-flash-benchmarks-explained
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["postgresql", "release", "beta", "notes", "snowflakes", "parallel", "autovacuum", "reverted"]
 source: https://devtoolhub.com/postgresql-19-whats-shipping-whats-cut/
 source_anchor: ""

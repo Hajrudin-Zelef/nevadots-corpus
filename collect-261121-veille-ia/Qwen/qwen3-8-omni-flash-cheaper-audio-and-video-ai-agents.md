@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-09-18"]
 keywords: ["model", "qwen", "audio", "qwen3", "video", "input", "omni-flash", "price"]
 source: https://www.digitalapplied.com/blog/qwen3-8-omni-flash-omnimodal-agents-audio-video-cost
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["grok", "image", "quality", "text", "available", "speech", "docs", "spacexsi"]
 source: https://docs.x.ai/developers/release-notes
 source_anchor: ""

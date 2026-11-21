@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-20"]
 keywords: ["gamer", "monter", "prix", "juillet", "dont", "budget", "etapes", "montage"]
 source: https://tech-insider.org/fr/comment-monter-pc-gamer-2026/
 source_anchor: ""

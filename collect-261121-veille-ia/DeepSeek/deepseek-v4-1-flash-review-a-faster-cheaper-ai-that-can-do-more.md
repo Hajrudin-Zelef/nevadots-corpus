@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["deepseek", "flash", "deepseek-v4", "model", "also", "coding", "feature", "review"]
 source: https://www.hitpaw.com/ai-model-tips/deepseek-v4-1-flash.html
 source_anchor: ""

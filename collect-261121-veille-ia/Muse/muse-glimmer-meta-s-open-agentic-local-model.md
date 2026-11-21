@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-08-10"]
 keywords: ["muse", "glimmer", "model", "meta", "agentic", "agent", "local", "weights"]
 source: https://www.datacamp.com/blog/muse-glimmer?ref=hackernoon.com
 source_anchor: ""

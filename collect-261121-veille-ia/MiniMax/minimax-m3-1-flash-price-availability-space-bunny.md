@@ -5,7 +5,7 @@ domain: minimax
 role: reference
 task: article
 actors: ["MiniMax"]
-dates: []
+dates: ["2026-10-23"]
 keywords: ["minimax", "flash", "tokens", "space", "bunny", "model", "october", "version"]
 source: https://dotsbot.co/news/minimax-m3-1-flash-launch
 source_anchor: ""

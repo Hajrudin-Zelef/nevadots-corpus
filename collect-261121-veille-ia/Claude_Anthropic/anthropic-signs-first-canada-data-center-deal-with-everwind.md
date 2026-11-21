@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-16"]
 keywords: ["anthropic", "everwind", "canada", "deal", "energy", "infrastructure", "first", "data-center"]
 source: https://emergent.sh/news/anthropic-signs-first-canada-data-center-deal
 source_anchor: ""

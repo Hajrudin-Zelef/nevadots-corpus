@@ -5,7 +5,7 @@ domain: cursor-ide
 role: reference
 task: article
 actors: ["Anysphere"]
-dates: []
+dates: ["2026-11-05"]
 keywords: ["cursor", "voice", "november", "chat", "agents", "agent", "v2026", "live"]
 source: https://www.havoptic.com/releases/cursor/2026/11
 source_anchor: ""

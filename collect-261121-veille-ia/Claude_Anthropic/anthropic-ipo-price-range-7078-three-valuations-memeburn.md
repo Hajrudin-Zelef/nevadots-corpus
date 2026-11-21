@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["anthropic", "shares", "price", "range", "billion", "trillion", "about", "share"]
 source: https://memeburn.com/anthropic-ipo-price-range/
 source_anchor: ""

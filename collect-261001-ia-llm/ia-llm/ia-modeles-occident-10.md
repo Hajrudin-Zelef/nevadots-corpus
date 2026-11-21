@@ -5,7 +5,7 @@ domain: ia-llm
 role: reference
 task: reference
 actors: ["Anthropic", "EU", "Google"]
-dates: ["2025-10-15", "2026-02", "2026-02-26", "2026-06-25", "2026-06-30", "2026-09-27", "2026-12-31"]
+dates: ["2025-10-15", "2026-02-26", "2026-06-25", "2026-06-30", "2026-09-27"]
 keywords: ["agent", "agentic", "agents", "arr", "benchmark", "benchmarks", "cyber", "gemini", "gemini 3.8", "gemini 4", "mai", "multimodal"]
 source: docs/RAG/collect-261001-ia-llm/ia_modeles_occident.md
 source_anchor: ""

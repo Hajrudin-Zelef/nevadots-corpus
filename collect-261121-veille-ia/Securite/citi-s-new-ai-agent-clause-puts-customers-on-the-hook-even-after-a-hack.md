@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-18"]
 keywords: ["citi", "agent", "customers", "third-party", "agents", "bank", "section", "online"]
 source: https://www.tftc.io/citi-ai-agent-liability-customers-section-h
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-10-02"]
 keywords: ["models", "copilot", "october", "github", "replacement", "gpt-5", "claude", "opus"]
 source: https://aicoderscope.com/blog/github-copilot-model-retirements-october-november-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["package", "pypi", "malicious", "agent-framework", "framework", "quarantined", "wheels", "microsoft"]
 source: https://www.stepsecurity.io/blog/microsoft-agent-framework-pypi-package-compromised
 source_anchor: ""

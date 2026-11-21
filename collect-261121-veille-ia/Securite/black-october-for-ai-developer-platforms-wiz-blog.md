@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-08"]
 keywords: ["incident", "these", "reports", "shared", "october", "fireworks", "keys", "attacks"]
 source: https://www.wiz.io/blog/black-october-for-ai-developer-platforms
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-01"]
 keywords: ["passkeys", "fido2", "cles", "webauthn", "entreprise", "synchronisees", "passe", "entreprises"]
 source: https://tech-insider.org/fr/deployer-passkeys-fido2-webauthn-entreprise-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-11"]
 keywords: ["memory", "prices", "micron", "data", "capacity", "dram", "three", "centers"]
 source: https://www.theblackskull.us/ai-data-centers-ram-prices-procurement
 source_anchor: ""

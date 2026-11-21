@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["oracle", "google", "jalapeno", "chips", "chip", "openai", "cloud", "inference"]
 source: https://www.winzheng.com/en/article/oracle-google-tpu-openai-jalapeno-cerebras-multi-chip-cloud-
 source_anchor: ""

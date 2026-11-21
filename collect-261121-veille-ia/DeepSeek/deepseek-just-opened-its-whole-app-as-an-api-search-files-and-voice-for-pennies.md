@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["deepseek", "search", "voice", "model", "tools", "chat", "whole", "opened"]
 source: https://dev.to/paullovelace/deepseek-just-opened-its-whole-app-as-an-api-search-files-and-voice-for-pennies-2n1g
 source_anchor: ""

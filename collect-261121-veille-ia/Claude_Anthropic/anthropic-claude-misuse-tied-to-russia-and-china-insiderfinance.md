@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["claude", "anthropic", "misuse", "distillation", "china", "model", "models", "tied"]
 source: https://www.insiderfinance.io/news/anthropic-claude-misuse-tied-to-russia-and-china
 source_anchor: ""

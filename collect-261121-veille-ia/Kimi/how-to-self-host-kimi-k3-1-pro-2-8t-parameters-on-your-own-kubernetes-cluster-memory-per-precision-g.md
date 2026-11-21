@@ -5,7 +5,7 @@ domain: kimi
 role: reference
 task: article
 actors: ["Moonshot AI"]
-dates: []
+dates: ["2026-10-24"]
 keywords: ["kimi", "memory", "parameters", "precision", "kubernetes", "model", "checkpoint", "nodes"]
 source: https://www.qovery.com/blog/kimi-k3-1-pro-self-host-kubernetes-gpu-memory-multi-node
 source_anchor: ""

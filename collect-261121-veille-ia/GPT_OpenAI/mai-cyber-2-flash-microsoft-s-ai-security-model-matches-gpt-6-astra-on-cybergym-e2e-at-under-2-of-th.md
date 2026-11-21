@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["microsoft", "cyber", "flash", "model", "security", "cost", "price", "cybergym-e2e"]
 source: https://iacompa.com/news/microsoft-mai-cyber-2-flash-security-model
 source_anchor: ""

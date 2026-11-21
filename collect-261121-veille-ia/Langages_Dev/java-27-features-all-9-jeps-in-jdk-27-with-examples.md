@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["java", "default", "change", "features", "jeps", "final", "preview", "release"]
 source: https://howtodoinjava.com/java/java-27-features/
 source_anchor: ""

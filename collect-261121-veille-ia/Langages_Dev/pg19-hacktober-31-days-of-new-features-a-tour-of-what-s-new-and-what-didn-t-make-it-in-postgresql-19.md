@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["beta", "postgresql", "fixes", "features", "several", "reverted", "new", "pg19"]
 source: https://opensource-db.com/pg19-hacktober-31-days-of-new-features-a-tour-of-whats-new-and-what-didnt-make-it-in-postgresql-19-beta-4/
 source_anchor: ""

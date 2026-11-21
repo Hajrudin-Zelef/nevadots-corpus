@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-09-25"]
 keywords: ["gemini", "transcribe", "model", "provider", "speech-to-text", "routing", "timestamps", "diarization"]
 source: https://openrouter.ai/google/gemini-3.5-transcribe
 source_anchor: ""

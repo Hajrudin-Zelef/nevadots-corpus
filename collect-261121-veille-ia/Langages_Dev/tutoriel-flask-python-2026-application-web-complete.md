@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-02-19"]
 keywords: ["flask", "python", "version", "application", "tutoriel", "selon", "vous", "securite"]
 source: https://tech-insider.org/fr/tutoriel-flask-python-application-web-2026/
 source_anchor: ""

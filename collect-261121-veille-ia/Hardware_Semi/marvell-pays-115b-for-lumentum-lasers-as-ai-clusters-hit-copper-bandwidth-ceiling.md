@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-12-04"]
 keywords: ["copper", "lumentum", "optical", "marvell", "data", "silicon", "deal", "roughly"]
 source: https://www.techtimes.com/articles/329920/20261102/marvell-pays-115b-lumentum-lasers-ai-clusters-hit-copper-bandwidth-ceiling.htm
 source_anchor: ""

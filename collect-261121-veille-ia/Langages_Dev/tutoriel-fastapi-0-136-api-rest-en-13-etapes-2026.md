@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-06-20"]
 keywords: ["fastapi", "version", "tutoriel", "python", "rest", "etapes", "vous", "depuis"]
 source: https://tech-insider.org/fr/fastapi-tutoriel-api-rest-python-13-etapes-2026/
 source_anchor: ""

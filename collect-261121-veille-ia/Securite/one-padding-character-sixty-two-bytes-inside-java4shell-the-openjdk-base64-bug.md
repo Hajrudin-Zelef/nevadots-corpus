@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-17"]
 keywords: ["bytes", "calif", "character", "inside", "openjdk", "base64", "code", "java"]
 source: https://medium.com/@raka824pratama/one-padding-character-sixty-two-bytes-inside-java4shell-the-openjdk-base64-bug-e0adb74d7aee
 source_anchor: ""

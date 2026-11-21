@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-29"]
 keywords: ["google", "jules", "plugin", "export", "antigravity", "agent", "coding", "down"]
 source: https://crazycoderslab.com/google-jules-shutting-down-export-data-antigravity-plugin-marketplace-skills-mcp-hooks-2026/
 source_anchor: ""

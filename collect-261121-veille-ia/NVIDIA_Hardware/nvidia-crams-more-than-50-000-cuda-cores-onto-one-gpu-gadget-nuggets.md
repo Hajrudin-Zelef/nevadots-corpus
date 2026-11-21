@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "cores", "rubin", "more", "card", "memory", "cuda", "simulation"]
 source: https://gadgetnuggets.com/nvidia-rubin-hpc-gpu-50000-cuda-cores-2028/
 source_anchor: ""

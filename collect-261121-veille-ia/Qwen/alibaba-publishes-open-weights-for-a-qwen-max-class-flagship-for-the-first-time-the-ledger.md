@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-08-12"]
 keywords: ["model", "alibaba", "weights", "qwen3", "august", "first", "time", "license"]
 source: https://www.the-ledger.net/events/qwen3-8-max-open-weights/
 source_anchor: ""

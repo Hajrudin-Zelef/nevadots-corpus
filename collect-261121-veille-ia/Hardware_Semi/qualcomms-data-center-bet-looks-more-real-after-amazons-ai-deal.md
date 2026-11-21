@@ -5,7 +5,7 @@ domain: hardware-semi
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-08"]
 keywords: ["qualcomm", "amazon", "data", "center", "more", "amazons", "deal", "services"]
 source: https://www.tradingview.com/news/marketbeat:53cde0fcb094b:0-qualcomm-s-data-center-bet-looks-more-real-after-amazon-s-ai-deal/
 source_anchor: ""

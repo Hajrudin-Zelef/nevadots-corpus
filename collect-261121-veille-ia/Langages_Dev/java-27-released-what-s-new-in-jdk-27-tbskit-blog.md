@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-15"]
 keywords: ["java", "preview", "release", "final", "default", "garbage", "exchange", "production"]
 source: https://www.tbskit.com/blog/news/java-27/
 source_anchor: ""

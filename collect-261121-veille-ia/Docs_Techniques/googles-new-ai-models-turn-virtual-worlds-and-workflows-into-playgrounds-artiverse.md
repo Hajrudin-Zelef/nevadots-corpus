@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-19"]
 keywords: ["google", "neon", "genie", "worlds", "models", "gemini", "workflows", "carbon"]
 source: https://www.artiverse.ca/googles-new-ai-models-turn-virtual-worlds-and-workflows-into-playgrounds/
 source_anchor: ""

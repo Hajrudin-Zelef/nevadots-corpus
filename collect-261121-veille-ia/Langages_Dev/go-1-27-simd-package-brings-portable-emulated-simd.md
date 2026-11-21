@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-09-24"]
 keywords: ["simd", "vector", "package", "portable", "code", "instructions", "width", "bits"]
 source: https://dev.to/techaiwire/go-127-simd-package-brings-portable-emulated-simd-53ii
 source_anchor: ""

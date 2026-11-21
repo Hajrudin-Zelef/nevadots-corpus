@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-20"]
 keywords: ["type", "typescript", "beta", "extends", "error", "import", "text", "notes"]
 source: https://certificates.dev/blog/typescript-71-beta-5-changes-to-test-before-the-rc
 source_anchor: ""

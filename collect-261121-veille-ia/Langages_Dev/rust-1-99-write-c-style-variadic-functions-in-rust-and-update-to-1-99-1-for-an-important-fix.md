@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["rust", "functions", "update", "stable", "release", "team", "october", "c-style"]
 source: https://www.jmtechpower.com/article/80
 source_anchor: ""

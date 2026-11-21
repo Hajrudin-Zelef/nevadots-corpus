@@ -5,7 +5,7 @@ domain: muse
 role: reference
 task: article
 actors: ["Meta"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["intelligence", "muse", "wonder", "models", "index", "tokens", "price", "analysis"]
 source: https://artificialanalysis.ai/models/muse-wonder?ref=blog.invidelabs.com
 source_anchor: ""

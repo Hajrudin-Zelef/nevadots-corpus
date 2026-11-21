@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-09-02"]
 keywords: ["qwen", "deepseek", "grok", "benchmarks", "flash", "tokens", "against", "average"]
 source: https://overchat.ai/models/qwen-3-8-max
 source_anchor: ""

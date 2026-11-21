@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-16"]
 keywords: ["apple", "model", "weights", "frame", "latency", "video", "card", "open"]
 source: https://aitecharchive.com/articles/apple-fastframes-open-weights
 source_anchor: ""

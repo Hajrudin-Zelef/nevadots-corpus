@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["sonnet", "gpt-6", "same", "input", "claude", "tokens", "cache", "output"]
 source: https://blog.laozhang.ai/en/posts/claude-sonnet-5-5-vs-gpt-6-1-sol
 source_anchor: ""

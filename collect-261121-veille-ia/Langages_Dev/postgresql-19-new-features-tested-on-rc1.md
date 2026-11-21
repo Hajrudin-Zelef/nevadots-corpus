@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["advice", "plan", "orders", "repack", "postgresql", "release", "index", "features"]
 source: https://chat2db.ai/resources/blog/postgres-19-new-features
 source_anchor: ""

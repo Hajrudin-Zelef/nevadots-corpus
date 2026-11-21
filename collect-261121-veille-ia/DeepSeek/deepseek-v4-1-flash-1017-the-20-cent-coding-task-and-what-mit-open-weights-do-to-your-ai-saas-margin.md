@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "october", "task", "model", "snapshot", "flash", "index", "same"]
 source: https://saascity.io/blog/deepseek-v4-1-flash-1017-open-weights-2026
 source_anchor: ""

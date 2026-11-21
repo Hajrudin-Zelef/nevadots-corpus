@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-08-25"]
 keywords: ["nmap", "reseau", "scanner", "code", "reste", "cest", "trois", "penal"]
 source: https://tech-insider.org/fr/nmap-scanner-reseau-tutoriel-2026/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-01"]
 keywords: ["agent", "meta", "comparison", "agents", "muse", "assistants", "personal", "automation"]
 source: https://primo.ai/w/index.php?title=Meta_AI&diff=next&oldid=51911
 source_anchor: ""

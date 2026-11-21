@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "flash", "microsoft", "copilot", "model", "mai", "coding", "github"]
 source: https://cryptobriefing.com/microsoft-mai-code-2-flash-github-copilot/
 source_anchor: ""

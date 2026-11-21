@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["alibaba", "coding", "qwen4-max", "claude", "agent", "benchmarks", "fable", "tokens"]
 source: https://dev.to/shivaysinghrajput/qwen4-max-beat-claude-on-coding-benchmarks-then-alibaba-locked-the-weights-l28
 source_anchor: ""

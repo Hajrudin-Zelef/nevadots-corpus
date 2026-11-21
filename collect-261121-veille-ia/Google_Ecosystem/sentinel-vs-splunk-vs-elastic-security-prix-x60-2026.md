@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2025-10-08"]
 keywords: ["siem", "splunk", "sentinel", "microsoft", "elastic", "security", "comparatif", "cette"]
 source: https://tech-insider.org/fr/sentinel-vs-splunk-vs-elastic-security-2026/
 source_anchor: ""

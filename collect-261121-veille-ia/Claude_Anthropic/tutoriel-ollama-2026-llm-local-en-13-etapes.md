@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-04-29"]
 keywords: ["ollama", "juillet", "millions", "selon", "local", "llama", "desormais", "tutoriel"]
 source: https://tech-insider.org/fr/ollama-tutoriel-llm-local-13-etapes-2026/
 source_anchor: ""

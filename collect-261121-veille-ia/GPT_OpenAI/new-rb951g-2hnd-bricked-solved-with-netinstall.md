@@ -5,7 +5,7 @@ domain: mikrotik
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2016-01-25"]
 keywords: ["netinstall", "router", "then", "mikrotik", "device", "bricked", "port", "rb951g-2hnd"]
 source: https://forum.mikrotik.com/t/new-rb951g-2hnd-bricked-solved-with-netinstall/70728
 source_anchor: ""

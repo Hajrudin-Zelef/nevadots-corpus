@@ -5,7 +5,7 @@ domain: reseau-networking
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2024-12-18"]
 keywords: ["interface", "defconf", "comment", "bridge", "name", "disabled", "action", "capsman"]
 source: https://forum.mikrotik.com/t/capsman-cant-get-20mhz-channels-on-2-4ghz/180764
 source_anchor: ""

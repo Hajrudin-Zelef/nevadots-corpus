@@ -5,7 +5,7 @@ domain: docs-techniques
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-08-27"]
 keywords: ["urml", "standard", "hardware", "device", "layer", "model", "anthropic", "align"]
 source: https://github.com/urml-mars/urml/commit/d021afd48e494ef2abfacd17440cad79bc48a07e
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-10-28"]
 keywords: ["model", "card", "nvidia", "speech", "open", "weights", "language", "about"]
 source: https://gpujournal.ai/story/nemotron-3-5-transcribe-open-weights
 source_anchor: ""

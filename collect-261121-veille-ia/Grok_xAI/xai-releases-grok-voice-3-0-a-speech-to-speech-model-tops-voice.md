@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-14"]
 keywords: ["voice", "model", "speech-to-speech", "grok", "live", "without", "support", "artificial"]
 source: https://mlllm.io/articles/3546-xai-releases-grok-voice-3-0-speech-to-speech-model-tops-voice-agent-rankings/
 source_anchor: ""

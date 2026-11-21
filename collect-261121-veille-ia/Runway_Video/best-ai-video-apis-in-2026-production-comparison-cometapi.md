@@ -5,7 +5,7 @@ domain: runway-video
 role: reference
 task: article
 actors: ["Runway"]
-dates: []
+dates: ["2026-08-06"]
 keywords: ["video", "available", "audio", "best", "comparison", "apis", "production", "reference"]
 source: https://www.cometapi.com/best-ai-video-api/
 source_anchor: ""

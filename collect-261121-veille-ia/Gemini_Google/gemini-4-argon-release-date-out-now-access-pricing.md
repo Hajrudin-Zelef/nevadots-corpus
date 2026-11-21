@@ -5,7 +5,7 @@ domain: dev-langages
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-13"]
 keywords: ["gemini", "argon", "google", "ultra", "pricing", "model", "output", "release"]
 source: https://techpilot.ai/gemini-4-argon-release-date-access/
 source_anchor: ""

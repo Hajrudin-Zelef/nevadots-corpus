@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["google", "argon", "model", "gemini", "frontier", "reasoning", "output", "cyber"]
 source: https://thedigitalfuturist.com/gemini-training/google-gemini-4-argon.html
 source_anchor: ""

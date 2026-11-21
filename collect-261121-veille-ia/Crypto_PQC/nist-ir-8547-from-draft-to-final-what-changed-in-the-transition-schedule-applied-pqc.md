@@ -5,7 +5,7 @@ domain: crypto-pqc
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-27"]
 keywords: ["after", "draft", "final", "nist", "deprecated", "bits", "disallowed", "changed"]
 source: https://appliedpqc.io/blog-nist-ir-8547-final.html
 source_anchor: ""

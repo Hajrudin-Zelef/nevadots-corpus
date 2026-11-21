@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["intelligence", "gpt-6", "terra", "models", "index", "tokens", "task", "price"]
 source: https://artificialanalysis.ai/models/gpt-6-1-terra?ref=explainx
 source_anchor: ""

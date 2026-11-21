@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["install", "node", "deepseek", "pnpm", "harness", "start", "source", "corepack"]
 source: https://deepseekharness.io/install/
 source_anchor: ""

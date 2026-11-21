@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-04-06"]
 keywords: ["supabase", "version", "tutoriel", "next", "open-source", "edge", "deno", "etapes"]
 source: https://tech-insider.org/fr/supabase-tutoriel-nextjs-app-13-etapes-2026/
 source_anchor: ""

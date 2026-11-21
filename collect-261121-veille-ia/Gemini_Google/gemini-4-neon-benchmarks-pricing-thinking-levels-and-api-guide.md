@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["gemini", "neon", "model", "tokens", "google", "thinking", "pick", "googles"]
 source: https://mer.vin/news/gemini-4-neon-benchmarks-pricing-api-guide/
 source_anchor: ""

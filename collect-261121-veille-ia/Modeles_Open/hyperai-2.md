@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-29"]
 keywords: ["mistral", "model", "large", "open-weight", "hugging", "face", "multimodal", "deployment"]
 source: https://hyper.ai/en/stories/d2988a995aa7e8c70188b263f54e3116
 source_anchor: ""

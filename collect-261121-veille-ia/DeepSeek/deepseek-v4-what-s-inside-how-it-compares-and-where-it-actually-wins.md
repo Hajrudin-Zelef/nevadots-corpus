@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-04-24"]
 keywords: ["deepseek", "gpt-5", "opus", "model", "v4-pro", "actually", "wins", "tencent"]
 source: https://alexlavaee.me/blog/deepseek-v4-architecture-benchmarks-engineer-verdict/
 source_anchor: ""

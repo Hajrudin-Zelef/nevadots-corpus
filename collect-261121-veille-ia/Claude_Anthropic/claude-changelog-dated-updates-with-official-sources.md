@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-10-01"]
 keywords: ["claude", "code", "fixes", "mode", "fable", "release", "adds", "opus"]
 source: https://claudemaster.net/changelog
 source_anchor: ""

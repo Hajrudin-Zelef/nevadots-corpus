@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2025-09-25"]
 keywords: ["release", "postgresql", "review", "pettus", "date", "november", "found", "bugs"]
 source: https://dev.to/alanwest/postgresql-19-release-date-moved-to-nov-19-after-ai-review-found-too-many-bugs-48n
 source_anchor: ""

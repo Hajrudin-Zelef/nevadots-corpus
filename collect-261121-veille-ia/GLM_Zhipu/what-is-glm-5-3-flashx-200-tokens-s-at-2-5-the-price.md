@@ -5,7 +5,7 @@ domain: glm-zhipu
 role: reference
 task: article
 actors: ["Zhipu AI"]
-dates: []
+dates: ["2026-09-18"]
 keywords: ["flashx", "glm-5", "tokens", "output", "tool", "flash", "does", "speed"]
 source: https://gptproto.com/news/what-is-glm-5-3-flashx
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-17"]
 keywords: ["full", "release", "preview", "atria", "model", "context", "available", "report"]
 source: https://www.studioglobal.ai/discover/answers/what-did-shanghai-artificial-intelligence-laboratory-announce-6ae06d234ab47242a38f4689
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: python-php
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-09"]
 keywords: ["python", "release", "alpha", "date", "scheduled", "beta", "october", "schedule"]
 source: https://onlinux.site/python/3-16/
 source_anchor: ""

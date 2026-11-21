@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-10-26"]
 keywords: ["codex", "sandbox", "agents", "guide", "cloud", "tasks", "setup", "gpt-6"]
 source: https://blakecrosley.com/guides/codex
 source_anchor: ""

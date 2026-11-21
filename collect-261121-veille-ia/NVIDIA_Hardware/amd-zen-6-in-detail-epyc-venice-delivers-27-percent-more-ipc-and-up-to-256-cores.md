@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-10"]
 keywords: ["percent", "cores", "more", "clock", "core", "cache", "epyc", "about"]
 source: https://basic-tutorials.com/news/amd-zen-6-in-detail-epyc-venice-delivers-27-percent-more-ipc-and-up-to-256-cores/
 source_anchor: ""

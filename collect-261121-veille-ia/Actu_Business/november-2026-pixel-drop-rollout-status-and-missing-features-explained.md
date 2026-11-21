@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-10"]
 keywords: ["pixel", "google", "november", "drop", "update", "android", "rollout", "features"]
 source: https://mangodeveloper.com/articles/november-2026-pixel-drop-rollout-status-missing-features
 source_anchor: ""

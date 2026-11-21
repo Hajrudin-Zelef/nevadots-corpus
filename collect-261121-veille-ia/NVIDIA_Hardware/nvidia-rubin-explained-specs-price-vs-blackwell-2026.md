@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-04"]
 keywords: ["rubin", "nvidia", "vera", "blackwell", "rack", "specs", "nvl72", "explained"]
 source: https://thebriefscript.com/nvidia-rubin/
 source_anchor: ""

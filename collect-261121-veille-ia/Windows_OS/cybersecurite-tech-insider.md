@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-01-29"]
 keywords: ["cybersecurite", "tech", "insider", "entre", "europeenne", "securite", "nationale", "faire"]
 source: https://tech-insider.org/fr/category/cybersecurite/page/10/
 source_anchor: ""

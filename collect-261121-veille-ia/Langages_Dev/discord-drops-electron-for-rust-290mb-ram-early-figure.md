@@ -5,7 +5,7 @@ domain: langages-dev
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-05"]
 keywords: ["discord", "rust", "electron", "native", "gpui", "early", "desktop", "client"]
 source: https://tech-insider.org/discord-electron-rust-gpui-rebuild-290mb-ram-2026/
 source_anchor: ""

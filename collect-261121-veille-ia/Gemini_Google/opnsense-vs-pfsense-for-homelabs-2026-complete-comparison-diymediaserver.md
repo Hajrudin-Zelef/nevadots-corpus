@@ -5,7 +5,7 @@ domain: opnsense-pfsense
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-01-31"]
 keywords: ["pfsense", "opnsense", "firewall", "under", "comparison", "services", "homelabs", "years"]
 source: https://diymediaserver.com/post/2026/opnsense-vs-pfsense-homelab-2026/
 source_anchor: ""

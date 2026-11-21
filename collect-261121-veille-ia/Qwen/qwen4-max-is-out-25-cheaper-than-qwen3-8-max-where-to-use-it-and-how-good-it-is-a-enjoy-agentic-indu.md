@@ -5,7 +5,7 @@ domain: qwen
 role: reference
 task: article
 actors: ["Alibaba"]
-dates: []
+dates: ["2026-11-12"]
 keywords: ["qwen4-max", "tokens", "model", "token", "alibaba", "qwen3", "opencode", "november"]
 source: https://enjoy.dev/blog/qwen4-max-preview/
 source_anchor: ""

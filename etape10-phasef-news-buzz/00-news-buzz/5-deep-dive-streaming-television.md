@@ -5,7 +5,7 @@ domain: step-10-phase-f-news-buzz-society-2026-02-01-2026-09-22
 role: deep-dive
 task: reference
 actors: []
-dates: ["2025-11", "2026-02-01", "2026-03-03", "2026-06", "2026-08", "2026-08-28", "2026-09-14", "2026-14-09", "2027-04"]
+dates: ["2026-02-01", "2026-03-03", "2026-08-28", "2026-09-14"]
 keywords: ["research"]
 source: docs/RAG/etape10_phaseF_news_buzz.md
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-12"]
 keywords: ["grok", "cursor", "plan", "premium", "subscription", "usage", "xais", "october"]
 source: https://analyticsmadesimple.com/tutorials/x-subscription-explained-grok-cursor-plans/
 source_anchor: ""

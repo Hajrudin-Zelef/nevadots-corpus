@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["luna", "gpt-6", "model", "window", "gpt-5", "million", "tokens", "token"]
 source: https://apidog.com/blog/what-is-gpt-6-luna/
 source_anchor: ""

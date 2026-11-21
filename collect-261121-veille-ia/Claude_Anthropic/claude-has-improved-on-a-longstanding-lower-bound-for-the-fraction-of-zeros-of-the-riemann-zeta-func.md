@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-08-13"]
 keywords: ["riemann", "claude", "hypothesis", "zeros", "function", "zeta", "line", "bound"]
 source: https://www.anthropic.com/research/riemann-zeta
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: mistral
 role: reference
 task: article
 actors: ["Mistral AI"]
-dates: []
+dates: ["2026-10-06"]
 keywords: ["model", "mistral", "large", "chonk", "preview", "parameters", "total", "launch"]
 source: https://huggingface.co/blog/paidaxccc/mistral-large-4-le-chonk
 source_anchor: ""

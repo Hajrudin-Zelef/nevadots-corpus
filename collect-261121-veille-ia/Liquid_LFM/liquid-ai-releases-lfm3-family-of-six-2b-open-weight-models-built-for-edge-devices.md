@@ -5,7 +5,7 @@ domain: liquid-lfm
 role: reference
 task: article
 actors: ["Liquid AI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["models", "liquid", "text", "model", "lfm3", "window", "family", "audio"]
 source: https://techiexpert.com/liquid-ai-releases-lfm3-family-of-six-2b-open-weight-models-built-for-edge-devices/
 source_anchor: ""

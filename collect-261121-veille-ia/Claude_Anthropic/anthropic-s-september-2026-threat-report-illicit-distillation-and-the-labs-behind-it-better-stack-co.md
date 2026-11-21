@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-10"]
 keywords: ["distillation", "anthropic", "report", "model", "claude", "illicit", "labs", "alibaba"]
 source: https://betterstack.com/community/guides/ai/anthropic-threat-report-2026/
 source_anchor: ""

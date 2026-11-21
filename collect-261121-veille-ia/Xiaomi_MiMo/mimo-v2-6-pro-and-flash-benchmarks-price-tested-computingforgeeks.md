@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-25"]
 keywords: ["mimo-v2", "flash", "xiaomi", "gpt-6", "text", "input", "about", "xiaomis"]
 source: https://computingforgeeks.com/xiaomi-mimo-v2-6-pro-flash/
 source_anchor: ""

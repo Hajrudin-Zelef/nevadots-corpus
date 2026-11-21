@@ -5,7 +5,7 @@ domain: regulation-eu
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-11-08"]
 keywords: ["tesla", "roadmap", "story", "dojo", "accelerator", "intelligence", "same", "memory"]
 source: https://theworldofai.org/ai-news/ab14e498/
 source_anchor: ""

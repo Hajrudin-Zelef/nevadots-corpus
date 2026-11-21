@@ -5,7 +5,7 @@ domain: xiaomi-mimo
 role: reference
 task: article
 actors: ["Xiaomi"]
-dates: []
+dates: ["2026-09-22"]
 keywords: ["tools", "reasoning", "unspecified", "thinking", "mimo-v2", "flash", "pass", "rate"]
 source: https://llmlearner.com/compare/mimo-v2-6-flash-vs-mimo-v2-6-pro
 source_anchor: ""

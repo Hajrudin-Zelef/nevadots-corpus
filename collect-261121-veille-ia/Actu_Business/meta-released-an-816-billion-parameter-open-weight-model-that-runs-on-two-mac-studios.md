@@ -5,7 +5,7 @@ domain: actu-business
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["model", "meta", "open-weight", "license", "muse", "open", "runs", "spark"]
 source: https://medium.com/@andy.a.g/meta-released-an-816-billion-parameter-open-weight-model-that-runs-on-two-mac-studios-5a30f30f4277
 source_anchor: ""

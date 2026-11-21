@@ -5,7 +5,7 @@ domain: step-7-phase-a-server-operating-systems-linux-os-layer
 role: deep-dive
 task: reference
 actors: ["Oracle"]
-dates: ["2021-12-31", "2024-06-30", "2025-05", "2025-05-13", "2025-05-20", "2025-05-27", "2025-06", "2025-06-11", "2025-08-09", "2026-04", "2026-04-23", "2026-06-11", "2026-07-11", "2026-09", "2026-09-22", "2027-05-31", "2028-06-30"]
+dates: ["2021-12-31", "2024-06-30", "2025-05-13", "2025-05-20", "2025-05-27", "2025-06-11", "2025-08-09", "2026-04-23", "2026-06-11", "2026-07-11", "2026-09-22"]
 keywords: ["benchmark", "distribution", "pricing", "research"]
 source: docs/RAG/etape7_phaseA_os.md
 source_anchor: ""

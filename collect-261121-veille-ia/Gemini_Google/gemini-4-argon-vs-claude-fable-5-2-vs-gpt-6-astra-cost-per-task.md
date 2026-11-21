@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-09"]
 keywords: ["fable", "argon", "astra", "gpt-6", "claude", "default", "cost", "gemini"]
 source: https://blog.laozhang.ai/en/posts/gemini-4-argon-vs-claude-fable-5-2-vs-gpt-6-astra
 source_anchor: ""

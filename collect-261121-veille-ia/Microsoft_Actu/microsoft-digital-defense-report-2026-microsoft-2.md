@@ -5,7 +5,7 @@ domain: microsoft-actu
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2025-07-01"]
 keywords: ["microsoft", "defense", "digital", "report", "attackers", "threat", "security", "identity"]
 source: https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/?ref=tabulado.net
 source_anchor: ""

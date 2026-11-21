@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-28"]
 keywords: ["haiku", "sonnet", "claude", "output", "versus", "same", "anthropic", "list"]
 source: https://aireiter.com/blog/claude-haiku-5-5-vs-sonnet-5-5-api
 source_anchor: ""

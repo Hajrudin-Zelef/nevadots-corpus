@@ -5,7 +5,7 @@ domain: datacenters-infra
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-19"]
 keywords: ["power", "nuclear", "project", "amazon", "x-energy", "electricity", "indiana", "could"]
 source: https://carboncredits.com/amazon-amzn-american-electric-power-aep-and-x-energy-xe-explore-960-mw-smr-nuclear-project-in-indiana/
 source_anchor: ""

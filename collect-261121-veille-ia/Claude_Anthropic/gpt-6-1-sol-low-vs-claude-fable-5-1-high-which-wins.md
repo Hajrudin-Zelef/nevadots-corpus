@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-29"]
 keywords: ["fable", "high", "effort", "gpt-6", "claude", "tokens", "default", "model"]
 source: https://emergent.sh/learn/gpt-6-1-sol-low-vs-claude-fable-5-1-high
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: windows-os
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-08"]
 keywords: ["discord", "windows", "electron", "client", "rust", "gpui", "desktop", "application"]
 source: https://blogs.techbytes.app/posts/every-windows-11-app-should-kill-electron-and-discord-just/
 source_anchor: ""

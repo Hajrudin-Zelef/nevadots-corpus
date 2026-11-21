@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-10-17"]
 keywords: ["deepseek", "unsloth", "flash", "memory", "token", "strata", "model", "vram"]
 source: https://axiomi.si/guides/run-deepseek-v4-1-flash-locally
 source_anchor: ""

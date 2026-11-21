@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-15"]
 keywords: ["reflection", "output", "tokens", "page", "reasoning", "openai", "limits", "terms"]
 source: https://www.anchorterminal.com/tools/reflection-beam
 source_anchor: ""

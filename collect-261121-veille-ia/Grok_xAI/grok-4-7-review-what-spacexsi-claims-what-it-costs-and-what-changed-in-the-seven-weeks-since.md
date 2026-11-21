@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-09-21"]
 keywords: ["grok", "changed", "spacexsi", "launch", "spacexai", "model", "since", "september"]
 source: https://medium.com/@mcthkayaa/grok-4-7-review-what-spacexsi-claims-what-it-costs-and-what-changed-in-the-seven-weeks-since-d84a7c045254
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-08-11"]
 keywords: ["effective", "nemotron", "lightning", "nvidia", "model", "token", "provider", "artificial"]
 source: https://openrouter.ai/nvidia/nemotron-3.5-lightning
 source_anchor: ""

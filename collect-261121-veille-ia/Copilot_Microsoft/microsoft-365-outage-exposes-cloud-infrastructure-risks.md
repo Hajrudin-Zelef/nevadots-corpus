@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-13"]
 keywords: ["microsoft", "outage", "services", "infrastructure", "network", "issue", "affected", "capacity"]
 source: https://dig.watch/updates/microsoft-outage-network-upgrade-cloud-failures
 source_anchor: ""

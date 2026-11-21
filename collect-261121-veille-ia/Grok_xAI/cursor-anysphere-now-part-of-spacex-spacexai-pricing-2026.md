@@ -5,7 +5,7 @@ domain: grok-xai
 role: reference
 task: article
 actors: ["xAI"]
-dates: []
+dates: ["2026-10-27"]
 keywords: ["usage", "cursor", "pricing", "spacex", "model", "anysphere", "part", "spacexai"]
 source: https://www.subscriptionplaybook.com/pricing-teardowns/cursor-anysphere-now-part-of-spacex-spacexai/
 source_anchor: ""

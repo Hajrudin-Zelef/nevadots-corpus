@@ -5,7 +5,7 @@ domain: modeles-open
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-16"]
 keywords: ["beam", "free", "opencode", "ollama", "cloud", "model", "reflection", "local"]
 source: https://techpilot.ai/run-reflection-beam-locally/
 source_anchor: ""

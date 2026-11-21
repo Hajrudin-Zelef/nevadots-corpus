@@ -5,7 +5,7 @@ domain: securite
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-01-30"]
 keywords: ["commission", "european", "most", "reported", "cyber", "campaign", "data", "tool"]
 source: https://www.ainvest.com/news/european-commission-hack-shows-cyber-money-2611/
 source_anchor: ""

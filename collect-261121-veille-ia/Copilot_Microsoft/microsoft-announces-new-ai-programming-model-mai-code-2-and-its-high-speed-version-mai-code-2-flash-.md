@@ -5,7 +5,7 @@ domain: copilot-microsoft
 role: reference
 task: article
 actors: ["Microsoft"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["code", "flash", "microsoft", "gpt-6", "cost", "programming", "performance", "model"]
 source: https://gigazine.net/gsc_news/en/20261118-mai-code-2-flash
 source_anchor: ""

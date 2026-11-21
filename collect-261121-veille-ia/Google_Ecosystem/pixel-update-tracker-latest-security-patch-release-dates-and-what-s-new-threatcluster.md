@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-10-05"]
 keywords: ["pixel", "security", "update", "patch", "bulletin", "fixes", "level", "google"]
 source: https://threatcluster.io/article/pixel-update-tracker-latest-security-patch-release-dates-and-2fc45b17
 source_anchor: ""

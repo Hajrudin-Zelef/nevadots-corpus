@@ -5,7 +5,7 @@ domain: divers-tech
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-07-28"]
 keywords: ["server", "servers", "opencode", "oauth", "false", "remote", "context7", "environment"]
 source: https://opencode.ai/v2/docs/mcp-servers/
 source_anchor: ""

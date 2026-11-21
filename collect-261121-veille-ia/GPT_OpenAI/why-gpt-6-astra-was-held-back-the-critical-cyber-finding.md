@@ -5,7 +5,7 @@ domain: gpt-openai
 role: reference
 task: article
 actors: ["OpenAI"]
-dates: []
+dates: ["2026-09-03"]
 keywords: ["openai", "astra", "critical", "gpt-6", "model", "cyber", "framework", "safeguards"]
 source: https://codersera.com/blog/gpt-6-astra-safety-cyber-capabilities-2026/
 source_anchor: ""

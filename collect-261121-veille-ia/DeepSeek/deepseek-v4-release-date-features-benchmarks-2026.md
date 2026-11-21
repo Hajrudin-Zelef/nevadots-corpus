@@ -5,7 +5,7 @@ domain: deepseek
 role: reference
 task: article
 actors: ["DeepSeek"]
-dates: []
+dates: ["2026-04-24"]
 keywords: ["deepseek", "release", "v4-pro", "v4-flash", "april", "both", "released", "august"]
 source: https://codersera.com/blog/deepseek-v4-release-date-features-benchmarks/
 source_anchor: ""

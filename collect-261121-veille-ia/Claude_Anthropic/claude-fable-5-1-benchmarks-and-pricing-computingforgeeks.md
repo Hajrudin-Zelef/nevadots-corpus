@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-01"]
 keywords: ["fable", "claude", "anthropic", "cache", "output", "input", "thinking", "tokens"]
 source: https://computingforgeeks.com/claude-fable-5-1-released-features-benchmarks/
 source_anchor: ""

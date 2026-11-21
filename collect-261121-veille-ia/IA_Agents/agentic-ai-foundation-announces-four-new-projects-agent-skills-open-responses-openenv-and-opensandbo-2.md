@@ -5,7 +5,7 @@ domain: ia-agents
 role: reference
 task: article
 actors: []
-dates: []
+dates: ["2026-10-22"]
 keywords: ["open", "projects", "agent", "skills", "aaif", "agentic", "responses", "agents"]
 source: https://www.morningstar.com/news/pr-newswire/20261022dc78734/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox
 source_anchor: ""

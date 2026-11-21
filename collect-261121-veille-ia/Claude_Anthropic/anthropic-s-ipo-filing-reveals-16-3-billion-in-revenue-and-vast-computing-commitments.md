@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-09-30"]
 keywords: ["billion", "anthropic", "revenue", "computing", "through", "first", "customers", "commitments"]
 source: https://www.horizonpost.ae/technology/ai/anthropics-ipo-filing-reveals-dollar163-billion-in-revenue-and-vast-computing-commitments/
 source_anchor: ""

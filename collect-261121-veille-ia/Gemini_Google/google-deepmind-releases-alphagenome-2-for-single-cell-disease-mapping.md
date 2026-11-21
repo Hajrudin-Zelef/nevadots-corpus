@@ -5,7 +5,7 @@ domain: gemini-google
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-11"]
 keywords: ["alphagenome", "disease", "deepmind", "single-cell", "human", "tissue", "across", "google"]
 source: https://gfunfacts.online/article/google-deepmind-alphagenome-2-single-cell-mapping
 source_anchor: ""

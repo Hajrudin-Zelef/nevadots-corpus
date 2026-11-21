@@ -5,7 +5,7 @@ domain: google-ecosystem
 role: reference
 task: article
 actors: ["Google"]
-dates: []
+dates: ["2026-11-17"]
 keywords: ["chrome", "version", "changes", "stable", "changed", "fingerprinting", "automationstable", "high"]
 source: https://www.clearcotelabs.com/chrome-releases
 source_anchor: ""

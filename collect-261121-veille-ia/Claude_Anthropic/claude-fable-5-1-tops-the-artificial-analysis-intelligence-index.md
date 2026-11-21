@@ -5,7 +5,7 @@ domain: claude-anthropic
 role: reference
 task: article
 actors: ["Anthropic"]
-dates: []
+dates: ["2026-11-18"]
 keywords: ["fable", "claude", "intelligence", "tokens", "index", "task", "cache", "effort"]
 source: https://artificialanalysis.ai/articles/claude-fable-5-1/
 source_anchor: ""

@@ -5,7 +5,7 @@ domain: nvidia-hardware
 role: reference
 task: article
 actors: ["NVIDIA"]
-dates: []
+dates: ["2026-11-16"]
 keywords: ["nvidia", "vera", "rubin", "does", "training", "provisional", "mlperf", "gb300"]
 source: https://alfw.ai/article/nvidia-vera-rubin-mlperf-10x-provisional/
 source_anchor: ""

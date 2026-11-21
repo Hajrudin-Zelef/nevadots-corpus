@@ -1,0 +1,71 @@
+---
+id: collect-261121-veille-ia/samsung-mobile/samsung-sds-bets-krw-427b-on-sovereign-ai-infrastructure-2
+title: "Samsung SDS Bets KRW 427B on Sovereign AI Infrastructure"
+domain: samsung-mobile
+role: reference
+task: article
+actors: ["Samsung"]
+dates: []
+keywords: ["samsung", "center", "gumi", "infrastructure", "data", "billion", "korea", "sovereign"]
+source: https://trial.futurumgroup.com/insights/samsung-sds-bets-krw-427b-on-sovereign-ai-infrastructure/
+source_anchor: ""
+source_lines: [1, 57]
+section: "Samsung_Mobile"
+---
+Samsung SDS breaks ground on a KRW 427.3 billion hyperscale AI data center in Gumi, positioning itself as Korea's sovereign AI infrastructure provider for manufacturing and robotics sectors through 2028.
+
+## Cite this
+
+Samsung SDS broke ground on November 2nd on a KRW 427.3 billion hyperscale AI data center in Gumi, Gyeongsangbuk-do, targeting completion by end of 2028 [1][1]. The 46,000 m² facility starts at 60 MW and scales to 120 MW, positioning Samsung SDS as a sovereign AI infrastructure provider for Korea's manufacturing and robotics sector [1]. The move aligns precisely with channel ecosystem demand: AI consulting ranks as the top partner growth driver at 86.7% [2], and the channel market is forecast to reach $36.4 billion by 2028 [3].
+
+## What is Covered in this Article
+
+- Hyperscale AI data center groundbreaking and investment scale [1][1]
+- Samsung's KRW 60 trillion Yeongnam regional innovation cluster [1]
+- GPU-optimized hybrid cooling and GPU-agnostic technical architecture [1][1]
+- Dual-mode business model: owned GPU services plus colocation [1][1]
+- Channel ecosystem growth tailwinds for data center and AI consulting [2][2][3]
+
+**The News:** Samsung SDS announced on November 2nd that it has broken ground on a dedicated AI data center in Gumi, Gyeongsangbuk-do [1]. The facility spans approximately 46,000 m² in Gongdan-dong, with an initial power capacity of 60 MW expandable in phases to 120 MW [1]. Construction, approved by Gumi City in late August 2026, targets completion by end of 2028 [1]. Samsung SDS disclosed the KRW 427.3 billion investment in a January regulatory filing and signed an MOU with Gyeongsangbuk-do and Gumi [1]. The groundbreaking is the first concrete outcome of Samsung's KRW 60 trillion Yeongnam regional investment plan, announced in July to build a 'global physical AI innovation cluster' [1]. CEO June-hee Lee stated the center will deliver 'AI infrastructure that customers can trust' [1].
+
+**Analyst Take:** Samsung SDS is making a calculated infrastructure bet timed to intersect two converging forces: Korea's national push to lead manufacturing AI, and a global channel ecosystem where AI consulting is the top-ranked growth driver at 86.7% [2]. The Gumi facility is not a speculative build; it is the first physical proof point of a KRW 60 trillion regional commitment [1], and its 2028 completion date lands precisely when the base-case channel market reaches $36.4 billion [3].
+
+### A Regional Anchor for Korea's Physical AI Ambitions
+
+The Gumi data center is the cornerstone of Samsung's broader Yeongnam cluster strategy, which spans humanoid robotics in Gumi, all-solid-state batteries in Ulsan, AI server package substrates in Busan, and advanced shipbuilding in Geoje [1]. By concentrating compute infrastructure at the heart of Korea's manufacturing belt, Samsung SDS is positioning itself as the default AI backbone for industries undergoing rapid automation. The facility will directly support Samsung affiliates' Robotics Transformation (RX) programs, providing the large-scale AI training compute required for robots performing precision tasks at manufacturing sites [1]. This captive demand provides a reliable utilization floor before external colocation revenue matures.
+
+### Technical Architecture Built for Density and Flexibility
+
+The center's hybrid cooling design separates air cooling for general server areas from liquid cooling in high-density GPU zones [1], a configuration that directly addresses what industry analysis identifies as the emerging 'grid-to-chip' imperative for AI data center competitiveness [4]. Rack power densities are flexible, and the GPU-agnostic design accommodates various AI systems without locking customers into specific GPU vendors or service stacks [1]. Starting at 60 MW with a clear path to 120 MW [1], the phased capacity model lets Samsung SDS match capital deployment to demand rather than over-building on day one. This architecture reflects 30 years of Samsung SDS data center operational experience applied to next-generation workload requirements.
+
+### Dual-Mode Business Model Opens the External Channel
+
+Samsung SDS will operate two parallel revenue streams from the Gumi facility: its own GPU infrastructure delivering managed AI services, and a colocation model allowing external customers to install and operate their own GPUs [1]. This structure is well-matched to current channel partner priorities. Data center rollout is a top-ranked service growth driver, cited by 60.9% of channel partners [2], while cloud infrastructure including IaaS and PaaS is cited by 58.8% [2]. With 52% of channel partners describing themselves as 'leading edge' in AI readiness [2], the addressable partner ecosystem is both large and confident enough to engage with a new sovereign AI infrastructure provider. The channel market's 36% CAGR from 2022 to 2029 [3] provides a durable macro tailwind for Samsung SDS's external services ambitions through and beyond the facility's 2028 launch.
+
+## What to Watch
+
+- **External colocation uptake:** which non-Samsung enterprise and hyperscaler customers sign agreements in Q1-Q2 2027 as the facility moves toward completion
+- **RX program compute demand:** whether Samsung affiliates' robotics training workloads scale fast enough to fill the initial 60 MW before the 2028 opening [1]
+- **Channel partner engagement:** how Korean and regional system integrators position around the Gumi facility's AI full-stack services offering given that AI consulting is the top growth driver at 86.7% [2]
+- **Phase-two capacity trigger:** the utilization threshold and timeline that prompts Samsung SDS to begin the 60 MW to 120 MW expansion [1]
+- **Competitive infrastructure response:** whether rival Korean cloud and data center operators accelerate GPU-optimized builds in the Yeongnam region through 2027
+
+### Sources
+
+1. Samsung SDS Breaks Ground on AI Data Center in Gumi, ..., Samsungsds
+
+2. 2H 2026 Ecosystems, Channels & Marketplaces Global Enterprise Decision Maker Survey Report, Futurum Research, August 2026
+
+3. 2H 2025 Hyperscaler Marketplace Market Sizing & Five-Year Forecast, Futurum Research, December 2025
+
+4. OCP Global Summit Unveiled Time to Online as a Newly Critical Measure, Futurum Research, November 2026
+
+#### *Declaration of generative AI and AI-assisted technologies in the writing process: This content has been generated with the support of artificial intelligence technologies. Due to the fast pace of content creation and the continuous evolution of data and information, The Futurum Group and its analysts strive to ensure the accuracy and factual integrity of the information presented. However, the opinions and interpretations expressed in this content reflect those of the individual author/analyst. The Futurum Group makes no guarantees regarding the completeness, accuracy, or reliability of any information contained herein. Readers are encouraged to verify facts independently and consult relevant sources for further clarification.*
+
+#### *Disclosure: Futurum is a research and advisory firm that engages or has engaged in research, analysis, and advisory services with many technology companies, including those mentioned in this article. The author does not hold any equity positions with any company mentioned in this article.*
+
+#### *Analysis and opinions expressed herein are specific to the analyst individually and data and other information that might have been provided for validation, not those of Futurum as a whole.*
+
+#### *Read the full Futurum Group Disclosure.*
+
+**Other Insights from Futurum:**

@@ -1,0 +1,1513 @@
+---
+id: collect-261121-veille-ia/dotnet-csharp/cisco-asa-ipsec-site-to-site-vpn-ikev2-how-to-tutorial-1
+title: "Cisco ASA IPsec Site-to-Site VPN IKEv2 – How to Tutorial"
+domain: dotnet-csharp
+role: reference
+task: article
+actors: ["Microsoft"]
+dates: []
+keywords: ["ipsec", "data", "ikev2", "protocol", "between", "keys", "internet", "computers"]
+source: https://martin.frlicka.net/articles/cisco-asa-ipsec-site-to-site-vpn-ikev2-how-to-tutorial/?utm_source=rss&utm_medium=rss&utm_campaign=cisco-asa-ipsec-site-to-site-vpn-ikev2-how-to-tutorial
+source_anchor: ""
+source_lines: [1, 1500]
+section: "DotNet_CSharp"
+---
+In this tutorial I will explain the basic knowledge to understand IPsec VPN and this knowledge will be demonstrated on real use-case in the Testlab environment. I will configure two Cisco ASA Firewalls to demonstrate establishing IPsec connection using IKEv2 between these endpoints as well as packet capture for establishing the IPsec VPN connection.
+
+1. Intro
+
+**Internet Protocol Security** (**IPsec**) is a secure network protocol suite that authenticates and encrypts packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. It is used in virtual private networks (VPNs).
+
+
+When two computers establish a VPN connection, they must agree on a set of security protocols and encryption algorithms and exchange cryptographic keys to unlock and view the encrypted data. This is where IPsec enters the picture. IPsec works with VPN tunnels to establish a private bidirectional connection between devices. IPsec is not a single protocol, rather it is a complete set of protocols and standards that work together to help ensure the confidentiality, integrity, and authentication of Internet data packets flowing through a VPN tunnel. Here’s how IPsec creates a secure VPN tunnel:
+
+- It authenticates data to ensure the integrity of the data packet in transit
+- Encrypts Internet traffic through VPN tunnels so that the data cannot be viewed
+- Protects against data replay attacks that can lead to unauthorized logins
+- Enables secure exchange of cryptographic keys between computers
+- Offers two security modes: tunnel and transport
+
+IPsec VPN protects the flow of data from host to host, network to network, host to network, and gateway to gateway (called tunnel mode when the entire IP packet is encrypted and authenticated).
+
+
+##### IPsec protocols and components
+
+The IPsec standard is divided into several basic protocols and supporting components.
+
+###### Basic IPsec protocols:
+
+**Authentication Header (AH)**: This protocol protects the IP addresses of computers involved in a data exchange to ensure that bits of data are not lost, changed, or corrupted during transmission. AH also verifies that the person who sent the data actually sent it, protecting the tunnel from infiltration by unauthorized users.
+
+
+**Encapsulating Security Payload (ESP)**: The ESP protocol provides the encryption portion of IPsec, which ensures the confidentiality of data traffic between devices. ESP encrypts data packets/payloads and authenticates the payload and its origin in the IPsec protocol suite. This protocol effectively encrypts Internet traffic so that no one looking at the tunnel can see what is there.
+
+
+**Internet Key Exchange (IKE)**: For encryption to work, the computers involved in the exchange of private communications must share encryption keys. IKE allows two computers to securely exchange and share cryptographic keys when establishing a VPN connection. IKE establishes the SA between the communicating hosts, negotiating the cryptographic keys and algorithms that will be used in the course of the session.
+
+There are two versions of IKE:
+
+  - IKEv1
+  - IKEv2
+
+IKEv1 was introduced around 1998 and superseded by IKEv2 in 2005. There are some differences between the two versions:
+
+- IKEv2 requires less bandwidth than IKEv1.
+- IKEv2 supports EAP authentication (next to pre-shared keys and digital certificates).
+- IKEv2 has built-in support for NAT traversal (required when your IPsec peer is behind a NAT router).
+- IKEv2 has a built-in keepalive mechanism for tunnels.
+
+IKE uses two phases:
+
+- IKE Phase 1
+- IKE Phase 2
+
+ESP encrypts and authenticates data, while AH only authenticates data.
+
+
+###### IPsec components:
+
+**Security Associations (SA)**: defines some factors of communication peers like the protocols, operational modes, encryption algorithms (DES, 3DES, AES-128, AES-192 and AES-256), shared keys of data protection in particular flows and the life cycle of SA, etc. SA is used to process data flow in one direction. Therefore, in a bi-directional communication between two peers, you need at least two security associations to protect the data flow in both of the directions.
+
+
+**Replay protection**: IPSec also includes standards that prevent replay of any data packets that are part of a successful login process. This standard prevents hackers from using the replayed information to replicate the login themselves.
+
+
+**Encryption and hashing algorithms**: the cryptographic key works by using a hash value that is generated by a hashing algorithm. AH and ESP are general in that they do not specify a particular type of encryption. Encryption algorithms protect the data so it cannot be read by a third-party while in transit. Authentication algorithms verify the data integrity and authenticity of a message.
+
+
+**IPsec encryption algorithms:**
+
+- **AES** (Advanced Encryption Standard) — AES is the strongest encryption algorithm available. IPsec devices can use AES encryption keys of these lengths 128, 192, or 256 bits. AES is faster than 3DES.
+- **3DES** (Triple-DES) — An encryption algorithm based on DES that uses the DES cipher algorithm three times to encrypt the data. The encryption key is 168-bit. 3DES is slower than AES.
+- **DES** (Data Encryption Standard) — Uses an encryption key that is 56 bits long. DES is the weakest of the three algorithms, and it is considered to be insecure.
+
+**IPsec authentication algorithms:**
+
+- MD5 (Message Digest Algorithm 5) – MD5 produces a 128-bit (16 byte) message digest, which makes it faster than SHA1 or SHA2. This is the least secure algorithm.
+- SHA1 (Secure Hash Algorithm 1) – SHA1 produces a 160-bit (20 byte) message digest. Although slower than MD5, this larger digest size makes it stronger against brute force attacks. SHA-1 is considered to be mostly insecure because of a vulnerability.
+- SHA2 (Secure Hash Algorithm 2) – SHA2 is the most secure algorithm. There are three variants of SHA2 with different message digest lengths:
+  - SHA2-256 — produces a 265-bit (32 byte) message digest
+  - SHA2-384 — produces a 384-bit (48 byte) message digest
+  - SHA2-512 — produces a 512-bit (64 byte) message digest
+
+SHA2 is stronger than either SHA1 or MD5. We recommend that you specify a SHA2 variant.
+
+
+**Tunneling modes:** tunnel and transport 
+
+IPsec sends data using tunnel or transport mode. These modes are closely related to the type of protocols used, AH or ESP.
+
+- Tunnel mode: In tunnel mode, the entire packet is protected. IPsec wraps the data packet in a new packet, encrypts it and adds a new IP header. It is commonly used in site-to-site VPN setups.
+- Transport mode: In transport mode, the original IP header remains and is not encrypted. Only the payload and ESP trailer are encrypted. Transport mode is often used in client-to-web VPN setups.
+
+When it comes to VPNs, the most common IPSec configuration you will probably see is ESP with tunnel mode authentication. This structure helps Internet traffic to move securely and anonymously inside the VPN tunnel over insecure networks.
+
+
+(For a full technical explanation of IPsec, I highly recommend the excellent article on Networklessons)
+
+2. Prerequisites
+
+- Cisco ASA 9.8.1 (ASA1)
+- Cisco ASA 9.8.1 (ASA2)
+- Cisco IOS Router 15.9 (R1)
+- PC1 (some sort of Endpoint behind ASA1)
+- PC2 (some sort of Endpoint behind ASA2)
+
+3. Lab setup
+
+4. Cisco ASA1 configuration
+
+**a)** Interface configuration:
+
+!
+
+interface GigabitEthernet0/0
+
+nameif outside
+
+security-level 0
+
+ip address 192.0.2.6 255.255.255.252
+
+!
+
+interface GigabitEthernet0/1
+
+nameif inside
+
+security-level 100
+
+ip address 10.0.0.254 255.255.255.0
+
+!
+
+**b)** routing configuration:
+
+route outside 0.0.0.0 0.0.0.0 192.0.2.5 1
+
+**c)** IPsec phase 2 configuration:
+
+crypto ipsec ikev2 ipsec-proposal MY_PROPOSAL
+
+protocol esp encryption aes-256
+
+protocol esp integrity sha-1
+
+**d)** IPsec phase 1 configuration:
+
+crypto ikev2 policy 1
+
+encryption aes-256
+
+integrity sha
+
+group 2
+
+prf sha
+
+lifetime seconds 86400
+
+**e)** enable crypto configuration on the outside interface:
+
+crypto ikev2 enable outside
+
+**f)** configure remote endpoint for the tunnel and pre-shared key:
+
+tunnel-group 172.16.0.2 type ipsec-l2l
+
+tunnel-group 172.16.0.2 ipsec-attributes
+
+ikev2 remote-authentication pre-shared-key MY_KEY
+
+ikev2 local-authentication pre-shared-key MY_KEY
+
+**g)** define access lists for IPsec tunnel:
+
+access-list OUTSIDE_CRYPTOMAP_10 remark ACL to encrypt traffic from Local to Remote
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit ip 10.0.0.0 255.255.255.0 10.1.0.0 255.255.255.0
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit icmp 10.0.0.0 255.255.255.0 10.1.0.0 255.255.255.0
+
+**h)** configure access lists, allowed through this IPsec tunnel, remote peer ip, phase 2  proposal and outgoing interface:
+
+crypto map outside_map 10 match address OUTSIDE_CRYPTOMAP_10
+
+crypto map outside_map 10 set peer 172.16.0.2
+
+crypto map outside_map 10 set ikev2 ipsec-proposal MY_PROPOSAL
+
+crypto map outside_map interface outside
+
+5. Cisco ASA2 configuration
+
+**a)** Interface configuration:
+
+!
+
+interface GigabitEthernet0/0
+
+nameif outside
+
+security-level 0
+
+ip address 172.16.0.2 255.255.255.252
+
+!
+
+interface GigabitEthernet0/1
+
+nameif inside
+
+security-level 100
+
+ip address 10.1.0.254 255.255.255.0
+
+!
+
+**b)** routing configuration:
+
+route outside 0.0.0.0 0.0.0.0 172.16.0.1 1
+
+**c)** IPsec phase 2 configuration:
+
+crypto ipsec ikev2 ipsec-proposal MY_PROPOSAL
+
+protocol esp encryption aes-256
+
+protocol esp integrity sha-1
+
+**d)** IPsec phase 1 configuration:
+
+crypto ikev2 policy 1
+
+encryption aes-256
+
+integrity sha
+
+group 2
+
+prf sha
+
+lifetime seconds 86400
+
+**e)** enable crypto configuration on the outside interface:
+
+crypto ikev2 enable outside
+
+**f)** configure remote endpoint for the tunnel and pre-shared key:
+
+tunnel-group 192.0.2.6 type ipsec-l2l
+
+tunnel-group 192.0.2.6 ipsec-attributes
+
+ikev2 remote-authentication pre-shared-key MY_KEY
+
+ikev2 local-authentication pre-shared-key MY_KEY
+
+**g)** define access lists for IPsec tunnel:
+
+
+**Note:** compared to ASA1 configuration where I defined networks directly in the access-lists, in ASA2 configuration I defined network objects for remote site and local site. Those objects are configured in cryptomap which allows in the future to simply add/delete networks from the IPsec tunnel definition.
+
+object-group network clients
+
+network-object 10.1.0.0 255.255.255.0
+
+object-group network vpn-remote-site
+
+network-object 10.0.0.0 255.255.255.0
+
+access-list OUTSIDE_CRYPTOMAP_10 remark ACL to encrypt traffic from Local to Remote
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit ip object-group clients object-group vpn-remote-site
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit icmp object-group clients object-group vpn-remote-site
+
+**h)** configure access lists, allowed through this IPsec tunnel, remote peer ip, phase 2  proposal and outgoing interface:
+
+crypto map outside_map 10 match address OUTSIDE_CRYPTOMAP_10
+
+crypto map outside_map 10 set peer 192.0.2.6
+
+crypto map outside_map 10 set ikev2 ipsec-proposal MY_PROPOSAL
+
+crypto map outside_map interface outside
+
+Full ASA1, ASA2, R1 configuration:
+
+ASA1# sh run
+
+: Saved
+
+:
+
+: Serial Number: x
+
+: Hardware: ASAv, 2048 MB RAM, CPU Pentium II 2808 MHz
+
+:
+
+ASA Version 9.8(1)
+
+!
+
+hostname ASA1
+
+xlate per-session deny tcp any4 any4
+
+xlate per-session deny tcp any4 any6
+
+xlate per-session deny tcp any6 any4
+
+xlate per-session deny tcp any6 any6
+
+xlate per-session deny udp any4 any4 eq domain
+
+xlate per-session deny udp any4 any6 eq domain
+
+xlate per-session deny udp any6 any4 eq domain
+
+xlate per-session deny udp any6 any6 eq domain
+
+names
+
+!
+
+interface GigabitEthernet0/0
+
+nameif outside
+
+security-level 0
+
+ip address 192.0.2.6 255.255.255.252
+
+!
+
+interface GigabitEthernet0/1
+
+nameif inside
+
+security-level 100
+
+ip address 10.0.0.254 255.255.255.0
+
+!
+
+interface GigabitEthernet0/2
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/3
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/4
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/5
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/6
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface Management0/0
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+ftp mode passive
+
+access-list OUTSIDE_CRYPTOMAP_10 remark ACL to encrypt traffic from Local to Remote
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit ip 10.0.0.0 255.255.255.0 10.1.0.0 255.255.255.0
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit icmp 10.0.0.0 255.255.255.0 10.1.0.0 255.255.255.0
+
+pager lines 23
+
+logging console debugging
+
+mtu outside 1500
+
+mtu inside 1500
+
+no failover
+
+no monitor-interface service-module
+
+icmp unreachable rate-limit 1 burst-size 1
+
+no asdm history enable
+
+arp timeout 14400
+
+no arp permit-nonconnected
+
+arp rate-limit 8192
+
+route outside 0.0.0.0 0.0.0.0 192.0.2.5 1
+
+timeout xlate 3:00:00
+
+timeout pat-xlate 0:00:30
+
+timeout conn 1:00:00 half-closed 0:10:00 udp 0:02:00 sctp 0:02:00 icmp 0:00:02
+
+timeout sunrpc 0:10:00 h323 0:05:00 h225 1:00:00 mgcp 0:05:00 mgcp-pat 0:05:00
+
+timeout sip 0:30:00 sip_media 0:02:00 sip-invite 0:03:00 sip-disconnect 0:02:00
+
+timeout sip-provisional-media 0:02:00 uauth 0:05:00 absolute
+
+timeout tcp-proxy-reassembly 0:01:00
+
+timeout floating-conn 0:00:00
+
+timeout conn-holddown 0:00:15
+
+timeout igp stale-route 0:01:10
+
+user-identity default-domain LOCAL
+
+aaa authentication login-history
+
+no snmp-server location
+
+no snmp-server contact
+
+crypto ipsec ikev2 ipsec-proposal MY_PROPOSAL
+
+protocol esp encryption aes-256
+
+protocol esp integrity sha-1
+
+crypto ipsec security-association pmtu-aging infinite
+
+crypto map outside_map 10 match address OUTSIDE_CRYPTOMAP_10
+
+crypto map outside_map 10 set peer 172.16.0.2
+
+crypto map outside_map 10 set ikev2 ipsec-proposal MY_PROPOSAL
+
+crypto map outside_map interface outside
+
+crypto ca trustpoint _SmartCallHome_ServerCA
+
+no validation-usage
+
+crl configure
+
+crypto ca trustpool policy
+
+auto-import
+
+crypto ca certificate chain _SmartCallHome_ServerCA
+
+certificate ca xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx 02021018 dad19e26 7de8bb4a 2158cdcc 6b3b4a30
+
+0d06092a 864886f7 0d010105 05003081 ca310b30 09060355 04061302 55533117
+
+30150603 55040a13 0e566572 69536967 6e2c2049 6e632e31 1f301d06 0355040b
+
+13165665 72695369 676e2054 72757374 204e6574 776f726b 313a3038 06035504
+
+0b133128 63292032 30303620 56657269 5369676e 2c20496e 632e202d 20466f72
+
+20617574 686f7269 7a656420 75736520 6f6e6c79 31453043 06035504 03133c56
+
+65726953 69676e20 436c6173 73203320 5075626c 69632050 72696d61 72792043
+
+65727469 66696361 74696f6e 20417574 686f7269 7479202d 20473530 1e170d30
+
+36313130 38303030 3030305a 170d3336 30373136 32333539 35395a30 81ca310b
+
+30090603 55040613 02555331 17301506 0355040a 130e5665 72695369 676e2c20
+
+496e632e 311f301d 06035504 0b131656 65726953 69676e20 54727573 74204e65
+
+74776f72 6b313a30 38060355 040b1331 28632920 32303036 20566572 69536967
+
+6e2c2049 6e632e20 2d20466f 72206175 74686f72 697a6564 20757365 206f6e6c
+
+79314530 43060355 0403133c 56657269 5369676e 20436c61 73732033 20507562
+
+6c696320 5072696d 61727920 43657274 69666963 6174696f 6e204175 74686f72
+
+69747920 2d204735 30820122 300d0609 2a864886 f70d0101 01050003 82010f00
+
+3082010a 02820101 00af2408 08297a35 9e600caa e74b3b4e dc7cbc3c 451cbb2b
+
+e0fe2902 f95708a3 64851527 f5f1adc8 31895d22 e82aaaa6 42b38ff8 b955b7b1
+
+b74bb3fe 8f7e0757 ecef43db 66621561 cf600da4 d8def8e0 c362083d 5413eb49
+
+xxxxxxxx 26e52b8f 1b9febf5 a191c233 49d84363 6a524bd2 8fe87051 4dd18969
+
+7bc770f6 b3dc1274 db7b5d4b 56d396bf 1577a1b0 f4a225f2 af1c9267 18e5f406
+
+04ef90b9 e400e4dd 3ab519ff 02baf43c eee08beb 378becf4 d7acf2f6 f03dafdd
+
+xxxxxxxx 1d1c40cb 74241921 93d914fe ac2a52c7 8fd50449 e48d6347 883c6983
+
+cbfe47bd 2b7e4fc5 95ae0e9d d4d143c0 6773e314 087ee53f 9f73b833 0acf5d3f
+
+3487968a ee53e825 15020301 0001a381 b23081af 300f0603 551d1301 01ff0405
+
+30030101 ff300e06 03551d0f 0101ff04 04030201 06306d06 082b0601 05050701
+
+0c046130 5fa15da0 5b305930 57305516 09696d61 67652f67 69663021 301f3007
+
+06052b0e 03021a04 148fe5d3 1a86ac8d 8e6bc3cf 806ad448 182c7b19 2e302516
+
+23687474 703xxf2f 6c6f676f 2e766572 69736967 6e2e636f 6d2f7673 6c6f676f
+
+2e676966 301d0603 551d0e04 1604147f d365a7c2 ddecbbf0 3009f343 39fa02af
+
+33313330 0d06092a 864886f7 0d010105 05000382 01010093 244a305f 62cfd81a
+
+982f3dea dc992dbd 77f6a579 2238ecc4 a7a07812 ad620e45 7064c5e7 97662d98
+
+097e5faf d6cc2865 f201aa08 1a47def9 f97c925a 0869200d d93e6d6e 3c0d6ed8
+
+e6069140 18b9f8c1 eddfdb41 aae09620 c9cd6415 3881c994 eea28429 0b136f8e
+
+db0cdd25 02dba48b 1944d241 7a05694a 584f60ca 7e826a0b 02aa2517 39b5db7f
+
+e784652a 958abd86 de5e8116 832d10cc defda882 2a6d281f 0d0bc4e5 e71a2619
+
+e1f4116f 10b595fc e7420532 dbce9d51 5e28b69e 85d35bef a57d4540 728eb70e
+
+6b0e06fb 33354871 b89d278b c4655f0d 86769c44 7af6955c f65d3208 33a454b6
+
+183f685c f2424a85 3854835f d1e82cf2 ac11d6a8 ed636a
+
+quit
+
+crypto ikev2 policy 1
+
+encryption aes-256
+
+integrity sha
+
+group 2
+
+prf sha
+
+lifetime seconds 86400
+
+crypto ikev2 enable outside
+
+telnet timeout 5
+
+ssh stricthostkeycheck
+
+ssh timeout 5
+
+ssh key-exchange group dh-group1-sha1
+
+console timeout 0
+
+threat-detection basic-threat
+
+threat-detection statistics access-list
+
+no threat-detection statistics tcp-intercept
+
+dynamic-access-policy-record DfltAccessPolicy
+
+tunnel-group 172.16.0.2 type ipsec-l2l
+
+tunnel-group 172.16.0.2 ipsec-attributes
+
+ikev2 remote-authentication pre-shared-key *****
+
+ikev2 local-authentication pre-shared-key *****
+
+!
+
+class-map inspection_default
+
+match default-inspection-traffic
+
+!
+
+!
+
+policy-map type inspect dns preset_dns_map
+
+parameters
+
+message-length maximum client auto
+
+message-length maximum 512
+
+no tcp-inspection
+
+policy-map global_policy
+
+class inspection_default
+
+inspect ip-options
+
+inspect netbios
+
+inspect rtsp
+
+inspect sunrpc
+
+inspect tftp
+
+inspect xdmcp
+
+inspect dns preset_dns_map
+
+inspect ftp
+
+inspect h323 h225
+
+inspect h323 ras
+
+inspect rsh
+
+inspect esmtp
+
+inspect sqlnet
+
+inspect sip
+
+inspect skinny
+
+policy-map type inspect dns migrated_dns_map_2
+
+parameters
+
+message-length maximum client auto
+
+message-length maximum 512
+
+no tcp-inspection
+
+policy-map type inspect dns migrated_dns_map_1
+
+parameters
+
+message-length maximum client auto
+
+message-length maximum 512
+
+no tcp-inspection
+
+!
+
+service-policy global_policy global
+
+prompt hostname context
+
+no call-home reporting anonymous
+
+call-home
+
+profile CiscoTAC-1
+
+no active
+
+destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+
+destination address email callhome@cisco.com
+
+destination transport-method http
+
+subscribe-to-alert-group diagnostic
+
+subscribe-to-alert-group environment
+
+subscribe-to-alert-group inventory periodic monthly
+
+subscribe-to-alert-group configuration periodic monthly
+
+subscribe-to-alert-group telemetry periodic daily
+
+profile License
+
+destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+
+destination transport-method http
+
+Cryptochecksum:be40286076330a02a8b968eeb21cf3ee
+
+: end
+
+ASA1#
+
+ASA2# sh run
+
+: Saved
+
+:
+
+: Serial Number: x
+
+: Hardware: ASAv, 2048 MB RAM, CPU Pentium II 2808 MHz
+
+:
+
+ASA Version 9.8(1)
+
+!
+
+hostname ASA2
+
+xlate per-session deny tcp any4 any4
+
+xlate per-session deny tcp any4 any6
+
+xlate per-session deny tcp any6 any4
+
+xlate per-session deny tcp any6 any6
+
+xlate per-session deny udp any4 any4 eq domain
+
+xlate per-session deny udp any4 any6 eq domain
+
+xlate per-session deny udp any6 any4 eq domain
+
+xlate per-session deny udp any6 any6 eq domain
+
+names
+
+!
+
+interface GigabitEthernet0/0
+
+nameif outside
+
+security-level 0
+
+ip address 172.16.0.2 255.255.255.252
+
+!
+
+interface GigabitEthernet0/1
+
+nameif inside
+
+security-level 100
+
+ip address 10.1.0.254 255.255.255.0
+
+!
+
+interface GigabitEthernet0/2
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/3
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/4
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/5
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface GigabitEthernet0/6
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+interface Management0/0
+
+shutdown
+
+no nameif
+
+no security-level
+
+no ip address
+
+!
+
+ftp mode passive
+
+object-group network clients
+
+network-object 10.1.0.0 255.255.255.0
+
+object-group network vpn-remote-site
+
+network-object 10.0.0.0 255.255.255.0
+
+access-list OUTSIDE_CRYPTOMAP_10 remark ACL to encrypt traffic from Local to Remote
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit ip object-group clients object-group vpn-remote-site
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit icmp object-group clients object-group vpn-remote-site
+
+access-list clients-out extended permit icmp any any
+
+access-list clients-out extended permit ip object-group clients any
+
+pager lines 23
+
+mtu outside 1500
+
+mtu inside 1500
+
+no failover
+
+no monitor-interface service-module
+
+icmp unreachable rate-limit 1 burst-size 1
+
+no asdm history enable
+
+arp timeout 14400
+
+no arp permit-nonconnected
+
+arp rate-limit 8192
+
+access-group clients-out in interface inside
+
+route outside 0.0.0.0 0.0.0.0 172.16.0.1 1
+
+timeout xlate 3:00:00
+
+timeout pat-xlate 0:00:30
+
+timeout conn 1:00:00 half-closed 0:10:00 udp 0:02:00 sctp 0:02:00 icmp 0:00:02
+
+timeout sunrpc 0:10:00 h323 0:05:00 h225 1:00:00 mgcp 0:05:00 mgcp-pat 0:05:00
+
+timeout sip 0:30:00 sip_media 0:02:00 sip-invite 0:03:00 sip-disconnect 0:02:00
+
+timeout sip-provisional-media 0:02:00 uauth 0:05:00 absolute
+
+timeout tcp-proxy-reassembly 0:01:00
+
+timeout floating-conn 0:00:00
+
+timeout conn-holddown 0:00:15
+
+timeout igp stale-route 0:01:10
+
+user-identity default-domain LOCAL
+
+aaa authentication login-history
+
+no snmp-server location
+
+no snmp-server contact
+
+crypto ipsec ikev2 ipsec-proposal MY_PROPOSAL
+
+protocol esp encryption aes-256
+
+protocol esp integrity sha-1
+
+crypto ipsec security-association pmtu-aging infinite
+
+crypto map outside_map 10 match address OUTSIDE_CRYPTOMAP_10
+
+crypto map outside_map 10 set peer 192.0.2.6
+
+crypto map outside_map 10 set ikev2 ipsec-proposal MY_PROPOSAL
+
+crypto map outside_map interface outside
+
+crypto ca trustpoint _SmartCallHome_ServerCA
+
+no validation-usage
+
+crl configure
+
+crypto ca trustpool policy
+
+auto-import
+
+crypto ca certificate chain _SmartCallHome_ServerCA
+
+certificate ca xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxx xxxxxxxx xxxxxxxx 02021018 dad19e26 7de8bb4a 2158cdcc 6b3b4a30
+
+0d06092a 864886f7 0d010105 05003081 ca310b30 09060355 04061302 55533117
+
+30150603 55040a13 0e566572 69536967 6e2c2049 6e632e31 1f301d06 0355040b
+
+13165665 72695369 676e2054 72757374 204e6574 776f726b 313a3038 06035504
+
+0b133128 63292032 30303620 56657269 5369676e 2c20496e 632e202d 20466f72
+
+20617574 686f7269 7a656420 75736520 6f6e6c79 31453043 06035504 03133c56
+
+xxxxxxxx 69676e20 436c6173 73203320 5075626c 69632050 72696d61 72792043
+
+65727469 66696361 74696f6e 20417574 686f7269 7479202d 20473530 1e170d30
+
+36313130 38303030 3030305a 170d3336 30373136 32333539 35395a30 81ca310b
+
+30090603 55040613 02555331 17301506 0355040a 130e5665 72695369 676e2c20
+
+496e632e 311f301d 06035504 0b131656 65726953 69676e20 54727573 74204e65
+
+74776f72 6b313a30 38060355 040b1331 28632920 32303036 20566572 69536967
+
+xxxxxxxx 6e632e20 2d20466f 72206175 74686f72 697a6564 20757365 206f6e6c
+
+79314530 43060355 0403133c 56657269 5369676e 20436c61 73732033 20507562
+
+6c696320 5072696d 61727920 43657274 69666963 6174696f 6e204175 74686f72
+
+69747920 2d204735 30820122 300d0609 2a864886 f70d0101 01050003 82010f00
+
+3082010a 02820101 00af2408 08297a35 9e600caa e74b3b4e dc7cbc3c 451cbb2b
+
+e0fe2902 f95708a3 64851527 f5f1adc8 31895d22 e82aaaa6 42b38ff8 b955b7b1
+
+b74bb3fe 8f7e0757 ecef43db 66621561 cf600da4 d8def8e0 c362083d 5413eb49
+
+ca595485 26e52b8f 1b9febf5 a191c233 49d84363 6a524bd2 8fe87051 4dd18969
+
+7bc770f6 b3dc1274 db7b5d4b 56d396bf 1577a1b0 f4a225f2 af1c9267 18e5f406
+
+04ef90b9 e400e4dd 3ab519ff 02baf43c eee08beb 378becf4 d7acf2f6 f03dafdd
+
+75913319 1d1c40cb 74241921 93d914fe ac2a52c7 8fd50449 e48d6347 883c6983
+
+cbfe47bd 2b7e4fc5 95ae0e9d d4d143c0 6773e314 087ee53f 9f73b833 0acf5d3f
+
+3487968a ee53e825 15020301 0001a381 b23081af 300f0603 551d1301 01ff0405
+
+30030101 ff300e06 03551d0f 0101ff04 04030201 06306d06 082b0601 05050701
+
+0c046130 5fa15da0 5b305930 57305516 09696d61 67652f67 69663021 301f3007
+
+06052b0e 03021a04 148fe5d3 1a86ac8d 8e6bc3cf 806ad448 182c7b19 2e302516
+
+23687474 703a2f2f 6c6f676f 2e766572 69736967 6e2e636f 6d2f7673 6c6f676f
+
+2e676966 301d0603 551d0e04 1604147f d365a7c2 ddecbbf0 3009f343 39fa02af
+
+33313330 0d06092a 864886f7 0d010105 05000382 01010093 244a305f 62cfd81a
+
+982f3dea dc992dbd 77f6a579 2238ecc4 a7a07812 ad620e45 7064c5e7 97662d98
+
+097e5faf d6cc2865 f201aa08 1a47def9 f97c925a 0869200d d93e6d6e 3c0d6ed8
+
+e6069140 18b9f8c1 eddfdb41 aae09620 c9cd6415 3881c994 eea28429 0b136f8e
+
+db0cdd25 02dba48b 1944d241 7a05694a 584f60ca 7e826a0b 02aa2517 39b5db7f
+
+e784652a 958abd86 de5e8116 832d10cc defda882 2a6d281f 0d0bc4e5 e71a2619
+
+e1f4116f 10b595fc e7420532 dbce9d51 5e28b69e 85d35bef a57d4540 728eb70e
+
+6b0e06fb 33354871 b89d278b c4655f0d 86769c44 7af6955c f65d3208 33a454b6
+
+183f685c f2424a85 3854835f d1e82cf2 ac11d6a8 ed636a
+
+quit
+
+crypto ikev2 policy 1
+
+encryption aes-256
+
+integrity sha
+
+group 2
+
+prf sha
+
+lifetime seconds 86400
+
+crypto ikev2 enable outside
+
+telnet timeout 5
+
+ssh stricthostkeycheck
+
+ssh timeout 5
+
+ssh key-exchange group dh-group1-sha1
+
+console timeout 0
+
+threat-detection basic-threat
+
+threat-detection statistics access-list
+
+no threat-detection statistics tcp-intercept
+
+dynamic-access-policy-record DfltAccessPolicy
+
+tunnel-group 192.0.2.6 type ipsec-l2l
+
+tunnel-group 192.0.2.6 ipsec-attributes
+
+ikev2 remote-authentication pre-shared-key MY_KEY
+
+ikev2 local-authentication pre-shared-key MY_KEY
+
+!
+
+class-map inspection_default
+
+match default-inspection-traffic
+
+!
+
+!
+
+policy-map type inspect dns preset_dns_map
+
+parameters
+
+message-length maximum client auto
+
+message-length maximum 512
+
+no tcp-inspection
+
+policy-map global_policy
+
+class inspection_default
+
+inspect ip-options
+
+inspect netbios
+
+inspect rtsp
+
+inspect sunrpc
+
+inspect tftp
+
+inspect xdmcp
+
+inspect dns preset_dns_map
+
+inspect ftp
+
+inspect h323 h225
+
+inspect h323 ras
+
+inspect rsh
+
+inspect esmtp
+
+inspect sqlnet
+
+inspect sip
+
+inspect skinny
+
+policy-map type inspect dns migrated_dns_map_2
+
+parameters
+
+message-length maximum client auto
+
+message-length maximum 512
+
+no tcp-inspection
+
+policy-map type inspect dns migrated_dns_map_1
+
+parameters
+
+message-length maximum client auto
+
+message-length maximum 512
+
+no tcp-inspection
+
+!
+
+service-policy global_policy global
+
+prompt hostname context
+
+no call-home reporting anonymous
+
+call-home
+
+profile CiscoTAC-1
+
+no active
+
+destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+
+destination address email callhome@cisco.com
+
+destination transport-method http
+
+subscribe-to-alert-group diagnostic
+
+subscribe-to-alert-group environment
+
+subscribe-to-alert-group inventory periodic monthly
+
+subscribe-to-alert-group configuration periodic monthly
+
+subscribe-to-alert-group telemetry periodic daily
+
+profile License
+
+destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+
+destination transport-method http
+
+Cryptochecksum:a1d62628ba6d9e5af3ebffb781b6f968
+
+: end
+
+ASA2#
+
+R1#sh run
+
+Building configuration...
+
+Current configuration : 3111 bytes
+
+!
+
+version 15.9
+
+service timestamps debug datetime msec
+
+service timestamps log datetime msec
+
+no service password-encryption
+
+!
+
+hostname R1
+
+!
+
+boot-start-marker
+
+boot-end-marker
+
+!
+
+!
+
+!
+
+no aaa new-model
+
+!
+
+!
+
+!
+
+mmi polling-interval 60
+
+no mmi auto-configure
+
+no mmi pvc
+
+mmi snmp-timeout 180
+
+!
+
+!
+
+!
+
+!
+
+!
+
+no ip icmp rate-limit unreachable
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+no ip domain lookup
+
+ip cef
+
+no ipv6 cef
+
+!
+
+multilink bundle-name authenticated
+
+!
+
+!
+
+!
+
+redundancy
+
+!
+
+no cdp log mismatch duplex
+
+!
+
+ip tcp synwait-time 5
+
+!
+
+!
+
+!
+
+!
+
+interface GigabitEthernet0/0
+
+ip address 172.16.0.1 255.255.255.252
+
+duplex auto
+
+speed auto
+
+media-type rj45
+
+!
+
+interface GigabitEthernet0/1
+
+ip address 192.0.2.5 255.255.255.252
+
+duplex auto
+
+speed auto
+
+media-type rj45
+
+!
+
+interface GigabitEthernet0/2
+
+no ip address
+
+shutdown
+
+duplex auto
+
+speed auto
+
+media-type rj45
+
+!
+
+interface GigabitEthernet0/3
+
+no ip address
+
+shutdown
+
+duplex auto
+
+speed auto
+
+media-type rj45
+
+!
+
+ip forward-protocol nd
+
+!
+
+!
+
+no ip http server
+
+!
+
+ipv6 ioam timestamp
+
+!
+
+!
+
+!
+
+control-plane
+
+!
+
+!
+
+line con 0
+
+exec-timeout 0 0
+
+privilege level 15
+
+logging synchronous
+
+line aux 0
+
+exec-timeout 0 0
+
+privilege level 15
+
+logging synchronous
+
+line vty 0 4
+
+login
+
+transport input none
+
+!
+
+no scheduler allocate
+
+!
+
+end
+
+R1#
+
+6. IPsec Tunnel bring up
+
+- To bring up IPsec tunnel it is needed to generate interesting traffic from one side (except permanent IPsec tunnels).
+- Interesting traffic is the traffic that is allowed in the encryption domain.
+- The encryption domain represents the traffic that participates in VPN Tunnel.
+
+In our case encryption domain on ASA1 contains subnet 10.0.0.0/24 and encryption domain on ASA2 contains 10.1.0.0/24. If we want to bring up the IPsec tunnel from ASA1 side for example, it is needed to generate traffic for other side of the tunnel with destination in network 10.1.0.0/24.
+
+**a)** verify that no VPN tunnel exists before we will bring the VPN tunnel up:
+
+ASA1# show crypto ipsec sa
+
+There are no ipsec sas
+
+ASA1#
+
+ASA2# sh crypto ipsec sa
+
+There are no ipsec sas
+
+ASA2#
+
+**b)** bring up the IPsec VPN tunnel up:
+
+
+**Note:** I will generate interesting traffic using icmp ping test from PC1 (10.0.0.1) to PC2 (10.1.0.1)
+
+PC1> ping 10.1.0.1
+
+10.1.0.1 icmp_seq=1 timeout
+
+84 bytes from 10.1.0.1 icmp_seq=2 ttl=64 time=4.949 ms
+
+84 bytes from 10.1.0.1 icmp_seq=3 ttl=64 time=2.930 ms
+
+84 bytes from 10.1.0.1 icmp_seq=4 ttl=64 time=2.192 ms
+
+84 bytes from 10.1.0.1 icmp_seq=5 ttl=64 time=3.235 ms
+
+PC1>
+
+IPsec Tunnel is up and functional.
+
+7. Verify IPsec tunnel status
+
+There are following major ways to check IPsec tunnel status:
+
+- show crypto ipsec sa (Show IPsec SAs for Phase 1)
+- show crypto ikev2 sa (Show IKEv2 sas for Phase 2)
+
+Let’s verify IPsec tunnel status on ASA1 and ASA2 and take a look on IPsec SA parameter and IKEv2 parameter.
+
+ASA1# show crypto ipsec sa
+
+interface: outside
+
+Crypto map tag: outside_map, seq num: 10, local addr: 192.0.2.6
+
+access-list OUTSIDE_CRYPTOMAP_10 extended permit ip 10.0.0.0 255.255.255.0 10.1.0.0 255.255.255.0
+
+local ident (addr/mask/prot/port): (10.0.0.0/255.255.255.0/0/0)
+
+remote ident (addr/mask/prot/port): (10.1.0.0/255.255.255.0/0/0)
+
+current_peer: 172.16.0.2
+
+#pkts encaps: 4, #pkts encrypt: 4, #pkts digest: 4
+
+#pkts decaps: 4, #pkts decrypt: 4, #pkts verify: 4
+
+#pkts compressed: 0, #pkts decompressed: 0
+
+#pkts not compressed: 4, #pkts comp failed: 0, #pkts decomp failed: 0
+
+#pre-frag successes: 0, #pre-frag failures: 0, #fragments created: 0
+
+#PMTUs sent: 0, #PMTUs rcvd: 0, #decapsulated frgs needing reassembly: 0

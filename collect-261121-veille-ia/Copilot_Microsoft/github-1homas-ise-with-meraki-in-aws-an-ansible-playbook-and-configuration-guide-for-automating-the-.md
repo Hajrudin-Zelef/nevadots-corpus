@@ -1,0 +1,315 @@
+---
+id: collect-261121-veille-ia/copilot-microsoft/github-1homas-ise-with-meraki-in-aws-an-ansible-playbook-and-configuration-guide-for-automating-the-
+title: "GitHub - 1homas/ISE_with_Meraki_in_AWS: An Ansible playbook and configuration guide for automating the creation of ISE in AWS and securely connecting it with auto-VPN to your other sites using a Cisco Meraki vMX VPN!"
+domain: copilot-microsoft
+role: reference
+task: article
+actors: ["Microsoft"]
+dates: []
+keywords: ["meraki", "export", "network", "ansible", "environment", "repository", "cisco", "other"]
+source: https://GitHub.Com/1homas/ISE_with_Meraki_in_AWS
+source_anchor: ""
+source_lines: [1, 301]
+section: "Copilot_Microsoft"
+---
+This demo environment was created for use with the Cisco ISE with Meraki Webinar on October 5, 2021. Watch the recording of the Cisco ISE with Meraki Webinar in the Cisco ISE YouTube Channel:
+
+You will need at least one additional Meraki MX or Z network to act as a VPN hub to terminate the other side of the VPN connection. You should have your hub MX working *before* you run the Ansible playbook because it will attempt to connect the vMX to an existing `Lab` VPN hub. You may edit the `vars/main.yaml` file to customize your VPN hub network name. I chose to have the vMX network in AWS be a VPN *spoke* because I do not want AWS to charge me for all of my network traffic flowing through AWS to the Internet!
+
+Running `ansible-playbook ise_in_aws.yaml` will create :
+
+- AWS VPC, subnets, route tables, internet gateway. For the gory details, see **Manual Configuration in AWS Console and Meraki Dashboard** below.
+- ISE 3.1 or later instance
+- Meraki vMX instance to secure RADIUS traffic from network devices to ISE
+- Linux VM instance to ping while ISE boots so you will feel confident that the VPN is going to work! You could also turn this into a web server for testing URL redirections or as an internal site that you block.
+
+1. 
+Clone this repository: ```
+git clone https://github.com/1homas/ISE_with_Meraki_in_AWS.git
+cd ISE_with_Meraki_in_AWS
+```
+2. 
+Create your Python environment and install Ansible with other Python packages for AWS and ISE : pip install --upgrade pip pip install pipenv pipenv install --python 3.11 pipenv install ansible boto3 botocore ciscoisesdk jmespath paramiko pipenv shell If you have any problems installing Python or Ansible, see Installing Ansible.
+3. 
+Export your various keys, tokens, and credentials for ISE, Meraki, and AWS APIs into your shell environment. You can store these in one or more `*.env` then load them with the`source` command.# AWS IAM API Keys export AWS_REGION='us-west-1' export AWS_ACCESS_KEY='AKIAIOSF/EXAMPLE+KEY' export AWS_SECRET_KEY='wJalrXUtnFEMI/K7MDENG/bPxRfi/EXAMPLE+KEY' # Meraki API Authentication Key export MERAKI_KEY='EXAMPLE_KEYc320e12ee407159487a4cabc41abb' # ISE REST API Credentials export ISE_USERNAME=admin export ISE_PASSWORD=ISEisC00L export ISE_VERIFY=false export ISE_DEBUG=false export ISE_INIT_PASSWORD=C1sco12345 # Secrets export ISE_RADIUS_SECRET=ISEisC00L export ISE_TACACS_SECRET=ISEisC00L export ISE_SNMP_SECRET=ISEisC00L # Repository & Backups export ISE_REPOSITORY=ftp.trust0.net export ISE_REPOSITORY_PROTOCOL=FTP export ISE_REPOSITORY_PATH=/ export ISE_REPOSITORY_USERNAME=ise export ISE_REPOSITORY_PASSWORD=ISEisC00L export ISE_BACKUP_ENCRYPTION_KEY=ISEisC00L Alternatively, keep your environment variables in files in a `.secrets` or similar folder in your home directory and use`source {filename}` to load environment variables from the files:source ~/.secrets/aws.sh source ~/.secrets/ise.sh source ~/.secrets/ise_repo.sh source ~/.secrets/meraki.sh
+4. 
+Review the `vars/*.yaml` configuration files and un/comment or edit them to suit your environment. You*must* edit the`vars/main.yaml` and change the`meraki_org_name` to your respective Meraki org. You will want to review the other settings and change them to match your environment:
+  - your desired `project_name`
+  - the AMI identifiers for your respective AWS region if not `us-west-1`
+  - your desired network CIDR ranges
+  - your desired VM instance types
+  - your Meraki vMX instance type and license (S/M/L)
+  - your default password(s) or pre-shared keys
+5. your desired 
+6. 
+Run the Ansible playbook: ansible-playbook ise_in_aws.yaml
+7. 
+Due to a Meraki VPN API error, you will need to manually add the vMX Local Network definition in the Meraki Dashboard to advertise the VPC subnet: 
+  1. In the Meraki Dashboard, view your `ISE_Meraki_AWS` network
+  2. Choose `Security & SD-WAN > Configure > Site-to-Site VPN` and for the Local Networks,**Add a Local Network** :Network VPN mode Subnet ISE_Meraki_AWS Enabled `172.31.0.0/16`
+ ⚠ If you cannot ping or SSH to the `Ping` Linux VM this is probably the reason!
+8. In the Meraki Dashboard, view your 
+9. 
+When ISE is up, you may configure it using the additional playbook : ansible-playbook ise.configuration.yaml
+10. 
+When you are done, terminate the instances and delete all resources to prevent surprise AWS bills: ansible-playbook ise_in_aws.terminate.yaml
+
+In case you wondered exactly what these Ansible playbooks are doing ... here is how to do it the hard way! If you want to do it the old-fashioned way or just understand what the time spent on automation is saving you from!
+
+Your AWS instance(s) will have a public IP address so anyone can - and will - eventually find it and try to login and use it. For this reason, AWS does not allow the use of normal passwords. Instead, they use a private/public cryptographic key pair which is *much* stronger than a password.
+
+1. 
+Login to the Amazon Web Services (AWS) Console as a root user (not IAM user) of your account
+2. 
+Verify or choose your **Region** in the drop-down menu next to your account name
+3. 
+Open the **Services** menu and choose**Compute > EC2**
+4. 
+From the left menu, choose **Network & Security > Key Pairs**
+5. 
+Click **Create Key Pair** , fill in the attributes below, and click**Create Key Pair**
+  - Name: `ISEinAWS`
+  - Key pair type: **RSA**
+  - Private key file format: **.pem**
+6. Name: 
+7. 
+When prompted, save the `ISEinAWS.pem` private key file to your home directory in a folder named`.ssh` (`~/.ssh/ISEinAWS.pem` )
+8. 
+If you are using macOS, Linux, or WSL, change the file permissions so it cannot be viewed by others or accidentally overwritten or deleted by you: `chmod 400 ~/.ssh/ISEinAWS.pem`🛑 Do not lose this private key file! You will not be able to login to your AWS EC2 instances configured with the corresponding public key!
+
+When you create instances in AWS, you may choose to put the matching public key into your VMs to authorize your SSH login. To use your key with AWS EC2 instances, you will connect using SSH and authenticate with the `-i` *identity file* option which is your `ISEinAWS.pem` private key :
+
+`ssh -i ~/.ssh/ISEinAWS.pem admin@{hostname | IP}`
+1. In the AWS Console, go to **Services > Networking & Content Delivery > VPC**
+2. Choose your region: `us-west1`
+3. Select `Create VPC`  - Name: `ISEinAWS`
+  - IPv4 CIDR: `172.31.0.0/16`
+  - Tenancy: `Default`
+  - Add Tag: `Project : ISEinAWS` Click`Create VPC`
+4. Name: 
+
+1. From the left menu, select `Virtual Private Cloud > Subnets`
+2. Click `Create Subnet`
+3. Create your Public subnet for the Meraki vMX:
+  1. VPC ID: `ISEinAWS`
+  2. Subnet name: `Public-Subnet`
+  3. Availability Zone: `No preference` or*choose your desired AZ*
+  4. CIDR: `172.31.1.0/24`
+4. VPC ID: 
+5. Select `Add a New Subnet` for the Private subnet with ISE
+  1. VPC ID: `ISEinAWS`
+  2. Subnet name: `Private-Subnet`
+  3. Availability Zone: `No preference` or*choose your desired AZ*
+  4. CIDR: `172.31.2.0/24`
+6. VPC ID: 
+7. Select `Create Subnet`
+8. Check ✅ `Public-Subnet` , choose`Actions > Modify auto-assign IP settings` , check ✅`Enable auto-assign public IPv4 address` and click`Save`
+
+1. From the left menu, select `Virtual Private Cloud > Internet Gateways`
+2. Click `Create Internet Gateway`  - Name: `vMX-IG` Click`Create Internet Gateway`
+3. Name: 
+4. Associate the Internet Gateway to the VPC by selecting `Actions > Attach to VPC` >`ISEinAWS` and click`Attach Internet Gateway`
+
+1. From the left menu, select `Virtual Private Cloud > Route Tables`
+2. Click `Create Route Table`
+3. Create the *Public* Route Table
+  - Name: `Public-RT`
+  - VPC: `ISEinAWS` Click`Create Route Table`
+4. Name: 
+5. From the left menu, select `Virtual Private Cloud > Route Tables`
+6. Create the *Private* Route Table
+  - Name: `Private-RT`
+  - VPC: `ISEinAWS` Click`Create Route Table`
+7. Name: 
+8. Associate the respective route tables and subnets:
+  1. Check ✅ `Public-RT` and select the`Subnet Assocations` tab below
+  2. Click `Edit Subnet Associations` , check ✅`Public-Subnet` and click`Save Associations`
+  3. Check ✅ `Private-RT` and select the`Subnet Assocations` tab below
+  4. Click `Edit Subnet Associations` , check ✅`Private-Subnet` and click`Save Associations`
+9. Check ✅ 
+
+1. Check ✅ `Public-RT` , select the`Routes` tab below, and click`Edit Routes`
+2. Click `Add Route` and add a`0.0.0.0/0` default route to the target type`Internet Gateway` >`igw-*` then click`Save Changes`
+3. Your Public Route Table should now look like this:
+Destination Target `172.31.0.0/16`local `0.0.0.0/0`igw-0ed2b71a84a9588ac
+
+1. Login to the Meraki Dashboard
+2. From the network menu, choose `Create a New Network`  - Network name: `ISEinAWS`
+  - Network type: `Security Appliance`
+  - Network Configuration: `Default Meraki configuration`
+  - Check ✅ the **vMX Serial Number** you want to use
+Click`Create Network`
+3. Network name: 
+4. Scroll down and select `Generate Authentication Token` and copy the text for use in the`User Data` of the vMX instance in the next section.
+
+1. In the AWS Search Box at the top of the page, search for "Meraki vMX" and open the link to Cisco Meraki vMX
+2. Click `Continue to Subscribe`
+3. Click `Continue to Configuration`
+4. Choose your region (`us-west` ) and click`Continue to Launch`  1. ami-09db17cd0ae68ce37
+5. For **Choose Action** , choose`Launch Through EC2` then click`Launch`
+6. Choose the appropriate Instance Type, `c5.large` and click`Next: Configure Instance Details`
+7. For Configure Instance Details use the settings:
+  - Network: `vpc-* | ISEinAWS`
+  - Subnet: `subnet-* | Public-Subnet`
+  - Auto-assign Public IP : `Enable`
+  - User data: `As Text` ,*paste the vMX Authentication Token from the Meraki Dashboard*
+8. Network: 
+9. Click `Next: Add Storage`
+10. Click `Next: Add Tags`
+11. Click `Add Tag` and use a key:value of`Name` :`vMX`
+12. Click `Next: Configure Security Group`
+13. For the Security Group, use the settings:
+  - Assign a security group : `⦿ Create a new security group`
+  - Security group name: `vMX-SG`
+  - Description: `vMX-SG`
+  - Change the existing rule to be:
+    - Type : `All Traffic`
+    - Description: `Allow All`
+  - Type : 
+14. Assign a security group : 
+15. Click `Review and Launch`
+16. Click `Launch`
+17. Select your Key Pair `ISEinAWS.pem` , acknowledge that you have the private key file and click`Launch Instances`
+18. After launching, select `View Instances` and you should see your instance running!
+19. Check ✅ your vMX, choose `Actions > Networking > Change Source / destination check` , ✅`Stop` Source / destination checking and click`Save`
+
+1. 
+In the AWS Console, go to `Services > EC2`
+2. 
+Click `Launch Instances`
+3. 
+Find a free tier Linux AMI such as the `Amazon Linux 2 AMI (HVM)` and click it's`Select` button
+4. 
+Choose the `t2.micro` instance type and click`Next: Configure Instance Details`
+5. 
+For Configure Instance Details use the settings: 
+  - Network: `vpc-* | ISEinAWS`
+  - Subnet: `subnet-* | Private-Subnet`
+  - Auto-assign Public IP : `Enable)`
+6. Network: 
+7. 
+Click `Next: Add Storage`
+8. 
+Click `Next: Add Tags`
+9. 
+Click `Add Tag` and use a key:value of`Name` :`Ping`
+10. 
+Click `Next: Configure Security Group`
+11. 
+For the Security Group, use the settings: 
+  - Assign a security group : `⦿ Create a new security group`
+  - Security group name: `SSH+Ping`
+  - Description: `SSH+Ping`
+  - Click `Add Rule` and choose :
+    - Type: `All ICMP-IPv4`
+    - Source: `0.0.0.0/0`
+  - Type: 
+12. Assign a security group : 
+13. 
+Click `Review and Launch`
+14. 
+Click `Launch`
+15. 
+Select your Key Pair `ISEinAWS.pem` , acknowledge that you have the private key file and click`Launch Instances`
+16. 
+Click `View Instances` and you should see your instance running!
+17. 
+Login to your Linux VM is you need to do any troubleshooting or add software: ssh -i "~/.ssh/ISEinAWS.pem" ec2-user@{ hostname | IP }
+
+1. In the Meraki Dashboard, view your `ISEinAWS` network
+2. Choose `Security & SD-WAN > Configure > Site-to-Site VPN`
+3. For the Site-to-Site VPN settings, use:
+  - Type: `Spoke`
+  - Local network:
+Network VPN mode Subnet Private-Subnet Enabled `172.31.2.0/24`
+  - NAT traversal : `⦿ Automatic`
+4. Type: 
+5. Click `Save Changes`
+6. Choose `Security & SD-WAN > Appliance Status` and you should now see the vMX public WAN address and it should be**Active** !
+
+Now you will connect your other MX in the mesh to the vMX
+
+1. Choose your Meraki `Lab` network for your physical, on-premise MX
+2. Choose `Security & SD-WAN > Configure > Site to Site VPN`
+3. For the Site-to-Site VPN settings, use:
+  - Type: `Hub (Mesh)`
+  - Local Networks :
+💡 you may use a Single LAN or VLANs - I used a Single LAN to keep it simple | Network | VPN mode | Subnet | |-------------|----------|--------| | Main Subnet | Enabled | `192.168.101.0/24`
+  - NAT traversal : `⦿ Automatic`
+  - If you have alreaady configured a Meraki MX has a hub, you should see `ISEinAWS` under**Remote VPN participants** !
+4. Type: 
+5. Click `Save Changes`
+
+You will need to update the `Private-RT` to the `Lab` MX
+
+1. In the AWS Console, go to `Services > VPC` and select the`Route Tables`
+2. Check ✅ `Private-RT` and select the`Routes` tab below
+3. Click `Edit Routes`
+4. Select `Add Route`  - Destination: `192.168.0.0/16`
+  - Target: `Instance` >`i-* | vMX` Click`Save Changes`
+5. Destination: 
+6. Select `Add Route`  - Destination: `0.0.0.0/0`
+  - Target: `Internet Gateway` >`igw-*` Click`Save Changes`
+7. Destination: 
+8. Your **Private Route Table** should now look like this:Destination Target `172.31.0.0/16`local `192.168.0.0/16`i-* / vMX `0.0.0.0/0`igw-*
+9. You can now try to ping through your site-to-site VPN to the Linux instance
+
+1. 
+In the AWS Console, go to `Services > EC2` and
+2. 
+Select the `Ping` Linux VM instance and locate it's`Private IPv4 addresses`
+3. 
+SSH to the instance: `ssh -i ~/.ssh/ISEinAWS.pem ec2-user@172.31.2.35`
+
+1. In the AWS Search Box at the top of the page, search for "Cisco ISE" and open the link to Cisco Identity Services Engine (ISE)
+2. Click `Continue to Subscribe`
+3. Click `Continue to Configuration`
+4. For Configure This Software, choose:
+  - Delivery Method: `Cloud Formation Template` then choose the normal or GovCloud version of`Cisco Identity Services Engine (ISE)`
+  - Software Version: `3.1`
+  - Region: `us-west` Click`Continue to Launch`
+5. Delivery Method: 
+6. For Launch this Software, choose: `Launch CloudFormation` then click`Launch`
+7. Choose `Upload a template file` , choose your file (`files/ISE-3-1-518.CFT.yaml` ) and click`Next`
+8. Verify and complete the ISE CloudFormation Parameters then click `Next`  - Stack Name: `ISE-3-1-518`
+  - AMIid: `ami-00a1a68f5519aa150` # ISE in us-west-1
+  - Hostname: `ise`
+  - KeyName / Instance Key Pair: `ISEinAWS`
+  - Management Security Group: `ISE`
+  - Management Network: `Private-Subnet`
+  - TimeZone: `America/Los_Angeles`
+  - ISEInstanceType: `c5.4xlarge`
+  - EBS Encryption : `false`
+  - Volume Size / StorageSize: `300`
+  - DNSDomain: `aws.local`
+  - NameServer: `208.67.222.222`
+  - NTPServer: `time.nist.gov`
+  - ERS: `yes`
+  - OpenAPI: `yes`
+  - pxGrid: `no`
+  - pxGridCloud: `no`
+  - ERS: `yes`
+  - password: `C1sco12345`
+  - ConfirmPwd: `C1sco12345` Click`Next`
+9. Stack Name: 
+10. Review the Stack Options then click `Next`
+11. Do a final review of the parameters then click `Creat Stack`
+
+To create another instance:
+
+1. In the AWS Console, navigate to **CloudFormation > Stacks**
+2. Select `ISE-3-1-518`
+3. Choose Create Stack > With New Resources (standard)
+4. For Create Stack, choose `Upload a template file` , choose your file (`ISE-3-1-518.CFT.yaml` ) and click`Next`
+5. choose a unique Stack Name (`ISE-3-1-518` )
+
+SSH to the ISE console
+
+`ssh -i "~/.ssh/ISEinAWS.pem" admin@{ hostname | IP }`
+- Installing Ansible for all platforms
+- Documentation for Ansible collections:
+- Cisco Meraki vMX en AWS - YouTube video for vMX in AWS (Spanish)
+- AWS re:Invent 2019: AWS Networking Fundamentals (NET201-R2) provides an excellent overview of the networking elements that are automatically created when using the Launch Instance wizard
+- Best practices for managing AWS access keys
+
+This repository is licensed under the MIT License.

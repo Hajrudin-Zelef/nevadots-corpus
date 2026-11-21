@@ -1,0 +1,35 @@
+---
+id: collect-261121-veille-ia/gemini-google/how-to-connect-openrouter-to-unsloth-api-key-model-setup-unsloth-documentation
+title: "How to Connect OpenRouter to Unsloth: API Key & Model Setup | Unsloth Documentation"
+domain: gemini-google
+role: reference
+task: article
+actors: ["Google"]
+dates: []
+keywords: ["openrouter", "unsloth", "model", "models", "connect", "chat", "load", "enter"]
+source: https://unsloth.ai/docs/integrations/connections/openrouter
+source_anchor: ""
+source_lines: [1, 21]
+section: "Gemini_Google"
+---
+This guide explains how to connect **OpenRouter to** **Unsloth** so you can access hosted AI models from providers like **OpenAI, Anthropic,** and **Google** through an open-source local UI chat interface. You’ll learn how to create an OpenRouter API key, add OpenRouter as a provider in Unsloth, load or manually enter model IDs, and enable external models for chat.
+
+Once a single API key is connected, OpenRouter models in Unsloth can provide advanced features such as thinking, web search, tool calling, code execution, and customizable generation settings directly from the chat page.
+
+Sign in to your OpenRouter account. Create an API key from the OpenRouter dashboard:
+
+Copy the key. You will paste it into Unsloth in the next step.
+
+When creating the key, you can optionally set a credit limit or expiration date.
+
+OpenRouter provides access to many models from different providers. If **Load Models** does not return the models you want to select, enter the model IDs you want enabled.
+
+Example model IDs:
+
+If OpenRouter fails to connect, check that the API key is valid and belongs to the correct OpenRouter account.
+
+If a model does not appear after clicking **Load Models**, it may not be available for your account or region. You can enter the model ID manually or choose another model.
+
+Last updated
+
+Was this helpful?

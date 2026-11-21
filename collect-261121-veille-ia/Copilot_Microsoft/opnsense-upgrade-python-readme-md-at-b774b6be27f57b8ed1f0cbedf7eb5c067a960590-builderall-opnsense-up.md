@@ -1,0 +1,391 @@
+---
+id: collect-261121-veille-ia/copilot-microsoft/opnsense-upgrade-python-readme-md-at-b774b6be27f57b8ed1f0cbedf7eb5c067a960590-builderall-opnsense-up
+title: "opnsense-upgrade/python/README.md at b774b6be27f57b8ed1f0cbedf7eb5c067a960590 · builderall/opnsense-upgrade"
+domain: copilot-microsoft
+role: reference
+task: article
+actors: ["Microsoft"]
+dates: []
+keywords: ["opnsense-upgrade", "version", "minor", "major", "root", "backup", "config", "opnsense"]
+source: https://github.com/builderall/opnsense-upgrade/blob/HEAD/python/README.md
+source_anchor: ""
+source_lines: [1, 377]
+section: "Copilot_Microsoft"
+---
+Python 3 OOP implementation of the OPNsense multi-stage upgrade script. Uses only stdlib modules — no pip dependencies.
+
+**Version:** 1.3
+**License:** MIT
+
+- **Automatic version detection** - Queries OPNsense firmware API and pkg mirrors
+- **Stateful upgrades** - Survives reboots with automatic resume
+- **Dry-run by default** - Safe testing before execution (use`-x` to execute)
+- **Multi-stage process** - Pre-checks, Cleanup, Backup, Base/Kernel, Fix pkg, Packages, Verification
+- **Automatic recovery** - Handles pkg incompatibility after base upgrades
+- **Standalone backup** - Use`-b` to backup config and package list anytime
+- **Always backs up during upgrades** - Config and package list saved before every upgrade
+- **Version summary** - Use`-l` to see both minor and major versions available
+- **Smart auto-detection** -`-t` without version detects major upgrades,`-m` detects minor updates
+- **Safety guards** - Blocks major upgrades when minor updates are pending
+- **Detailed logging** - All operations logged with mode-prefixed filenames (query/dryrun/upgrade)
+- **No arguments = help** - Shows help by default for safety
+
+- Python 3 (included with OPNsense at `/usr/local/bin/python3` )
+- OPNsense Community Edition
+- Root access
+
+```
+scp opnsense-upgrade.py root@opnsense:/root/
+ssh root@opnsense
+chmod +x /root/opnsense-upgrade.py
+```
+```
+# Show help
+./opnsense-upgrade.py
+# Check what's available
+./opnsense-upgrade.py -l
+# Backup config and package list
+./opnsense-upgrade.py -b
+# Preview a minor update (dry run)
+./opnsense-upgrade.py -m
+# Execute minor update
+./opnsense-upgrade.py -x -m
+# Preview major upgrade (dry run)
+./opnsense-upgrade.py -t 27.1
+# Execute major upgrade
+./opnsense-upgrade.py -x -t 27.1
+```
+```
+Options:
+    -h, --help              Show help message and exit
+    -l, --latest            Query and display available versions (minor and major)
+    -t, --target [VERSION]  Target major version (e.g., 26.7, 27.1)
+                            Auto-detects if version omitted
+    -m, --minor             Minor update only (within current branch)
+    -x, --execute           Execute for real (default is dry run)
+    -b, --backup            Standalone: backup config and package list, then exit
+    -f, --force             Force mode (no confirmations)
+    -r, --resume            Resume from saved state (after reboot or interruption)
+    -c, --clean             Clean state and start fresh
+```
+`./opnsense-upgrade.py -l`
+**Output example:**
+
+```
+============================================
+  Available Versions
+============================================
+i Current version:  26.1.1
+✓ Minor update:     26.1.2  (use -m to update)
+i Major upgrade:    none available
+```
+`./opnsense-upgrade.py -b`
+**Output example:**
+
+```
+============================================
+  Configuration Backup
+============================================
+✓ Config backed up: /root/config-backups/config-backup-20260219-221057.xml
+✓ Package list saved: /root/config-backups/packages-20260219-221057.txt
+i Backup contents:
+i   Settings (XML):   /root/config-backups/config-backup-20260219-221057.xml
+i   Package list:     /root/config-backups/packages-20260219-221057.txt
+i   Original config:  /conf/config.xml
+i To restore settings, copy the XML backup back:
+i   cp /root/config-backups/config-backup-20260219-221057.xml /conf/config.xml
+```
+**Minor updates** are patch releases within the same major version (e.g., 26.1.1 -> 26.1.2).
+
+```
+# Dry-run (preview)
+./opnsense-upgrade.py -m
+# Execute
+./opnsense-upgrade.py -x -m
+```
+**What happens:**
+
+- Auto-detects the latest patch version (e.g., 26.1.2)
+- Backs up config and package list
+- Runs `opnsense-update -bk` to update base/kernel if changed — reboots automatically if the kernel changed, then resumes from packages
+- Runs `opnsense-update -p` to upgrade OPNsense packages
+- Fast and low-risk — reboot only happens if the FreeBSD kernel version actually changed
+
+**Major upgrades** are version changes to a new branch (e.g., 26.1 -> 26.7 or 27.1).
+
+```
+# Dry-run (preview)
+./opnsense-upgrade.py -t 27.1
+# Execute
+./opnsense-upgrade.py -x -t 27.1
+```
+**What happens:**
+
+- Backs up config and package list
+- Upgrades base and kernel via `opnsense-update -ubkf`
+- **Reboots** the system
+- Auto-resumes after reboot to fix pkg compatibility
+- Switches pkg repo to new branch
+- Upgrades all packages
+- Slower and higher risk (test in dry-run first!)
+
+**Safety:** Major upgrades are blocked if minor updates are pending. Apply minor updates first (matching OPNsense web UI behavior).
+
+```
+# Auto-detect (tells you if no major is available)
+./opnsense-upgrade.py -t
+```
+If no major version is available, the script tells you and suggests using `-m` instead.
+
+The script automatically resumes after reboots during major upgrades. You can also manually resume:
+
+`./opnsense-upgrade.py -x -r`
+If an upgrade gets stuck or you want to start fresh:
+
+`./opnsense-upgrade.py -c`
+| Command | Description | 
+|---|---|
+| `./opnsense-upgrade.py` | Show help | 
+| `./opnsense-upgrade.py -l` | Show available versions (minor and major) | 
+| `./opnsense-upgrade.py -b` | Backup config and package list | 
+| `./opnsense-upgrade.py -m` | **Dry run** minor update | 
+| `./opnsense-upgrade.py -x -m` | **Execute** minor update | 
+| `./opnsense-upgrade.py -t 26.7` | **Dry run** major upgrade to 26.7 | 
+| `./opnsense-upgrade.py -x -t 26.7` | **Execute** major upgrade to 26.7 | 
+| `./opnsense-upgrade.py -t` | **Auto-detect** major upgrade | 
+| `./opnsense-upgrade.py -x -r` | **Resume** interrupted upgrade | 
+| `./opnsense-upgrade.py -c` | Clean saved state | 
+
+**All runs are dry runs by default.** The script shows exactly what it would do without making any changes:
+
+```
+i Starting dry run: minor update from 26.1.1 to 26.1.2
+...
+i [DRY RUN] Would run: opnsense-update -bk
+i [DRY RUN] Would reboot if base/kernel changed
+i [DRY RUN] State checkpoint: Package Upgrade, Version 26.1.2
+...
+i [DRY RUN] Would run: opnsense-update -p
+============================================
+  Dry Run Complete
+============================================
+✓ Dry run finished - no changes were made
+i Current version: 26.1.1
+i Review the output above, then run with -x to execute
+```
+Add `-x` to execute for real. When executing, the script asks for confirmation before starting.
+
+| Stage | Description | 
+|---|---|
+| **Pre-checks** | Disk space (2GB min), third-party pkg repo reachability, pkg database validation, lock file + firmware-daemon lock cleanup | 
+| **Cleanup** | Remove unused packages, clean cache, clear temp files | 
+| **Backup** | Save config.xml and package list | 
+| **Base/Kernel** | Runs `opnsense-update -bk` — reboots if kernel changed. For major upgrades uses`opnsense-update -ubkf` and always reboots | 
+| **Fix pkg** | Reinstall pkg after base upgrade to ensure compatibility *(major upgrades only)* | 
+| **Packages** | Minor: `opnsense-update -p` . Major: switch repo, refresh catalog, upgrade all packages via`pkg upgrade` | 
+| **Post-Verification** | Verify pkg database, check services (configd, syslog-ng) | 
+
+The script uses 5 classes with single-responsibility design:
+
+| Class | Responsibility | 
+|---|---|
+| `Stage` | Stage constants, names, execution order | 
+| `Logger` | Colored console output + file logging | 
+| `Shell` | Subprocess execution with dry-run support | 
+| `SystemInfo` | Version detection, mirror queries, state detection | 
+| `StateManager` | JSON state file persistence | 
+| `OPNsenseUpgrade` | Orchestrator — stages, reboot handling, main flow | 
+
+**Stdlib modules used:** `argparse`, `glob`, `json`, `subprocess`, `select`, `urllib`, `os`, `re`, `shutil`, `time`, `datetime`
+
+The script uses multiple methods to detect available versions, tried in order:
+
+1. **configctl firmware status** - Parses OPNsense firmware API output (JSON and plain text)
+2. **Pkg mirror probing** - Checks`pkg.opnsense.org` for next major version repos*(major upgrades only)*
+3. **opnsense-update -c** - Native OPNsense update check
+4. **pkg rquery** - Queries the locally cached pkg catalog:`pkg rquery '%v' opnsense` — most reliable fallback when the firmware daemon hasn't refreshed yet (e.g., shortly after reboot). Strips the`_N` pkg revision suffix automatically.
+5. **pkg search** - Queries the repo directly if catalog is stale
+6. **Changelog directory** - Scans`/usr/local/opnsense/changelog/`*(major upgrades only)*
+
+Methods 1-3 rely on the OPNsense firmware daemon cache which may be empty after a fresh reboot. Method 4 (`pkg rquery`) reliably detects minor updates even when the firmware daemon hasn't run yet.
+
+The script uses JSON at `/var/db/opnsense-upgrade.state`:
+
+```
+{
+  "stage": 6,
+  "version": "26.1.2",
+  "timestamp": 1738900000,
+  "minor_only": false,
+  "force_mode": false,
+  "log_file": "/var/log/opnsense-upgrades/opnsense-upgrade-20260219-201934.log"
+}
+```
+When resuming without a state file (`-r` with no saved state), the script dynamically detects the system state:
+
+- **ABI mismatch** : Compares running FreeBSD kernel vs. pkg ABI — if different, base was upgraded but packages weren't -> Resume from Fix pkg
+- **Pending updates** : Checks`opnsense-update -c` for updates -> Resume from Base/Kernel
+- **Already upgraded** : Current version matches target -> Exit as complete
+- **Normal state** : No interrupted upgrade -> Report "Nothing to resume"
+
+For upgrades requiring a reboot (base/kernel changed):
+
+1. Saves state to `/var/db/opnsense-upgrade.state`
+2. Creates `/etc/rc.local.d/99-opnsense-upgrade-resume` (shell script)
+3. After reboot, waits 10 seconds, then auto-runs with `-x -r`
+4. Removes auto-resume script when upgrade completes
+
+**Note:** Auto-resume via `/etc/rc.local.d/` has not yet been tested on OPNsense — a major upgrade with an actual base/kernel reboot is required to verify it. If auto-resume does not trigger, SSH back in after reboot and run manually:
+
+`./opnsense-upgrade.py -x -r`
+After reboot, check whether auto-resume ran before resuming manually:
+
+```
+cat /var/log/opnsense-upgrade-resume.log   # exists if auto-resume ran
+cat /var/db/opnsense-upgrade.state         # still present if not yet resumed
+grep opnsense-upgrade /var/log/system.log  # logger output from resume script
+```
+| File | Purpose | 
+|---|---|
+| `/var/db/opnsense-upgrade.state` | Saved upgrade state (JSON) | 
+| `/var/log/opnsense-upgrades/opnsense-{mode}-YYYYMMDD-HHMMSS.log` | Timestamped logs (mode: query, dryrun, or upgrade) | 
+| `/root/config-backups/config-backup-YYYYMMDD-HHMMSS.xml` | Config backups | 
+| `/root/config-backups/packages-YYYYMMDD-HHMMSS.txt` | Package list backups | 
+| `/etc/rc.local.d/99-opnsense-upgrade-resume` | Auto-resume script (temporary) | 
+| `/var/log/opnsense-upgrade-resume.log` | Auto-resume logs | 
+
+| Aspect | Minor Update ( `-m` ) | Major Upgrade ( `-t` ) | 
+|---|---|---|
+| **Example** | 26.1.1 -> 26.1.2 | 26.1 -> 26.7 or 27.1 | 
+| **Base/kernel upgrade** | Only if FreeBSD version changed | Yes | 
+| **Reboot required** | Only if kernel changed | Yes (automatic) | 
+| **Pkg repo switch** | No | Yes | 
+| **Risk level** | Low | Medium | 
+| **Duration** | 5-10 minutes | 15-30 minutes | 
+| **Command** | `./opnsense-upgrade.py -x -m` | `./opnsense-upgrade.py -x -t 27.1` | 
+
+Your system is in a normal state with no interrupted upgrade. Run without `-r`:
+
+`./opnsense-upgrade.py -x -m`
+A previous run left a state file. Clean it and start fresh:
+
+```
+./opnsense-upgrade.py -c
+./opnsense-upgrade.py -x -m
+```
+Wait for background pkg process or kill it:
+
+```
+pkill pkg
+rm -f /var/run/pkg.lock
+```
+`pkg` fetches the package catalog from **every** configured repo before installing
+anything. If a third-party repo (e.g. SunnyValley/Zenarmor) is unreachable, `pkg` hangs
+silently — the OPNsense web UI hangs the same way. The pre-checks now probe each enabled
+repo in `/usr/local/etc/pkg/repos/` and warn before starting. To unblock, temporarily
+disable the offending repo and retry:
+
+```
+mv /usr/local/etc/pkg/repos/SunnyValley.conf \
+   /usr/local/etc/pkg/repos/SunnyValley.conf.disabled
+./opnsense-upgrade.py -x -m
+# Re-enable afterwards
+mv /usr/local/etc/pkg/repos/SunnyValley.conf.disabled \
+   /usr/local/etc/pkg/repos/SunnyValley.conf
+```
+If a long-running command stops producing output entirely for 30 minutes, the script now aborts it instead of hanging forever.
+
+If the OPNsense web UI left a stuck update, the firmware daemon's lock files block new
+runs. The pre-checks detect `/tmp/pkg_upgrade*` and `/tmp/firmware.progress`; if no `pkg`
+process is actually running they offer to clear them. To clear manually:
+
+```
+pkill -f 'pkg-static upgrade'
+rm -f /tmp/pkg_upgrade* /tmp/firmware.progress
+service configd restart
+```
+Free up space:
+
+```
+pkg clean -ay
+rm -rf /tmp/* /var/tmp/*
+find /var/log -name "*.log" -mtime +30 -delete
+```
+Resume from saved state:
+
+`./opnsense-upgrade.py -x -r````
+ls -lh /var/log/opnsense-upgrades/
+tail -f /var/log/opnsense-upgrades/opnsense-*.log
+```
+**Unit tests** (`test_shell.py`) cover the hang-prevention logic (command
+idle-timeout and repo reachability). Stdlib only — no network or OPNsense
+access required:
+
+`python3 python/test_shell.py`
+**Live firewall tests** (`test-on-firewall.sh`) exercise the script's read-only
+and dry-run paths (repo reachability, mirror validation, resume detection,
+backup) plus the unit tests against a real OPNsense over SSH. It uses an SSH
+ControlMaster socket so you authenticate once; if the socket is not open the
+script prints the exact command to open it.
+
+```
+# 1. In your terminal, open a master connection (prompts for the root
+#    password once; stays alive 1 hour):
+ssh -M -S /tmp/opnsense.sock -o ControlPersist=1h -fN root@192.168.1.1
+# 2. Run the suite (override target with FW_HOST=...):
+./python/test-on-firewall.sh
+# Optional: scp the local script to the firewall first
+./python/test-on-firewall.sh --deploy
+```
+All tests are read-only or dry-run except `-b`, which only writes a config
+backup. Output is teed to `python/logs/` (gitignored).
+
+`run-upgrade-on-firewall.sh` is a fallback runner for when the MCP server or
+web UI is misbehaving: it deploys the local script to the firewall and runs it
+over the same SSH ControlMaster socket. **Dry-run by default** — add
+`--execute` to perform a real run, which the wrapper confirms first.
+
+A real run is launched **detached** (`nohup`) on the firewall so a mid-upgrade
+reboot or SSH drop does not kill it; the wrapper then follows the log, and
+`--follow` re-attaches to the auto-resume log after a reboot.
+
+```
+# Open the SSH master once (prompts for the root password):
+ssh -M -S /tmp/opnsense.sock -o ControlPersist=1h -fN root@192.168.1.1
+./python/run-upgrade-on-firewall.sh --latest            # read-only query
+./python/run-upgrade-on-firewall.sh --minor             # dry-run preview
+./python/run-upgrade-on-firewall.sh --minor --execute   # real minor update (confirms)
+./python/run-upgrade-on-firewall.sh --major 26.7 --execute
+./python/run-upgrade-on-firewall.sh --follow            # re-attach after a reboot
+```
+See `--help` for all modes (`--auto-major`, `--resume`, `--backup`, `--clean`)
+and options (`--yes`, `--no-deploy`).
+
+1. **Always test with dry-run first** - Run without`-x` to preview
+2. **Use `-b` for standalone backups** - Backup config anytime
+3. **Check logs after completion** - Verify no errors occurred
+4. **Test services** - After upgrade, verify firewall rules, VPN, etc.
+5. **Schedule maintenance windows** - Especially for major upgrades
+6. **Keep console access** - IPMI/serial console for major upgrades
+7. **Read the dry-run output** - Understand what will happen
+
+- **Dry-run by default** - Must explicitly use`-x` to execute
+- **Pre-flight checks** - Validates disk space, pkg database, locks
+- **Third-party repo reachability** - Probes each enabled pkg repo before starting; an unreachable repo (e.g. Zenarmor) would otherwise hang the whole update
+- **Firmware-daemon lock cleanup** - Detects and clears stale web-UI update locks that would block a new run
+- **Command idle-timeout** - Long-running pkg/opnsense-update commands abort after 30 min of no output instead of hanging indefinitely
+- **State persistence** - Can resume from any stage after reboot
+- **Always backs up** - Config and package list saved before every upgrade
+- **Mirror validation** - Ensures target version exists before starting
+- **Minor-before-major** - Blocks major upgrades when minor updates are pending
+- **Error detection** - Stops on failures, allows manual intervention
+- **Confirmation prompts** - Asks before starting (unless`-f` used)
+- **Auto-resume safety** - Only resumes if state file exists
+
+MIT
+
+For issues, check:
+
+- Logs in `/var/log/opnsense-upgrades/`
+- State file: `cat /var/db/opnsense-upgrade.state`
+- OPNsense forums: https://forum.opnsense.org/

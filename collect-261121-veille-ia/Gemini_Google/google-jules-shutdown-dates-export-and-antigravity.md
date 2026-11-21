@@ -1,0 +1,51 @@
+---
+id: collect-261121-veille-ia/gemini-google/google-jules-shutdown-dates-export-and-antigravity
+title: "Google Jules Shutdown: Dates, Export and Antigravity"
+domain: gemini-google
+role: reference
+task: article
+actors: ["Google"]
+dates: []
+keywords: ["jules", "google", "antigravity", "export", "source", "agent", "shutdown", "coding"]
+source: https://www.codesprintconsulting.com/blog/google-jules-shutdown
+source_anchor: ""
+source_lines: [1, 37]
+section: "Gemini_Google"
+---
+Have a project in mind? Let's talk.
+
+The Google Jules shutdown is now official. Google confirmed in an October 29 changelog post titled "Jules Turndown" that its asynchronous coding agent will wind down on December 31, 2026, with normal use ending much sooner: users have until November 11, 2026 to finish sessions, after which the product switches to read-only for the rest of the year. The stated reason is consolidation, with Google unifying its agentic coding efforts around Antigravity, its agent-first development platform. If your team runs any part of its backlog through Jules, you have days, not months, to preserve your setup. Here is the verified timeline, what the export actually covers, and what the move says about where agent tooling is heading. Source
+
+Google's changelog is specific about the dates. Jules will wind down on December 31, 2026. Before that, November 11, 2026 is the last day to continue finishing up sessions; after November 11, Google will turn Jules to read-only until the end of the year. In practice that means any work you want Jules to actively execute needs to be complete in the next ten days, and the remaining seven weeks are a retrieval window, not a working one. Source
+
+Jules launched in December 2024 as an experiment in asynchronous coding agents, positioned around clearing backlog tasks you did not want to do yourself. Google now says what users built with it taught the company where agentic development is headed, and that those learnings are shaping products across Google, including Antigravity. Source Source
+
+The product's shape explains what users now need to rescue. Jules was asynchronous by design: you handed it a task against a connected GitHub repository, and it worked in the background, maintaining a plan, an activity log and eventually code patches delivered as branches or pull requests. Around those sessions it accumulated supporting state that never lived in GitHub at all: per-repository memories, environment setup scripts and test commands, scheduled tasks, and account-level environment variables. That split is why the export matters. Code, branches and pull requests already pushed to GitHub stay there by default, but unpushed session changes may not exist anywhere in GitHub, and the Jules-held context that made the agent effective, the memories, setup state and scheduled tasks that took weeks of correction and steering to build up, goes read-only with the product unless you export it. Source
+
+This is also why "just switch tools" undersells the work. An async coding agent's value compounds in its accumulated context: the setup script that finally made its environment boot correctly, the memories recording which approaches failed, the scheduled tasks encoding your maintenance cadence. Moving to Antigravity, Claude Code or any other agent surface means reconstructing that context, and the export is currently the only structured way to carry it out. Source
+
+The public rationale is unification, not failure. In a post on X quoted by The Verge, Google said it is working on bringing learnings from Jules into Antigravity "so you get the best of both worlds: autonomous remote background task execution and an agent-first development environment," and that Jules will wind down as it focuses on that unified experience. Note what that language does and does not promise: Google has committed to carrying lessons forward, but it has not published a feature-parity list, a migration path for live workflows, or a date by which Antigravity will offer everything Jules does today. Teams should plan on the conservative reading. Source
+
+This is the second high-profile agent-tool sunset in recent weeks. OpenAI made a similar consolidation move with AgentKit, which we covered in our OpenAI AgentKit sunset analysis, and Google's own frontier models are increasingly tied to the Antigravity surface, as seen in the Gemini 4 Carbon rollout. The pattern across both labs is the same: experimental standalone agent surfaces get folded into a smaller number of flagship environments once the vendor learns what users actually do with them. Source
+
+Google built a real export path, which deserves credit. According to the changelog, you can export everything Jules knows about your work into a local folder: account settings, environment variables, scheduled tasks, connected repositories, memories, setup scripts, and every session including its prompt, plan, full activity log and code patches. Code, branches and pull requests that already live in GitHub stay put; the export covers the configuration and history that live inside Jules, and the changelog lists each session's code patches, saved as diff files, among them. Treat that as a starting point: open the export, confirm the patches you care about are there, and keep separate copies of anything you still need before access ends. Source
+
+The mechanics are documented on the changelog page. You install Jules Tools with npm (the package is @google/jules), sign in with jules login, then have a CLI coding agent such as Claude Code run the export using a prepared prompt Google provides on the page. The result lands in a jules-export folder in your home directory: sources.json for connected repositories, a folder per repository with its setup script, test command and memories, JSON files for settings, environment variables and scheduled tasks, and a folder per session with a readable summary, the full activity log and its diffs. Source
+
+Two details in Google's instructions matter for security. First, the exported env-variables.json contains your environment variable values, so the export folder must stay private and out of any repository. Second, if you use Jules with GitHub, your GitHub account needs to be connected to Jules first, or the export will not include repository data. Both are easy to miss if you run the export in a hurry at the end of December. Source
+
+The changelog implies a practical order of operations. Finish or abandon active sessions before November 11, because nothing new executes after that date. Connect your GitHub account to Jules before exporting, or repository data will be missing. Run the export now rather than in the last week of December, since the process depends on undocumented internal endpoints that Google itself warns may change. Verify the output: the export prints counts of repositories, sessions and patches, and those counts should match what you expect before you trust it. Then treat env-variables.json as a secret, keep it out of version control, and rotate any credentials it contains if the folder's handling was ever uncertain. Source
+
+Three takeaways for teams that run agents in production. First, agent surface churn is now a procurement risk, not a theoretical one: two major vendors have folded standalone agent products into consolidated platforms within weeks of each other, so vendor evaluation should include how easily your configuration, memories and task history can leave the platform, not only what the agent can do. Second, exportability is becoming a competitive feature worth asking about explicitly; Google publishing a complete export path on day one of the turndown sets a bar other vendors will be measured against. Third, the consolidation direction is consistent: background asynchronous execution and interactive agent-first environments are merging into single products, so the distinction between a coding assistant and a background task runner is likely temporary across the market. If you are choosing where to standardize agentic development work, weight vendors that treat your accumulated agent state as yours to take with you.
+
+Google says Jules will wind down on December 31, 2026. The more important date is earlier: November 11, 2026 is the last day to finish active sessions. After November 11, Jules becomes read-only until the end of the year, so no new work can be executed in that period.
+
+Google frames it as unification, not cancellation for failure. The company says it is concentrating its agentic coding efforts and bringing what it learned from Jules into Google Antigravity, its agent-first development platform. Google has not published a feature-parity commitment or migration timeline for Antigravity.
+
+Google documents an export on its changelog page: install Jules Tools via npm (@google/jules), sign in with jules login, then run the export with a CLI coding agent using Google's provided prompt. The export covers settings, environment variables, scheduled tasks, connected repositories, memories, setup scripts, and every session's prompt, plan, activity log and code patches. Keep the export folder private because it contains environment variable values.
+
+Pushed work stays where it is: code, branches and pull requests already in GitHub are unaffected by the turndown because they live there, not inside Jules. Changes you never pushed may not exist anywhere in GitHub. The changelog says the export includes each session's code patches as diffs, but verify what you actually get: inspect the export and separately save any patches you need before access ends. Connect your GitHub account to Jules before exporting, or repository data will be missing from the export.
+
+Google says it is working on bringing learnings from Jules into Antigravity, describing the goal as combining autonomous remote background task execution with an agent-first development environment. That is a statement of direction, not a dated feature commitment, so teams depending on specific Jules capabilities should not assume equivalent Antigravity support on any particular schedule.
+
+Ready to take the first step towards unlocking opportunities, realizing goals, and embracing innovation? We're here and eager to connect.

@@ -1,0 +1,76 @@
+---
+id: collect-261121-veille-ia/gpt-openai/fast-and-ultrafast-modes-chatgpt-learn
+title: "Fast and Ultrafast modes | ChatGPT Learn"
+domain: gpt-openai
+role: reference
+task: article
+actors: ["OpenAI"]
+dates: []
+keywords: ["ultrafast", "gpt-6", "chatgpt", "fast", "codex", "speed", "astra", "model"]
+source: https://learn.chatgpt.com/docs/agent-configuration/speed
+source_anchor: ""
+source_lines: [1, 62]
+section: "GPT_OpenAI"
+---
+In ChatGPT Work and Codex, **Fast** and **Ultrafast** generate tokens faster
+than **Standard** on the same model. Both use more of your plan’s allowance
+or credits.
+
+## Choose a speed in the composer
+
+In ChatGPT Work on the web or in the Codex desktop app, open the model or effort picker at the bottom of the composer.
+
+- If **Ultrafast** is available to you, select the lightning bolt to open the
+speed menu, then choose a speed.
+- If your only options are **Standard** and**Fast** , selecting the lightning
+bolt switches between them immediately.
+
+In the advanced picker, select **Speed**. In ChatGPT Work on mobile, open the
+model picker and use the speed setting.
+
+Try switching speeds in the desktop picker below.
+
+## Fast mode
+
+Fast mode supports GPT-6.2 Astra and GPT-6.2 Sol. You can also use it with GPT-6.1 Sol, GPT-6.1 Terra, GPT-6 Astra, GPT-6 Sol, and GPT-6 Luna. On GPT-6.2 Astra and GPT-5.6, Fast generates tokens at about 1.5 times the speed of Standard.
+
+With ChatGPT sign-in, you can also use Fast in the Codex CLI and IDE extension. See Fast pricing for the usage rate for your model.
+
+## Ultrafast mode
+
+On GPT-6.2 Astra and GPT-6.2 Sol, Ultrafast generates tokens at up to 4.5 times the speed of Standard on the same model. Choose Ultrafast in the composer in ChatGPT Work or the Codex app, or use the Codex CLI.
+
+- **Pro.** The models you can use with Ultrafast depend on your plan. See
+GPT-6.2 Ultrafast availability by Pro plan.
+On Pro $500, both models are available. Ultrafast uses your included
+allowance first, then any available credits.
+- **Enterprise and Edu.** Both models support Ultrafast in eligible workspaces.
+If you don’t see it, ask your workspace owner to check
+model access and Ultrafast permissions.
+
+ChatGPT Work and Codex share pricing, credits, and usage limits. See Ultrafast pricing for included usage, purchased credits, and eligible pay-as-you-go rates.
+
+GPT-6 Astra and GPT-6.1 Sol also support Ultrafast on Pro $500 and eligible Enterprise and Edu plans. In Codex, GPT-6 Astra generates tokens at up to eight times its Standard speed with Ultrafast.
+
+### Ultrafast plan and workspace requirements
+
+Enterprise workspaces need a credit-based or USD usage-based agreement. Edu workspaces need a credit-based plan.
+
+Workspace owners must enable the GPT-6.2 models they want members to use. Ultrafast is a separate permission and is off by default. Owners can enable it for selected users or the whole workspace in workspace permissions. Per-user spend controls apply.
+
+For GPT-6.2 Astra, GPT-6.2 Sol, and GPT-6 Astra, Ultrafast supports inference residency only in the United States. For GPT-6.1 Sol, it also supports Europe (EEA and Switzerland).
+
+## Codex CLI controls
+
+In the CLI, type `/` to see which commands are available for your model.
+Use `/fast` or `/ultrafast` to choose a speed. Repeat the active command to
+return to Standard. The CLI saves your selection. To show Fast mode in the
+footer, use `/statusline`.
+
+## API billing
+
+When you sign in to Codex with an API key, you pay API token rates. ChatGPT credit multipliers apply only when you sign in with ChatGPT. See Ultrafast mode in the API for supported models, request configuration, and pricing.
+
+## Retirement and migration
+
+GPT-5.5 retired from Codex for users signed in with ChatGPT on October 14, 2026, at noon PDT (19:00 UTC).

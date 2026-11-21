@@ -1,0 +1,49 @@
+---
+id: collect-261121-veille-ia/actu-business/russian-search-engine-yandex-struggles-after-ukrainian-strikes-on-data-centres-the-world-news-networ
+title: "Russian search engine Yandex struggles after Ukrainian strikes on data centres - The World News Network"
+domain: actu-business
+role: reference
+task: article
+actors: []
+dates: ["2026-11-19"]
+keywords: ["data", "said", "yandex", "centres", "ukrainian", "strikes", "russian", "centre"]
+source: https://theworldnewsnetwork.com/2026/11/19/russian-search-engine-yandex-struggles-after-ukrainian-strikes-on-data-centres/
+source_anchor: ""
+source_lines: [1, 35]
+section: "Actu_Business"
+---
+**Russian tech giant Yandex has said it was struggling to maintain services after two of its five data centres were struck by Ukrainian drones in the past two days.**
+
+Often dubbed “Russia’s Google”, the company runs the country’s most popular search engine, as well as a food-ordering and taxi app used by tens of millions of people.
+
+President Volodymyr Zelensky said the attacks were in response to weeks of Russian strikes on Ukrainian data centres.
+
+Both sides have stepped up attacks on infrastructure in recent months as the war between the two drags on. Kyiv says its strikes are aimed at revenue streams for Moscow’s war machine, and that the latest attacks could force Russia to divert resources to Yandex.
+
+Yandex said that its data centre in Sasovo, in the Ryazan region, had been “seriously damaged as a result of a drone attack” overnight into Thursday, with its operations “completely suspended”.
+
+Another data centre in Kaluga, a region south-west of Moscow, had also been attacked on Friday morning, it said, with part of that site’s infrastructure “taken out of service”.
+
+Yandex said on Friday that its data centres were “critical” for the normal operation of its services and that it was “very difficult to predict” when they would be back online.
+
+It said teams were working “day and night” to keep services running, but “unfortunately it is not a simple task”.
+
+The tech giant said none of its employees had been injured in the strikes. The regional governor in Kaluga said nine people had been injured in a drone attack on the city’s infrastructure.
+
+The exact scope of the disruption to the company’s services is unclear – though it told state news agency Tass that some of its AI chatbot functions were temporarily unavailable, while its smart home devices may also experience problems.
+
+Yandex previously said its Kaluga data centre was one of Russia’s largest – covering an area of 130,000 sqm (1,399,000 sq ft) and consuming as much electricity annually as 220,000 UK households.
+
+Its data centre in Sasovo, meanwhile, houses two of three supercomputers used to develop the company’s AI model. It is unclear whether the supercomputers survived the attack.
+
+Ukraine’s defence ministry confirmed the data centre attacks, saying they could “force Russia to divert resources to repair the damaged capacity”.
+
+Zelensky said Kyiv was responding to similar Russian attacks on Ukrainian data centres in a “mirror-like fashion”.
+
+Last month, a Russian drone hit a business centre in Kyiv, killing four people and damaging a data centre. Due to the strikes, about 100,000 households in Kyiv and the region suffered internet outages.
+
+Some Ukrainian firms have already begun moving data from damaged servers to facilities abroad.
+
+Moscow has justified the attacks by saying the data centres were used by Ukrainian military intelligence.
+
+But Ukraine accuses it of deliberately targeting civilian infrastructure. Russia has stepped up strikes on energy infrastructure ahead of the winter, as it has done in previous years of the full-scale invasion, which began in 2022.

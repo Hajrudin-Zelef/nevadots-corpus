@@ -1,0 +1,27 @@
+---
+id: collect-261121-veille-ia/gpt-openai/openai-models-land-on-google-cloud-frontier-distribution-goes-multi-cloud-while-the-watts-stay-exclu
+title: "OpenAI Models Land on Google Cloud: Frontier Distribution Goes Multi-Cloud While the Watts Stay Exclusive"
+domain: gpt-openai
+role: reference
+task: article
+actors: ["OpenAI"]
+dates: []
+keywords: ["cloud", "google", "model", "models", "distribution", "openai", "gpt-6", "exclusive"]
+source: https://forkast.news/openai-models-land-on-google-cloud-frontier-distribution-goes-multi-cloud-while-the-watts-stay-exclusive/
+source_anchor: ""
+source_lines: [1, 13]
+section: "GPT_OpenAI"
+---
+OpenAI’s frontier models are coming to Google Cloud. Announced October 21, the deal puts GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna into Google Cloud’s Model Garden, with Codex agentic workflows connecting to Google’s Gemini platform for inference. Enterprises transact through Google Cloud Marketplace: one invoice, existing spend commitments drawn down, usage counting toward Flexible Savings Plans across model providers. In the joint announcement, Greg Brockman, President and co-founder, OpenAI, stated: “This partnership is an important step in making our most capable models and Codex available where customers are already building, giving them even more choice in how they use frontier AI as we grow the agentic ecosystem together.” Google Cloud CEO Thomas Kurian added in SiliconANGLE’s same-day report: “We are focused on giving customers a broad selection of models, including those from OpenAI, so they can choose the right model for any given job, helping to deliver optimal quality and lower costs.” Google Cloud becomes the third hyperscaler to sell OpenAI’s models since its exclusive Azure distribution ended in April, after Amazon Bedrock (April 28) and Oracle Cloud (June 10). The distribution went multi-cloud. The watts underneath it did not.
+
+The commercial terms are the first thing to read carefully, because they are mostly absent. Neither Google Cloud nor OpenAI published per-token pricing for any of the three models as sold through Model Garden as of the announcement date. Access is a private preview for select enterprise customers, with general availability reported as coming in the weeks ahead and no firm date. Public Model Garden documentation did not list any OpenAI model; model IDs, supported regions, quotas, and rate cards required a signed-in console. This is not an open marketplace listing. It is a negotiated enterprise channel whose terms are not public until you are in the room — the same architecture as the $20 million license gates this beat tracks, applied to distribution instead of licensing.
+
+The billing mechanics deserve one precise note. Google’s Flexible Savings Plans allow drawdown across model providers, but Google’s own FSP documentation states: “Third-party products don’t get any discounts from the FSP.” Spend on third-party models under an FSP draws down against your organization’s enterprise commitment, subject to the standard Cloud Marketplace drawdown rules and contract caps defined in the enterprise agreement. A CIO counting on FSP economics for GPT-6 Astra usage is counting on terms that Google has not published.
+
+The competitive frame is the one Model Moats mapped: value is draining out of the model layer and accumulating in infrastructure. When the engine is free and the serving stack is standardized, the highest-margin part of the stack is no longer the software. OpenAI’s exclusive Microsoft Azure distribution ended in April 2026. In six months the company spread to Bedrock, Oracle Cloud, and now Google Cloud. Each hyperscaler sells the same tokens through its own invoice, its own commitment structure, its own compliance wrapper. The model is the product on every shelf. The shelf is the moat.
+
+What actually stays exclusive is specific and measurable. The weights remain closed — GPT-6 Astra, Sol, and Luna are served through APIs, never downloaded. The compute that serves them sits inside a small set of hyperscaler data centers plus OpenAI’s own build-out. The pricing is unpublished. The availability is gated behind a preview request form. Google Cloud’s claim to be “the only hyperscale cloud provider offering access to all three leading closed source LLMs” is a distribution claim, not a capacity claim — the watts are still rationed by the same companies that were rationing them last week.
+
+One open-weights footnote belongs on the face. OpenAI’s gpt-oss 120B and gpt-oss 20B were already available on Google’s platform before this announcement. Those are the unrestricted tier. The GPT-6 family arriving now is the closed tier. Google’s shelf now carries both classes side by side, and the buyer’s choice between them is a choice between a model you can run anywhere and a model you can only rent from three companies.
+
+For builders and deployers, the practical change is real but narrow. An enterprise already committed to Google Cloud can now evaluate OpenAI’s frontier without a separate vendor contract, and the usage appears on the same invoice as its Gemini spend. That is procurement convenience, not market structure. The market structure is this: four hyperscalers now sell roughly the same frontier models, none of them compete on compute price in public, and the model weights themselves are the one layer nobody ships. Distribution widened this week. The scarcity moved down, where it always goes.

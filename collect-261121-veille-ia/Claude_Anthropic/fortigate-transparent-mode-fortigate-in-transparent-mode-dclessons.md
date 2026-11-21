@@ -1,0 +1,38 @@
+---
+id: collect-261121-veille-ia/claude-anthropic/fortigate-transparent-mode-fortigate-in-transparent-mode-dclessons
+title: "Fortigate Transparent Mode | Fortigate in Transparent Mode - DCLessons"
+domain: claude-anthropic
+role: reference
+task: article
+actors: ["Anthropic"]
+dates: []
+keywords: ["fortigate", "transparent", "mode", "interface", "address", "management", "dclessons", "network"]
+source: https://dclessons.com/public/lab-configuration-fortigate-in-transparent-mode
+source_anchor: ""
+source_lines: [1, 24]
+section: "Claude_Anthropic"
+---
+## LAB Configuration Fortigate Transparent Mode
+
+In the **fortigate transparent mode** all interface of the Fortigate are on same network and appliance does not do routing or NAT, It just act as L2 Firewall. The Fortigate unit acts as bridge between different network segments.
+
+**Task :**
+
+- Set the IP address of the Fortinet in your management LAN 10.10.11.0/24
+- Create a policy to allow from Internal Interface to External Interface with Source All and Destination All
+- Power off and Power on the Device.
+
+#### **Solution**
+
+**Step :1** Configure Management IP address :
+
+Go to the Dashboard and enter the following command into the CLI console widget, substituting your own IP addresses where necessary:
+
+You can now access the FortiGate using the new Management IP address (in the example, https:// 10.10.11.30).
+
+Go to the Dashboard. The System Information widget shows the Operation Mode is Transparent.
+
+
+## LEAVE A COMMENT
+
+Please login here to comment.

@@ -1,0 +1,158 @@
+---
+id: collect-261121-veille-ia/muse/redhatai-muse-spark-open-816b-a42b-mxfp4xfp8-at-main
+title: "RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8 at main"
+domain: muse
+role: reference
+task: article
+actors: ["Meta"]
+dates: []
+keywords: ["redhatai", "muse-spark-open-816b-a42b-mxfp4xfp8", "model", "text", "type", "image", "sglang", "messages"]
+source: https://huggingface.co/RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8/tree/main
+source_anchor: ""
+source_lines: [1, 144]
+section: "Muse"
+---
+- Libraries
+-  Transformers How to use RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8 with Transformers: ```
+# Use a pipeline as a high-level helper
+from transformers import pipeline
+pipe = pipeline("image-text-to-text", model="RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8")
+messages = [
+    {
+        "role": "user",
+        "content": [
+            {"type": "image", "url": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/p-blog/candy.JPG"},
+            {"type": "text", "text": "What animal is on the candy?"}
+        ]
+    },
+]
+pipe(text=messages)
+```
+```
+# pip install -U transformers accelerate
+# Load model directly
+from transformers import AutoProcessor, AutoModelForMultimodalLM
+processor = AutoProcessor.from_pretrained("RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8")
+model = AutoModelForMultimodalLM.from_pretrained("RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8", device_map="auto")
+messages = [
+    {
+        "role": "user",
+        "content": [
+            {"type": "image", "url": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/p-blog/candy.JPG"},
+            {"type": "text", "text": "What animal is on the candy?"}
+        ]
+    },
+]
+inputs = processor.apply_chat_template(
+	messages,
+	add_generation_prompt=True,
+	tokenize=True,
+	return_dict=True,
+	return_tensors="pt",
+).to(model.device)
+outputs = model.generate(**inputs, max_new_tokens=256)
+print(processor.decode(outputs[0][inputs["input_ids"].shape[-1]:]))
+```
+- Notebooks
+-  Google Colab 
+-  Kaggle 
+- Local Apps Settings
+-  vLLM  How to use RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8 with vLLM: ##### Install from pip and serve model```
+# Install vLLM from pip:
+pip install vllm
+# Start the vLLM server:
+vllm serve "RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8"
+# Call the server using curl (OpenAI-compatible API):
+curl -X POST "http://localhost:8000/v1/chat/completions" \
+	-H "Content-Type: application/json" \
+	--data '{
+		"model": "RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8",
+		"messages": [
+			{
+				"role": "user",
+				"content": [
+					{
+						"type": "text",
+						"text": "Describe this image in one sentence."
+					},
+					{
+						"type": "image_url",
+						"image_url": {
+							"url": "https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-Island-New-York-Bay.jpg"
+						}
+					}
+				]
+			}
+		]
+	}'
+```
+##### Use Dockerdocker model run hf.co/RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8
+-  SGLang  How to use RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8 with SGLang: ##### Install from pip and serve model```
+# Install SGLang from pip:
+pip install sglang
+# Start the SGLang server:
+python3 -m sglang.launch_server \
+    --model-path "RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8" \
+    --host 0.0.0.0 \
+    --port 30000
+# Call the server using curl (OpenAI-compatible API):
+curl -X POST "http://localhost:30000/v1/chat/completions" \
+	-H "Content-Type: application/json" \
+	--data '{
+		"model": "RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8",
+		"messages": [
+			{
+				"role": "user",
+				"content": [
+					{
+						"type": "text",
+						"text": "Describe this image in one sentence."
+					},
+					{
+						"type": "image_url",
+						"image_url": {
+							"url": "https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-Island-New-York-Bay.jpg"
+						}
+					}
+				]
+			}
+		]
+	}'
+```
+##### Use Docker images```
+docker run --gpus all \
+    --shm-size 32g \
+    -p 30000:30000 \
+    -v ~/.cache/huggingface:/root/.cache/huggingface \
+    --env "HF_TOKEN=<secret>" \
+    --ipc=host \
+    lmsysorg/sglang:latest \
+    python3 -m sglang.launch_server \
+        --model-path "RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8" \
+        --host 0.0.0.0 \
+        --port 30000
+# Call the server using curl (OpenAI-compatible API):
+curl -X POST "http://localhost:30000/v1/chat/completions" \
+	-H "Content-Type: application/json" \
+	--data '{
+		"model": "RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8",
+		"messages": [
+			{
+				"role": "user",
+				"content": [
+					{
+						"type": "text",
+						"text": "Describe this image in one sentence."
+					},
+					{
+						"type": "image_url",
+						"image_url": {
+							"url": "https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-Island-New-York-Bay.jpg"
+						}
+					}
+				]
+			}
+		]
+	}'
+```
+-  Docker Model Runner  How to use RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8 with Docker Model Runner: docker model run hf.co/RedHatAI/Muse-Spark-Open-816B-A42B-MXFP4xFP8

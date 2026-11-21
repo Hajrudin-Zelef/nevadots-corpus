@@ -1,0 +1,258 @@
+---
+id: collect-261121-veille-ia/ia-agents/aa-personalitybench-ai-personality-communication-style-benchmark-artificial-analysis
+title: "AA-PersonalityBench: AI Personality & Communication Style Benchmark | Artificial Analysis"
+domain: ia-agents
+role: reference
+task: article
+actors: []
+dates: []
+keywords: ["personality", "traits", "models", "benchmark", "answer", "communication", "each", "percentile"]
+source: https://artificialanalysis.ai/evaluations/aa-personalitybench
+source_anchor: ""
+source_lines: [1, 244]
+section: "IA_Agents"
+---
+# AA-PersonalityBench: AI Personality & Communication Style Benchmark
+
+## Personality Indexes
+
+Each index takes the mean of its traits’ Elo z-scores, then percentile ranks it from 1 to 100 across all models evaluated in the benchmark.
+
+### Personality Indexes
+
+## How Traits Form Personality Indexes
+
+30 questions per personality trait (900 questions total), judged by a panel of models. Each index z-scores its traits’ Elo ratings, inverts traits where needed, calculates the mean, and percentile ranks the result from 1 to 100 across all models evaluated in the benchmark.
+
+## Example Questions, Responses, and Grading
+
+What's the weirdest social norm we all just accept?
+
+### Grading summary
+
+Answer B uses much more humor and playful language: the deadpan birthday ritual description ('ignite a dessert, chant in unison... Then we eat the object. Describe that to an alien'), the 'Answer honestly and you've committed a small crime' line, the cough-versus-sneeze asymmetry, and the 'here's your catering bill' quip. Answer A is mostly dry and analytical, with only mild wit ('choking hazard'). B's humor is more frequent, clever, and enhances the response.
+
+Answers were blinded: Answer A was Grok 4.7 (Xhigh) and Answer B was GLM-5.3 (Max).
+## Detailed Personality Trait Results
+
+All 30 judged personality traits which comprise the 8 indexes.
+
+## Personality Trait Leaderboards
+
+Each trait’s Elo percentile ranked from 1 to 100 across all models evaluated in the benchmark. Overall tabs show the index: the mean of its traits’ Elo z-scores, percentile ranked the same way. Whiskers show each model’s 95% confidence interval on the same scale.
+
+## Compare Model Personalities
+
+Compare any two models: each bar shows the probability one model’s answer is judged to show more of that trait, based on their Elos.
+
+### AA-PersonalityBench: Expressiveness Index, Muse Spark 1.3 (max) vs Grok 4.7 (xhigh)
+
+## Emergent Model Families & Clusters
+
+Models grouped by how alike their judged traits and communication characteristics are, using average-linkage clustering on the correlation between z-scores.
+
+### Emergent Personality Families
+
+## Build Your Own Personality Ranking
+
+Pick any of the 30 traits and weight them from −2 to +2. Your traits’ Elo z-scores are combined as a weighted mean, then percentile ranked from 1 to 100 across all models evaluated in the benchmark.
+
+### Custom Weighted Personality Ranking
+
+## Communication Characteristics
+
+21 metrics measured directly from each response, separate from the judged traits above. Cells show the average per response, colored by its percentile rank across all models evaluated in the benchmark.
+
+### Communication Characteristics: Length
+
+## Model Fingerprints
+
+Each model’s strongest and weakest signals, as standard deviations (σ) above (+) or below (−) the average across models.
+
+### Model Fingerprints: Personality Traits
+
+1. Literate+1.3σ
+2. Disclaims Assumptions+1.0σ
+3. Sincere+1.0σ
+4. Truthful+0.9σ
+5. Structured+0.9σ
+
+1. Bottom-Line Summary−1.2σ
+2. Sycophantic−0.8σ
+3. Slop−0.8σ
+4. Actionable Guidance−0.7σ
+5. Confident−0.2σ
+
+1. Natural Sounding+1.4σ
+2. Direct+1.3σ
+3. Truthful+1.0σ
+4. Sincere+1.0σ
+5. Answer First+0.9σ
+
+1. Slop−1.6σ
+2. Scannable−1.5σ
+3. Resource-Specific−1.4σ
+4. Bottom-Line Summary−1.2σ
+5. Metaphorical−1.0σ
+
+1. Evidence-Based+2.4σ
+2. Information Dense+1.9σ
+3. Lexically Varied+1.5σ
+4. Creative+1.4σ
+5. Structured+1.4σ
+
+1. Slop−0.4σ
+2. Sycophantic−0.3σ
+3. Direct−0.2σ
+
+1. Direct+1.3σ
+2. Truthful+1.1σ
+3. Natural Sounding+1.0σ
+4. Answer First+0.9σ
+5. Sincere+0.8σ
+
+1. Slop−1.5σ
+2. Scannable−1.4σ
+3. Resource-Specific−1.2σ
+4. Metaphorical−1.0σ
+5. Friendly−0.8σ
+
+1. Disclaims Assumptions+1.4σ
+2. Admits Uncertainty+1.3σ
+3. Literate+1.3σ
+4. Structured+1.2σ
+5. Truthful+1.2σ
+
+1. Resource-Specific−0.7σ
+2. Metaphorical−0.6σ
+3. Friendly−0.4σ
+4. Slop−0.3σ
+5. Evidence-Based−0.2σ
+
+1. Friendly+2.1σ
+2. Actionable Guidance+1.8σ
+3. Emotionally Intelligent+1.7σ
+4. Evidence-Based+1.5σ
+5. Humorous+1.5σ
+
+1. Direct−0.9σ
+2. Literate−0.2σ
+3. Answer First+0.0σ
+
+1. Literate+1.0σ
+2. Sincere+0.9σ
+3. Direct+0.9σ
+4. Confident+0.8σ
+5. Answer First+0.7σ
+
+1. Sycophantic−2.0σ
+2. Friendly−1.2σ
+3. Slop−0.7σ
+4. Scannable−0.6σ
+5. Open-Ended−0.6σ
+
+1. Bottom-Line Summary+1.7σ
+2. Admits Uncertainty+1.4σ
+3. Flags Nuances+1.3σ
+4. Confident+1.1σ
+5. Actionable Guidance+1.1σ
+
+1. Friendly−1.4σ
+2. Sycophantic−1.1σ
+3. Emotionally Intelligent−0.9σ
+4. Open-Ended−0.8σ
+5. Natural Sounding−0.4σ
+
+1. Lexically Varied+1.8σ
+2. Eloquent+1.7σ
+3. Constructive Pushback+1.6σ
+4. Natural Sounding+1.4σ
+5. Creative+1.3σ
+
+1. Actionable Guidance−0.8σ
+2. Sycophantic−0.8σ
+3. Direct−0.4σ
+4. Answer First−0.3σ
+5. Bottom-Line Summary−0.3σ
+
+## Explore Evaluations
+
+A composite benchmark aggregating nine challenging evaluations to provide a holistic measure of AI capabilities across knowledge work, coding, science, and general knowledge.
+
+A private evaluation developed by Artificial Analysis for frontier agentic capability in long-horizon knowledge work, testing agents on realistic business workflows that require deliverables such as spreadsheets, presentations, and memos.
+
+A benchmark developed by Artificial Analysis for how well AI models build interactive 3D experiences. Models work as agents in an offline sandbox via Stirrup to turn a written brief into a three.js scene, with Elo ratings derived from blind pairwise votes.
+
+Artificial Analysis' implementation of the APEX-Agents benchmark, testing AI agents on long-horizon, cross-application tasks in professional-services environments with realistic application tooling.
+
+Artificial Analysis' data analysis benchmark, testing AI agents on their ability to work with spreadsheets and documents to answer quantitative questions a Business Analyst or Data Analyst would face day-to-day.
+
+A benchmark measuring agentic task completion across simulated SaaS application environments, scoring the share of each task's objectives completed without guardrail violations.
+
+Artificial Analysis' implementation of Harvey's Legal Agent Benchmark (LAB), testing AI agents on real-world legal work from Harvey's dataset of 120 private tasks spanning 24 legal practice areas. v1.1, built in collaboration with Harvey, checks every deliverable against the task's source documents for hallucinations, so work that passes every rubric criterion but contains a material hallucination receives no credit. A panel of three judges grades each deliverable criterion-by-criterion.
+
+Artificial Analysis' implementation of Surge AI's GDP.pdf benchmark, testing whether language models can reason over long, real-world professional documents and satisfy detailed task-specific criteria.
+
+Artificial Analysis' independent implementation of ServiceNow's EnterpriseOps-Gym, an agentic benchmark testing whether LLM agents can complete stateful, multi-step enterprise workflows across eight business domains via live tool use, graded on the final state of the underlying databases.
+
+A harder 66-task benchmark of complex terminal work across software, machine learning, science, operations, security, hardware, and media, with recalibrated compute and time allowances and improved instructions, environments, and verifiers.
+
+A 70-task benchmark of research workflows authored and reviewed by domain experts across the life, physical, earth, mathematical, and engineering sciences, each completed in a terminal and checked by its own set of tests.
+
+Artificial Analysis' implementation of Cognition's FrontierCode 2.0, a private agentic coding benchmark of 132 tasks in real open-source repositories, graded on whether a maintainer would merge the agent's change.
+
+A refined and updated 1,000-question set of Humanity's Last Exam, split evenly between reasoning and knowledge questions, with 272 questions that include an image.
+
+Measures how models communicate rather than whether they are correct: 30 judged personality traits rolled up into 8 indexes, plus 21 measured communication characteristics.
+
+A benchmark measuring factual recall and hallucination across various economically relevant domains.
+
+The most challenging 198 questions from GPQA, where PhD experts achieve 65% accuracy but skilled non-experts only reach 34% despite web access.
+
+Artificial Analysis' implementation of IBM's ITBench benchmark, testing AI agents on Kubernetes incident root-cause analysis from offline incident snapshots. The agent inspects alerts, events, traces, and topology and identifies the contributing-factor entities (deployments, pods, namespaces, network policies, etc.) responsible for the failure.
+
+An enhanced MMMU benchmark that eliminates shortcuts and guessing strategies to more rigorously test multimodal models across 30 academic disciplines.
+
+A benchmark evaluating precise instruction-following generalization on 58 diverse, verifiable out-of-domain constraints that test models' ability to follow specific output requirements.
+
+An open benchmark from Wisedocs measuring how well models reason over long, fragmented medical records, performing the multi-document synthesis claims professionals rely on when reviewing insurance and healthcare cases.
+
+Artificial Analysis' implementation of HeyGen's Code2Video Bench, evaluating how well models create short product and brand videos from 114 design briefs using HyperFrames HTML.
+
+OpenAI's HealthBench: 5,000 health conversations graded against physician-written rubrics, from emergency referrals to global health.
+
+CritPt v2 is the revised version of CritPt, a benchmark designed to test LLMs on research-level physics reasoning tasks, featuring 70 composite research challenges. Models solve problems with a code-execution tool in an offline Linux sandbox.
+
+VIALS-AA is Artificial Analysis' implementation of Handshake AI's VIALS benchmark. It tests whether language models can interpret scientific images and answer questions about the evidence they contain.
+
+Artificial Analysis' implementation of Google DeepMind's Multimodal Knowledge Agent (MKA) benchmark. It tests whether agents can read visually dense project files, such as architectural drawings, engineering schematics and clinical scans, and produce the deliverables a professional would.
+
+GDPval-AA v2.1 is Artificial Analysis' evaluation framework for OpenAI's GDPval dataset. It tests AI models on real-world tasks across 44 occupations and 9 major industries. Models are given shell access and web browsing capabilities in an agentic loop via Stirrup to solve tasks, with Elo ratings derived from blind pairwise comparisons.
+
+A fintech customer-support benchmark from the 𝜏-Knowledge framework that tests whether agents can navigate a large unstructured knowledge base and execute multi-step tool calls to resolve realistic banking workflows.
+
+A verified refresh of Terminal-Bench 2.0: 89 curated tasks across software engineering, system administration, data processing, model training, and security, with environment and instruction fixes so scores reflect agent capability rather than environment gaps.
+
+Artificial Analysis' implementation of Cognition's FrontierCode 1.1, a private agentic coding benchmark that tests models on completing coding tasks in a way that would actually get merged by maintainers of real-world repositories.
+
+A challenging benchmark measuring language models' ability to extract, reason about, and synthesize information from long-form documents ranging from 10k to 100k tokens (measured using the cl100k_base tokenizer).
+
+A scientist-curated coding benchmark featuring 288 test set subproblems from 80 laboratory problems across 16 scientific disciplines.
+
+A frontier-level benchmark with 2,500 expert-vetted questions across mathematics, sciences, and humanities, designed to be the final closed-ended academic evaluation.
+
+A benchmark designed to test LLMs on research-level physics reasoning tasks, featuring 71 composite research challenges.
+
+An agentic benchmark evaluating AI capabilities in terminal environments through software engineering, system administration, and data processing tasks.
+
+A dual-control conversational AI benchmark simulating technical support scenarios where both agent and user must coordinate actions to resolve telecom service issues.
+
+An enhanced version of MMLU with 12,000 graduate-level questions across 14 subject areas, featuring ten answer options and deeper reasoning requirements.
+
+A contamination-free coding benchmark that continuously harvests fresh competitive programming problems from LeetCode, AtCoder, and CodeForces, evaluating code generation, self-repair, and execution.
+
+A 500-problem subset from the MATH dataset, featuring competition-level mathematics across six domains including algebra, geometry, and number theory.
+
+All 30 problems from the 2025 American Invitational Mathematics Examination, testing olympiad-level mathematical reasoning with integer answers from 000-999.
+
+A lightweight, multilingual version of MMLU, designed to evaluate knowledge and reasoning skills across a diverse range of languages and cultural contexts.

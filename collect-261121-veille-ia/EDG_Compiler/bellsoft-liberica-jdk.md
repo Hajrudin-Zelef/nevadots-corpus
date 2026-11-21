@@ -1,0 +1,694 @@
+---
+id: collect-261121-veille-ia/edg-compiler/bellsoft-liberica-jdk
+title: "Bellsoft Liberica JDK"
+domain: edg-compiler
+role: reference
+task: article
+actors: []
+dates: []
+keywords: ["years", "months", "ended", "unavailable", "ends", "release", "openjdk", "liberica"]
+source: https://endoflife.date/bellsoft-liberica
+source_anchor: ""
+source_lines: [1, 680]
+section: "EDG_Compiler"
+---
+BellSoft Liberica JDK is a GPLv2 with CPE licensed build of the Open Java Development Kit (OpenJDK) that is tested and verified to be compliant with the Java SE specification using OpenJDK Technology Compatibility Kit test suite for Linux, Windows, macOS, and Solaris operating systems.
+
+| Release | Released | Public support | Commercial support | Latest | 
+|---|---|---|---|---|
+| 27 | 2 months and 6 days ago (16 Sep 2026) | Ends         in 4 months (23 Mar 2027) | Unavailable | 27.0.1.1+5 (18 Nov 2026) | 
+| 26 | 8 months ago (18 Mar 2026) | Ended         2 months and 6 days ago (16 Sep 2026) | Unavailable | 26.0.2.1+1 (19 Aug 2026) | 
+| 25 (LTS) | 1 year and 2 months ago (16 Sep 2025) | Ends         in 4 years and 10 months (30 Sep 2031) | Ends         in 7 years (31 Mar 2034) | 25.0.5.1+5 (18 Nov 2026) | 
+| 24 | 1 year and 8 months ago (19 Mar 2025) | Ended         1 year and 2 months ago (16 Sep 2025) | Unavailable | 24.0.2+12 (16 Jul 2025) | 
+| 23 | 2 years ago (18 Sep 2024) | Ended         1 year and 8 months ago (18 Mar 2025) | Unavailable | 23.0.2+9 (23 Jan 2025) | 
+| 22 | 2 years and 8 months ago (20 Mar 2024) | Ended         2 years ago (17 Sep 2024) | Unavailable | 22.0.2+11 (17 Jul 2024) | 
+| 21 (LTS) | 3 years ago (20 Sep 2023) | Ends         in 3 years (31 Dec 2029) | Ends         in 5 years (31 Mar 2032) | 21.0.13.1+6 (18 Nov 2026) | 
+| 20 | 3 years and 8 months ago (22 Mar 2023) | Ended         3 years ago (19 Sep 2023) | Unavailable | 20.0.2+10 (20 Jul 2023) | 
+| 19 | 4 years ago (21 Sep 2022) | Ended         3 years and 8 months ago (21 Mar 2023) | Unavailable | 19.0.2+9 (18 Jan 2023) | 
+| 18 | 4 years and 8 months ago (23 Mar 2022) | Ended         4 years ago (20 Sep 2022) | Unavailable | 18.0.2.1+1 (25 Aug 2022) | 
+| 17 (LTS) | 5 years ago (17 Sep 2021) | Ends         in 11 months (31 Oct 2027) | Ends         in 3 years (31 Mar 2030) | 17.0.21.1+6 (18 Nov 2026) | 
+| 16 | 5 years and 8 months ago (19 Mar 2021) | Ended         5 years ago (14 Sep 2021) | Unavailable | 16.0.2+7 (23 Jul 2021) | 
+| 15 | 6 years ago (17 Sep 2020) | Ended         5 years and 8 months ago (16 Mar 2021) | Unavailable | 15.0.2+10 (22 Jan 2021) | 
+| 14 | 6 years ago (19 Mar 2020) | Ended         6 years ago (16 Sep 2020) | Unavailable | 14.0.2+13 (14 Jul 2020) | 
+| 13 | 7 years ago (26 Sep 2019) | Ended         6 years ago (17 Mar 2020) | Unavailable | 13.0.2+9 (16 Jan 2020) | 
+| 12 | 7 years ago (22 Mar 2019) | Ended         7 years ago (17 Sep 2019) | Unavailable | 12.0.2 (20 Jul 2019) | 
+| 11 (LTS) | 8 years ago (08 Oct 2018) | Ends         in 11 months (31 Oct 2027) | Ends         in 5 years (31 Mar 2032) | 11.0.33.1+5 (18 Nov 2026) | 
+| 10 | 8 years ago (21 Mar 2018) | Ended         8 years ago (25 Sep 2018) | Unavailable | 10.0.2 (05 Aug 2018) | 
+| 8 (LTS) | 12 years ago (18 Mar 2014) | Ends         in 4 years (31 Dec 2030) | Ends         in 4 years (31 Mar 2031) | 8u514+5 (18 Nov 2026) | 
+| 7 (LTS) | 15 years ago (11 Jul 2011) | Ended         4 years ago (31 Jul 2022) | Ends         in 1 year and 4 months (31 Mar 2028) | unknown | 
+| 6 (LTS) | 19 years ago (12 Dec 2006) | Ended         7 years and 10 months ago (31 Dec 2018) | Ends         in 1 year and 4 months (31 Mar 2028) | unknown | 
+
+Liberica JDK builds are available for Java 6 and greater. It follows the same cadence as OpenJDK:
+
+- a 6-month rapid-release cycle since the release of Java 10,
+- a new LTS release every 3 years (every sixth OpenJDK release) after the release of OpenJDK 11,
+- a new LTS release every 2 years (every fourth OpenJDK release) after the release of OpenJDK 17.
+
+Following the upstream OpenJDK project, Liberica JDK updates are released quarterly. LTS versions are supported at least 2 years (but usually much more), and non-LTS are only supported for 6 months.
+
+For LTS releases, commercial support can be purchased with at least 8 years (from the initial release) of access to bug fixes, security updates, and other fixes as needed.
+
+Liberica JDK is one of the many builds of OpenJDK. For recommendations on which JDK build to use, check out whichjdk.com.
+
+More information is available on the Bellsoft Liberica JDK website.
+
+You should be running one of the supported release numbers listed above in the rightmost column.
+
+      java -version
+
+## Show Product Identifiers
+
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjdk-alpine`
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjre-alpine`
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjdk-alpine-musl`
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjre-alpine-musl`
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjdk-debian`
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjre-debian`
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjdk-centos`
+- 
+      purl:
+      `pkg:docker/bellsoft/liberica-openjre-centos`
+- 
+      purl:
+      `pkg:oci/liberica-openjdk-alpine?repository_url=ghcr.io/bell-sw`
+- 
+      purl:
+      `pkg:oci/liberica-openjre-alpine?repository_url=ghcr.io/bell-sw`
+- 
+      purl:
+      `pkg:oci/liberica-openjdk-alpine-musl?repository_url=ghcr.io/bell-sw`
+- 
+      purl:
+      `pkg:oci/liberica-openjre-alpine-musl?repository_url=ghcr.io/bell-sw`
+- 
+      purl:
+      `pkg:oci/liberica-openjdk-debian?repository_url=ghcr.io/bell-sw`
+- 
+      purl:
+      `pkg:oci/liberica-openjre-debian?repository_url=ghcr.io/bell-sw`
+- 
+      purl:
+      `pkg:oci/liberica-openjdk-centos?repository_url=ghcr.io/bell-sw`
+- 
+      purl:
+      `pkg:oci/liberica-openjre-centos?repository_url=ghcr.io/bell-sw`
+- 
+      repology:
+      `liberica-jdk-11-full`
+- 
+      repology:
+      `liberica-jdk-11`
+- 
+      repology:
+      `liberica-jdk-11-lite`
+- 
+      repology:
+      `liberica-jdk-17-full`
+- 
+      repology:
+      `liberica-jdk-21-full`
+- 
+      repology:
+      `liberica-jdk-8-full`
+- 
+      repology:
+      `liberica-jdk-full`
+- 
+      repology:
+      `liberica-jre-11`
+- 
+      purl:
+      `pkg:scoop/liberica-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica-lts-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica-lite-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica-lite-lts-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica-full-lts-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica-jre`
+- 
+      purl:
+      `pkg:scoop/liberica-lts-jre`
+- 
+      purl:
+      `pkg:scoop/liberica-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica-full-lts-jre`
+- 
+      purl:
+      `pkg:scoop/liberica8-jre`
+- 
+      purl:
+      `pkg:scoop/liberica8-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica8-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica8-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica11-jre`
+- 
+      purl:
+      `pkg:scoop/liberica11-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica11-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica11-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica11-lite-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica12-jre`
+- 
+      purl:
+      `pkg:scoop/liberica12-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica12-lite-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica13-jre`
+- 
+      purl:
+      `pkg:scoop/liberica13-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica13-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica13-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica13-lite-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica14-jre`
+- 
+      purl:
+      `pkg:scoop/liberica14-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica14-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica14-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica14-lite-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica15-jre`
+- 
+      purl:
+      `pkg:scoop/liberica15-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica15-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica15-lite-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica15-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica16-jre`
+- 
+      purl:
+      `pkg:scoop/liberica16-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica16-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica16-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica16-lite-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica17-jre`
+- 
+      purl:
+      `pkg:scoop/liberica17-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica17-full-jre`
+- 
+      purl:
+      `pkg:scoop/liberica17-full-jdk`
+- 
+      purl:
+      `pkg:scoop/liberica17-lite-jdk`
+- 
+      purl:
+      `pkg:chocolatey/liberica11jdk`
+- 
+      purl:
+      `pkg:chocolatey/liberica11jdkfull`
+- 
+      purl:
+      `pkg:chocolatey/liberica11jre`
+- 
+      purl:
+      `pkg:chocolatey/liberica11jrefull`
+- 
+      purl:
+      `pkg:chocolatey/liberica17jdk`
+- 
+      purl:
+      `pkg:chocolatey/liberica17jdkfull`
+- 
+      purl:
+      `pkg:chocolatey/liberica17jdklite`
+- 
+      purl:
+      `pkg:chocolatey/liberica17jre`
+- 
+      purl:
+      `pkg:chocolatey/liberica17jrefull`
+- 
+      purl:
+      `pkg:chocolatey/liberica21jdk`
+- 
+      purl:
+      `pkg:chocolatey/liberica21jdkfull`
+- 
+      purl:
+      `pkg:chocolatey/liberica21jdklite`
+- 
+      purl:
+      `pkg:chocolatey/liberica21jre`
+- 
+      purl:
+      `pkg:chocolatey/liberica21jrefull`
+- 
+      purl:
+      `pkg:chocolatey/liberica8jdk`
+- 
+      purl:
+      `pkg:chocolatey/liberica8jre`
+- 
+      purl:
+      `pkg:chocolatey/libericajdk`
+- 
+      purl:
+      `pkg:chocolatey/libericajdkfull`
+- 
+      purl:
+      `pkg:chocolatey/libericajdklite`
+- 
+      purl:
+      `pkg:chocolatey/libericajre`
+- 
+      purl:
+      `pkg:chocolatey/libericajrefull`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.8`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.11`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.14`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.15`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.16`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.17`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.18`
+- 
+      purl:
+      `pkg:winget/BellSoft.LibericaJDK.19`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java11?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java11-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java11-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java11-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java15?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java15-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java15-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java16?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java16-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java16-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java16-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java17?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java17-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java17-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java17-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java18?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java18-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java18-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java18-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java19?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java19-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java19-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java19-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java20?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java20-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java20-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java20-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java21?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java21-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java21-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java21-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java22?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java22-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java22-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java22-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java23?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java23-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java23-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java23-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java8?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java8-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java8-runtime?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:apk/alpine/bellsoft-java8-runtime-lite?repository_url=https://apk.bell-sw.com/main`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java11?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java11-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java11-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java11-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java11-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java12?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java12-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java13?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java13-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java13-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java13-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java13-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java14?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java14-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java14-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java14-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java14-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java15?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java15-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java15-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java15-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java15-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java16?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java16-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java16-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java16-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java16-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java17?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java17-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java17-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java17-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java17-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java18?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java18-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java18-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java18-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java18-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java19?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java19-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java19-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java19-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java19-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java20?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java20-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java20-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java20-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java20-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java21?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java21-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java21-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java21-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java21-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java22?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java22-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java22-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java22-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java22-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java23?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java23-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java23-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java23-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java23-runtime-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java8?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java8-full?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java8-lite?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java8-runtime?repository_url=https://yum.bell-sw.com`
+- 
+      purl:
+      `pkg:rpm/bellsoft-java8-runtime-full?repository_url=https://yum.bell-sw.com`
+
+You can submit an improvement to this page on GitHub . This page has also a corresponding Talk Page 💬.
+
+A JSON version of this page is available at /api/v1/products/bellsoft-liberica/ 📡. See the API Documentation 📖 for more information. You can subscribe to the RSS feed at /bellsoft-liberica.atom ⚛️ or to the iCalendar feed at /calendar/bellsoft-liberica.ics 📅.

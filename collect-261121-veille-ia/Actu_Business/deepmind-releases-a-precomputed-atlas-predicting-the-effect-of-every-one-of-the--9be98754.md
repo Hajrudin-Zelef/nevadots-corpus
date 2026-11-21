@@ -1,0 +1,29 @@
+---
+id: collect-261121-veille-ia/actu-business/deepmind-releases-a-precomputed-atlas-predicting-the-effect-of-every-one-of-the--9be98754
+title: "Deepmind releases a precomputed atlas predicting the effect of every one of the"
+domain: actu-business
+role: reference
+task: article
+actors: []
+dates: []
+keywords: ["variant", "alphagenome", "atlas", "deepmind", "genome", "precomputed", "every", "model"]
+source: ""
+source_anchor: ""
+source_lines: [1, 15]
+section: "Actu_Business"
+---
+Built by running the AlphaGenome model across the entire human genome in advance rather than one variant at a time, the petabyte-scale AlphaGenome Atlas is already credited with helping researchers reprioritise an overlooked disease-causing variant in a rare epilepsy gene — and, like AlphaFold before it, is being released free for non-commercial research use.
+Google DeepMind announced the public release of the AlphaGenome Atlas on 8 September 2026, a precomputed database containing predicted molecular effects for all roughly 9 billion possible single-nucleotide changes across the human genome. The scale of the resource is unusual even by DeepMind’s own recent standards: at around 1 petabyte, the company describes it as more than 30 times larger than the AlphaFold Protein Structure Database it expanded in 2022, and it is being positioned explicitly as AlphaFold’s genomic counterpart — “AlphaFold mapped the protein universe,” said DeepMind co-founder and chair Demis Hassabis, “AlphaGenome Atlas now charts the human genome.”
+What the Atlas actually does
+The underlying model, AlphaGenome, was first released for non-commercial research use in 2025, with a fuller technical description published in Nature in January 2026. Given a stretch of DNA up to one million base pairs long, it predicts how a single-letter substitution would alter gene expression, RNA splicing, chromatin structure and related regulatory processes — the kind of prediction researchers previously had to request one variant, or one small region, at a time by running the computationally demanding model themselves. The Atlas removes that bottleneck by having done the computation for every possible variant across the genome in advance, and pairs it with a new single summary metric, the AlphaGenome Variant Impact (AVI) score, that DeepMind says reliably separates disease-causing mutations from harmless ones when tested against a clinical genomics database.
+Early validation, not yet clinical deployment
+Three research groups were given early access before the public launch, and their results anchor DeepMind’s announcement. Working with the GREGoR Consortium, researchers at the Broad Institute used the AVI score to reprioritise a previously overlooked variant in the gene DNM1, which is strongly linked to epileptic encephalopathy; the underlying AlphaGenome prediction pointed to an abnormal splice site extending the resulting protein, a mechanism subsequently confirmed by laboratory experiments. Separately, a Medical Research Council fellow at the University of Exeter applied the Atlas to whole-genome data from more than 54,000 UK Biobank participants for population-scale variant analysis. DeepMind is explicit that the tool is not for clinical use, and independent researchers quoted alongside the release note real limitations: many diseases involve multiple interacting variants rather than a single mutation, and some regulatory DNA elements — enhancers — can act on genes over distances longer than the one-million-base-pair window AlphaGenome examines, meaning their effects can fall outside what the model can see.
+Why it matters
+Only about 2 percent of the human genome directly encodes proteins; the remaining 98 percent — long dismissed as “junk” DNA — is now understood to carry extensive regulatory information that is exceptionally difficult to interpret variant by variant. Variant interpretation of this kind is one of the most persistent bottlenecks in precision medicine and rare-disease diagnosis: a patient’s exome or genome sequencing can turn up dozens of unusual variants, and distinguishing the one that actually explains their disease from harmless background variation is frequently the hardest and slowest part of a genetic diagnosis. A free, precomputed, genome-wide resource that gives every researcher — not only those with the computational resources to run AlphaGenome themselves — a starting point for that triage is a meaningful lowering of a real barrier to entry, echoing the effect the AlphaFold Database had on structural biology after 2021, when it moved protein structure prediction from a specialist computational task to something any biology lab could look up. As with AlphaFold, the genuine test will be adoption over the coming months and years — whether the Atlas actually accelerates diagnoses and mechanistic discoveries at scale, or remains a powerful but underused reference resource — and DeepMind’s own caveats about multi-variant diseases and long-range regulatory elements are a useful reminder that this is a triage tool, not a diagnostic oracle.
+– Veer Reddy Pulagam
+Key facts
+– AlphaGenome Atlas: precomputed predictions for the molecular effects of ~9 billion possible single-nucleotide variants across the human genome, released 8 September 2026
+– Roughly 1 petabyte of data — DeepMind says over 30x the size of the AlphaFold Database; free web portal and API for non-commercial research
+– New AlphaGenome Variant Impact (AVI) score condenses predictions into a single ranking metric
+– Early use: reprioritised a disease-causing DNM1 variant (epileptic encephalopathy) via the GREGoR Consortium/Broad Institute; applied to UK Biobank data (54,000+ participants) by a University of Exeter researcher
+– Built on the AlphaGenome model, released 2025, detailed in Nature in January 2026; explicitly not approved for clinical use

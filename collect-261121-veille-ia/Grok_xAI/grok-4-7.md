@@ -1,0 +1,175 @@
+---
+id: collect-261121-veille-ia/grok-xai/grok-4-7
+title: "Grok 4.7"
+domain: grok-xai
+role: reference
+task: article
+actors: ["xAI"]
+dates: []
+keywords: ["model", "supported", "standard", "service", "grok", "inference", "priority", "flex"]
+source: https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-xai-grok-4-7.html
+source_anchor: ""
+source_lines: [1, 161]
+section: "Grok_xAI"
+---
+# Grok 4.7
+
+## Model Details
+
+Grok 4.7 is xAI's frontier model, built for coding, agentic tasks, and knowledge work, with support for text and image input. It builds on previous generations of Grok with a focus on long-running agents and more ambitious interactive work. It offers a 524,288-token context window shared between input and output, and configurable reasoning efforts (low, medium, high, xhigh).
+
+- **Model launch date:** September 28, 2026
+- **EOL no sooner than:** September 28, 2027
+- **Legacy period:** at least 6 months
+- **Model lifecycle policy:** Model lifecycle
+- **Model EOL date:** N/A
+- **End User License Agreements and Terms of Use:** View
+- **Model lifecycle:** Active
+- **Context window:** 524,288 tokens, shared between input and output
+- **Max output tokens:** 524,288 minus input tokens
+- **Reasoning:** Supported (configurable: low, medium, high, xhigh)
+
+| **Input Modalities** | **Output Modalities** | **APIs supported** | **Endpoints supported** | 
+|---|---|---|---|
+| Audio | Embedding | `Responses` | `bedrock-runtime` | 
+| Image | Image | `Chat Completions` | `bedrock-mantle` | 
+| Speech | Speech | `Converse` |  | 
+| Text | Text | `Invoke` |  | 
+| Video | Video |  |  | 
+
+## Capabilities and Features
+
+__Bedrock Features__
+
+**Features supported using `bedrock-runtime` endpoint**
+
+| **Supported** | **Not Supported** | 
+|---|---|
+|  |  | 
+
+## Pricing
+
+The following table shows on-demand pricing for Grok 4.7 by inference option.
+
+| **Inference option** | **Input** | **Output** | **Cache read** | 
+|---|---|---|---|
+| Geo CRIS | $2.20 | $6.60 | $0.55 | 
+| Global CRIS | $2.00 | $6.00 | $0.50 | 
+
+**AWS GovCloud (US)**
+
+| **Inference option** | **Input** | **Output** | **Cache read** | 
+|---|---|---|---|
+| Geo CRIS | $2.64 | $7.92 | $0.66 | 
+
+*All prices are per 1 million tokens. Pricing shown is for the Standard tier.*
+
+**Priority and Flex tier support:** In addition to Standard, Grok 4.7 supports the Priority and Flex service tiers on the `Responses`, `Chat Completions`, and `Invoke` APIs. The Converse API supports the Standard tier only for this model; requesting `priority` or `flex` through Converse returns a validation error. Priority is billed at **1.75 times** the Standard per-token rate (a 75% premium) and Flex at **0.5 times** the Standard rate (a 50% discount). Apply these multipliers to the Standard rates shown above. For details on each service tier, see service tiers.
+
+## Programmatic Access
+
+Use the following model IDs and endpoint URLs to access this model programmatically. For more information about the available APIs and endpoints, see APIs supported and Endpoints supported.
+
+| **Endpoint** | **Model ID** | **In-Region endpoint URL** | **Geo inference ID** | **Global inference ID** | 
+|---|---|---|---|---|
+| `bedrock-runtime` | `xai.grok-4.7` | Not supported | `us.xai.grok-4.7` | `global.xai.grok-4.7` | 
+
+*On `bedrock-runtime`, the base URL is "https://bedrock-runtime.{region}.amazonaws.com/openai/v1" and requests must name the geographic cross-Region inference ID `us.xai.grok-4.7` or the Global cross-Region inference ID `global.xai.grok-4.7` as the model.*
+
+## Service Tiers
+
+Amazon Bedrock offers multiple service tiers to match your workload requirements. **Standard** provides pay-per-token access with no commitment (set `"service_tier": "default"` or omit the field). **Priority** delivers faster, prioritized processing for a price premium (set `"service_tier": "priority"`). **Flex** provides lower-cost access for flexible, non-time-sensitive workloads (set `"service_tier": "flex"`). For this model, Priority and Flex are available on the `Responses`, `Chat Completions`, and `Invoke` APIs only â the Converse API supports Standard only. For more information, see service tiers.
+
+| **Standard** | **Priority** | **Flex** | **Reserved** | 
+|---|---|---|---|
+
+## Regional Availability
+
+__Regional availability at a glance__
+
+Amazon Bedrock offers three inference options: **In-Region** keeps requests within a single Region for strict compliance, **Geo Cross-Region** routes across Regions within a geography (such as US, EU, and APAC) while respecting data residency, and **Global Cross-Region** routes anywhere worldwide when there are no residency constraints. Refer to the Regional availability by models page for more details.
+
+Grok 4.7 is available on the `bedrock-runtime` endpoint using Geo (US) and Global cross-Region inference. The following table shows availability by Region.
+
+| **Region** | **In-Region** | **Geo** | **Global** | 
+|---|---|---|---|
+| `us-east-1` (N. Virginia) |  |  |  | 
+| `us-east-2` (Ohio) |  |  |  | 
+| `us-west-1` (N. California) |  |  |  | 
+| `us-west-2` (Oregon) |  |  |  | 
+| `ca-central-1` (Canada) |  |  |  | 
+| `ca-west-1` (Calgary) |  |  |  | 
+| `eu-north-1` (Stockholm) |  |  |  | 
+| `eu-west-1` (Ireland) |  |  |  | 
+| `eu-west-2` (London) |  |  |  | 
+| `eu-west-3` (Paris) |  |  |  | 
+| `eu-central-1` (Frankfurt) |  |  |  | 
+| `eu-central-2` (Zurich) |  |  |  | 
+| `eu-south-1` (Milan) |  |  |  | 
+| `eu-south-2` (Spain) |  |  |  | 
+| `ap-northeast-1` (Tokyo) |  |  |  | 
+| `ap-northeast-2` (Seoul) |  |  |  | 
+| `ap-northeast-3` (Osaka) |  |  |  | 
+| `ap-south-1` (Mumbai) |  |  |  | 
+| `ap-south-2` (Hyderabad) |  |  |  | 
+| `ap-southeast-1` (Singapore) |  |  |  | 
+| `ap-southeast-2` (Sydney) |  |  |  | 
+| `ap-southeast-3` (Jakarta) |  |  |  | 
+| `ap-southeast-4` (Melbourne) |  |  |  | 
+| `ap-southeast-5` (Malaysia) |  |  |  | 
+| `ap-southeast-7` (Thailand) |  |  |  | 
+| `ap-east-2` (Taipei) |  |  |  | 
+| `me-central-1` (UAE) |  |  |  | 
+| `il-central-1` (Tel Aviv) |  |  |  | 
+| `sa-east-1` (SÃ£o Paulo) |  |  |  | 
+| `us-gov-east-1` (AWS GovCloud (US-East)) |  |  |  | 
+| `us-gov-west-1` (AWS GovCloud (US-West)) |  |  |  | 
+
+__Geo inference details__
+
+The destination Regions available to a geographic inference profile depend on the source Region. To retrieve the current routing configuration, call GetInferenceProfile from the source Region.
+
+**Geo: US**
+
+Geo inference ID: `us.xai.grok-4.7`
+
+| **Source Region** | **Destination Regions** | 
+|---|---|
+| us-east-1 (N. Virginia) | us-east-1 (N. Virginia), us-east-2 (Ohio), us-west-2 (Oregon) | 
+| us-east-2 (Ohio) | us-east-1 (N. Virginia), us-east-2 (Ohio), us-west-2 (Oregon) | 
+| us-west-1 (N. California) | us-east-1 (N. Virginia), us-east-2 (Ohio), us-west-1 (N. California), us-west-2 (Oregon) | 
+| us-west-2 (Oregon) | us-east-1 (N. Virginia), us-east-2 (Ohio), us-west-2 (Oregon) | 
+| ca-central-1 (Canada) | ca-central-1 (Canada), us-east-1 (N. Virginia), us-east-2 (Ohio), us-west-2 (Oregon) | 
+| ca-west-1 (Calgary) | ca-west-1 (Calgary), us-east-1 (N. Virginia), us-east-2 (Ohio), us-west-2 (Oregon) | 
+
+## Quotas and Limits
+
+Your AWS account has default quotas to maintain the performance of the service and to ensure appropriate usage of Amazon Bedrock. The default quotas assigned to an account might be updated depending on regional factors, payment history, fraudulent usage, and/or approval of a quota increase request. For more information, see Quotas for Amazon Bedrock documentation and see the limits for the model.
+
+## Sample Code
+
+**Step 1 - AWS Account:** If you have an AWS account already, skip this step. If you are new to AWS, sign up for an AWS account
+
+**Step 2 - API key:** Go to the Amazon Bedrock console
+
+Grok 4.7 is an xAI model. Amazon Bedrock serves its Responses and Chat Completions APIs through OpenAI-compatible endpoints, so those examples use the OpenAI Python SDK as the client. Configure the SDK with your Amazon Bedrock API key and an Amazon Bedrock base URL as shown below. The requests invoke the xAI model on Amazon Bedrock and are not sent to OpenAI.
+
+**Step 3 - Get the SDK:** To use this getting started guide, you must have Python already installed. Then install the relevant software depending on the APIs you are using.
+
+**Step 4 - Set environment variables:** Configure your environment to use the API key for authentication.
+
+On `bedrock-runtime`, name a cross-Region inference profile as the model â `us.xai.grok-4.7` or `global.xai.grok-4.7`. This model is not available for in-Region inference on that endpoint. Your IAM identity also needs `bedrock:InvokeModel` on your account's default project (`arn:aws:bedrock:{region}:{account-id}:project/default`) in addition to the inference profile.
+
+**Step 5 - Run your first inference request:** Save the file as `bedrock-first-request.py`
+
+## Usage Considerations and Limitations
+
+- **Reasoning effort** â Reasoning is always active by default. You can configure effort through the`reasoning` parameter:`"low"` ,`"medium"` ,`"high"` (default), or`"xhigh"` . Reasoning content is encrypted and can be returned by passing`include: ["reasoning.encrypted_content"]` in the Responses API request. You can send the encrypted content back in subsequent turns to provide reasoning context for multi-turn conversations. The Chat Completions API does not return reasoning tokens.```
+response = client.responses.create(
+    model="us.xai.grok-4.7",
+    reasoning={"effort": "high"},
+    include=["reasoning.encrypted_content"],
+    input="Explain quantum entanglement simply."
+)
+print(response.output_text)
+```

@@ -1,0 +1,39 @@
+---
+id: collect-261121-veille-ia/claude-anthropic/en-blog-claude-code-2-1-287-claude-mods-shell-security-f507bc01
+title: "En blog claude code 2 1 287 claude mods shell security"
+domain: claude-anthropic
+role: reference
+task: article
+actors: ["Anthropic"]
+dates: []
+keywords: ["claude", "code", "shell", "mods", "writes", "command", "plugins", "change"]
+source: ""
+source_anchor: ""
+source_lines: [1, 25]
+section: "Claude_Anthropic"
+---
+Claude Code 2.1.287: plugins can now reach deeper into Claude Code, shell writes get locked down further
+Version 2.1.287 ships Claude Mods, plugins that change Claude Code's own behavior from inside the process, closes three separate gaps in shell writes, and extends the 1M token context window to more providers.
+Claude Code 2.1.287, released on October 1, 2026, breaks from the last few entries in this digest in one way: the headline isn't another permissions fix, it's a real extension of what a plugin can do. Over a hundred entries total, mostly reliability and UI work, but four things are worth a close read. First, Claude Mods opens a new extensibility layer: plugins can now change Claude Code's behavior from the inside, not just hand it new tools. Second, three separate fixes close gaps left open by shell writes that slipped past the usual guardrails. A protocol change on the MCP side can also break existing server connections. Finally, the 1M token context window becomes the default on providers that didn't have it yet. Everything else is summarized in a list below.
+Claude Mods: plugins move from outside to inside
+Until now, a plugin gave Claude tools, skills, or subagents: it talked to Claude Code from the outside. The mods documentation spells out what changes: "A mod runs inside Claude Code, so it can do things [settings hooks, skills, status lines and MCP servers] can't", such as drawing a pane in the interface, stepping into a tool call to change or cancel it, or adding a command that runs even while Claude is working. A mod is still JavaScript or TypeScript code running with your own permissions: the same page is blunt about it, "It can read and write your files, start processes, and make network requests". Mods aren't sandboxed: a process a mod starts runs outside the sandboxing that wraps Claude's Bash commands.
+The new built-in mod in this release is cc-plugin-you-should-know: a side agent watches a long-running task in the background and surfaces a note above the prompt when it spots something you or Claude might miss. It ships disabled by default, turned on with /plugin enable cc-plugin-you-should-know@builtin, and the changelog limits it to first-party sessions with telemetry on. If you manage plugins for a team, check allowManagedModsOnly before anyone installs a third-party mod: the docs are explicit that a mod can approve a tool call an ask rule would otherwise have prompted you for.
+Three shell writes that slipped past the guardrails
+The 2.1.287 changelog closes three distinct gaps, all built on the same pattern: a guardrail that already existed, but that a particular shape of shell command managed to get around.
+The first is about file deletion. The critical paths documentation states the principle: "Claude Code never lets a permissions.allow rule or a PreToolUse hook that returns 'allow' approve an rm or rmdir command that targets a critical path", such as the filesystem root or your home directory. The changelog names what had slipped through that net: a dangerous rm lost this always-on safeguard when the same command also redirected its output to a path starting with ~ or containing a wildcard. One extra redirect was enough to disable a safeguard meant to be unconditional.
+The second concerns writes that pass through a symbolic link. The permissions documentation describes the normal behavior: when a directory on the way to a write is a symlink, or when a Bash command does the writing, and the real file sits outside the working directory or on a protected path, Claude Code names where the write actually lands and waits for you instead of letting auto mode's classifier decide on its own. The 2.1.287 release extends that rule to shell writes through a repo-committed symlink whose target is written with a ~, a case the previous version let through.
+The third is about Bash allow rules themselves. A whole-tool Bash allow rule, or a hook that approved indiscriminately, could let a shell command write to files Claude's own Edit and Write tools flatly refuse to touch, such as the machine's credentials file. That kind of write now prompts for confirmation instead of running outright. All three fixes follow the same thread: the guardrail already existed, and one specific shape of shell command slipped past it.
+An MCP protocol change can break existing server connections
+Claude Code adds support for URL-based prompts from MCP servers, for example to sign in, on the MCP protocol revision from November 25, 2025. This is the one entry in this release that calls for immediate attention rather than background reading: if an MCP server you rely on stops connecting after this update, the changelog gives the fix directly, add "bareElicitationCapability": true to that server's config entry. The official MCP documentation doesn't mention this setting yet as of this digest: the changelog is the only source.
+The 1M context window becomes the default beyond the Anthropic API too
+Opus 4.7 and later, along with Fable, now run with a 1M token context window by default on Bedrock, Vertex AI, Foundry, and the Claude apps gateway, with no [1m] suffix needed. The model configuration documentation confirms this was already the default on the Anthropic API for the same models, "Fable 5.1, Fable 5, Sonnet 5 and later, and Opus 4.7 and later run with the 1M window on every plan", and that CLAUDE_CODE_DISABLE_1M_CONTEXT=1 falls back to 200K if you need it. As of this digest, that same page doesn't yet list Bedrock, Vertex, or Foundry among the providers defaulting to 1M: its auto-compaction section still names them as providers where Opus 4.8 and later run at 200K, unless you add the [1m] suffix yourself. The changelog is ahead of the docs here. If you run Claude Code on one of these providers, check your budget: a bigger default context also means more billed tokens unless you turn it off.
+Everything else, briefly
+- n:<text> filter in the agents view: find a session by its name or task, including inside collapsed sections.
+- prompt_text joins the OpenTelemetryuser_prompt event, a copy ofprompt for backends that turn dotted keys into nested objects. Mask it wherever you already maskprompt .
+- Self-hosted runner: a built-in gh api (REST only) for sessions using Anthropic-managed git, on macOS and Linux machines without the GitHub CLI installed.
+- Replies from claude agents : they now arrive as queued messages, and slash commands other than/stop sent while a turn is running now run once that turn ends instead of being dropped.
+- MCP servers with alwaysLoad: false : all of their tools now sit behind tool search instead of loading their full definitions upfront.
+- Organization permission ceilings: they could be silently dropped for an MCP tool named __proto__ . Fixed.
+- Windows: a startup warning now flags that denying the Bash tool also turns off PowerShell, leaving Claude with no shell tool at all.
+What to take away
+If you manage plugins for a team, Claude Mods is worth reading up on directly before letting anyone install third-party mods: it's the first plugin mechanism that runs inside the process instead of alongside it. If you use MCP servers that handle sign-in through a URL, check they still connect after this update before worrying about anything else. For everyone else, the three shell-write fixes continue a thread this digest has followed for several weeks running: closing, one by one, the places where a shell command slipped past a guardrail that was already in place.

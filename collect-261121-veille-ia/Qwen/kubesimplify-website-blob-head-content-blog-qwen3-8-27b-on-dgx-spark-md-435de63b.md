@@ -1,0 +1,222 @@
+---
+id: collect-261121-veille-ia/qwen/kubesimplify-website-blob-head-content-blog-qwen3-8-27b-on-dgx-spark-md-435de63b
+title: "Kubesimplify website blob head content blog qwen3 8 27b on dgx spark md"
+domain: qwen
+role: reference
+task: article
+actors: ["Alibaba"]
+dates: ["2026-08-17"]
+keywords: ["qwen3", "spark", "prompt", "llama", "ollama", "august", "numbers", "eval"]
+source: ""
+source_anchor: ""
+source_lines: [1, 208]
+section: "Qwen"
+---
+| title | Running Qwen3.8-27B on DGX Spark | 
+|---|---|
+| seoTitle | Running Qwen3.8-27B on DGX Spark | 
+| seoDescription | Qwen3.8-27B on DGX Spark with llama.cpp, Ollama, vLLM, and SGLang: the recipes, the tokens per second I measured, MTP speculative decoding, and the sharp edges I hit along the way. | 
+| datePublished | 2026-08-17 14:00:00 UTC | 
+| slug | qwen3-8-27b-on-dgx-spark | 
+| author | saiyam-pathak | 
+| cover | /img/blog/qwen3-8-27b-on-dgx-spark/cover.png | 
+| tags |  | 
+| qwen | dgxspark | nvidia | ollama | vllm | 
+Qwen announced the 3.8 family on August 3: Qwen3.8-Max, the 2.4T flagship, plus a promise that open weights were coming "next week". The Max weights (2.4T-A95B) landed August 12. The one everyone actually wanted for local inference, the 27B, went quiet. Trackers even reported it as delayed with no new date.
+It dropped on August 14. I had it running on the DGX Spark within the hour, so here is the full recipe, what worked on day zero, what did not, and the numbers. Let's get into it.
+Here is exactly what everything below was run on:
+| Component | What I ran | 
+|---|---|
+| Box | DGX Spark, GB10, 128GB unified memory | 
+| OS and driver | DGX OS, driver 580.159.03, kernel 6.17.0-1018-nvidia | 
+| Test dates | August 14-15, 2026 (the MTP, SGLang, and DSpark runs came on August 17) | 
+| llama.cpp | build b10423 | 
+| vLLM | spark-arena nightly 0.27.2rc1, plus stable v0.27.1 for the DSpark run | 
+| Ollama | v0.32.12 | 
+| SGLang | latest-cu130 | 
+| Load-test tool | llama-benchy 0.4.0 | 
+| FP8 checkpoint | Qwen/Qwen3.8-27B-FP8 at 017b9c7a (the launch upload, unchanged since) | 
+| GGUF quant | unsloth/Qwen3.8-27B-GGUF at 4604b899 | 
+| NVFP4 quant | unsloth/Qwen3.8-27B-NVFP4 at 60e813d4 (day zero), 7d6f8d4d (MTP runs) | 
+unsloth updated both quants after launch, so I re-benchmarked the updated NVFP4 revision: 11.9 t/s single-stream, within 4% of the numbers below, nothing material changed.
+Every measurement in this post came from one of these four commands, so you can rerun any table row yourself:
+# llama.cpp raw numbers (pp512/pp2048/tg128/tg32 tables)
+docker run --rm --gpus all -v $HOME/models/qwen38:/root/.cache/huggingface \
+  --entrypoint /app/llama ghcr.io/ggml-org/llama.cpp:server-cuda \
+  bench -m <path-to>/Qwen3.8-27B-UD-Q4_K_XL.gguf -fa 1 -p 512,2048 -n 128,32
+# vLLM and SGLang numbers (all pp2048/tg128 tables, any depth/concurrency)
+uvx llama-benchy@0.4.0 --base-url http://<spark-ip>:8000/v1 --model <served-model> \
+  --pp 2048 --tg 128 --depth 0 16384 32768 --concurrency 1 2 5 10 \
+  --enable-prefix-caching --save-result results.csv --format csv
+# Ollama numbers (from Ollama's own eval counters, temperature 0, 3 runs)
+curl -s http://127.0.0.1:11435/api/generate -d '{"model":"qwen3.8:27b",
+  "prompt":"<prompt>","stream":false,"options":{"temperature":0,"num_predict":200}}' \
+  | jq '{prompt_tok:.prompt_eval_count, prompt_ns:.prompt_eval_duration, gen_tok:.eval_count, gen_ns:.eval_duration}'
+# Edit-heavy vs fresh-generation workload comparison (DSpark section)
+python3 edit_bench.py http://127.0.0.1:8002/v1 qwen3.8-27b   # from 0xBakeer's repo, bench/
+Two words to have straight before the tables below, because every number in this post is one or the other. Prefill is the model reading your prompt: all the input tokens get processed in parallel, so it is fast, hundreds to thousands of tokens per second. Decode is the model writing its answer one token at a time, each token waiting on the one before it, so it is slow, single or low double digits here. Prefill is the wait before the first word appears; decode is the speed you watch it type at. In benchmark names, pp2048 is prefill measured on a 2,048 token prompt and tg128 is decode measured over 128 generated tokens. Anything else that reads like a magic string in this post is in the local LLM glossary.
+Reading the config before running things saves a lot of confusion, and this one is interesting:
+- 27B parameters, and it is NOT a MoE. 64 layers with a hybrid attention pattern: every 4th layer is full gated attention, the other 48 layers are Gated DeltaNet (linear attention). Same hybrid lineage as Qwen3.5/3.6.
+- Native vision language model. There is a 27-layer vision encoder in the checkpoint, images and video in, text out.
+- 262,144 token native context, extensible to 1M with YaRN, short for Yet another RoPE extensioN: it rescales the model's positional frequencies, stretching each one differently depending on its wavelength, so the model can address positions further out than it was ever trained on without a full retrain.
+- Thinking mode on by default (<think> blocks), with recommended sampling temp 1.0 / top_p 0.95 / top_k 20. Non-thinking: temp 0.7 / top_p 0.80.
+- Apache 2.0.
+- Architecture class is Qwen3_5ForConditionalGeneration (model_type: qwen3_5 ). This detail matters: it is the same architecture family the inference engines already support, which is why day-zero support mostly just works.
+Gated DeltaNet deserves a sentence of its own, because it quietly explains most of the numbers later in this post. Normal attention keeps a KV cache that grows with every token you feed it, so the deeper your context gets, the more memory has to be read before the next token can come out. A linear attention layer keeps a fixed-size running state instead: the gate decides how fast old memory fades, and the delta rule writes targeted corrections into that state rather than appending to an ever-growing list. The state is the same size at token 100,000 as it is at token 10. Hold onto that one, it is why decode speed barely moves as context grows further down.
+Qwen's own (vendor-reported, so calibrate accordingly) numbers for the 27B: SWE-bench Pro 61.7, LiveCodeBench v6 90.3, Terminal Bench 2.1 at 73.0, GPQA Diamond 89.2, OSWorld-Verified 84.3.
+| Path | Status on day zero | 
+|---|---|
+| llama.cpp + unsloth GGUF | Works (stock release build b10423, vision mmproj included) | 
+| vLLM + official FP8 checkpoint | Works, on both the stable v0.27.1 release and the spark-arena nightly (recipes below) | 
+| Ollama | Works, needs v0.32.12 (released the same day) | 
+| SGLang | Works on upstream latest; the older pinned dev container silently produced garbage (see below) | 
+Let's start with the fastest way to first token. One command, and the server pulls the GGUF straight from Hugging Face:
+docker run -d --name qwen38-llamacpp --gpus all -p 8091:8091 \
+  -v $HOME/models/qwen38:/root/.cache/huggingface \
+  --entrypoint /app/llama-server \
+  ghcr.io/ggml-org/llama.cpp:server-cuda \
+  -hf unsloth/Qwen3.8-27B-GGUF:Q4_K_XL \
+  --port 8091 --host 0.0.0.0 -ngl 99 -c 32768 -fa on
+Three of those flags do the heavy lifting: -ngl 99 offloads all layers to the GPU (99 is the idiomatic "all of them", and anything left on the CPU is dramatically slower), -c 32768 sets the context window to 32K tokens, and -fa on enables flash attention, which computes attention without materializing the giant intermediate matrix in memory. That last one is free speed, leave it on.
+Two gotchas I hit so you do not have to:
+- Recent llama.cpp downloads -hf models into the Hugging Face hub cache (/root/.cache/huggingface ), not the old/root/.cache/llama.cpp path. Mount the right one or your 18GB download disappears with the container.
+- The GGUF repo ships mmproj-BF16.gguf alongside the weights (llama.cpp pulled it automatically), so the vision path is wired up for llama.cpp as well.mmproj is the multimodal projector, the companion file that turns images into tokens the language model can read: no mmproj, no images, however capable the model is. I test it below.
+First token arrives fast and the model correctly identified what it was running on (a nice recursive moment: Qwen3.8-27B on a DGX Spark explaining what a DGX Spark is).
+Quick decode of that quant name before the numbers, because UD-Q4_K_XL is three labels stacked on top of each other. Q4_K is llama.cpp's 4-bit K-quant: instead of one scaling factor for a whole tensor, weights are stored in super-blocks of 256, split into blocks of 32 that each carry their own quantized scale, so outlier weights do less damage to their neighbours. UD is Unsloth Dynamic, meaning the layers are deliberately not all quantized the same: embeddings and the first and last blocks keep more bits because everything downstream depends on them, while the more redundant middle feed-forward layers get squeezed harder. XL is the size tier, which promotes selected important matrices to 5-bit where unsloth judges that safe. The practical upshot is 16.68 GiB of weights that hold up better than a uniform 4-bit quant of the same size.
+The llama-bench numbers (build b10423, flash attention on, UD-Q4_K_XL, 16.68 GiB weights):
+| Test | Result | 
+|---|---|
+| pp512 (prefill) | 838.6 t/s | 
+| pp2048 (prefill) | 837.4 t/s | 
+| tg128 (decode) | 11.6 t/s | 
+| tg32 (decode) | 11.6 t/s | 
+Let me be honest about that decode number, because this is where dense models and the Spark have a complicated relationship. The GB10's unified memory is the whole reason a 27B fits comfortably, but its ~273 GB/s of bandwidth is the ceiling for decode on any dense model: every generated token has to stream all 16.7GB of weights. Think of it like re-reading a whole book off the shelf before you can write each next word: your reading speed sets the pace, not how fast you can think. Do the arithmetic and 273 GB/s over 16.7GB puts the theoretical ceiling around 16 t/s, so the measured 11.6 is roughly 70% of peak, which is about what real kernels get. If you have been running MoE models like Nemotron 3.5 Lightning (30B but only ~3B active) on the Spark and got used to 100+ t/s decode, recalibrate: this is a real dense 27B, all parameters working on every token.
+Prefill is a different story: 838 t/s means a 2,000 token prompt is processed in under 2.5 seconds, and the hybrid DeltaNet layers keep that roughly flat as context grows.
+Fun detail: llama-bench identifies the model as "qwen35 27B", the architecture tag from the config showing through in the GGUF metadata.
+Now let's do it properly with vLLM. No official Spark Arena recipe existed for Qwen3.8 when it dropped (the model was hours old), but the @official/qwen3.6-27b-fp8-vllm recipe is the same architecture family, so I adapted it. This is the part I want to highlight about the Spark ecosystem right now: sparkrun recipes made a day-zero model a config-file edit, not an afternoon of dependency fighting.
+recipe_version: '2'
+model: Qwen/Qwen3.8-27B-FP8
+runtime: vllm
+container: ghcr.io/spark-arena/dgx-vllm-eugr-nightly:latest
+defaults:
+  gpu_memory_utilization: 0.8
+  max_model_len: 131072
+  max_num_batched_tokens: 32768
+  load_format: instanttensor
+  kv_cache_dtype: fp8
+  attention_backend: flashinfer
+  tool_call_parser: qwen3_coder
+  reasoning_parser: qwen3
+env:
+  VLLM_MARLIN_USE_ATOMIC_ADD: '1'
+That is a lot of magic strings in twelve lines, so here is what each one is actually doing, because these are the knobs you will end up turning yourself:
+| Setting | What it does | Why this value | 
+|---|---|---|
+| gpu_memory_utilization: 0.8 | The share of memory vLLM claims up front, for weights plus KV cache | Higher means more KV cache, so longer contexts and more concurrent users. On unified memory you cannot go greedy: everything else on the box shares this pool. | 
+| max_model_len: 131072 | Longest context the server will accept, in tokens | 128K, well under the model's native 262K. Every token of headroom you reserve costs KV cache memory, and I would rather have the memory. | 
+| max_num_batched_tokens: 32768 | Cap on tokens the scheduler puts in one forward pass | The prefill-throughput vs responsiveness dial. Bigger batches process prompts faster and make latency chunkier. | 
+| load_format: instanttensor | How the weights get off disk and into memory | Pure startup time. It is why a 29GB checkpoint is resident in under 5 seconds once cached instead of minutes. | 
+| kv_cache_dtype: fp8 | Precision the KV cache is stored at | Roughly halves cache memory versus 16-bit, which is what buys the long-context headroom. Small accuracy cost. | 
+| attention_backend: flashinfer | Which attention kernel library runs | On sm121 FlashInfer picks thexqa decode kernel and supports the FP8 cache above. Backends can differ by 2x, which is why recipes pin one. | 
+| tool_call_parser: qwen3_coder | Pulls tool and function calls out of the raw token stream | Has to match the model family, or your agent framework sees plain text where it expected a structured call. | 
+| reasoning_parser: qwen3 | Pulls <think> blocks into the response's reasoning field | Same story: wrong parser and reasoning text leaks into the answer. | 
+| VLLM_MARLIN_USE_ATOMIC_ADD: '1' | Switches Marlin's quantized kernels to atomic accumulation | A hardware-specific workaround. This one you copy from a working recipe rather than derive. | 
+Then:
+uvx sparkrun run ./qwen38-27b-fp8-vllm.yaml
+The official FP8 checkpoint is 29GB, instanttensor loads the weights in under 5 seconds once cached, and FlashInfer picks the xqa decode backend on sm121 with FP8 KV cache. Changes from the 3.6 recipe: I dropped the qwen3.6-specific chat template mods (3.8 ships a correct template) and set max_model_len to 128K, which is plenty while leaving KV headroom.
+The numbers, measured with llama-benchy 0.4.0 (the same tool Spark Arena standardizes on), pp2048/tg128 at depth 0:
+| Concurrency | Prefill pp2048 (t/s) | Decode tg128 aggregate (t/s) | Decode per request (t/s) | 
+|---|---|---|---|
+| 1 | 1,914 | 8.2 | 8.2 | 
+| 2 | 1,305 | 16.1 | 8.2 | 
+| 5 | 540 | 36.3 | 7.8 | 
+| 10 | 627 | 57.9 | 7.2 | 
+Two things jump out:
+- vLLM's prefill is 2.3x llama.cpp's (1,914 vs 837 t/s). The FlashInfer path on sm121 is doing its job.
+- vLLM's single-stream decode (8.2 t/s) is SLOWER than llama.cpp's (11.6 t/s). This is not a vLLM problem, it is arithmetic: the FP8 checkpoint streams 28.75GB per token, the Q4_K_XL GGUF streams 16.7GB. On a bandwidth-bound box the smaller quant wins single-stream, always. What vLLM buys you is batching: 10 concurrent requests get 57.9 t/s aggregate, because one weight-streaming pass now feeds 10 tokens instead of 1.
+So the honest serving decision tree on a Spark: single user chatting → llama.cpp with the smallest quant you can tolerate quality-wise. Serving a team or agents in parallel → vLLM FP8.
+Not everything works yet. When I pushed 10 concurrent requests at 32K context depth, the engine effectively wedged: requests admitted one at a time, prefill bursts healthy at ~3,277 t/s, but aggregate generation collapsed to 0.2-0.6 t/s and sat there. It had not crashed, it was just stuck. Short-context concurrency: fine. Single-stream: fine (numbers below). Concurrent + deep context: pathological, at least in this nightly build with the hybrid DeltaNet architecture.
+At low concurrency, deep context is actually where this architecture shines. Measured at 32,768 tokens of context depth:
+| Config | Value | 
+|---|---|
+| Prefill into 32K context (c=1) | 534-700 t/s | 
+| Decode at 32K context (c=1) | 7.9 t/s | 
+| Decode at 32K context (c=2, aggregate) | 15.1 t/s | 
+The decode number is the one to notice here: 8.2 t/s at zero context, 7.9 t/s at 32K context, a 3% drop. On a conventional full-attention model the KV cache reads grow with context and decode sags noticeably; here 48 of the 64 layers are linear attention with constant-size state, so decode speed is nearly flat in context depth. For long-document and agentic workloads on local hardware, that flatness matters more than the headline number.
+This is what day zero actually looks like: the happy paths work because the architecture class was already supported, and the corner cases (linear-attention state management under concurrent long-context load) still need the engines to catch up. If you are evaluating this model for production serving, test YOUR context/concurrency profile before committing.
+GB10 is a Blackwell chip, and Blackwell has native FP4 tensor cores (NVFP4 being NVIDIA's 4-bit float format, covered properly in Day 4), so the natural question is whether the NVFP4 quant (unsloth/Qwen3.8-27B-NVFP4, ~16GB) buys real speed. Same recipe as above with the model swapped, and FlashInfer autotuned 46 fp4_gemm kernel configs on first boot. It does:
+| Concurrency | Prefill pp2048 (t/s) | Decode tg128 aggregate (t/s) | Decode per request (t/s) | 
+|---|---|---|---|
+| 1 | 1,794 | 11.5 | 11.5 | 
+| 2 | 2,393 | 21.6 | 11.0 | 
+| 5 | 2,719 | 49.8 | 10.5 | 
+| 10 | 3,999 | 84.3 | 9.6 | 
+NVFP4 ties llama.cpp's single-stream decode (11.5 vs 11.6, both stream ~16GB of weights, the physics is consistent), and wins everything else: 84.3 t/s aggregate decode at concurrency 10 (46% over FP8's 57.9), and batched prefill that scales UP with concurrency to nearly 4,000 t/s where FP8's fell. If you serve this model on a Spark, NVFP4 is the recipe.
+The quality tradeoff of 4-bit quantization is real and workload-dependent; benchmark your own evals before standardizing on it.
+The numbers in this post are reproducible: I submitted the NVFP4 run to Spark Arena, the community leaderboard where GB10 owners run the same standardized llama-benchy profile (pp2048/tg128, depths 0 to 100K, concurrency 1/2/5/10) and publish results with the full recipe attached. Submission sub1786754097881, status Completed. Grab the recipe from the leaderboard and you should land on the same numbers.
+Two full-grid results worth highlighting: decode at 100K context depth is still 9.8 t/s single-stream (15% below zero-context, at ONE HUNDRED THOUSAND tokens of context), and the 32K-deep concurrency-10 cell that wedged FP8 completed fine on NVFP4 at 63.1 t/s aggregate.
+ollama pull qwen3.8 failed all afternoon with "pull model manifest: file does not exist", and then Ollama shipped v0.32.12 the same day the weights landed, with qwen3.8 in the library: 27b tag, 18GB, 256K context, vision, thinking mode on by default. Older Ollama versions (including 0.32.11 from a day earlier) refuse the pull with a "requires a newer version" error, so upgrade first.
+OLLAMA_HOST=127.0.0.1:11435 ollama pull qwen3.8:27b   # 18GB, Q4_K_M
+Measured the same way as my previous Spark posts (temperature 0, 3 runs, numbers from Ollama's own eval counters):
+| Metric | Result | 
+|---|---|
+| Prefill (~2,200 token prompt, cold) | 731 t/s | 
+| Decode (200 tokens) | 26.5 t/s | 
+Wait. 26.5 t/s decode, when llama.cpp does 11.6 on the same-size Q4 and the bandwidth ceiling says ~16? The answer is in the model config Ollama ships: draft_num_predict 4, and the runner launches with --spec-type draft-mtp. The Ollama build of Qwen3.8 includes the model's multi-token prediction head and turns speculative decoding ON by default, so each weight-streaming pass validates up to 4 drafted tokens. Same trick their Nemotron builds used. The plain unsloth GGUF I benchmarked in llama.cpp does not carry the MTP head, so it pays full price per token.
+That makes Ollama the single-stream champion of the day, and it did it with zero flags. Credit where due: they also default the context to 262K on this box (vram-based default) and the vision projector is wired up.
+Here is the day-zero picture across all the engines in one chart (the vLLM MTP and SGLang numbers further down came later):
+One operational note: the GB10 needs Ollama's cuda_v13 runner. My first attempt loaded the model on 100% CPU (7.5 t/s decode) because of a botched duplicate server start, so check ollama ps says 100% GPU before you trust any numbers.
+The GGUF ships with the vision projector and llama.cpp loads it automatically, so I gave the model the chart you just scrolled past, the one measuring the model itself, and asked what it shows. It correctly identified the hardware, both metric panels, every engine and quantization in the comparison, the color coding, and the footnote about bandwidth-bound decode. Then it started reading the exact numbers back to me.
+There is something pleasingly recursive about a model reading a chart of its own decode speed at 11.6 t/s, which is the llama.cpp number on that chart, in the engine it was running in while it read it. The image cost 1,470 prompt tokens, and vision decode runs at effectively the same speed as text.
+The Spark's memory is unified, and CUDA sees essentially all of it: 124,609 MiB, which is 121.7 GiB of the 128GB. That is the whole appeal, a 27B in bf16 fits without quantization. But it also means inference engines fight over the same pool: my vLLM launch failed with "Free memory 74.82/121.69 GiB is less than desired 0.8 utilization (97.35 GiB)" because the llama.cpp server was still resident. On a discrete-GPU box you would notice immediately; on unified memory it is easy to forget a container is holding 18GB. docker ps before you launch.
+Also the eternal Spark reminder: nvidia-smi cannot report memory usage on GB10 (Not Supported), use free -h.
+I sat on this post for three days and the ecosystem moved fast, so here is the update. An official Spark Arena recipe landed with MTP speculative decoding for vLLM (speculative_config {"method": "mtp", "num_speculative_tokens": 3}), the same trick Ollama shipped on day one. The gains are real:
+| Config | Single-stream tg128 | c10 aggregate | 
+|---|---|---|
+| vLLM NVFP4 plain | 11.5 t/s | 84.3 t/s | 
+| vLLM NVFP4 + MTP | 22.0 t/s | 105.8 t/s | 
+| vLLM FP8 + MTP | 13.8 t/s | 55.8 t/s | 
+| Ollama Q4 (MTP default) | 26.5 t/s | n/a | 
+NVFP4 + MTP at 105.8 t/s aggregate is the best serving number anything has produced on my Spark. Ollama still holds single-stream.
+Now the honest part, and please read this before you run the MTP recipes at long context: twice in a row, the MTP config hard-rebooted my entire Spark at exactly the same benchmark cell (16K context, 2 concurrent requests), once on FP8 and once on NVFP4. Not a container crash, a full machine reset, with the journal cut off mid-line and no panic trace, which points at a GPU/SoC lockup. The non-MTP configs ran the same cell and the full 28-cell grid for 6.5 hours without a hiccup. Environment: GB10, driver 580.159.03, kernel 6.17.0-1018-nvidia, the spark-arena vLLM nightly. Until this is understood, treat MTP on vLLM as short-context-only on this box. I will update here when I know more.
+SGLang was the last officially recommended engine I had not run, so I adapted the qwen3.5-27b-fp8 sglang recipe the same way. First attempt: the server came up healthy, answered every request, and produced complete token soup ("visit visit visits 訪...逻辑逻辑logic..."). Disabling the recipe's NEXTN speculative config changed nothing. The actual culprit was the pinned container image, an SGLang dev build created before Qwen3.8 existed: it loads the new checkpoint without a single warning and generates garbage. Swapping to upstream lmsysorg/sglang:latest-cu130 fixed it instantly.
+The scary part is that the health check was green and the API answered every request the whole time - a crash at least tells you something is wrong, silent garbage does not. If you inherit a recipe with a pinned image, coherence-test the output before you benchmark anything.
+Numbers on the working upstream build (FP8, no speculation):
+| Cell | SGLang | vLLM FP8 (for comparison) | 
+|---|---|---|
+| Prefill pp2048 (c=1) | 1,225 t/s | 1,914 t/s | 
+| Decode tg128 (c=1) | 7.7 t/s | 8.2 t/s | 
+| Decode c=10 aggregate | 54.3 t/s | 57.9 t/s | 
+| Decode at 16K context (c=1) | 7.3 t/s | ~7.9 t/s | 
+Same shape as vLLM, a few percent behind everywhere on this build, and the same context-flatness.
+Then I re-enabled NEXTN speculation (SGLang's MTP equivalent) on the working upstream build, and this is where SGLang earns its seat:
+| Cell | SGLang FP8 | SGLang FP8 + NEXTN | vLLM FP8 + MTP | 
+|---|---|---|---|
+| Decode tg128 (c=1) | 7.7 t/s | 13.4 t/s | 13.8 t/s | 
+| Decode c=10 aggregate | 54.3 t/s | 71.0 t/s | 55.8 t/s | 
+| Decode at 16K context (c=1) | 7.3 t/s | 10.3 t/s | 14.4 t/s | 
+Speculation on FP8 gives SGLang almost exactly vLLM's MTP single-stream number (same weights, same trick), and its speculative scheduler scales better under batch: 71 t/s aggregate at concurrency 10 where vLLM's MTP drops to 56. If you see people posting bigger SGLang numbers than mine from earlier in this post, this is why: speculation on versus off. The overall throughput crown still belongs to vLLM NVFP4+MTP, because the 4-bit quant halves the weight traffic that everything else queues behind. And for the record, SGLang with speculation survived the 16K single-stream cell; I deliberately did not run speculation at deep context plus concurrency, the combination that hard-rebooted the box twice under vLLM.
+While I was sitting on this draft, a post by @0xBakeer went around claiming 75 tok/s single-stream and 256 tok/s across 16 parallel requests, on the same model, on the same machine. My first reaction was that it contradicted everything above. It does not, and reproducing it taught me the most useful lesson in this post.
+The lever is a dedicated draft model: "DSpark" (community-built, 5 layers, ~2.6GB) proposes blocks of tokens and the full model verifies them in one weight-read. Same speculative idea as MTP, but the drafter is 3x cheaper per guess. Their recipe repo is excellent, annotated flag by flag, so I ran it verbatim on my Spark (vLLM v0.27.1 stable, FP8, DSpark k=7):
+| Workload | Their number | My Spark | 
+|---|---|---|
+| Edit-heavy (98.5% draft acceptance) | 46.8 t/s | 45.0-48.6 t/s | 
+| Fresh generation (~30% acceptance) | n/a | 20.8 t/s | 
+| llama-benchy free-gen, single stream | n/a | 17.2 t/s | 
+| llama-benchy, 10 concurrent aggregate | n/a | 65.6 t/s | 
+Reproduced within noise. Their 75 t/s headline is the 4-bit checkpoint plus a deeper draft on the edit-heavy workload, and it is real too.
+The lesson: speculative decoding's speedup is the drafter's acceptance rate, and acceptance is a property of YOUR WORKLOAD, not the model. The same server on the same box is 3.5x faster editing existing code (where the draft just copies the prompt) than writing new code (where it genuinely guesses). So a single tokens-per-second number without its workload attached is close to meaningless, including the ones in this post: my numbers are free-form generation, the pessimistic end of the range. If your work is editing, refactoring, or structured rewriting, multiply accordingly.
+Practical takeaway for single-user Sparks: DSpark k=7 on the official FP8 checkpoint beats every configuration I measured above (17.2 t/s on the neutral benchmark, 45+ on edit work) with zero quality risk, since verification discards every wrong guess. And it ran on the stable vLLM release without the hard reboot the nightly's MTP path gave me, though I have not dared re-run the exact crash cell.
+Qwen3.8-27B on a DGX Spark, one day in:
+- Day-zero support was real everywhere: llama.cpp immediately, vLLM immediately, Ollama by end of day with v0.32.12. The qwen3_5 architecture class being pre-supported did most of the work.
+- Best single-stream chat: Ollama, 26.5 t/s, because it ships the MTP head with speculative decoding on by default. Nobody else does yet.
+- Best serving throughput: vLLM NVFP4, 84.3 t/s aggregate at 10 concurrent, prefill scaling to 4,000 t/s.
+- The architecture's superpower on this hardware is context flatness: on NVFP4, decode runs 11.5 t/s at zero context, 10.9 at 32K, and still 9.8 at 100K. Long documents are effectively free at decode time.
+- Rough edge: FP8 wedged under concurrent deep-context load in the current vLLM nightly. NVFP4 did not. Test your traffic profile.
+A dense 27B with native vision and 262K context that runs at usable speeds on a desk box, with Apache 2.0 attached, is exactly what this hardware was built for. The MoE models are still faster chatters, but in my opinion this is the most capable thing my Spark has run so far.
+Huge thanks to the unsloth team for having the GGUF and NVFP4 quants up within hours, the Ollama team for shipping same-day support, and the Spark Arena maintainers (Drew Botwinick, Eugene Rakhmatulin, Raphael Amorim) whose recipes and containers turned a day-zero model into a config-file edit. If you have a Spark, give these recipes a try and let me know what numbers you get - and submit them to Spark Arena so we can compare notes.
+- Model: Qwen/Qwen3.8-27B and Qwen/Qwen3.8-27B-FP8
+- Quants: unsloth/Qwen3.8-27B-GGUF, unsloth/Qwen3.8-27B-NVFP4
+- Ollama: ollama.com/library/qwen3.8 (needs v0.32.12+)
+- Tools: sparkrun, llama-benchy, Spark Arena
+- My submission: sub1786754097881 on the Spark Arena leaderboard

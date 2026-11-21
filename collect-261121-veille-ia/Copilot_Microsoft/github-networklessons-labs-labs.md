@@ -1,0 +1,73 @@
+---
+id: collect-261121-veille-ia/copilot-microsoft/github-networklessons-labs-labs
+title: "GitHub - networklessons/labs: Labs"
+domain: copilot-microsoft
+role: reference
+task: article
+actors: ["Microsoft"]
+dates: []
+keywords: ["labs", "contains", "topologies", "cisco", "containerlab", "network", "github", "networklessons"]
+source: https://github.com/networklessons/labs
+source_anchor: ""
+source_lines: [1, 59]
+section: "Copilot_Microsoft"
+---
+This repository contains topologies for emulators such as Cisco CML, EVE-NG, and Containerlab. It also contains Ansible playbooks.
+
+Contains playbooks you can use to run against network devices.
+
+Contains topologies you can run in Containerlab.
+
+**Total Containerlab Labs: 79**
+
+| Category | Labs | 
+|---|---|
+| 3-tier-test | 1 | 
+| bgp | 7 | 
+| cisco | 2 | 
+| dhcp | 1 | 
+| eigrp | 1 | 
+| ip-services | 12 | 
+| isis | 1 | 
+| mpls | 2 | 
+| ospf | 22 | 
+| sdn | 2 | 
+| topologies | 3 | 
+| vpc | 1 | 
+| vxlan | 24 | 
+
+Contains topologies you can run in Cisco CML.
+
+**Total CML Labs: 443**
+
+| Category | Labs | 
+|---|---|
+| ASA | 26 | 
+| BGP | 37 | 
+| CEF | 1 | 
+| DMVPN | 24 | 
+| EIGRP | 22 | 
+| Etherchannel | 3 | 
+| IP Routing | 10 | 
+| IP Services | 4 | 
+| IPSec | 7 | 
+| IPv6 | 22 | 
+| IS-IS | 10 | 
+| LISP | 1 | 
+| Labs | 7 | 
+| MPLS | 49 | 
+| Multicast | 25 | 
+| Network Management | 2 | 
+| Network Services | 39 | 
+| OSPF | 44 | 
+| Programmability | 6 | 
+| Quality of Service | 7 | 
+| RIP | 8 | 
+| Redistribution | 3 | 
+| Security | 23 | 
+| Switching | 30 | 
+| Templates | 24 | 
+| Troubleshooting | 4 | 
+| VXLAN | 5 | 
+
+Contains topologies for Cisco's deprecated VIRL. These can be imported into Cisco CML.

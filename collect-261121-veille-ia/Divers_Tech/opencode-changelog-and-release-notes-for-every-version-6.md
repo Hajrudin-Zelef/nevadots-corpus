@@ -1,0 +1,44 @@
+---
+id: collect-261121-veille-ia/divers-tech/opencode-changelog-and-release-notes-for-every-version-6
+title: "OpenCode | Changelog and release notes for every version"
+domain: divers-tech
+role: reference
+task: article
+actors: []
+dates: []
+keywords: ["opencode", "session", "every", "background", "model", "changelog", "still", "version"]
+source: https://opencode.ai/changelog
+source_anchor: ""
+source_lines: [1, 30]
+section: "Divers_Tech"
+---
+# Changelog
+
+New updates and improvements to OpenCode
+
+1. GPT-6.2 models don't cache a system prompt sent in the Responses `instructions` field, so every step re-billed it as uncached input. OpenCode now sends it as a leading developer message on every Responses route, including OpenAI (API key and ChatGPT sign-in), GitHub Copilot, Zen, Azure and OpenRouter, so it is cached from the second step on.#64542#64544### Fixes
+  - Core`webfetch` structured output no longer repeats the`url` and`format` it was called with.#64534
+2. Core
+3. A shell command still running when its timeout expires now moves to the background instead of being killed, so long builds and test runs finish and report back. A foreground `timeout: 0` now means the default 120 seconds.#63699As a session nears automatic compaction, the summary is now written in the background, so your next prompt doesn't pause for it. Set `compaction.background: false` to turn it off; a background summary that ends up unused still costs tokens.#64290GPT 6.2 Sol and GPT 6.2 Astra, plus their fast variants, now show up in the model picker when you sign in with ChatGPT.#64508 Open **Settings âº Extensions** , click**Check for updates** , then**Update** on any plugin with a new version.#64511Selecting code in diff and file viewers now just selects it, so you can copy it, and an **Add comment** toolbar appears beside the selection.#64410
+4. OpenCode 1 now offers the upgrade to OpenCode 2.0. OpenCode 2 downloads in the background and installs only when you choose: Restart to upgrade, Upgrade on quit, or Later. Your sessions, projects, and settings are kept. Plugins made for OpenCode 1 need an update. ### Fixes
+  - CoreSessions with many images no longer send oversized requests. When the images in a session's history pass 25 MiB, the oldest are replaced with a placeholder.
+  - CoreA provider error for a request body that is too large now starts compaction and a retry instead of failing the turn.
+5. Subagents now return immediately, continue in the background, and report back whenever they become idle. You can keep working in the parent session while multiple subagents run concurrently.#63382 The TUI now summarizes each run of tool calls and thoughts into one collapsible activity row, so the answer is easier to follow. To see every step again, set **Verbosity** to`medium` or`high` in settings, or set`session.verbosity` in your TUI config; an existing setting is kept.#63207In the desktop app, open **Jump to message** from the command palette or press`Cmd+Alt+G` (`Ctrl+Alt+G` on Windows and Linux) to search prompts across the current session and jump directly to one.#63585
+6. Pick **Auto** in the model picker when your Copilot account has an Auto pool, and Copilot's router chooses the model for each session at the Auto discount. If routing fails, OpenCode falls back to the account's default chat model.#62997Right-click a side panel tab and choose **Close tabs to the right** .`âW` now closes side panel tabs wherever focus is,`â¥âW` or`Ctrl+Alt+W` always closes the session tab, and`ââ§T` reopens the last closed tab of either kind where it was.#62922Open the menu on a tab, Home row, project row or inbox card and choose **Mark as unread** to keep its dot until you next visit.#62889### Breaking changesThis affects code that imports #63011`@opencode/ai` directly. Read`response.images[0]` instead of`response.image` .On a Location that is still loading plugins, #62796#63040`agent.list` returns the agents loaded so far, and`integration.list` ,`usage.limits` ,`vcs.init` ,`rpc.call` and`artifact.*` no longer wait up to 5 seconds. Entries and actions that a plugin provides appear when it finishes loading, so refresh on the matching`*.updated` event. Model, provider,`generate.*` ,`voice.*` and`websearch.query` endpoints still wait.
+7. Turn on pooling for an MCP server to share one connection across projects with the same setup, so you run fewer processes and start faster.#61185 GUI plugins can now add color themes, render or add actions to code blocks, and use native settings and menu components.#61485#61533#61527#61509 On phones and tablets, composer actions now sit in a touch dock above the keyboard with larger buttons.#61773 Run `opencode run -w` to start the session in a new git worktree, or`--worktree=<name>` to name it.#60712Add `--archived` to`opencode run` to keep scripted and CI sessions out of your inbox and session lists.#61270
+8. Press `ââ¥O` on macOS or`Ctrl+Alt+O` on Windows and Linux to choose a worktree, and`ââ¥B` or`Ctrl+Alt+B` to choose its base branch.`ââ§X` or`Ctrl+Shift+X` now toggles shell mode in the composer.#60713Hold `â` or`Ctrl` in the quote popup to turn its checkmark into send, or press`âEnter` or`Ctrl+Enter` , to send just that quote and comment while leaving the rest of the composer untouched.#60640Set `"compaction": { "buffer": "20%" }` in`opencode.json` to keep a share of each model's context window free, so one setting fits models with small and large windows. Token counts still work.#60647### Improvements
+  - CoreWhen `read` misses because a folder is missing, the error names that folder and the nearest one that exists.#60688
+  - CoreWhen `edit` can't find`oldString` , the error shows the file's closest lines, or says the change is already there.#60689
+  - CoreCalls to a tool named `bash` now run as`shell` instead of failing, with the same permissions. A plugin tool actually named`bash` still takes precedence.#60687
+  - DesktopAdded flat input surfaces and a compact input size.#60598
+9. CoreWhen 
+10. Desktop terminals now belong to the session, survive server restarts with their scrollback, and stay synchronized with the TUI and other windows. Renamed terminals also keep their names across restarts.#60346 Enable `"experimental": { "artifacts": true }` in`opencode.json` to let agents publish, update, and serve HTML or static artifacts through the built-in local provider or plugin-provided storage.#60351Select **Claude Agent** from the provider picker to copy`claude auth login` , install Claude Code, and verify the connection before continuing to model selection.#60603While creating a worktree, open **Choose base branch** with`ââ¥.` on macOS or`Ctrl+Alt+.` on Windows and Linux. The command is also available in the command palette and Settings âº Shortcuts.#60579### Improvements
+  - CoreMade enabled schedules run under `opencode serve` and coordinated multiple server processes so a schedule fires only once. Schedules remain opt-in through`experimental.schedules` .#60478
+  - CoreRaised OpenCode Go limits for DeepSeek V4.1 Flash.#60625
+  - DesktopSimplified the session location popover and made long paths easier to read.#60492
+  - SDKExtended `client.experimental.persistentPty.update` to rename terminals or clear a user title, and exposed`userTitle` plus`persistent-pty.updated` events.#60329
+11. CoreMade enabled schedules run under 
+12. Install Claude Code, run `claude auth login` , then select**Claude Agent** in`/connect` to use your Claude Code login and models.#58782Streaming replies and long conversations now do much less rendering work.#60489#60521#60513#60481 Fixes side-panel tabs, repeated "Session not found" toasts, and **Open file** over HTTP.#60430#60436#60459#60462### Breaking changes
+ #60385`@opencode/plugin` now requires`@opentui/core` and`@opentui/solid` 0.8.0 or later. In OpenTUI 0.8, a ScrollBox's`wrapper` ,`viewport` ,`content` , and scrollbars are facade objects instead of renderables, and a custom`RenderContext` must implement`clock` and`onAnimationTick` . See the OpenTUI 0.8.0 release notes.
+ #60315`integration.use` now controls which integration accounts can be used, and the new`mcp.use` ,`skill.use` , and`plugin.use` actions control MCP servers, skills, and plugins. Rules with the old`mcp:` ,`skill:` , and`plugin:` resource prefixes are converted automatically, but a bare`integration.use` rule no longer applies to MCP servers, skills, or plugins.
+13. When a connected provider supports image models, agents can now use `experimental_image_generate` without additional configuration. Set its preferred model through`experimental.image_generate.model` .#60258On the new-session screen, click the current Git branch to open that projectâs âRun session inâ worktree picker directly.#60263 Timeline quotes, terminal quotes, and browser annotations now share a compact optional-comment editor, while source highlights remain attached to local drafts.#60164

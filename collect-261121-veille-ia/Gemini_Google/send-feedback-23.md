@@ -1,0 +1,52 @@
+---
+id: collect-261121-veille-ia/gemini-google/send-feedback-23
+title: "Send Feedback"
+domain: gemini-google
+role: reference
+task: article
+actors: ["Google"]
+dates: []
+keywords: ["monitor", "ssl-vpn", "user", "click", "users", "column", "table", "send"]
+source: https://docs.fortinet.com/document/fortigate/7.4.0/administration-guide/28104/ssl-vpn-monitor
+source_anchor: ""
+source_lines: [1, 38]
+section: "Gemini_Google"
+---
+# SSL-VPN monitor
+
+# SSL-VPN monitor
+
+The SSL-VPN monitor displays remote user logins and active connections. You can use the monitor to disconnect a specific connection. The monitor will notify you when VPN users have not enabled two-factor authentication.
+
+
+###### To view the SSL-VPN monitor in the GUI:
+
+1. Go *Dashboard > Network* .
+2. Hover over the *SSL-VPN* widget, and click*Expand to Full Screen* .The*Duration* and*Connection Summary* charts are displayed at the top of the monitor.
+
+|  | To filter or configure a column in the table, hover over the column heading and click the *Filter/Configure Column* button. | 
+
+###### To disconnect a user:
+
+1. Select a user in the table.
+2. In the table,  right-click the user, and click *End Session* . The Confirm window opens.
+3. Click *OK* .
+
+###### To monitor SSL-VPN users in the CLI:
+
+# get vpn ssl monitor
+
+Sample output
+
+SSL VPN Login Users:
+
+Index User Group Auth Type Timeout From HTTP in/out HTTPS in/out
+
+0 amitchell TAC 1(1) 296 10.100.64.101 3838502/11077721 0/0
+
+1 mmiles Dev 1(1) 292 10.100.64.101 4302506/11167442 0/0
+
+
+SSL VPN sessions:
+
+Index User Group Source IP Duration I/O Bytes Tunnel/Dest IP

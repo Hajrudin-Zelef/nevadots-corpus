@@ -1,0 +1,63 @@
+---
+id: collect-261121-veille-ia/claude-anthropic/anthropic-makes-claude-codes-auto-mode-default-for-paid-users-2
+title: "Anthropic makes Claude Code’s auto mode default for paid users"
+domain: claude-anthropic
+role: reference
+task: article
+actors: ["Anthropic"]
+dates: []
+keywords: ["mode", "auto", "claude", "users", "default", "permission", "more", "cios"]
+source: https://www.infoworld.com/article/4207959/anthropic-makes-claude-codes-auto-mode-default-for-paid-users.html
+source_anchor: ""
+source_lines: [1, 49]
+section: "Claude_Anthropic"
+---
+Anthropic is making Claude Code’s auto mode the default for its paid and enterprise users, allowing the coding agent to execute more actions without requiring developers to approve each one.
+
+“Starting August 14, 2026, auto mode becomes the default permission mode for new sessions on Pro, Max, and Team plans,” the company wrote in the coding agent’s documentation, adding that the same change is planned for Claude Enterprise, API, and cloud platform users within the next month.
+
+That essentially means developers using those plans will no longer have to manually approve every tool call or action Claude Code wants to make while executing a task.
+
+Instead, each tool call is evaluated by an automated classifier designed to determine whether the action is safe to execute. Actions considered irreversible, destructive, or outside the agent’s environment can still be blocked, with Claude Code either attempting a safer approach or asking the developer for approval, the company wrote in a blog post.
+
+“If it can’t make progress — three blocks in a row, or twenty across a session — Claude Code falls back to manual approvals,” it explained.
+
+This reduction in manual intervention, Anthropic further added, is intended to make the coding agent more suitable for long-running tasks as well as cut down on “permission fatigue” that it says has been threatening to reduce its security posture.
+
+According to its internal data, Claude Code users typically approve 97% of permission prompts, while only 3% are rejected. It also found that 49.5% of active CLI users had created a Bash allow-rule by June, while 62% had used “bypassPermissions” or selected “don’t ask again” for Bash.
+
+In contrast, the default auto mode, in an Anthropic-controlled study involving 1,053 paid professional testers, caught 89% of deliberate dangerous commands compared to just 13.6% being detected by human reviewers.
+
+## More productivity but with tradeoffs
+
+Analysts too see auto mode as a step toward making coding agents more autonomous, but with tradeoffs.
+
+“Developers should see fewer permission pop-ups and spend less time watching Claude, meaning they can give it larger tasks and let it edit files, run tests, and execute routine commands with fewer interruptions. That way, developers can finish and ship more work using this mode because they aren’t constantly interrupted by approval windows,” said Pareekh Jain, principal analyst at Pareekh Consulting.
+
+However, that same classifier in auto mode that reduces permission pop-ups could also result in more latency for routine or quick tasks, as trusted workflows also pass through it, adding an extra execution step, noted Manoj Chandra Jha, principal analyst at Nord-IQ Research.
+
+Another tradeoff of reducing real-time approvals, according to Amit Kumar Jena, AI development manager at IT consulting firm Kanerika, is that it could make it harder for enterprises to maintain effective human oversight as agents take on longer-running tasks. “Reviewing four hours of unattended agent output is a harder skill, and most teams haven’t built it,” Jena said.
+
+## Better governance for CIOs
+
+For CIOs, though, auto mode can strengthen governance in software development.
+
+Rather than policing individual developer actions, CIOs can define permission boundaries centrally and have the classifier enforce them across agent sessions, said Jha.
+
+That makes the current opt-in period for Enterprise and API users particularly important, as CIOs can establish permission policies before auto mode becomes the default, Jha added.
+
+At the same time, however, CIOs also need to understand the limits of those policies, Jena pointed out.
+
+“Auto mode has three levels of restrictions, with hard-deny rules blocking actions unconditionally, while soft-deny rules can be overridden by a developer’s allow rule. As a result, CIOs should use hard-deny or managed-settings rules for actions that must never be permitted,” he said.
+
+## Auto mode changes the security risk profile
+
+Those centralized policy controls, which Anthropic claims should make Claude Code more secure, according to analysts, change the security risk profile of the coding agent rather than eliminate risk.
+
+While the classifier and the policy controls reduce the risk of human failures or everyday risks, it also creates a single point of failure, Jain said.
+
+That means if that single point has a blind spot or an attack manages to bypass it, the agent could still execute harmful actions without human approval or recognition, Jha echoed.
+
+That said, Anthropic is not removing developers’ ability to control how Claude Code operates.
+
+Users who have already set a different default may receive a one-time prompt asking whether they want to move to auto mode, while those who have pinned their existing preference will see no change. The company is also making the transition easier by absorbing the small amount of additional token usage generated by the classifier for Pro, Max, and Team users, with the change effective immediately.

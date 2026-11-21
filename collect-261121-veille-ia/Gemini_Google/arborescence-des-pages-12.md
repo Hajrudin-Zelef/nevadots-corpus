@@ -1,0 +1,43 @@
+---
+id: collect-261121-veille-ia/gemini-google/arborescence-des-pages-12
+title: "Arborescence des pages"
+domain: gemini-google
+role: reference
+task: article
+actors: ["Google"]
+dates: []
+keywords: ["test", "device", "ping", "bandwidth", "duration", "tests", "arborescence", "pages"]
+source: https://help.mikrotik.com/docs/spaces/ROS/pages/8978571/Speed+Test
+source_anchor: ""
+source_lines: [1, 29]
+section: "Gemini_Google"
+---
+# Introduction
+
+The Speed Test is an easy test tool for measuring ping, jitter, TCP and UDP throughput from one MikroTik device, to another. The "speed-test" command is based on the Ping Tool and Bandwidth Test. In order to use this command - Bandwidth test server needs to be accessible.
+
+# General interface properties
+
+The speed-test is based on five configurable properties:
+
+- address - IP address of host;
+- connection-count - If a device has more than 20 cores - core count will be used (default is 20);
+- password - Password for the remote device;
+- test-duration - Duration for each test (*By default: 5 tests * 10 sec duration + 1sec pause between each test = 55sec* );
+- user - Remote device username;
+
+# Configuration Example
+
+Bandwidth and speed tests should be conducted through the devices, not on them to ensure real-life simulation and not to overload the CPU on the devices under testing,(DUT) due to the traffic generating process.
+
+To run a simple test from device A (192.168.88.1) to device B (192.168.88.2):
+
+If any of device CPU utilization during test reaches 100% warning message will appear:
+
+"test-duration" parameter allows changing the duration of all of the 5 tests:
+
+- ) Ping test with 50ms delay
+- ) TCP receive
+- ) TCP send
+- ) UDP receive
+- ) UDP send

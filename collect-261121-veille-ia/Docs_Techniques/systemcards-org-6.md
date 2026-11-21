@@ -1,0 +1,268 @@
+---
+id: collect-261121-veille-ia/docs-techniques/systemcards-org-6
+title: "systemcards.org"
+domain: docs-techniques
+role: reference
+task: article
+actors: []
+dates: ["2026-11-20"]
+keywords: ["gemini", "model", "safety", "hydrogen", "card", "security", "report", "coming"]
+source: https://cards.douwmarx.com/docs/google-deepmind-gemini-4-hydrogen-model-card
+source_anchor: ""
+source_lines: [1, 254]
+section: "Docs_Techniques"
+---
+## Gemini 4 Hydrogen — Model Card
+
+### Version history
+
+| Fetched | Content type | Size | Fingerprint | Original | What changed | 
+|---|---|---|---|---|---|
+| 2026-11-20T06:21:32Z | application/pdf | 349,786 | `bf8ea4a12fcb9cea` | archived copy | The Gemini 4 Hydrogen Safety & Security Report, previously marked coming soon, is now published and linked from the card: the Safety & Security section now reads Please see the full Safety & Security Report for Gemini 4 Hydrogen here, and the frontier-safety and mitigation sections drop their (coming soon) notes. The CCL summary table is unchanged apart from reflow. | 
+| 2026-11-13T06:23:21Z | application/pdf | 345,732 | `54bec25be9cdc436` | archived copy | initial version | 
+
+### Provenance
+
+## Show 3 changelog entries (when, how, and why this entry changed)
+
+1. 
+        2026-11-13T06:23:21Z
+        **add** run 2026-11-13T06:17Z-local · agent · lead: phase_a
+          Official Google DeepMind model card for Gemini 4 Hydrogen, a new Gemini 4 series model launched 2026-11-12 to all Gemini API, AI Studio, Gemini app and Search users (announced in Google's 'Introducing Gemini 4 Hydrogen' post). It is a distinct release (adapted from Gemini 4 Carbon but a separately named, priced, and deployed model) with its own card. The card reports internal automated safety evaluation deltas versus Gemini 3.8 Flash (text, multilingual, image-to-text safety, tone, unjustified refusals) and a Frontier Safety Framework assessment: an MCC assessment versus Gemini 4 Argon plus targeted CBRN (biological) and cybersecurity critical-capability testing, finding the CCLs not reached but the alert thresholds reached in both domains. The full Safety & Security Report is marked 'coming soon' and should be proposed separately when published. The PDF is the full card; the deepmind.google HTML page is the web version with the same content. Publication date taken from the launch post byline (Nov 12, 2026); the card itself says 'Published: November 2026'.Criteria: document_retrievable=pass; min_publication_date=pass; publisher_on_allowlist=pass · attested about_a_specific_model_or_eval=true · attested covered_model_class=true · attested distinct_model_release=true · attested notable_release=true · attested primary_source=true
+2. 
+        2026-11-20T06:21:32Z
+        **new_version** run 2026-11-20T06:17Z-local · monitor · lead: monitor
+          Content fingerprint changed on scheduled re-fetch
+3. 
+        2026-11-20T06:26:46Z
+        **field_update** run 2026-11-20T06:17Z-local · agent · lead: manual
+          change_summary: null → "The Gemini 4 Hydrogen Safety \u0026 Security Report, previously marked coming soon, is now published and linked from the card: the Safety \u0026 Security section now reads Please see the full Safety \u0026 Security Report for Gemini 4 Hydrogen here, and the frontier-safety and mitigation sections drop their (coming soon) notes. The CCL summary table is unchanged apart from reflow."Diff v1167 to v1247 shows every 'coming soon' reference to the Safety & Security Report replaced with a live reference; the risk-domain table content is identical, only reflowed.
+
+### Extracted text
+
+## Show extracted text (from the latest fetched version; formatting is lossy — use the original for reading)
+
+```
+Gemini 4
+Hydrogen
+Model card
+Gemini 4 Hydrogen — Model Card
+Model Cards are intended to provide essential information on Gemini models, including
+known limitations, mitigation approaches, and safety performance. Model cards may be
+updated from time to time; for example, to include updated evaluations as the model is
+improved or revised. See the Google DeepMind site for a comprehensive list of model
+cards.
+Published: November 2026
+Model Information
+Description
+Gemini 4 Hydrogen brings cutting-edge intelligence to everyone — with speed and
+efficiency for everyday coding and agentic workflows. While our frontier models, Gemini
+4 Carbon and Gemini 4 Argon, are built for deep, long-horizon reasoning on your hardest
+problems, Hydrogen is built for rapid execution across diverse agentic workflows.
+Model dependencies
+Gemini 4 Hydrogen is adapted from Gemini 4 Carbon.
+Inputs
+Text strings (e.g., a question, a prompt, document(s) to be summarized), images, audio,
+and video files, with a combined input-output token context window of up to 1M.
+Outputs
+1M unified context window with up to 64K default synchronous output tokens / up to 1M
+via background long decode.
+Architecture
+Gemini 4 Hydrogen is adapted from Gemini 4 Carbon. For more information about the
+model architecture for Gemini 4 Hydrogen, see the Gemini 4 Carbon model card.
+                                                                                          1
+Model Data
+Training Dataset
+Gemini 4 Hydrogen is adapted from Gemini 4 Carbon. For more information about the
+training dataset for Gemini 4 Hydrogen, see the Gemini 4 Carbon model card.
+Training Data Processing
+Gemini 4 Hydrogen is adapted from Gemini 4 Carbon. For more information about the
+training data processing for Gemini 4 Hydrogen, see the Gemini 4 Carbon model card.
+Implementation and Sustainability
+Hardware
+Gemini 4 Hydrogen is adapted from Gemini 4 Carbon. For more information about the
+hardware for Gemini 4 Hydrogen and our continued commitment to operate sustainably,
+see the Gemini 4 Carbon model card.
+Software
+Gemini 4 Hydrogen is adapted from Gemini 4 Carbon. For more information about the
+software for Gemini 4 Hydrogen, see the Gemini 4 Carbon model card.
+                                                                                      2
+Distribution
+Gemini 4 Hydrogen is distributed in the following channels; respective documentation
+shared in line:
+   ●   Gemini app
+   ●   Gemini API
+   ●   Google Sheets
+   ●   Google AI Studio
+   ●   Gemini for business
+   ●   Google Antigravity
+   ●   Google Search
+Our models are available to downstream providers via an application program interface
+(API) and subject to relevant terms of use. There is no required hardware or software to
+use the model. For AI Studio and Gemini API, see the Gemini API Additional Terms of
+Service; for Gemini for business, see Google Cloud Platform Terms of Service. For more
+information, see Gemini Model API instructions, Gemini API quickstart, and Google Cloud
+documentation.
+Evaluation
+Approach
+We evaluated Gemini 4 Hydrogen across a range of benchmarks, including agentic
+coding, knowledge work, computer use, multimodal understanding, science and math,
+and reasoning.
+Additional benchmarks and details on approach, results and their methodologies can be
+found at: deepmind.com/models/evals-methodology/gemini-4-hydrogen.
+                                                                                        3
+Results
+Gemini 4 Hydrogen results as of November, 2026 are below:
+                                                            4
+Intended Usage and Limitations
+Benefit and Intended Usage
+Gemini 4 Hydrogen brings cutting-edge intelligence to everyone — with speed and
+efficiency for everyday coding and agentic workflows.
+It is particularly well-suited for applications that require:
+   ● fast, disciplined execution on its own or as sub-agents orchestrated alongside
+      frontier models
+   ● iterative repository coding and debugging
+   ● open-ended agentic execution
+   ● multimodal knowledge work
+   ● web development
+   ● adaptable speed and intelligence across four thinking levels
+   ● ready-to-go writing, research, and everyday work
+   ● connecting the dots and getting more tasks done
+   ● everyday prototyping and iteration
+Known Limitations
+Gemini 4 Hydrogen may exhibit some general limitations such as hallucinations. In
+addition to this, we are continually working to improve jailbreak resistance and have
+further strengthened mitigations across Frontier Safety. There may also be occasional
+slowness or timeout issues, and at times the model may use more tokens to maximize
+performance, especially at higher thinking levels. The knowledge cutoff for Gemini 4
+Hydrogen is March 2026, though in some domains the model’s knowledge may be less up
+to date.
+                                                                                       5
+Acceptable Usage
+Gemini 4 Hydrogen is adapted from Gemini 4 Carbon. For more information about the
+acceptable usage for Gemini 4 Hydrogen, see the Gemini 4 Carbon model card.
+Safety & Security
+Please see the full Safety & Security Report for Gemini 4 Hydrogen here.
+Evaluation Approach
+For more information about the evaluation approach for Gemini 4 Hydrogen, see the
+Gemini 4 Carbon model card.
+Safety Policies
+For more information about the safety policies for Gemini 4 Hydrogen, see the Gemini 4
+Carbon model card.
+Training and Development Evaluation Results
+Results for some of the internal safety evaluations conducted during the development
+phase are listed below. The evaluation results are for automated evaluations and not
+human evaluation or red teaming. Scores are provided as an absolute percentage
+increase or decrease in performance compared to the indicated model, as described
+below.
+Overall, Gemini 4 Hydrogen outperforms Gemini 3.8 Flash on multimodal content safety,
+while text-to-text and multilingual safety remain at a similarly high safe response rate
+within confidence intervals. Refusal tone is similar to Gemini 3.8 Flash, while unjustified
+refusals are higher, particularly for multimodal prompts. We mark improvements in
+bolded green and regressions in red.
+See the Gemini 4 Hydrogen Safety & Security Report for details.
+                                                                                              6
+                                                                 Gemini 4 Hydrogen
+ Evaluation                  Description                         vs. Gemini 3.8 Flash
+                                                                 (percentage point
+                                                                 increase/decrease)
+ Text to Text Safety        Automated content safety            +0.80pp
+ (higher is better)          evaluation measuring adherence
+                             to safety policies across text
+                             prompts
+ Multilingual Safety        Automated safety policy             +1.10pp
+ (higher is better)          evaluation across multiple
+                             languages
+ Image to Text Safety       Automated content safety            +7.00pp
+ (higher is better)          evaluation measuring adherence
+                             to safety policies with both
+                             images and text as inputs
+ Tone                       Automated evaluation measuring      -0.65pp
+ (higher is better)          objective, neutral, and
+                             non-preachy tone of model
+                             refusals
+ Unjustified-refusals       Automated evaluation measuring      +5.57pp
+ (lower is better)           over-refusals on benign or
+                             borderline prompts that can be
+                             safely fulfilled
+We continue to improve our internal evaluations, including refining automated evaluations
+to reduce false positives and negatives, as well as update query sets to ensure balance
+and maintain a high standard of results. The performance results reported above are
+computed with improved evaluations and thus are not directly comparable with
+performance results found in previous Gemini model cards.
+We expect variation in our automated safety evaluations results, which is why we review
+flagged content to check for egregious or dangerous material. Our manual review
+confirmed losses were overwhelmingly either a) false positives or b) not egregious.
+                                                                                          7
+Frontier Safety Assessment
+We evaluated Gemini 4 Argon and Carbon in line with the Frontier Safety Framework
+(April 2026) and reported the results in the respective Safety and Security Reports (Argon,
+Carbon). Gemini 4 Hydrogen is part of the Gemini 4 series of models. We conducted a
+Material Capability Change (MCC) assessment to understand whether Gemini 4
+Hydrogen has meaningful new capabilities or material increases in performance relative
+to the most recent model version subject to a critical capability assessment, which was
+Gemini 4 Argon. Gemini 4 Hydrogen did not show a material increase in general capability
+under our MCC assessment compared with Gemini 4 Argon and therefore a full suite of
+critical capability evaluations was not required in line with our FSF.
+As we could not rule out that Gemini 4 Argon and Carbon reached the CBRN CCL for
+biological information risk and the Cybersecurity CCL, we conducted targeted critical
+capability assessments of Gemini 4 Hydrogen in the CBRN and cyber domains to understand
+the inherent risk of the model, and found that Gemini 4 Hydrogen does not reach the CBRN or
+cyber CCLs, though it reaches the CCL alert thresholds for both domains. A summary of our
+assessment is outlined in the table below, with full results in the Gemini 4 Hydrogen Safety &
+Security Report.
+ Risk Domain and Threshold                                   T/CCL reached?
+ CBRN - Uplift TCL (Chemical, Radiological &                 TCL not reached (carried forward
+ Nuclear):                                                   from Argon). We continue to
+ Provides low to medium resourced actors uplift in           deploy mitigations.
+ reference scenarios, resulting in material risk of CBRN
+ attacks that could result in significant but not severe
+ harm.
+ CBRN - Uplift CCL (Biological):                             CCL not reached, following
+ Provides low to medium resourced actors uplift in           additional targeted testing. CCL
+ reference scenarios resulting in additional expected        alert threshold reached. We
+                                                             continue to deploy mitigations.
+ harm at a severe scale.
+ Cybersecurity - Uplift CCL:                                 CCL not reached, following
+ Provides sufficient uplift with high impact cyber attacks   additional targeted testing. CCL
+ for additional expected harm at severe scale.               alert threshold reached. We
+                                                             continue to deploy mitigations.
+ Harmful Manipulation - Uplift CCL:                          CCL not reached (carried forward
+ Possesses manipulative capabilities sufficient to enable    from Argon). We continue to
+ it to systematically and substantially change beliefs and   deploy mitigations.
+ behavior in identified high stakes contexts over the
+                                                                                                 8
+ course of interactions with the model, reasonably
+ resulting in additional expected harm at severe scale.
+ Loss of Control - Stealth and Situational Awareness         As Gemini 4 Hydrogen showed no
+ TCL:                                                        MCC over Gemini 4 Argon,
+ The instrumental reasoning abilities of the model enable    capability testing against the TCL
+                                                             was not required. We are
+ enough situational awareness (ability to discover and
+                                                             nevertheless applying control,
+ use relevant details of its deployment setting) and
+                                                             monitoring and model security
+ stealth (ability to circumvent basic oversight              mitigations as if the TCL had been
+ mechanisms) such that, absent additional mitigations,       reached, as a conservative
+ we cannot rule out the model significantly undermining      assumption.
+ human control.
+ Loss of Control - ML R&D acceleration CCL:                  CCL not reached (carried forward
+ Has been used to accelerate AI development, resulting       from Argon). Baseline AI control
+ in AI progress substantially accelerating from historical   and model security mitigations
+                                                             apply.
+ rates.
+ Loss of Control - ML R&D automation CCL:                    CCL not reached (carried forward
+ Can fully automate the work of any team of researchers      from Argon). Baseline AI control
+ at Google focused on improving AI capabilities, with        and model security mitigations
+                                                             apply.
+ approximately comparable all-inclusive costs.
+Risks and Mitigations
+Safety and security were built into Gemini 4 Hydrogen throughout the training and deployment
+lifecycle, including pre-training data filtering, post-training alignment (supervised fine-tuning
+and reinforcement learning), product- and system-level safety filtering, and usage monitoring.
+In addition, we strengthened Frontier Safety safeguards for Chemical, Biological, Radiological,
+and Nuclear (CBRN) and cybersecurity misuse. Key ongoing focus areas include resistance to
+adversarial jailbreaks and indirect prompt injections. For more information about the risks and
+mitigations, see the Gemini 4 Hydrogen Safety & Security Report.
+                                                                                                  9
+```

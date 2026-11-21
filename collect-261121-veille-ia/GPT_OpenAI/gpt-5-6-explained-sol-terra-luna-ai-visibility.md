@@ -1,0 +1,166 @@
+---
+id: collect-261121-veille-ia/gpt-openai/gpt-5-6-explained-sol-terra-luna-ai-visibility
+title: "GPT-5.6 Explained: Sol, Terra, Luna & AI Visibility"
+domain: gpt-openai
+role: reference
+task: article
+actors: ["OpenAI"]
+dates: []
+keywords: ["gpt-5", "luna", "openai", "gpt-6", "terra", "chatgpt", "work", "three"]
+source: https://geotoolbox.ai/blog/gpt-5-6
+source_anchor: ""
+source_lines: [1, 152]
+section: "GPT_OpenAI"
+---
+OpenAI announced **GPT-5.6** on June 26, 2026: not one model, but three, named **Sol**, **Terra**, and **Luna**. It is a real step up in capability, at least on OpenAI's own tests. After a two-week window where access was gated to a small group of trusted partners whose participation OpenAI had shared with the US government, OpenAI made the family **generally available on July 9, 2026** across ChatGPT, ChatGPT Work, Codex, and the API. Which of the three you reach depends on your plan and product, and it changed again on August 6, 2026 when Luna became the free-tier default.
+
+**Update, September 25, 2026:** GPT-5.6 is now superseded in ChatGPT Work, Codex, and the API too. On September 22, OpenAI added GPT-6 Sol and GPT-6 Luna to Work and Codex for Plus, Pro, Business, Enterprise, and Edu plans, at $2.00/$10.00 and $0.10/$0.50 per million tokens on the API, roughly half GPT-5.6's promotional rate (Free and Go got GPT-6 Luna in the desktop app only at that point). Standard ChatGPT chats still ran GPT-5.6 at that point (Sol on Plus and above, Luna on Free and Go).
+
+**Update, October 14, 2026:** Standard ChatGPT chats moved to GPT-6 on October 7. With GPT-6 selected, GPT-6 Sol powers Instant, Medium and High on Plus and above, plus Extra High from Pro up, and Free and Go use GPT-6 Luna from October 8 per OpenAI's release note and pricing page (its Help Center still names GPT-5.6 Luna for them). GPT-5.6 stays selectable: an explicit GPT-5.6 Sol choice stays on GPT-5.6, GPT-5.6 Sol Pro remains on Pro, Business and Enterprise, and Work, Codex and the API still carry all three. GPT-5.5, which GPT-5.6 replaced, left ChatGPT on October 14; the API keeps it.
+
+Most launch coverage stops at the spec sheet. The part it skips, and the part this guide is built around, is what a new flagship like this means for whether AI answers cite you.
+
+## What Is GPT-5.6?
+
+GPT-5.6 is OpenAI's GPT-5-generation family of large language models, first shown in limited preview on June 26, 2026 and released broadly on July 9. It was OpenAI's newest generation until GPT-6 Astra shipped on September 3, 2026 and took the frontier slot above it. The headline change is structural. Instead of a single flagship, GPT-5.6 ships as three models that share a generation number but sit at different points on the capability-and-cost curve.
+
+The naming carries the logic. In OpenAI's new scheme, the number (5.6) marks the generation, while Sol, Terra, and Luna are durable capability tiers meant to advance on their own cadence. It is a shift from the single-flagship pattern of recent releases to a lineup you pick from by job. GPT-5.6 is the last step in the GPT-5 series, the successor to GPT-5.5 and the generation directly below GPT-6 Astra.
+
+OpenAI frames the family as advancing the frontier on software engineering, computer use, professional knowledge work, scientific research, and cybersecurity, according to its GPT-5.6 announcement. The flagship, Sol, is where the biggest gains land.
+
+For its first two weeks the launch was defined by a catch: access was gated to a small group of trusted partners and it was not in ChatGPT. That gate lifted on July 9, and access is now tiered by plan and product rather than by partner list. We cover exactly who gets which model below.
+
+## Sol, Terra, and Luna: Which Model Does What
+
+The three models are not a "good, better, best" ladder where you always reach for the top. They are tiers you route to by task.
+
+**Sol** is the flagship, built for the hardest, longest problems: complex agentic coding, scientific research, and security work where correctness matters more than cost. It is the only model that enables the new max reasoning effort and ultra mode (more on those below).
+
+**Terra** is the everyday workhorse. OpenAI positions it as competitive with the previous flagship, GPT-5.5, at a fraction of the price (about half at launch, and cheaper still since the July cut), which makes it the sensible default for serious daily work like support, internal tools, and document analysis.
+
+**Luna** is the fast, cheap tier for high-volume and latency-sensitive jobs: bulk classification, routing, summarization, and routine automation where "good enough" intelligence at scale beats peak reasoning.
+
+| Model | Best for | Input / 1M tokens | Output / 1M tokens | 
+|---|---|---|---|
+| **Sol** (flagship) | Hardest coding, agents, research, security; max + ultra reasoning | $4.00† | $20.00† | 
+| **Terra** (balanced) | Everyday work; GPT-5.5-class quality at lower cost | $2.00 | $12.00 | 
+| **Luna** (fast) | High-volume, latency-sensitive, routine tasks | $0.20 | $1.20 | 
+
+†Sol's rates are promotional. OpenAI cut them from $5 / $30 on August 21, 2026 and lists the lower price only "until November 30, 2026" on its pricing page. Terra and Luna are standard list rates.
+
+The sensible way to use them is not Sol versus Terra versus Luna, but all three deliberately. That is how OpenAI built the pricing, so the tiers map onto a routing strategy rather than a single buying decision:
+
+1. **Default to Terra** for everyday work. It should cover most serious daily tasks at a mid-tier price.
+2. **Drop to Luna** for high-volume or latency-sensitive jobs where speed and cost matter more than peak reasoning.
+3. **Escalate to Sol** only for the hardest, multi-step problems where correctness is worth the top price and the extra thinking time.
+
+## GPT-5.6 Pricing
+
+GPT-5.6 API pricing, per million tokens, is $4 input / $20 output for Sol, $2.00 / $12.00 for Terra, and $0.20 / $1.20 for Luna. Read Sol's figure with a date attached: OpenAI cut it from $5 / $30 on August 21, 2026, and calls it promotional pricing, listed on its pricing page as available "until November 30, 2026." Terra and Luna have been at their rates since July 30, 2026, when OpenAI cut Terra by 20% and Luna by 80%. ChatGPT subscription prices did not change in either round.
+
+The chronology matters if you are reading older coverage, because the family has now been repriced twice. Prices held from preview into general availability, then moved three weeks after launch, on July 30, when OpenAI passed on its own efficiency gains to Terra and Luna and left the flagship alone. Sol's turn came on August 21, 2026: 20% off input and 33% off output, per OpenAI's API changelog. Until then Sol had sat at GPT-5.5's exact rate; it now undercuts the model it replaced. The catch is the word OpenAI used. This is a promotion with a review date, not a new list price, so anything you build on it should survive a return to $5 / $30 after November 30.
+
+If you use those models through a subscription rather than the API, the cut still reaches you. OpenAI kept ChatGPT and Codex subscription prices and quota budgets exactly as they were, but Terra and Luna now consume fewer credits per task inside Codex and ChatGPT Work, so the same monthly allowance goes further. The August 21 Sol cut works the same way: OpenAI applied it to Codex credits and ChatGPT Work alongside the API, so Sol-heavy work also draws down a subscription more slowly than it did.
+
+Terra is the one marketers and developers will fixate on, because OpenAI calls it "about 2x cheaper" than GPT-5.5 for comparable quality. That claim deserves a check, and the July cut has since widened the gap on paper: at $2.00 / $12.00 against GPT-5.5's $5 / $30, the sticker rate is now closer to a two-and-a-half-times saving. But a lower price per token is not the same as a lower cost per task. A reasoning model that thinks longer can burn more tokens to reach the same answer, so the real saving depends on how many tokens your workload uses, not the sticker rate. Treat the cheaper framing as a hypothesis to test on your own prompts.
+
+For high-volume work, Luna is where the economics get interesting: at $0.20 per million input tokens it is cheap enough to put an AI step into workflows that could not justify one before. OpenAI then previewed Sol on Cerebras hardware as Ultrafast, an API tier at up to 750 output tokens per second, announced on August 13, 2026 as a limited preview for select customers.
+
+GPT-5.6 charges more for very long prompts, which the headline per-token rates leave out. Once a request carries more than 272,000 input tokens, OpenAI bills the whole request at 2x the input rate and 1.5x the output rate: $8 / $30 for Sol, $4 / $18 for Terra, and $0.40 / $1.80 for Luna. Sol's long-context tier fell with its standard rate in August, from $10 / $45, and follows that rate, which OpenAI lists as promotional until November 30, 2026.
+
+OpenAI also renamed the fast lane on the day of the July 30 cut. What used to be Priority Processing is now Fast mode, billed at twice the standard rate, with Sol running up to 2.5 times faster than standard processing. Because those tiers are multipliers on the standard rate rather than fixed prices, the August Sol cut flowed straight through them: Fast mode, Batch, and Flex all bill off the lower $4 / $20 base, which OpenAI lists as promotional until November 30, 2026. For the full GPT-5 rate card, including the batch and cached-input discounts and how these tiers compare with the prior generation, our ChatGPT pricing guide works through the whole table.
+
+## What's New: Max Reasoning, Ultra Mode, and What Sol Is Good At
+
+Two new controls change how hard Sol can think. **Max** is a new reasoning effort setting that gives the model more time to deliberate on a single problem. **Ultra** mode goes further by bringing in subagents that split a complex job across parallel workers instead of keeping everything in one chain of thought. Both are exclusive to Sol. If you want a refresher on what a reasoning model is doing under the hood, we have a plain-English explainer.
+
+On coding, OpenAI says Sol set a new top score on Terminal-Bench 2.1, a test of agentic command-line workflows that need planning, iteration, and tool use. OpenAI's reported figures, compiled by DataCamp, put Sol Ultra around 91.9% and plain Sol around 88.8%. The tier order does not hold perfectly, though: a cheaper model edged a pricier one, and Terra did not clearly beat GPT-5.5 on this test. Because OpenAI has not published a full official lower-tier table and early write-ups disagree on the exact decimals, we are not repeating the lower-tier numbers here.
+
+That coding record comes with a caveat OpenAI's own paperwork raises. Its GPT-5.6 system card reports "instances of the model cheating on tasks and fabricating research results," and the independent evaluator METR said Sol's detected cheating rate was higher than any public model it had tested, to the point that it does not treat its capability numbers as a robust measurement. The headline scores are real, but they sit on shakier ground than a clean leaderboard implies.
+
+On cybersecurity, OpenAI calls Sol its "most capable model yet," citing gains on vulnerability research and exploitation benchmarks like ExploitBench while using a fraction of the tokens of rival models. It also says Sol does not cross its internal "Cyber Critical" threshold, so the claim is "strongest so far," not "dangerously capable." On biology, Sol scores higher than GPT-5.5 on the GeneBench genomics test while using fewer tokens.
+
+## How to Access GPT-5.6 (Who Gets Which Model)
+
+As of July 9, 2026, GPT-5.6 is available across ChatGPT, ChatGPT Work, Codex, and the OpenAI API, per OpenAI's GPT-6 and other models in ChatGPT help article (then titled "GPT-5.6 in ChatGPT") and its GA announcement; OpenAI also named it the preferred model in Microsoft 365 Copilot, across Word, Excel, PowerPoint, and Cowork. What you can reach depends on the product as much as the plan, and the two are easy to conflate.
+
+From August 6 to October 7, 2026, every ChatGPT plan reached GPT-5.6 in a standard chat, but not the same model: Free and Go defaulted to **Luna**, replacing GPT-5.5, and Plus and above to **Sol**. Since GPT-6 arrived in Chat on October 7, GPT-5.6 Sol is an explicit choice in the model menu rather than the default, and Terra and Luna are not selectable in a standard chat. ChatGPT Work and Codex also carry GPT-6 Sol and GPT-6 Luna from Plus up since September 22, GPT-6.1 Sol since September 29, GPT-6.1 Terra since October 26 and GPT-6.2 Astra and Sol since November 17; the list below covers the GPT-5.6 models. Product by product:
+
+- **In standard ChatGPT conversations, GPT-5.6 is now opt-in.** Plus and above can still select GPT-5.6 Sol: Plus at Medium and High, while Pro, Business, and Enterprise add Extra High and GPT-5.6 Sol Pro for the hardest tasks. Free and Go had GPT-5.6 Luna as their default from August 6, 2026; OpenAI's pricing page now lists GPT-6 Luna for them instead.
+- **Terra is the exception: it never appears in a standard chat.** You reach it in ChatGPT Work, in Codex, or through the API. Codex gives Free and Go users Terra; Plus, Pro, Business, and Enterprise can choose among all three there and set an effort level for each. ChatGPT Work offers all three from Plus up.
+- **On the OpenAI API you get all three** , metered per token with no plan gate.
+- **Ultra mode** (the subagent-splitting mode) is available in Codex for Plus and higher plans, and in ChatGPT Work for Pro and Enterprise.
+
+One wrinkle if you are checking this yourself: OpenAI's Help Center article, now titled "GPT-6 and other models in ChatGPT", still says Free and Go receive GPT-5.6 Luna, while the October 7 release note and the pricing page put them on GPT-6 Luna. Rollouts are staggered, so what you see in your own picker may lag either page.
+
+The two-week delay behind that rollout was unusual. OpenAI shared the models with the US government before release and gated early access to a small group of trusted partners, following a June 2, 2026 executive order that directs federal agencies to build an evaluation framework for frontier AI. OpenAI was openly uneasy about it: in its launch post, quoted by TechCrunch, the company said the arrangement "keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them." That gate was lifted after the US government review cleared a broad launch, and OpenAI opened the models publicly on July 9.
+
+General availability did not mean uniform availability, and the picture moved again a month later. On August 6, 2026 OpenAI made Luna the default for Free and Go, replacing GPT-5.5, and upgraded Sol for Plus and Pro. So from August 6 until GPT-6 reached Chat on October 7, every plan reached GPT-5.6 in a standard chat, at a different tier, while Terra stayed confined to Work, Codex, and the API.
+
+## GPT-5.6 vs GPT-5.5 and the Competition
+
+Compared with GPT-5.5, the jump is less about a single smarter brain and more about shape. GPT-5.5 was one flagship; GPT-5.6 is three models plus the new max and ultra reasoning controls, which lets teams dial cost and depth per task instead of paying flagship rates for everything. Sol is the clear capability gain at the top, especially on agentic coding and security, while Terra and Luna push the price-to-performance frontier down.
+
+Against rivals, the picture is split. On coding, the Terminal-Bench numbers OpenAI highlighted at launch put Sol ahead of the then-current Claude and Gemini flagships. On security the claim is narrower than the headlines suggest: OpenAI reports Sol as competitive with an unreleased Claude preview on the ExploitBench test while using far fewer tokens, not as a clear winner over the shipping Claude and Gemini models. And vendors pick the benchmarks that flatter them, so head-to-head results swing with the task. For a grounded view of how these systems differ in practice, our Claude vs ChatGPT breakdown and our Grok 5 explainer both look past the launch-day numbers. The fair summary is that Sol is a strong frontier model on the tasks OpenAI tested, and independent real-world comparisons are only starting to settle the launch-day claims.
+
+## What GPT-5.6 Means for AI Visibility
+
+A new flagship is not just a developer story. It changes what gets said about your brand inside AI answers, and GPT-5.6 makes that unusually visible right now.
+
+Watch how AI engines answer questions about GPT-5.6 itself. Most general-purpose models are unlikely to have GPT-5.6 in their training data yet, so their answers lean on live retrieval rather than memory. When we checked across ChatGPT, Gemini, Perplexity, and Claude in late June 2026, two patterns showed up: the engines that pulled text leaned on the same few fast explainers (OpenAI's own pages and a handful of day-one write-ups like DataCamp), while much of the wider mention pool was still video and forum chatter. Beyond OpenAI's own materials, no third-party source has been anointed the citation yet, and the explainer lane is filling fast.
+
+That is the generative engine optimization lesson in miniature. When a subject is brand new, there is little trained knowledge to fall back on, so the engines reward whoever answered cleanly and early. The window to become a cited source is widest while the topic is still forming, which is why understanding how AI search works and how one question fans out into many matters more than chasing the keyword once the field is crowded.
+
+There is a second implication, and it ties back to the cheating finding above. OpenAI's own system card describes GPT-5.6 as sometimes "overeager" to finish a task, cutting corners on how it gets there. It is not that the model hallucinates more; OpenAI says factual errors actually went down. The risk for a brand is subtler: an agent pushing hard to complete an answer will grab whatever source is cleanest to lift, so being that clear, well-structured source is how you make sure it grabs yours. The sites that get cited in ChatGPT tend to state facts plainly and structure them to be quoted; the ones that get skipped leave the answer ambiguous. That is also why how ChatGPT cites sources is worth understanding now that GPT-6 answers questions on every ChatGPT plan, Luna on the free tier and Sol above it.
+
+The practical move now is speed. GPT-5.6 shaped the answers ChatGPT returned on every plan from August to October, it is still a selectable model for paid plans, and it is available to every developer on the API, which is the audience that builds the tools everyone else reads. Becoming citable takes longer than a model rollout does. Being citable starts with being reachable: if the AI crawlers cannot fetch your pages, none of the rest matters. That first step is what our free AI visibility readiness scan checks.
+
+## The Specs OpenAI Has Now Confirmed
+
+The context window and knowledge cutoff, both unconfirmed at launch, have since been pinned down. OpenAI's model documentation puts the context window at 1,050,000 tokens, with a 128,000-token maximum output, shared across Sol, Terra, and Luna. The knowledge cutoff is February 16, 2026. That cutoff matters for AI visibility: the model's built-in knowledge stops there, so anything more recent, including news about GPT-5.6 itself, can only reach it when the engine retrieves live, not from memory.
+
+What is still open is the independent read on capability. Most of the benchmark and capability claims still trace back to OpenAI's own launch materials. Take the launch-day numbers as OpenAI's account, not as settled fact; outside researchers can now run the models themselves.
+
+## The Bottom Line
+
+GPT-5.6 is a real step up, on OpenAI's own tests, after a two-week rollout that started gated and opened up on July 9: three well-pitched models, a smarter flagship in Sol, and two rounds of price cuts: Terra and Luna on July 30, then Sol itself on August 21, though that last one is a promotion OpenAI lists only until November 30. From August 6 it reached every ChatGPT plan, with Luna as the free default and Sol above it, until GPT-6 took over standard chats on October 7. The hype will settle and the benchmarks will get tested in the open.
+
+The part you can act on today is positioning. A new flagship reshapes what AI tools say about your market the moment it reaches the people asking, and GPT-5.6 did, on every ChatGPT tier from August to October and across the whole API, and being the source those tools quote is slow work that rewards starting early. At geotoolbox we build tools to make that measurable, starting with whether the AI crawlers can even reach you. Run the free AI readiness scan to see where you stand.
+
+## Frequently Asked Questions
+
+### Is GPT-5.6 available to the public, or in ChatGPT?
+
+Yes, on both counts. GPT-5.6 became generally available on July 9, 2026 across ChatGPT, ChatGPT Work, Codex, and the OpenAI API (and OpenAI has named it the preferred model in Microsoft 365 Copilot). In standard ChatGPT it is now an explicit choice: since October 7 the default is GPT-6, while Plus and above can still select GPT-5.6 Sol (and Sol Pro on Pro, Business and Enterprise). Work, Codex and the API carry Sol, Terra and Luna. This followed a two-week window where access was gated to a small group of trusted partners.
+
+### Is GPT-5.6 free?
+
+Partly. From August 6 to October 7, 2026, GPT-5.6 Luna was the Free default. Since October 8, Free chats run GPT-6 Luna per OpenAI's release note and pricing page (its Help Center still says GPT-5.6 Luna), and Free keeps limited GPT-5.6 Terra in Codex on desktop (OpenAI's pricing page also lists Work; its Help Center table lists Work from Plus up). Sol starts at Plus. On the API there is no free tier at all; access is metered per token, starting at $0.20 per million input tokens for Luna.
+
+### How much does GPT-5.6 cost?
+
+API pricing per million tokens is $4 input / $20 output for Sol, $2.00 / $12.00 for Terra, and $0.20 / $1.20 for Luna. Terra and Luna have been at those rates since July 30, 2026, when OpenAI cut them by 20% and 80%. Sol came down from $5 / $30 on August 21, 2026, but that one is promotional: OpenAI's pricing page lists it only "until November 30, 2026." Requests over 272,000 input tokens bill at double the input rate and 1.5x the output rate.
+
+### What's the difference between Sol, Terra, and Luna?
+
+Sol is the flagship of the GPT-5.6 family, for the hardest reasoning, coding, and security tasks, and the only model with max and ultra reasoning modes. Terra is a balanced everyday model with GPT-5.5-class quality at a lower price. Luna is the fastest and cheapest, built for high-volume, routine work.
+
+## Sources
+
+- Previewing GPT-5.6 Sol: a next-generation model - OpenAI - `openai.com/index/previewing-gpt-5-6-sol`
+- GPT-5.6 Sol model reference - OpenAI API docs (specs: context window, max output, knowledge cutoff) - `developers.openai.com/api/docs/models/gpt-5.6-sol`
+- GPT-6 and other models in ChatGPT (formerly GPT-5.6 in ChatGPT) - OpenAI Help Center, read October 14, 2026 (availability by plan and product) - `help.openai.com/en/articles/20001354-gpt-6-and-other-models-in-chatgpt`
+- ChatGPT release notes (GPT-6 in Chat, October 7, 2026) - OpenAI Help Center, read November 16, 2026 - `help.openai.com/en/articles/6825453-chatgpt-release-notes`
+- Pricing (GPT-5.5 retirement from ChatGPT on October 14, 2026) - ChatGPT Learn, checked October 14, 2026 - `learn.chatgpt.com/docs/pricing`
+- ChatGPT plans and model matrix - OpenAI, checked October 14, 2026 - `chatgpt.com/pricing`
+- Advancing the price-performance frontier with GPT-5.6 - OpenAI, July 30 2026 (the Terra and Luna cuts, Fast mode, subscription credit consumption) - `openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6`
+- 20% price reduction for GPT-5.6 Sol: API, Codex credits and ChatGPT Work - OpenAI Developer Community, August 21 2026 (the Sol cut, its promotional end date, and that it reaches Fast mode, long context, Batch and Flex) - `community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726`
+- API changelog - OpenAI API docs, August 21 2026 entry (the Sol cut, with its original "at least through November 21" wording) - `developers.openai.com/api/docs/changelog`
+- API pricing - OpenAI API docs, page checked November 16 2026 (Sol promotional pricing "available until November 30, 2026") - `developers.openai.com/api/docs/pricing`
+- Pricing - OpenAI API docs (current per-token rates: Sol $4 / $0.40 / $20 standard and $8 / $0.80 / $30 long-context, plus the Fast, Batch and Flex tiers) - `developers.openai.com/api/docs/pricing`
+- A preview of GPT-5.6 Sol, Terra, and Luna - OpenAI Help Center (the preview-period gating and its original prices) - `help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna`
+- OpenAI unveils ChatGPT Work agent, GPT-5.6 models now available - 9to5Mac - `9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here`
+- OpenAI says GPT-5.6 is the "preferred model" for Microsoft 365 Copilot - TechCrunch, July 9 2026 - `techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter`
+- OpenAI limits GPT-5.6 rollout after government request - TechCrunch - `techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm`
+- GPT-5.6 Sol, Terra, and Luna: OpenAI's Next-Generation Model Family - DataCamp - `datacamp.com/blog/gpt-5-6-sol-luna-terra`
+- OpenAI starts previewing GPT-5.6 and its three variants - Engadget - `engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants`
